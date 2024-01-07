@@ -1,0 +1,74 @@
+[tool.poetry]
+name = "anamnesisai"
+version = "0.1.0"  # semantic-release
+description = "This project aims to develop a Minimum Viable Product (MVP) for an AI-driven anamnesis collection system in the healthcare domain. The system will leverage the capabilities of FHIR (Fast Healthcare Interoperability Resources), the ChatGPT API, Flask (a micro web framework written in Python), and SQLite (a lightweight database) to facilitate an interactive, user-friendly platform for collecting patient medical history (anamnesis) through conversational AI."
+authors = ["Satarupa Deb <satarupa2212@gmail.com>"]
+packages = [
+  {include = "anamnesisai", from="src"},
+]
+license = "BSD 3 Clause"
+exclude = [
+  ".git/*",
+  ".env*",
+]
+
+[tool.poetry.dependencies]
+python = "^3.8.1"
+
+[tool.poetry.dev-dependencies]
+urllib3 = "<2"  # fix poetry issues
+pytest = "^7.3.2"
+black = "^23.3.0"
+pre-commit = "^3.3.2"
+ruff = "^0.0.278"
+ipython = "<8"
+ipykernel = ">=6.0.0"
+Jinja2 = "^3.1.2"
+mkdocs = "^1.4.3"
+mkdocs-exclude = "^1.0.2"
+mkdocs-jupyter = "^0.24.1"
+mkdocs-literate-nav = "^0.6.0"
+mkdocs-macros-plugin = ">=0.7.0,<1"
+mkdocs-material = "^9.1.15"
+mkdocstrings = "^0.21.2"
+mkdocstrings-python = "^1.1.2"
+makim ="^1.8.3"
+
+
+
+[tool.pytest.ini_options]
+testpaths = [
+    "tests",
+]
+
+[tool.black]
+line-length = 79
+target-version = ["py38"]
+force-exclude = '''(?x)(
+    docs/*
+  | .*\\.egg-info
+)'''  # TOML's single-quoted strings do not require escaping backslashes
+
+[tool.ruff]
+line-length = 79
+force-exclude = true
+src = ["./"]
+exclude = [
+  'docs',
+]
+select = [
+  "E",   # pycodestyle
+  "F",   # pyflakes
+  "D",   # pydocstyle
+  "YTT", # flake8-2020
+  "RUF", # Ruff-specific rules
+  "I001",  # isort
+]
+fixable = ["I001"]
+
+[tool.ruff.pydocstyle]
+convention = "numpy"
+
+[tool.ruff.isort]
+# Use a single line between direct and from import
+lines-between-types = 1
