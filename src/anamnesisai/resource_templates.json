@@ -1,0 +1,168 @@
+"comments": "patient"
+ {
+  "resourceType": "Patient",
+  "id": "<Patient ID>",
+  "active": true,
+  "name": [
+    {
+      "use": "official",
+      "text": "<Patient Full Name>"
+    }
+  ],
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "<Patient Phone Number>"
+    },
+    {
+      "system": "email",
+      "value": "<Patient Email Address>"
+    }
+  ],
+  "birthDate": "<Patient Date of Birth>",
+  "gender": "<Patient Gender>",
+  "maritalStatus": {
+    "coding": [
+      {
+        "system": "<Marital Status Coding System>",
+        "code": "<Marital Status Code>"
+      }
+    ]
+  },
+  "address": [
+    {
+      "use": "home",
+      "text": "<Patient Address>"
+    }
+  ]
+}
+"comments": "Practitioner"
+{
+  "resourceType": "Practitioner",
+  "id": "<Practitioner ID>",
+  "active": true,
+  "name": [
+    {
+      "use": "official",
+      "text": "<Practitioner Full Name>"
+    }
+  ],
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "<Practitioner Phone Number>"
+    }
+  ]
+}
+
+"comments": "Encounter"
+
+{
+  "resourceType": "Encounter",
+  "id": "<Encounter ID>",
+  "status": "finished",
+  "subject": {
+    "reference": "Patient/<Patient ID>"
+  },
+  "participant": [
+    {
+      "type": [
+        {
+          "coding": [
+            {
+              "system": "http://terminology.hl7.org/CodeSystem/encounter-participant-type",
+              "code": "TPA"
+            }
+          ]
+        }
+      ],
+      "actor": {
+        "reference": "Practitioner/<Practitioner ID>"
+      }
+    }
+  ],
+  "reasonCode": [
+    {
+      "coding": [
+        {
+          "system": "<Reason Code System>",
+          "code": "<Reason Code>"
+        }
+      ]
+    }
+  ]
+}
+
+"comments": "Observation"
+
+{
+  "resourceType": "Observation",
+  "id": "<Observation ID>",
+  "status": "final",
+  "subject": {
+    "reference": "Patient/<Patient ID>"
+  },
+  "category": {
+    "coding": [
+      {
+        "system": "<Observation Category Coding System>",
+        "code": "<Observation Category Code>"
+      }
+    ]
+  },
+  "code": {
+    "coding": [
+      {
+        "system": "<Observation Code System>",
+        "code": "<Observation Code>"
+      }
+    ]
+  },
+  "value": "<Observation Value>"  
+}
+
+"comments": "DiagnosticReport"
+{
+  "resourceType": "DiagnosticReport",
+  "id": "<Placeholder: diisi setelah hasil pemeriksaan tersedia>"
+}
+
+"comments": "Condition"
+
+{
+  "resourceType": "Condition",
+  "id": "<Placeholder: diisi setelah diagnosis tersedia>"
+}
+
+
+"comments":"MedicationRequest"
+
+
+{
+  "resourceType": "MedicationRequest",
+  "id": "<Placeholder: diisi setelah prescription details tersedia>"
+}
+
+"comments": "CarePlan"
+
+ {
+  "resourceType": "CarePlan",
+  "id": "<Placeholder: diisi setelah care plan tersedia>"
+}
+
+"comments": "Procedure"
+
+ {
+  "resourceType": "Procedure",
+  "id": "<Placeholder: diisi setelah procedures tersedia>"
+}
+
+"comments": "AllergyIntolerance"
+ {
+  "resourceType": "AllergyIntolerance",
+  "id": "<AllergyIntolerance ID>",
+  "patient": {
+    "reference": "Patient/<Patient ID>"
+  }
+ }
+  
