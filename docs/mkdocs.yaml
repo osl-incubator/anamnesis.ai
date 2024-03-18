@@ -1,6 +1,6 @@
 site_name: anamnesis.ai
 site_url: https://github.com/osl-incubator/anamnesis.ai
-repo_url: 
+repo_url:
 docs_dir: ./
 site_dir: ../build
 # extra_css:
@@ -45,7 +45,7 @@ plugins:
       handlers:
         python:
           paths: [../src]
-          
+
           import:
             - https://docs.python.org/3/objects.inv
           options:
@@ -127,10 +127,10 @@ extra:
   team:
     - name: "Active maintainers"
       members:
-        - 
+        -
     - name: "Former maintainers"
       members:
-        - 
+        -
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/

@@ -1,4 +1,5 @@
 """Tests for anamnesisai package."""
+
 import pytest
 
 
