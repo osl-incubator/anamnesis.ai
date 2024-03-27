@@ -35,6 +35,9 @@ makim ="1.13.0"
 mypy = ">=1.6"
 bandit = ">=1.7.8"
 
+[tool.poetry.group.dev.dependencies]
+makim = "1.14.0"
+
 [tool.pytest.ini_options]
 testpaths = [
     "tests",
