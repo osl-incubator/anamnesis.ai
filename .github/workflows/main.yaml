@@ -40,7 +40,6 @@ jobs:
         os:
           - "ubuntu"
           - "macos"
-          # - "windows"
     runs-on: ${{ matrix.os }}-latest
     concurrency:
       group: ci-tests-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
@@ -53,6 +52,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+<<<<<<< HEAD
       - name: Install MacOS extra tools and add extra setup
         if: ${{ matrix.os == 'macos' }}
         run: |
@@ -76,6 +76,8 @@ jobs:
           sed -i s/python\ 3\.8/python\ ${{ matrix.python_version }}/ conda/dev.yaml
           cat conda/dev.yaml
 
+=======
+>>>>>>> upstream/main
       - uses: conda-incubator/setup-miniconda@v3
         with:
           miniconda-version: "latest"
@@ -84,6 +86,7 @@ jobs:
           activate-environment: anamnesisai
           auto-update-conda: true
           conda-solver: libmamba
+          python-version: "${{ matrix.python_version }}"
 
       - name: Install dependencies
         run: poetry install
@@ -118,6 +121,7 @@ jobs:
           activate-environment: anamnesisai
           auto-update-conda: true
           conda-solver: libmamba
+          python-version: "3.8"
 
       - name: Install dependencies
         run: |
