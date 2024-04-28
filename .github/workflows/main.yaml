@@ -118,6 +118,7 @@ jobs:
           activate-environment: anamnesisai
           auto-update-conda: true
           conda-solver: libmamba
+          python-version: ${{ matrix.python_version }}
 
       - name: Install dependencies
         run: |
