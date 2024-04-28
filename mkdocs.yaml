@@ -1,8 +1,8 @@
 site_name: anamnesis.ai
 site_url: https://github.com/osl-incubator/anamnesis.ai
 repo_url:
-docs_dir: ./
-site_dir: ../build
+docs_dir: ./docs
+site_dir: ./build
 # extra_css:
 #   - stylesheets/extra.css
 # Page tree
@@ -44,7 +44,7 @@ plugins:
       enable_inventory: true
       handlers:
         python:
-          paths: [../src]
+          paths: [./src]
 
           import:
             - https://docs.python.org/3/objects.inv
