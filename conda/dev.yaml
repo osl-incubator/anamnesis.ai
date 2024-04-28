@@ -3,11 +3,20 @@ channels:
   - nodefaults
   - conda-forge
 dependencies:
+<<<<<<< HEAD
+  - python 3.8
+=======
   - python
+>>>>>>> upstream/main
   - pip
   - poetry
   - nodejs # used by semantic-release
   - shellcheck
   - pip:
+<<<<<<< HEAD
+        # distlib issue
+        - paginate
+=======
       # distlib issues
       - paginate
+>>>>>>> upstream/main

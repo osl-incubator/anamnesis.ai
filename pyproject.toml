@@ -14,8 +14,13 @@ exclude = [
 
 [tool.poetry.dependencies]
 python = ">=3.8.1,<4"
+<<<<<<< HEAD
+langchain = "^0.1.12"
+openai = "^1.14.1"
+=======
 sqlmodel = ">=0.0.16"
 fhir-resources = ">=7.1.0"
+>>>>>>> upstream/main
 
 
 [tool.poetry.group.dev.dependencies]
