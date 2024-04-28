@@ -1,27 +1,21 @@
-
+# from dotenv import load_dotenv
+# load_dotenv()
+import json
+import os
 
 from langchain import OpenAI
-from langchain.utilities import SQLDatabase
-from langchain_experimental.sql import SQLDatabaseChain
-from langchain.prompts import SemanticSimilarityExampleSelector
 from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
-from langchain.prompts import FewShotPromptTemplate
-from langchain.chains.sql_database.prompt import PROMPT_SUFFIX, _mysql_prompt
+from langchain.prompts import (
+    SemanticSimilarityExampleSelector,
+)
 from langchain.prompts.prompt import PromptTemplate
-
-
-import getpass
-import os
-# from dotenv import load_dotenv
-# load_dotenv()  
-
-
-import json
-
+from langchain.utilities import SQLDatabase
+from langchain.vectorstores import Chroma
+from langchain_experimental.sql import SQLDatabaseChain
 
 with open("resource_templates.json", "r") as f:
     resource_templates = json.load(f)
+
 
 def db_chain():
     db_user = "root"
@@ -29,13 +23,19 @@ def db_chain():
     db_host = "localhost"
     db_name = "Fhir"
 
-    db = SQLDatabase.from_uri(f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}",
-                              sample_rows_in_table_info=3)
+    db = SQLDatabase.from_uri(
+        f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}",
+        sample_rows_in_table_info=3,
+    )
     llm = OpenAI(openai_api_key=os.environ["API_KEY"], temperature=0.7)
 
-    embeddings = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
+    embeddings = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2"
+    )
     to_vectorize = [" ".join(example.values()) for example in database]
-    vectorstore = Chroma.from_texts(to_vectorize, embeddings, metadatas=database) # need to create a database file to share the format of sql database
+    vectorstore = Chroma.from_texts(
+        to_vectorize, embeddings, metadatas=database
+    )  # need to create a database file to share the format of sql database
     example_selector = SemanticSimilarityExampleSelector(
         vectorstore=vectorstore,
         k=2,
@@ -53,11 +53,12 @@ def db_chain():
     No pre-amble.
     """
 
-   example_prompt = PromptTemplate(
-    input_variables=["Conversation"],
-    template="\nConversation: {Conversation}\nFhir: {Resource}\nResource Template: {ResourceTemplate}",
-)
+    example_prompt = PromptTemplate(
+        input_variables=["Conversation"],
+        template="\nConversation: {Conversation}\nFhir: {Resource}\nResource Template: {ResourceTemplate}",
+    )
 
-    
-    chain = SQLDatabaseChain.from_llm(llm, db, verbose=True, prompt=few_shot_prompt)
+    chain = SQLDatabaseChain.from_llm(
+        llm, db, verbose=True, prompt=few_shot_prompt
+    )
     return chain
