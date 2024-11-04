@@ -1,10 +1,9 @@
-version: 1.0
 groups:
   clean:
-    targets:
+    tasks:
       tmp:
         help: remove build artifacts, compiled files, and cache
-        shell: bash
+        backend: bash
         run: |
           find . -name '*.egg-info' -exec rm -rf {} +
           find . -name '*.egg' -exec rm -f {} +
@@ -18,16 +17,18 @@ groups:
           rm -f .coverage
           rm -rf htmlcov/
           rm -rf .pytest_cache
+          rm -rf .mypy_cache
+          rm -rf .ruff_cache
 
   tests:
-    targets:
+    tasks:
       linter:
         help: run linter tools
         run: |
           pre-commit install
           pre-commit run --all-files
 
-      unittest:
+      unit:
         help: run tests
         args:
           path:
@@ -48,13 +49,14 @@ groups:
 
       ci:
         help: run the sames tests executed on CI
-        dependencies:
-          - target: tests.unittest
-          - target: tests.notebooks
-          - target: tests.linter
+        hooks:
+          pre-run:
+            - task: tests.unittest
+            - task: tests.notebooks
+            - task: tests.linter
 
   docs:
-    targets:
+    tasks:
       build:
         help: build documentation
         run: mkdocs build --config-file mkdocs.yaml
@@ -78,7 +80,7 @@ groups:
           -p "semantic-release-replace-plugin" \
           semantic-release
 
-    targets:
+    tasks:
       ci:
         help: run semantic release on CI
         run: ${{ vars.app }} --ci

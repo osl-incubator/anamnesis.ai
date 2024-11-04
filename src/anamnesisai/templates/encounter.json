@@ -1,35 +1,35 @@
 {
-  "resourceType": "Encounter",
-  "id": "<Encounter ID>",
-  "status": "finished",
-  "subject": {
-    "reference": "Patient/<Patient ID>"
-  },
-  "participant": [
-    {
-      "type": [
+    "resourceType": "Encounter",
+    "id": "<Encounter ID>",
+    "status": "finished",
+    "subject": {
+        "reference": "Patient/<Patient ID>"
+    },
+    "participant": [
         {
-          "coding": [
-            {
-              "system": "http://terminology.hl7.org/CodeSystem/encounter-participant-type",
-              "code": "TPA"
+            "type": [
+                {
+                    "coding": [
+                        {
+                            "system": "http://terminology.hl7.org/CodeSystem/encounter-participant-type",
+                            "code": "TPA"
+                        }
+                    ]
+                }
+            ],
+            "actor": {
+                "reference": "Practitioner/<Practitioner ID>"
             }
-          ]
         }
-      ],
-      "actor": {
-        "reference": "Practitioner/<Practitioner ID>"
-      }
-    }
-  ],
-  "reasonCode": [
-    {
-      "coding": [
+    ],
+    "reasonCode": [
         {
-          "system": "<Reason Code System>",
-          "code": "<Reason Code>"
+            "coding": [
+                {
+                    "system": "<Reason Code System>",
+                    "code": "<Reason Code>"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

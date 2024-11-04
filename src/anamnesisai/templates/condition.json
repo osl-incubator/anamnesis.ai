@@ -1,4 +1,4 @@
 {
-  "resourceType": "Condition",
-  "id": "<Placeholder: diisi setelah diagnosis tersedia>"
+    "resourceType": "Condition",
+    "id": "<Placeholder: diisi setelah diagnosis tersedia>"
 }

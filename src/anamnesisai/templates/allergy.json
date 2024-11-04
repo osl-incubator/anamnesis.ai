@@ -1,12 +1,12 @@
 {
-  "AllergyIntolerance": {
-    "resourceType": "AllergyIntolerance",
-    "id": "<AllergyIntolerance ID>",
-    "patient": {
-      "reference": "Patient/<Patient ID>"
-    },
-    "substance": {
-      "coding": []
+    "AllergyIntolerance": {
+        "resourceType": "AllergyIntolerance",
+        "id": "<AllergyIntolerance ID>",
+        "patient": {
+            "reference": "Patient/<Patient ID>"
+        },
+        "substance": {
+            "coding": []
+        }
     }
-  }
 }

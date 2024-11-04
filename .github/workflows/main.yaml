@@ -16,7 +16,7 @@ jobs:
       cancel-in-progress: true
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -27,12 +27,11 @@ jobs:
           pr_sha: ${{ github.event.pull_request.head.sha }}
 
   tests:
-    needs: check-branch
     timeout-minutes: 10
     strategy:
+      fail-fast: false
       matrix:
         python_version:
-          - "3.8"
           - "3.9"
           - "3.10"
           - "3.11"
@@ -50,37 +49,11 @@ jobs:
         shell: bash -l {0}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-<<<<<<< HEAD
-      - name: Install MacOS extra tools and add extra setup
-        if: ${{ matrix.os == 'macos' }}
-        run: |
-          sudo mkdir -p /tmp
-          sudo chmod 777 /tmp
-
-          brew install gnu-sed
-          echo 'export PATH="/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"' >> ~/.bashrc
-          echo 'export PATH="/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"' >> ~/.bash_profile
-
-      - name: Prepare conda environment (windows)
-        if: ${{ matrix.os == 'windows' }}
-        run: |
-          $env:Path += ";C:\Program Files\Git\usr\bin"
-          sed -i s/python\ 3\.8/python\ ${{ matrix.python_version }}/ conda/dev.yaml
-          cat conda/dev.yaml
-
-      - name: Prepare conda environment
-        if: ${{ matrix.os != 'windows' }}
-        run: |
-          sed -i s/python\ 3\.8/python\ ${{ matrix.python_version }}/ conda/dev.yaml
-          cat conda/dev.yaml
-
-=======
->>>>>>> upstream/main
       - uses: conda-incubator/setup-miniconda@v3
         with:
-          miniconda-version: "latest"
+          miniconda-version: latest
           environment-file: conda/dev.yaml
           channels: conda-forge,nodefaults
           activate-environment: anamnesisai
@@ -88,17 +61,21 @@ jobs:
           conda-solver: libmamba
           python-version: "${{ matrix.python_version }}"
 
+      - name: Check Poetry lock
+        run: poetry check
+
       - name: Install dependencies
-        run: poetry install
+        run: |
+          poetry config virtualenvs.create false
+          poetry install
 
       - name: Run unit tests
-        run: makim tests.unittest
+        run: makim tests.unit
 
       - name: Test jupyter notebooks
         run: makim tests.notebooks
 
-  linter-and-docs:
-    needs: check-branch
+  linter:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -107,29 +84,26 @@ jobs:
         shell: bash -l {0}
 
     concurrency:
-      group: ci-linter-docs-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
+      group: ci-linter-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
       cancel-in-progress: true
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: conda-incubator/setup-miniconda@v3
         with:
-          miniconda-version: "latest"
+          miniforge-version: latest
           environment-file: conda/dev.yaml
           channels: conda-forge,nodefaults
           activate-environment: anamnesisai
           auto-update-conda: true
           conda-solver: libmamba
-          python-version: "3.8"
+          python-version: "3.9"
 
       - name: Install dependencies
         run: |
           poetry config virtualenvs.create false
           poetry install
-
-      - name: Test documentation generation
-        run: makim docs.build
 
       - name: Run style checks
         if: success() || failure()

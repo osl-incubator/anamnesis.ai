@@ -1,37 +1,37 @@
 {
-  "resourceType": "Patient",
-  "id": "<Patient ID>",
-  "active": true,
-  "name": [
-    {
-      "use": "official",
-      "text": "<Patient Full Name>"
-    }
-  ],
-  "telecom": [
-    {
-      "system": "phone",
-      "value": "<Patient Phone Number>"
+    "resourceType": "Patient",
+    "id": "<Patient ID>",
+    "active": true,
+    "name": [
+        {
+            "use": "official",
+            "text": "<Patient Full Name>"
+        }
+    ],
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "<Patient Phone Number>"
+        },
+        {
+            "system": "email",
+            "value": "<Patient Email Address>"
+        }
+    ],
+    "birthDate": "<Patient Date of Birth>",
+    "gender": "<Patient Gender>",
+    "maritalStatus": {
+        "coding": [
+            {
+                "system": "<Marital Status Coding System>",
+                "code": "<Marital Status Code>"
+            }
+        ]
     },
-    {
-      "system": "email",
-      "value": "<Patient Email Address>"
-    }
-  ],
-  "birthDate": "<Patient Date of Birth>",
-  "gender": "<Patient Gender>",
-  "maritalStatus": {
-    "coding": [
-      {
-        "system": "<Marital Status Coding System>",
-        "code": "<Marital Status Code>"
-      }
+    "address": [
+        {
+            "use": "home",
+            "text": "<Patient Address>"
+        }
     ]
-  },
-  "address": [
-    {
-      "use": "home",
-      "text": "<Patient Address>"
-    }
-  ]
 }
