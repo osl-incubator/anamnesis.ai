@@ -13,14 +13,11 @@ exclude = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.8.1,<4"
-<<<<<<< HEAD
+python = ">=3.9,<4"
 langchain = "^0.1.12"
 openai = "^1.14.1"
-=======
 sqlmodel = ">=0.0.16"
 fhir-resources = ">=7.1.0"
->>>>>>> upstream/main
 
 
 [tool.poetry.group.dev.dependencies]
@@ -38,7 +35,7 @@ mkdocs-macros-plugin = ">=0.7.0,<1"
 mkdocs-material = ">=9.1.15"
 mkdocstrings = ">=0.21.2"
 mkdocstrings-python = ">=1.1.2"
-makim = "1.14.0"
+makim = "1.19.0"
 mypy = ">=1.6"
 bandit = ">=1.7.8"
 
@@ -72,3 +69,20 @@ convention = "numpy"
 [tool.ruff.lint.isort]
 # Use a single line between direct and from import
 lines-between-types = 1
+
+[tool.mypy]
+python_version = "3.9"
+check_untyped_defs = true
+strict = true
+ignore_missing_imports = true
+warn_unused_ignores = true
+warn_redundant_casts = true
+warn_unused_configs = true
+show_error_codes = true
+exclude = ["scripts/"]
+
+[[tool.mypy.overrides]]
+module = [
+  "langchain_experimental.sql",
+]
+ignore_missing_imports = true

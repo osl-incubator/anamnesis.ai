@@ -1,4 +1,4 @@
 {
-  "resourceType": "MedicationRequest",
-  "id": "<Placeholder: diisi setelah prescription details tersedia>"
+    "resourceType": "MedicationRequest",
+    "id": "<Placeholder: diisi setelah prescription details tersedia>"
 }

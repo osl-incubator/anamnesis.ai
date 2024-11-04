@@ -1,25 +1,25 @@
 {
-  "resourceType": "Observation",
-  "id": "<Observation ID>",
-  "status": "final",
-  "subject": {
-    "reference": "Patient/<Patient ID>"
-  },
-  "category": {
-    "coding": [
-      {
-        "system": "<Observation Category Coding System>",
-        "code": "<Observation Category Code>"
-      }
-    ]
-  },
-  "code": {
-    "coding": [
-      {
-        "system": "<Observation Code System>",
-        "code": "<Observation Code>"
-      }
-    ]
-  },
-  "value": "<Observation Value>"
+    "resourceType": "Observation",
+    "id": "<Observation ID>",
+    "status": "final",
+    "subject": {
+        "reference": "Patient/<Patient ID>"
+    },
+    "category": {
+        "coding": [
+            {
+                "system": "<Observation Category Coding System>",
+                "code": "<Observation Category Code>"
+            }
+        ]
+    },
+    "code": {
+        "coding": [
+            {
+                "system": "<Observation Code System>",
+                "code": "<Observation Code>"
+            }
+        ]
+    },
+    "value": "<Observation Value>"
 }

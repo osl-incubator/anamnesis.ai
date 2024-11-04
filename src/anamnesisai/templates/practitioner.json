@@ -1,17 +1,17 @@
 {
-  "resourceType": "Practitioner",
-  "id": "<Practitioner ID>",
-  "active": true,
-  "name": [
-    {
-      "use": "official",
-      "text": "<Practitioner Full Name>"
-    }
-  ],
-  "telecom": [
-    {
-      "system": "phone",
-      "value": "<Practitioner Phone Number>"
-    }
-  ]
+    "resourceType": "Practitioner",
+    "id": "<Practitioner ID>",
+    "active": true,
+    "name": [
+        {
+            "use": "official",
+            "text": "<Practitioner Full Name>"
+        }
+    ],
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "<Practitioner Phone Number>"
+        }
+    ]
 }
