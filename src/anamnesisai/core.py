@@ -2,63 +2,18 @@
 
 from __future__ import annotations
 
-import json
-import os
+from typing import cast
 
-from typing import Any
-
-from dotenv import load_dotenv
-from langchain import OpenAI
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.prompts import (
-    SemanticSimilarityExampleSelector,
-)
-from langchain.prompts.prompt import PromptTemplate
-from langchain.utilities import SQLDatabase
-from langchain.vectorstores import Chroma
-from langchain_experimental.sql import SQLDatabaseChain
-
-load_dotenv()
+from rago.generation import OpenAIGen
 
 
-def db_chain() -> Any:
-    """Store FHIR into the database."""
-    with open("resource_templates.json", "r") as f:
-        resource_templates = json.load(f)
-        print(resource_templates)
-
-    db_user = "root"
-    db_password = "root"
-    db_host = "localhost"
-    db_name = "Fhir"
-
-    db = SQLDatabase.from_uri(
-        f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}",
-        sample_rows_in_table_info=3,
-    )
-    llm = OpenAI(openai_api_key=os.environ.get("API_KEY", ""), temperature=0.7)
-
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
-    # need to create a database file to share the format of sql database
-    database = [{"example": ""}]
-
-    to_vectorize = [" ".join(example.values()) for example in database]
-
-    vectorstore = Chroma.from_texts(
-        to_vectorize, embeddings, metadatas=database
-    )
-    SemanticSimilarityExampleSelector(
-        vectorstore=vectorstore,
-        k=2,
-    )
-
-    """
+def extract_fhir(text: str) -> None:
+    """Extract FHIR from the given text."""
+    prompt_template = """
     You are a FHIR Resource generating expert. Given a conversion
     between doctor and patient, first create a syntactically correct
-    FHIR resource in JSON Format as specified by the user then look a
-    t the results  and return the FHIR resource to the input conversation.
+    FHIR resource in JSON Format as specified by the user then look at
+    the results  and return the FHIR resource to the input conversation.
     Never create random values for values that are not present in the
     conversation. You must only the columns that are needed to answer
     the question. Wrap each column name in backticks (`) to denote
@@ -74,19 +29,14 @@ def db_chain() -> Any:
     Use clear and concise language for each resource. Maintain patient
     confidentiality and adhere to HIPAA regulations. Strive for accuracy
     and consistency in your FHIR structures.
-    resource_template = resource_templates["resource"]
-    No pre-amble.
+
+    Conversation:
+    ```
+    {query}
+    ```
     """
-
-    prompt = PromptTemplate(
-        input_variables=["Conversation"],
-        template=(
-            "\nConversation: {Conversation}\n"
-            "Fhir: "
-            "{Resource}\n"
-            "Resource Template: {ResourceTemplate}"
-        ),
+    gen = OpenAIGen(
+        prompt_template=prompt_template,
     )
-
-    chain = SQLDatabaseChain.from_llm(llm, db, verbose=True, prompt=prompt)
-    return chain
+    result = gen.generate(prompt=text)
+    return cast(str, result)

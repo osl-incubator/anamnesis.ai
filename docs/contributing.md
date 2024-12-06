@@ -61,39 +61,50 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here’s how to set up `anamnesisai` for local development.
+Ready to contribute? Here’s how to set up `anamnesis.ai` for local development.
 
-1.  Fork the `anamnesisai` repo on GitHub.
+1.  Fork the `anamnesis.ai` repo on GitHub.
 
 2.  Clone your fork locally::
 
-    $ git clone git@github.com:your_name_here/anamnesisai.git
+    $ git clone git@github.com:your_name_here/anamnesis.ai.git
 
-3.  Install your local copy into a virtualenv. Assuming you have
-    virtualenvwrapper installed, this is how you set up your fork for local
-    development::
+3.  Install your local copy into a conda environment. Assuming you have conda or
+    mamba installed, this is how you set up your fork for local development
+    (ensure you are already in the anamnesis.ai folder):
+    ```bash
+    $ mamba env create --file conda/dev.yaml
+    $ conda activate anamnesisai
+    ```
+4.  Install the dependencies in the new environment anamnesisai:
+    ```bash
+    $ poetry install
+    ```
+5.  Create a branch for local development::
 
-    $ mkvirtualenv anamnesisai $ cd anamnesisai/ $ python setup.py develop
-
-4.  Create a branch for local development::
-
+    ```bash
     $ git checkout -b name-of-your-bugfix-or-feature
+    ```
 
     Now you can make your changes locally.
 
-5.  When you’re done making changes, check that your changes pass flake8 and the
+6.  When you’re done making changes, check that your changes pass flake8 and the
     tests, including testing other Python versions with tox::
 
-    $ make lint $ make test
+    ```bash
+    $ makim tests.linter
+    $ makim tests.unit
+    ```
 
-    To get flake8 and tox, just pip install them into your virtualenv.
+7.  Commit your changes and push your branch to GitHub::
 
-6.  Commit your changes and push your branch to GitHub::
+    ```bash
+    $ git add .
+    $ git commit -m "Your detailed description of your changes."
+    $ git push origin name-of-your-bugfix-or-feature
+    ```
 
-    $ git add . $ git commit -m “Your detailed description of your changes.” $
-    git push origin name-of-your-bugfix-or-feature
-
-7.  Submit a pull request through the GitHub website.
+8.  Submit a pull request through the GitHub website.
 
 ## Pull Request Guidelines
 
@@ -103,13 +114,13 @@ Before you submit a pull request, check that it meets these guidelines:
 2.  If the pull request adds functionality, the docs should be updated. Put your
     new functionality into a function with a docstring, and add the feature to
     the list in README.rst.
-3.  The pull request should work for Python >= 3.8.
+3.  The pull request should work for Python >= `3.9`.
 
 ## Tips
 
 To run a subset of tests::
 
-```
+```bash
 $ pytest tests.test_anamnesisai
 ```
 
@@ -147,10 +158,44 @@ The table below shows which commit message gets you which release type when
 | `fix(pencil): stop graphite breaking when pressure is applied` | Fix Release      |
 | `feat(pencil): add 'graphiteWidth' option`                     | Feature Release  |
 | `perf(pencil): remove graphiteWidth option`                    | Chore            |
-| `BREAKING CHANGE: The graphiteWidth option has been removed`   | Breaking Release |
+| `feat(pencil)!: The graphiteWidth option has been removed`     | Breaking Release |
 
 source:
 <https://github.com/semantic-release/semantic-release/blob/master/README.md#commit-message-format>
 
 As this project uses the `squash and merge` strategy, ensure to apply the commit
 message format to the PR's title.
+
+## Historical information about the initial development
+
+### Platform used:
+
+- We are currently using **Kaggle notebooks** for implementing Llama-2
+- TBN: We are not using google collab since terminal option and GPU P100 is only
+  available as a premium feature.
+- The model being used is : **Llama-2-chat-7b-hf / Llama-2-chat-gglm**
+- Accelerator : GPU T4 x2, GPU P100
+
+### Dataset
+
+#### Test dataset 1:
+
+- Hospital-triage-and-patient-history-data
+- Dataset Link :
+  [dataset1](https://www.kaggle.com/datasets/maalona/hospital-triage-and-patient-history-data)
+- Accelerator : None
+- Dataset size : 1.56 GB
+- Rows : 560486
+- Columns : 972
+- Data is in rdata format it has to be converted to Pydata. Check
+  patients_data.csv for pydata.
+- Notebook Link :
+  [notebook1](https://www.kaggle.com/code/satarupadeb/converting-rdata-to-pydata)
+
+#### Test 2 (In-progress)
+
+- Model Used : Llama-2-chat-7b-hf
+- Dataset : Patients.pdf (dummy data)
+- Technique used : RAG
+- Accelerator : GPU T4 x2
+- issue #1: Output limit exceeded (19.5 / 19.5)
