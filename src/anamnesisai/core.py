@@ -7,7 +7,7 @@ from typing import cast
 from rago.generation import OpenAIGen
 
 
-def extract_fhir(text: str) -> None:
+def extract_fhir(text: str) -> str:
     """Extract FHIR from the given text."""
     prompt_template = """
     You are a FHIR Resource generating expert. Given a conversion
@@ -38,5 +38,5 @@ def extract_fhir(text: str) -> None:
     gen = OpenAIGen(
         prompt_template=prompt_template,
     )
-    result = gen.generate(prompt=text)
+    result = gen.generate(query=text, context=[])
     return cast(str, result)

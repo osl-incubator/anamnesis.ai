@@ -16,7 +16,7 @@ repos:
       - id: ruff-format
         name: ruff-format
         entry: ruff format
-        exclude: "docs/|scripts/.*|migrations/.*"
+        exclude: "docs/|scripts/.*"
         language: system
         pass_filenames: true
         types:
@@ -26,7 +26,7 @@ repos:
         name: ruff-linter
         entry: ruff check
         language: system
-        exclude: "docs/|scripts/.*|migrations/.*"
+        exclude: "docs/|scripts/.*"
         pass_filenames: true
         types:
           - python

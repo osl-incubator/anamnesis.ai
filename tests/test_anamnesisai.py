@@ -1,7 +1,11 @@
 """Tests for anamnesisai package."""
 
+from __future__ import annotations
 
-def test_data(data) -> bool:
+import pandas as pd
+
+
+def test_data(data: pd.DataFrame) -> None:
     """Test if the data is loaded correctly."""
     breakpoint()
     assert data
