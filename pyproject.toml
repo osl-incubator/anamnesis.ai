@@ -14,7 +14,7 @@ exclude = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<4"
+python = ">=3.9,<3.13"
 langchain = ">=0.3.7"
 openai = ">=1.52.2"
 fhir-resources = ">=7.1.0"
@@ -30,6 +30,7 @@ rago = ">=0.9.0"
 pandas = ">=2"
 
 [tool.poetry.group.dev.dependencies]
+pyarrow = ">=18"
 pytest = ">=7.3.2"
 pytest-cov = ">=4.1.0"
 coverage = ">=7.2.7"
@@ -53,8 +54,6 @@ mkdocstrings-python = ">= 1.1.2"
 mkdocs-gen-files = ">=0.5.0"
 makim = "1.19.0"
 python-dotenv = ">=1.0"
-kagglehub = ">=0.3.4"
-pyreadr = "^0.5.2"
 
 
 [[tool.poetry.source]]
