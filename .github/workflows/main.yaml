@@ -49,6 +49,9 @@ jobs:
       run:
         shell: bash -l {0}
 
+    env:
+      OPENAI_API_KEY: "dummy-key"
+
     steps:
       - uses: actions/checkout@v4
 
