@@ -24,6 +24,7 @@ torchvision = [
   {version = ">=0.20.0", source="pytorch-cpu"},
 ]
 rago = {version = ">=0.9.0", extras=["cpu"]}
+eval_type_backport = {version = ">=0.2", python = "<3.10"}
 typeguard = ">=4"
 
 [tool.poetry.group.dev.dependencies]
