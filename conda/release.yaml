@@ -1,0 +1,14 @@
+name: anamnesisai
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - poetry
+  - nodejs >=18.17 # used by semantic-release
+  - shellcheck
+  - pip:
+      # distlib issue
+      - paginate
+      # pip wheel --no-cache-dir --use-pep517 "srsly (==2.4.8)"

@@ -36,9 +36,12 @@ jobs:
           - "3.10"
           - "3.11"
           - "3.12"
+          # note: srsly cannot be installed
+          # - "3.13"
         os:
           - "ubuntu"
-          - "macos"
+          # note: Unable to find installation candidates for torch (2.5.1+cpu)
+          # - "macos"
     runs-on: ${{ matrix.os }}-latest
     concurrency:
       group: ci-tests-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
@@ -47,6 +50,9 @@ jobs:
     defaults:
       run:
         shell: bash -l {0}
+
+    env:
+      OPENAI_API_KEY: "dummy-key"
 
     steps:
       - uses: actions/checkout@v4
@@ -61,6 +67,12 @@ jobs:
           conda-solver: libmamba
           python-version: "${{ matrix.python_version }}"
 
+      - name: Create environment variables for tests
+        run: |
+          pushd tests
+          envsubst < .env.tpl > .env
+          popd
+
       - name: Check Poetry lock
         run: poetry check
 
@@ -70,7 +82,7 @@ jobs:
           poetry install
 
       - name: Run unit tests
-        run: makim tests.unit
+        run: makim tests.unit --params '-m "not skip_on_ci" -vvv'
 
       - name: Test jupyter notebooks
         run: makim tests.notebooks

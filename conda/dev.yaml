@@ -11,3 +11,4 @@ dependencies:
   - pip:
       # distlib issue
       - paginate
+      # pip wheel --no-cache-dir --use-pep517 "srsly (==2.4.8)"

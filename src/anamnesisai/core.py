@@ -2,91 +2,95 @@
 
 from __future__ import annotations
 
-import json
-import os
+import warnings
 
-from typing import Any
+from typing import Type, cast
 
-from dotenv import load_dotenv
-from langchain import OpenAI
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.prompts import (
-    SemanticSimilarityExampleSelector,
-)
-from langchain.prompts.prompt import PromptTemplate
-from langchain.utilities import SQLDatabase
-from langchain.vectorstores import Chroma
-from langchain_experimental.sql import SQLDatabaseChain
+from fhir.resources.encounter import Encounter
+from fhir.resources.observation import Observation
+from fhir.resources.patient import Patient
+from fhir.resources.practitioner import Practitioner
+from fhir.resources.resource import Resource
+from pydantic import BaseModel
+from rago.generation import OpenAIGen
+from typeguard import typechecked
 
-load_dotenv()
+PROMPT_TEMPLATE = """
+You are a FHIR Resource generating expert. Given a conversion
+between doctor and patient, first create a syntactically correct
+FHIR resource in pure JSON Format as specified by the user then look at
+the results  and return the FHIR resource to the input conversation.
+Never create random values for values that are not present in the
+conversation. You must return only the columns if the value is present
+in the conversation. Extract and generate only the following FHIR
+resources from the conversations and exams:
+
+- {resource_detail}
+
+Use clear and concise language for each resource. Maintain patient
+confidentiality and adhere to HIPAA regulations. Strive for accuracy
+and consistency in your FHIR structures.
+
+In the conversation, `D:` means it is from the Doctor, and `P:` means
+it is from the Patience.
+
+Conversation:
+```
+{query}
+```
+"""
+
+RESOURCES_CLASSES = {
+    "patient": Patient,
+    "practitioner": Practitioner,
+    "encounter": Encounter,
+    "observation": Observation,
+}
+
+RESOURCES_DETAILS = {
+    "patient": (
+        "capture the patient's demographics and medical history details."
+    ),
+    "practitioner": "identify the doctor involved in the encounter.",
+    "encounter": (
+        "describe the patient-doctor interaction, including the reason for "
+        "the visit."
+    ),
+    "observation": (
+        "record the patient's reported symptoms and the physical "
+        "exam findings."
+    ),
+}
 
 
-def db_chain() -> Any:
-    """Store FHIR into the database."""
-    with open("resource_templates.json", "r") as f:
-        resource_templates = json.load(f)
-        print(resource_templates)
+@typechecked
+def extract_fhir_openai(text: str, api_key: str) -> dict[str, Resource]:
+    """Extract FHIR from the given text."""
+    results: dict[str, Resource] = {}
+    for resource_name, resource_detail in RESOURCES_DETAILS.items():
+        fhir_class: Type[BaseModel] = RESOURCES_CLASSES[resource_name]
 
-    db_user = "root"
-    db_password = "root"
-    db_host = "localhost"
-    db_name = "Fhir"
+        resource_prompt = (
+            f"```Resource name: {resource_name}```\n"
+            f"```Resource explanation: {resource_detail}```\n"
+        )
+        prompt_template = PROMPT_TEMPLATE.replace(
+            "{resource_detail}",
+            resource_prompt,
+        )
+        try:
+            gen = OpenAIGen(
+                prompt_template=prompt_template,
+                model_name="gpt-4o-mini",
+                api_key=api_key,
+                output_max_length=10384,
+                structured_output=fhir_class,
+            )
+            result = gen.generate(query=text, context=[])
+        except Exception as e:
+            warnings.warn(str(e))
+            continue
 
-    db = SQLDatabase.from_uri(
-        f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}",
-        sample_rows_in_table_info=3,
-    )
-    llm = OpenAI(openai_api_key=os.environ.get("API_KEY", ""), temperature=0.7)
-
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
-    # need to create a database file to share the format of sql database
-    database = [{"example": ""}]
-
-    to_vectorize = [" ".join(example.values()) for example in database]
-
-    vectorstore = Chroma.from_texts(
-        to_vectorize, embeddings, metadatas=database
-    )
-    SemanticSimilarityExampleSelector(
-        vectorstore=vectorstore,
-        k=2,
-    )
-
-    """
-    You are a FHIR Resource generating expert. Given a conversion
-    between doctor and patient, first create a syntactically correct
-    FHIR resource in JSON Format as specified by the user then look a
-    t the results  and return the FHIR resource to the input conversation.
-    Never create random values for values that are not present in the
-    conversation. You must only the columns that are needed to answer
-    the question. Wrap each column name in backticks (`) to denote
-    them as delimited identifiers.
-    Generate the following FHIR resources based on the conversation and exam:
-    Patient: Capture the patient's demographics and medical history details.
-    Practitioner: Identify the doctor involved in the encounter.
-    Encounter: Describe the patient-doctor interaction, including the reason
-    for the visit.
-    Observation: Record the patient's reported symptoms and the physical
-    exam findings.
-
-    Use clear and concise language for each resource. Maintain patient
-    confidentiality and adhere to HIPAA regulations. Strive for accuracy
-    and consistency in your FHIR structures.
-    resource_template = resource_templates["resource"]
-    No pre-amble.
-    """
-
-    prompt = PromptTemplate(
-        input_variables=["Conversation"],
-        template=(
-            "\nConversation: {Conversation}\n"
-            "Fhir: "
-            "{Resource}\n"
-            "Resource Template: {ResourceTemplate}"
-        ),
-    )
-
-    chain = SQLDatabaseChain.from_llm(llm, db, verbose=True, prompt=prompt)
-    return chain
+        fhir_obj = cast(Resource, result)
+        results[resource_name] = fhir_obj
+    return results

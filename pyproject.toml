@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "anamnesisai"
 version = "0.1.0"  # semantic-release
-description = "This project aims to develop a Minimum Viable Product (MVP) for an AI-driven anamnesis collection system in the healthcare domain. The system will leverage the capabilities of FHIR (Fast Healthcare Interoperability Resources), the ChatGPT API, Flask (a micro web framework written in Python), and SQLite (a lightweight database) to facilitate an interactive, user-friendly platform for collecting patient medical history (anamnesis) through conversational AI."
-authors = ["Satarupa Deb <satarupa2212@gmail.com>"]
+description = "AI-driven anamnesis collection system in the healthcare domain."
+readme = "docs/index.md"
+authors = ["Ivan Ogasawara <ivan.ogasawara@gmail.com>", "Satarupa Deb <satarupa2212@gmail.com>"]
 packages = [
   {include = "anamnesisai", from="src"},
 ]
@@ -14,16 +15,28 @@ exclude = [
 
 [tool.poetry.dependencies]
 python = ">=3.9,<4"
-langchain = "^0.1.12"
-openai = "^1.14.1"
-sqlmodel = ">=0.0.16"
-fhir-resources = ">=7.1.0"
-
+openai = ">=1.52.2"
+fhir-resources = {version = ">7",  allow-prereleases = true }
+torch = [
+  {version = ">=2.5.0", source="pytorch-cpu"},
+]
+torchvision = [
+  {version = ">=0.20.0", source="pytorch-cpu"},
+]
+rago = {version = ">=0.9.0", extras=["cpu"]}
+eval_type_backport = {version = ">=0.2", python = "<3.10"}
+typeguard = ">=4"
 
 [tool.poetry.group.dev.dependencies]
 pytest = ">=7.3.2"
+pytest-cov = ">=4.1.0"
+coverage = ">=7.2.7"
 pre-commit = ">=3.3.2"
-ruff = ">=0.1.5"
+ruff = ">=0.2.0"
+mypy = ">=1.6"
+bandit = ">=1.7.8"
+vulture = ">=2.7"
+mccabe = ">=0.6.1"
 ipython = "<8"
 ipykernel = ">=6.0.0"
 Jinja2 = ">=3.1.2"
@@ -34,14 +47,29 @@ mkdocs-literate-nav = ">=0.6.0"
 mkdocs-macros-plugin = ">=0.7.0,<1"
 mkdocs-material = ">=9.1.15"
 mkdocstrings = ">=0.21.2"
-mkdocstrings-python = ">=1.1.2"
+mkdocstrings-python = ">= 1.1.2"
+mkdocs-gen-files = ">=0.5.0"
 makim = "1.19.0"
-mypy = ">=1.6"
-bandit = ">=1.7.8"
+python-dotenv = ">=1.0"
+
+
+[[tool.poetry.source]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "explicit"
+
+[[tool.poetry.source]]
+name = "pytorch-gpu"
+url = "https://download.pytorch.org/whl/cu121"
+priority = "explicit"
+
 
 [tool.pytest.ini_options]
 testpaths = [
-    "tests",
+    "tests/",
+]
+markers = [
+    "skip_on_ci: Skip these tests in CI",
 ]
 
 [tool.ruff]

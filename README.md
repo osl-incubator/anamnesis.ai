@@ -4,12 +4,10 @@
 
 #### Overview
 
-This project aims to develop a Minimum Viable Product (MVP) for an AI-driven
-anamnesis collection system in the healthcare domain. The system will leverage
-the capabilities of FHIR (Fast Healthcare Interoperability Resources), the
-ChatGPT API, Flask (a micro web framework written in Python), and SQLite (a
-lightweight database) to facilitate an interactive, user-friendly platform for
-collecting patient medical history (anamnesis) through conversational AI.
+This project aims to develop an AI-driven anamnesis collection system in the
+healthcare domain. The system will leverage the capabilities of FHIR (Fast
+Healthcare Interoperability Resources), the ChatGPT API for collecting patient
+medical history (anamnesis) through conversational AI.
 
 #### Technical Components
 
@@ -27,36 +25,6 @@ collecting patient medical history (anamnesis) through conversational AI.
    - Intelligent and natural language processing capabilities enhance user
      experience and data collection accuracy.
 
-3. **Flask (Python Web Framework)**:
-
-   - Serves as the backend framework for the web application.
-   - Manages HTTP requests, routing, and web page rendering.
-   - Lightweight and easy to integrate with Python-based tools like SQLite and
-     the ChatGPT API.
-
-4. **SQLite (Database)**:
-   - Stores user interactions and anamnesis data.
-   - Lightweight database, ideal for the MVP stage of the project.
-   - Easy integration with Flask, facilitating seamless data operations.
-
-#### Business Logic
-
-1. **User Interface**:
-
-   - A simple, intuitive web interface developed using Flask.
-   - No user login required for the MVP phase; designed for a single user
-     interaction.
-   - Provides a chat window where the user can interact with the ChatGPT-powered
-     bot.
-
-2. **Conversational Data Collection**:
-
-   - The user initiates a conversation by describing symptoms or medical
-     concerns.
-   - The ChatGPT bot responds with follow-up questions to gather detailed
-     anamnesis information (e.g., symptom onset, severity, duration, associated
-     conditions).
-
 3. **Anamnesis Data Handling**:
 
    - Responses from the user are processed and structured into FHIR-compliant
@@ -72,17 +40,20 @@ collecting patient medical history (anamnesis) through conversational AI.
    - These observations are linked to a mock `Patient` resource for the sake of
      the MVP, facilitating a structured and standardized anamnesis record.
 
-5. **Future Expansion Potential**:
-   - While initially designed for a single user, the system architecture allows
-     for scalability to handle multiple users with authentication and more
-     complex data management.
-   - The use of FHIR ensures that future developments could integrate with
-     broader healthcare systems and EHR (Electronic Health Records) platforms.
+## Test Data
 
-#### Conclusion
+The test data was obtained from
+https://springernature.figshare.com/collections/A_dataset_of_simulated_patient-physician_medical_interviews_with_a_focus_on_respiratory_cases/5545842/1
 
-This MVP serves as a foundational step towards a more comprehensive AI-driven
-healthcare data collection system. By combining the latest in AI conversational
-technology with standardized healthcare data protocols, it aims to streamline
-the anamnesis process, thereby enhancing patient care and healthcare data
-management.
+Source: Smith, Christopher William; Fareez, Faiha; Parikh, Tishya; Wavell,
+Christopher; Shahab, Saba; Chevalier, Meghan; et al. (2022). A dataset of
+simulated patient-physician medical interviews with a focus on respiratory
+cases. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.5545842.v1
+
+## Conclusion
+
+This project serves as a foundational step towards a more comprehensive
+AI-driven healthcare data collection system. By combining the latest in AI
+conversational technology with standardized healthcare data protocols, it aims
+to streamline the anamnesis process, thereby enhancing patient care and
+healthcare data management.
