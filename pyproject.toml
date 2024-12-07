@@ -14,23 +14,19 @@ exclude = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.13"
-langchain = ">=0.3.7"
+python = ">=3.9,<4"
 openai = ">=1.52.2"
 fhir-resources = ">=7.1.0"
 torch = [
-  {version = ">=2.5.0", markers="extra=='cpu' and extra!='gpu'", source="pytorch-cpu"},
-  {version = ">=2.5.0", markers="extra=='gpu' and extra!='cpu'"},
+  {version = ">=2.5.0", source="pytorch-cpu"},
 ]
 torchvision = [
-  {version = ">=0.20.0", markers="extra=='cpu' and extra!='gpu'", source="pytorch-cpu"},
-  {version = ">=0.20.0", markers="extra=='gpu' and extra!='cpu'"},
+  {version = ">=0.20.0", source="pytorch-cpu"},
 ]
-rago = ">=0.9.0"
-pandas = ">=2"
+rago = {version = ">=0.9.0", extras=["cpu"]}
+typeguard = ">=4"
 
 [tool.poetry.group.dev.dependencies]
-pyarrow = ">=18"
 pytest = ">=7.3.2"
 pytest-cov = ">=4.1.0"
 coverage = ">=7.2.7"

@@ -40,7 +40,12 @@ medical history (anamnesis) through conversational AI.
    - These observations are linked to a mock `Patient` resource for the sake of
      the MVP, facilitating a structured and standardized anamnesis record.
 
-#### Conclusion
+## Test Data
+
+The test data was obtained from
+https://springernature.figshare.com/collections/A_dataset_of_simulated_patient-physician_medical_interviews_with_a_focus_on_respiratory_cases/5545842/1
+
+## Conclusion
 
 This project serves as a foundational step towards a more comprehensive
 AI-driven healthcare data collection system. By combining the latest in AI

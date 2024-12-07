@@ -6,9 +6,8 @@ dependencies:
   - python
   - pip
   - poetry
-  - nodejs # used by semantic-release
+  - nodejs >=18.17 # used by semantic-release
   - shellcheck
-  - srsly 2.4.8
   - pip:
       # distlib issue
       - paginate

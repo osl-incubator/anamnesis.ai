@@ -3,12 +3,11 @@ channels:
   - nodefaults
   - conda-forge
 dependencies:
-  - python <3.13
+  - python
   - pip
   - poetry
   - nodejs # used by semantic-release
   - shellcheck
-  - srsly 2.4.8
   - pip:
       # distlib issue
       - paginate

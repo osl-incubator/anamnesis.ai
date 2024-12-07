@@ -36,6 +36,7 @@ jobs:
           - "3.10"
           - "3.11"
           - "3.12"
+          - "3.13"
         os:
           - "ubuntu"
           - "macos"
@@ -54,7 +55,7 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v3
         with:
           miniconda-version: latest
-          environment-file: conda/ci.yaml
+          environment-file: conda/dev.yaml
           channels: conda-forge,nodefaults
           activate-environment: anamnesisai
           auto-update-conda: true
@@ -70,7 +71,7 @@ jobs:
           poetry install
 
       - name: Run unit tests
-        run: makim tests.unit
+        run: makim tests.unit --params '-m "not skip_on_ci" -vvv'
 
       - name: Test jupyter notebooks
         run: makim tests.notebooks
@@ -93,7 +94,7 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v3
         with:
           miniforge-version: latest
-          environment-file: conda/ci.yaml
+          environment-file: conda/dev.yaml
           channels: conda-forge,nodefaults
           activate-environment: anamnesisai
           auto-update-conda: true
