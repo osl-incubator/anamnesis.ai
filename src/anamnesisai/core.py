@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import json
 
-from typing import Any
+from typing import Any, Dict, cast
 
 from rago.generation import OpenAIGen
 from typeguard import typechecked
@@ -52,4 +52,5 @@ def extract_fhir_openai(text: str, api_key: str) -> dict[str, Any]:
         output_max_length=128000,
     )
     result = gen.generate(query=text, context=[])
-    return json.loads(result)
+    content = cast(str, result)
+    return cast(Dict[str, Any], json.loads(content))

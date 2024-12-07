@@ -45,6 +45,11 @@ medical history (anamnesis) through conversational AI.
 The test data was obtained from
 https://springernature.figshare.com/collections/A_dataset_of_simulated_patient-physician_medical_interviews_with_a_focus_on_respiratory_cases/5545842/1
 
+Source: Smith, Christopher William; Fareez, Faiha; Parikh, Tishya; Wavell,
+Christopher; Shahab, Saba; Chevalier, Meghan; et al. (2022). A dataset of
+simulated patient-physician medical interviews with a focus on respiratory
+cases. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.5545842.v1
+
 ## Conclusion
 
 This project serves as a foundational step towards a more comprehensive

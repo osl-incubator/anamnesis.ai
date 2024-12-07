@@ -4,13 +4,15 @@ from __future__ import annotations
 
 import os
 
+from typing import Optional
+
 import pytest
 
 from anamnesisai import extract_fhir_openai
 
 
 @pytest.fixture
-def api_key(env) -> str:
+def api_key(env: dict[str, Optional[str]]) -> str:
     """Fixture for OpenAI API key from environment."""
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:

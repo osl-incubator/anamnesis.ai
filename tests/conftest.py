@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from glob import glob
 from pathlib import Path
+from typing import Optional
 
 import pytest
 
@@ -11,7 +12,7 @@ from dotenv import dotenv_values, load_dotenv
 
 
 @pytest.fixture
-def env() -> dict[str, str]:
+def env() -> dict[str, Optional[str]]:
     """Return a fixture for the environment variables from .env."""
     dotenv_file = Path(__file__).parent / ".env"
     load_dotenv(dotenv_file)
