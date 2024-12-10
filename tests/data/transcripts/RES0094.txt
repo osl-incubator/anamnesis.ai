@@ -1,4 +1,4 @@
-D: Uh, how may I help you? 
+D: Uh, how may I help you?
 
 P: I've, uh, had a runny nose over the last few days and I've started to have a sore throat as well.
 
@@ -12,13 +12,13 @@ P: Uh, it's been kind of watery, it's clear.
 
 D: OK. Alright and has your sore throat gotten better or worse over the past five days?
 
-P: Uh, it did get a little bit worse initially and since then it's been kind of stable. 
+P: Uh, it did get a little bit worse initially and since then it's been kind of stable.
 
 D: Have you, uhm, had any difficulties swallowing?
 
 P: No, it, it is a bit sore, uhm, to swallow so it takes me a little bit longer to eat, but I've been able to still, still eat.
 
-D: Have you changed, noticed any changes in your voice? Any hoarseness in your voice? 
+D: Have you changed, noticed any changes in your voice? Any hoarseness in your voice?
 
 P: No.
 
@@ -36,7 +36,7 @@ P: No.
 
 D: Any cough?
 
-P: No. 
+P: No.
 
 D: OK, uhm any, uh, pain in your chest?
 
@@ -90,7 +90,7 @@ D: What allergies do you have?
 
 P: I have allergies to dust and some environmental things, like pollen or ragweed I think maybe.
 
-D: I see. Alright, and, uhm, do you have any family history of any medical conditions? 
+D: I see. Alright, and, uhm, do you have any family history of any medical conditions?
 
 P: Uh, I think my dad has high blood pressure. He takes a medication for that, uhm nothing serious though that I know of.
 
@@ -100,7 +100,7 @@ P: So I live with both my parents and I have an older sister as well.
 
 D: Good, OK, and do you smoke?
 
-P: I did try a vape once or twice, but, didn't really like it so, no. 
+P: I did try a vape once or twice, but, didn't really like it so, no.
 
 D: Alright, what about marijuana?
 
@@ -110,7 +110,7 @@ D: Any recreational drugs?
 
 P: No.
 
-D: Do you drink alcohol? 
+D: Do you drink alcohol?
 
 P: No.
 
@@ -120,7 +120,7 @@ P: No, we've been doing classes virtually.
 
 D: And any contact with anyone who you think might be sick.
 
-P: No. 
+P: No.
 
 D: OK alright, well sounds like you have a sore throat and runny nose. You've been a little bit drowsy, had some headaches in the past five days, things were getting a little bit worse early on, but it's been a little bit, it's been more stable now. We'll do a physical exam, see, just listen to your chest, have a look inside your mouth and check your temperature and go from there. It sounds like you probably have a viral infection of some sort that should get, hopefully get better over time. We will also get a covid swab done just in case and if things seem to get worse, we can, you can definitely come back.
 

@@ -2,7 +2,7 @@ D: How may I help you?
 
 P: So I've just been having this pain in my knee since I um just fell, uh, just three days ago slipping on the stairs. Since then I've been having a lot of pain.
 
-D: I see uh so did this pain start right after like falling on the stairs? 
+D: I see uh so did this pain start right after like falling on the stairs?
 
 P: Yeah, yeah, I've been having the pain since then.
 
@@ -12,7 +12,7 @@ P: And that was three days ago.
 
 D: Three days ago, OK. And you're feeling the pain in your in your right knee?
 
-P: Yeah, in my right knee. 
+P: Yeah, in my right knee.
 
 D: OK, uh. And what would you say the character of the pain is, or how would you describe the pain?
 
@@ -66,31 +66,31 @@ D: OK. OK, have you had any fevers or chills?
 
 P: No.
 
-D: OK, have you had any chest pain? 
+D: OK, have you had any chest pain?
 
 P: No.
 
 D: Have you had any cough?
 
-P: No cough. 
+P: No cough.
 
-D: Have you have you had any shortness of breath? 
+D: Have you have you had any shortness of breath?
 
 P: No.
 
-D: OK, have you had any dizziness or or lightheadedness? 
+D: OK, have you had any dizziness or or lightheadedness?
 
 P: No.
 
 D: OK, and have you had any heart palpitations or feeling like your heart is racing?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, uh. And. Have you had any like infectious symptoms, such as like. Like a runny nose or sore throat?
 
 P: No, nothing like that.
 
-D: OK. And have you had any nausea or vomiting. 
+D: OK. And have you had any nausea or vomiting.
 
 P: No.
 
@@ -102,13 +102,13 @@ D: OK, have you had any changes to your bowel movements like diarrhea or or cons
 
 P: No, nothing like that.
 
-D: Alright, so have you had any urinary problems? 
+D: Alright, so have you had any urinary problems?
 
 P: Nope.
 
 D: Alright, so have you had any recent weight changes?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. Uhm, And. Um, have you have you noticed any any rashes anywhere else over your whole body?
 
@@ -128,11 +128,11 @@ P: No. OK.
 
 D: And. Um. So in the past, have you been diagnosed with any medical conditions?
 
-P: I do have some high cholesterol and high blood pressure. 
+P: I do have some high cholesterol and high blood pressure.
 
 D: I see, and do you take any medications?
 
-P: Yeah, so cholesterol. I'm taking a like a Crestor medication and then for high blood pressure I'm taking a Ramipril. 
+P: Yeah, so cholesterol. I'm taking a like a Crestor medication and then for high blood pressure I'm taking a Ramipril.
 
 D: OK. Have you had any hospitalizations or surgeries before?
 
@@ -154,7 +154,7 @@ D: OK, any allergies to medications?
 
 P: No allergies.
 
-D:  OK and. Uhm, could you tell me a little bit about your, uhm, living situation currently like who you're living with and whereabouts you're living? 
+D:  OK and. Uhm, could you tell me a little bit about your, uhm, living situation currently like who you're living with and whereabouts you're living?
 
 P: Yeah, I live with my husband and our daughter. And it's just in a small townhouse, just in the city.
 
@@ -162,13 +162,13 @@ D: OK, and are you working currently?
 
 P: I I do work from home, I'm actually just an accounting clerk, but I most of my work is from home right now.
 
-D: OK. And any exposures to anybody who's been sick? 
+D: OK. And any exposures to anybody who's been sick?
 
 P: No.
 
 D: Have you traveled anywhere recently?
 
-P: Um nope. 
+P: Um nope.
 
 D: OK. Uh. And over the last couple of days with that with the leg pain, do you feel as though you've been like immobilized?
 
@@ -180,7 +180,7 @@ P: Just socially, sometimes when I'm with friends or relatives like a glass of w
 
 D: OK, and do you use recreational drugs like marijuana or or other things such like cocaine?
 
-P: No, I've never tried that. 
+P: No, I've never tried that.
 
 D: OK. And do you smoke cigarettes?
 
@@ -208,7 +208,7 @@ P: Uhm, I think I I don't know if it's maybe a little bit warm, but definitely s
 
 D: OK, and do you feel, is there any pain to palpation? Like if you touch your calf or something like that is there pain?
 
-P: Yeah if I touch my right calf it's painful and then if I press down on it's really painful and then just on the outside of my right knee if I touch or press down it really hurts as well. 
+P: Yeah if I touch my right calf it's painful and then if I press down on it's really painful and then just on the outside of my right knee if I touch or press down it really hurts as well.
 
 D: OK. And if you move your foot so it yeah, if you dorsiflex your ankle. Or bending your your toe up towards your nose, do you end up getting any calf pain? Doing the Homan test.
 
@@ -216,7 +216,7 @@ P: Yeah, yeah I'll try that. And yeah, I think it definitely hurts. When I when 
 
 D: OK. OK, so I think that was everything that I wanted to ask today on history. Was there anything else that that maybe I missed?
 
-P: No, I think that's all. 
+P: No, I think that's all.
 
 D: OK yeah alright so with the. I fall 2 days ago. Things that I'm thinking about right now would be possibly a muscle strain, so this could be a gastrocnemius strain to the calf muscle itself, from from the fall which could have pain when you touch it, there could be some swelling and said it would be aggravated by movements. Also could be like injuries to some of that, the ligaments there as well. And however, with this the swelling immobilization for the last two days, as well as the pain kind of being a bit progressive that with swelling and a positive Homan in test and your temperature is a little bit elevated today not quite a fever, but feverish. It does increase the suspicion for deep vein thrombosis and so I think the most likely thing right now is actually a DVT or deep vein thrombosis. And so we will order some diagnostic studies, get an ultrasound of your right calf as well as an X Ray of the right knee to to start OK.
 

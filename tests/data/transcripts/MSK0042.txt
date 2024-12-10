@@ -1,4 +1,4 @@
-D: How may I help you? 
+D: How may I help you?
 
 P: Uh, I, I'm uh, just coming into the clinic uh, today uh, my parents told me to come today. I don't know what this thing is, just mass right below, or kind of like a lump or mass below my right knee and it's not painful or anything, it's a little bit uncomfortable but I just want to check out and see what it might be.
 
@@ -32,15 +32,15 @@ P: No, I haven't felt any of those.
 
 D: Okay, and how about uh, any muscle weakness in the lower extremity or upper extremity?
 
-P: No, no weakness. 
+P: No, no weakness.
 
 D: Okay. Um, have you had any, uh, like fevers or chills?
 
-P: No. 
+P: No.
 
 D: Uh, how about night sweats?
 
-P: Uh, no night sweats. 
+P: Uh, no night sweats.
 
 D: Okay, and have you had any infectious symptoms, like uh, like a runny nose or a sore throat?
 
@@ -68,11 +68,11 @@ P: No.
 
 D: Okay, have you had any lightheadedness or dizziness?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: Okay. Um, and have you had any nausea or vomiting?
 
-P: Um, no, no nausea or vomiting. 
+P: Um, no, no nausea or vomiting.
 
 D: Okay, uh, have you had any changes or loss to appetite?
 
@@ -82,7 +82,7 @@ D: How about any abdominal pain?
 
 P; No, no abdominal pain.
 
-D: Alright. Have you had any changes to your bowel habits, like diarrhea, constipation or uh, blood in the stool? 
+D: Alright. Have you had any changes to your bowel habits, like diarrhea, constipation or uh, blood in the stool?
 
 P: Um, no.
 
@@ -104,7 +104,7 @@ P: No, I mean like all the other joints and other like, bones and muscles have b
 
 D: Yeah, certainly. Okay, um, and uh, have you had, have you been diagnosed with any medical conditions in the past? Or see a doctor for any reason?
 
-P: Um, no, I've been pretty healthy up until now. 
+P: Um, no, I've been pretty healthy up until now.
 
 D: Okay, uh, and do you take any medications regularly, over the counter or prescribed?
 
@@ -112,7 +112,7 @@ P: Uh no, no medications.
 
 D: Okay, uh, and do you have any allergies?
 
-P: No. 
+P: No.
 
 D: Alright, and are your immunizations up to date?
 
@@ -130,7 +130,7 @@ D: Okay, and are you currently in school and working, or, or working?
 
 P: No I, I don't work. I'm currently in school right now. So yeah, too busy with school and then just extracurricular activities.
 
-D: Yeah, absolutely. Okay, um, and uh, have you been around anybody who's been sick? 
+D: Yeah, absolutely. Okay, um, and uh, have you been around anybody who's been sick?
 
 P: No.
 
@@ -146,7 +146,7 @@ D: Okay, well that's good. And um, are you currently sexually active?
 
 P: No.
 
-D: No, okay. Have you been sexually active in the past? 
+D: No, okay. Have you been sexually active in the past?
 
 P: No I haven't.
 
@@ -164,7 +164,7 @@ P: Um, I don't think anyone's had like a bone tumour or anything like that. I, I
 
 D: Okay. Um, and any genetic diseases in the family or, or congenital diseases?
 
-P: Um, not that I've been told, no. 
+P: Um, not that I've been told, no.
 
 D: Okay, um, so um, next I just wanted to move on to the physical exam component and um, firstly, are you having any issues with uh walking?
 
@@ -184,13 +184,13 @@ P: Um, no, not that I can tell.
 
 D: Okay, um and, uh you don't have any, any pain, so if you press on the area or on the the knee joint, you can just feel the mass and no pain there?
 
-P: Yeah, it just feels weird. I don't, I'm not in any pain or anything, but it's like, it's weird to look at and then weird to feel uh, as well. 
+P: Yeah, it just feels weird. I don't, I'm not in any pain or anything, but it's like, it's weird to look at and then weird to feel uh, as well.
 
 D: Okay. Um, and um, uh okay, then no limitations with uh, with like range of motion of any of your joints including like uh, knee and ankle?
 
 P: Yeah no, I can move everything just fine.
 
-D: Okay, awesome and so that, that was everything that I wanted to ask today and uh, uh check on the physical as well. Um, so was there anything else that I maybe forgot to ask about or anything you wanted to add? 
+D: Okay, awesome and so that, that was everything that I wanted to ask today and uh, uh check on the physical as well. Um, so was there anything else that I maybe forgot to ask about or anything you wanted to add?
 
 P: Yeah no, I um, nothing else I wanted to add, but I, I think my parents and I were just scared about it being like uh, cancer, or like a tumour, um, so I just don't know what I should do, if I need to get any tests done, or x-rays, or anything like that.
 

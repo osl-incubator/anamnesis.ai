@@ -28,7 +28,7 @@ P: Not really, no.
 
 D: How much blood would you say you're coughing up now in an average day?
 
-P: I would say, maybe two or three teaspoons. 
+P: I would say, maybe two or three teaspoons.
 
 D: OK, I see. Has your coughing gotten worse or has it stayed about the same?
 
@@ -52,7 +52,7 @@ P: Uh, well that's been an ongoing problem for the last several years now, I tho
 
 D: I see, OK, and do you have any chest pain with inspiration or expiration?
 
-P: No, no chest pain. 
+P: No, no chest pain.
 
 D: OK, any dizziness? Any fainting episodes?
 
@@ -64,7 +64,7 @@ P: No, I've been at home.
 
 D: OK, any headaches, fevers or chills?
 
-P: No, no fevers or chills, and I haven't had any headaches either. 
+P: No, no fevers or chills, and I haven't had any headaches either.
 
 D: OK, any losses in sense of taste or smell?
 
@@ -78,17 +78,17 @@ D: OK, and when did you start feeling nauseous?
 
 P: It kinda comes and goes, I've had that problem for the last two months or so.
 
-D: OK, and do you feel nauseous at anytime particularly in the day, like after eating, Or does it just come on randomly? 
+D: OK, and do you feel nauseous at anytime particularly in the day, like after eating, Or does it just come on randomly?
 
 P: Randomly.
 
 D: OK, and have you been having any kind of diarrhea or Constipation, changes in your bowel movement?
 
-P: No. 
+P: No.
 
 D: OK, any blood in your stools at all?
 
-P: No. 
+P: No.
 
 D: OK, have you been feeling fatigued at all?
 
@@ -104,9 +104,9 @@ P: If I exert myself or if I'm  doing more activity, it it does get harder to to
 
 D: And do you notice you have to like get up at night to take a breath? Or when you're laying down,do you have any trouble breathing?
 
-P: No. 
+P: No.
 
-D: OK, and have you noticed any kind of swelling in your extremities or anything like that? 
+D: OK, and have you noticed any kind of swelling in your extremities or anything like that?
 
 P: No swelling.
 
@@ -130,13 +130,13 @@ D: OK, so yeah, ten to fifteen pounds in the last, how many months would you say
 
 P: Maybe two months.
 
-D: Two months, OK. Have you recently had any infections, like viral symptoms, like runny nose, fever, or any cold like symptoms? 
+D: Two months, OK. Have you recently had any infections, like viral symptoms, like runny nose, fever, or any cold like symptoms?
 
 P: No.
 
 D: OK, and any exposure to anyone that you know of that might have tuberculosis?
 
-P: No, I've been been mostly at home. I Haven't really been seeing many people lately. 
+P: No, I've been been mostly at home. I Haven't really been seeing many people lately.
 
 D: OK, and do you have any past medical history or any diagnosis like COPD, asthma, high blood pressure, diabetes, anything like that?
 
@@ -152,9 +152,9 @@ P: I think sulfa, but that's it.
 
 D: OK, and what kind of reaction do you get?
 
-P: Uh, I get a rash. 
+P: Uh, I get a rash.
 
-D: Rash, OK, any surgeries or hospitalizations in the past? 
+D: Rash, OK, any surgeries or hospitalizations in the past?
 
 P: I just had cataract removed from my right eye, and uh, that's about it.
 
@@ -182,7 +182,7 @@ D: And where do you live right now? In an apartment? In a home? And who do you l
 
 P: I live in a home with my wife and it's just us two.
 
-D: And do you know if there's any like asbestos exposure in your home at all? 
+D: And do you know if there's any like asbestos exposure in your home at all?
 
 P: I don't think so, no.
 
@@ -200,17 +200,17 @@ P: Yeah, I've been trying. I was thinking of maybe talking about a prescription 
 
 D: Yeah, well, it's really great that you're thinking about quitting. We can definitely help you with some resources, and some medications. Have you tried anything before that I should know of, to help you quit?
 
-P: I've tried nicotine patches and gum, but that's it. 
+P: I've tried nicotine patches and gum, but that's it.
 
 D: OK, so yeah, there's uh, like other options as well that you can take. Have you heard of Champix?
 
-P: Uh, I did hear of it actually. Yeah, so one of my friends tried it and it worked well for them so, Yeah. 
+P: Uh, I did hear of it actually. Yeah, so one of my friends tried it and it worked well for them so, Yeah.
 
 D: OK, yeah, so we can, if you're wondering about that, I can give you some information on that medication, like a whole package for you and then we can discuss if that could work for you.
 
-P: That sounds great. 
+P: That sounds great.
 
-D: OK, sweet. And other than smoking, do you use any recreational drugs like marijuana? 
+D: OK, sweet. And other than smoking, do you use any recreational drugs like marijuana?
 
 P: No, I don't.
 
@@ -226,6 +226,6 @@ D: OK, so if you think you can produce that, we can even take a sample of that a
 
 P: That sounds good. Thank you.
 
-D: You're welcome. Take care. 
+D: You're welcome. Take care.
 
 P: Bye.

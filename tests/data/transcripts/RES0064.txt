@@ -28,15 +28,15 @@ P: No, no rashes.
 
 D: OK. Have you taken his temperature at home?
 
-P: No, I think he might have had a fever yesterday, but we didn't really take a temperature. 
+P: No, I think he might have had a fever yesterday, but we didn't really take a temperature.
 
-D: OK. And, any fatigue or exhaustion? 
+D: OK. And, any fatigue or exhaustion?
 
 P: Energy's pretty much the same, just really complaining a lot about the throat.
 
 D: OK, OK, have you noticed any swelling in in the neck area?
 
-P: Uhm, I think there might be like a few lumps near his neck, so I don't know if that's swelling, but definitely there is. There's a few that I felt over the last few days. 
+P: Uhm, I think there might be like a few lumps near his neck, so I don't know if that's swelling, but definitely there is. There's a few that I felt over the last few days.
 
 D: OK, coughing?
 
@@ -52,7 +52,7 @@ P: No.
 
 D: Feeling like his heart is racing?
 
-P: No. 
+P: No.
 
 D: Swelling in his limbs?
 
@@ -60,13 +60,13 @@ P: No. I haven't noticed anything like that.
 
 D: OK, dizziness or fainting spells?
 
-P: No. 
+P: No.
 
 D: Headaches?
 
 P: He was complaining of a headache a few days ago, but it kind of went away on its own.
 
-D: OK. So the headache's gone completely now. 
+D: OK. So the headache's gone completely now.
 
 P: Yeah, yeah.
 
@@ -90,13 +90,13 @@ D: Any appetite changes?
 
 P: Yeah, just with the trouble swallowing I'm trying to make sure that he gets like liquids because over the last few days he can't tolerate like solid foods at all.
 
-D: Yeah, how about a weight loss over the past few weeks? 
+D: Yeah, how about a weight loss over the past few weeks?
 
 P: No, not really. t's just been over the last few days that he hasn't been eating like himself.
 
 D: OK. Alright and has he been healthy otherwise?
 
-P: Yeah, otherwise he's a very healthy child. We have rarely gone to a doctor for him before, so yeah, nothing. Nothing else with him. 
+P: Yeah, otherwise he's a very healthy child. We have rarely gone to a doctor for him before, so yeah, nothing. Nothing else with him.
 
 D: OK, have you tried anything for his sore throat? Anything over the counter?
 
@@ -104,9 +104,9 @@ P: We did try, uh, like Tylenol cold. It helped with this headache, but it didn'
 
 D: OK, and has he ever experienced anything like this in the past?
 
-P: No, not that I know of. 
+P: No, not that I know of.
 
-D: OK. Any hospitalizations or surgeries in the past? 
+D: OK. Any hospitalizations or surgeries in the past?
 
 P: No.
 
@@ -130,7 +130,7 @@ D: OK, how old was he when he was diagnosed with diabetes?
 
 P: I think probably in his late 30s with type 2 diabetes.
 
-D: Type 2, OK and then any sick contacts recently that he may have had? 
+D: Type 2, OK and then any sick contacts recently that he may have had?
 
 P: I don't think at home at least, uh, but maybe at school, like you never know who they are in contact with, so I'm wondering if he just picked it up somewhere from school.
 
@@ -162,6 +162,6 @@ D: Yeah, so he does seem to be checking off some of the criteria for strep throa
 
 P: Yeah, that sounds good.
 
-D: OK, great thank you. 
+D: OK, great thank you.
 
 P: Thank you.

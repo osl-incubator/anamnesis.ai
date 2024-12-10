@@ -1,4 +1,4 @@
-D: How may I help you? 
+D: How may I help you?
 
 P: Hi I'm, I have been having this nasal obstruction and discharge for the past week and it doesn't seem to be going away and it's bothering me so I thought I would get it checked out by you.
 
@@ -18,17 +18,17 @@ D: I see OK and have you been having any pain on your face? Like I like kind of 
 
 P: No.
 
-D: OK, how about any headaches? 
+D: OK, how about any headaches?
 
-P: No headaches. 
+P: No headaches.
 
 D: All right, have you had any changes or to your sense of smell or any loss of smell?
 
-P: Uhm no, maybe a little bit, but no, not really. I can still eat. I can still smell like candles and things like that so, maybe go with no. 
+P: Uhm no, maybe a little bit, but no, not really. I can still eat. I can still smell like candles and things like that so, maybe go with no.
 
 D: OK. Have you had any changes to your sense of taste?
 
-P: No. 
+P: No.
 
 D: OK. Have you had any eye redness or or any eye pain?
 
@@ -36,7 +36,7 @@ P: No.
 
 D: Any ear pain or ear discharge?
 
-P: No. 
+P: No.
 
 D: Any changes to the vision or hearing?
 
@@ -44,29 +44,29 @@ P: Uh, no.
 
 D: OK, have you had a sore throat?
 
-P: No. 
+P: No.
 
 D: Have you had a cough?
 
 P: No.
 
-D: Have you had any shortness of breath 
+D: Have you had any shortness of breath
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Have you had any wheezing?
 
-P: No. 
+P: No.
 
 D: OK. And have you coughed up any blood?
 
-P: No. 
+P: No.
 
 D: OK, and have you had any chest pain?
 
-P: No. 
+P: No.
 
-D: Have you had any lightheadedness or dizziness? 
+D: Have you had any lightheadedness or dizziness?
 
 P: Uh, no.
 
@@ -76,7 +76,7 @@ P: No.
 
 D: OK, have you had any fevers or chills?
 
-P: No. 
+P: No.
 
 D: Have you had a night sweats?
 
@@ -84,7 +84,7 @@ P: No.
 
 D: Have you had any unexpected weight loss?
 
-P: No. 
+P: No.
 
 D: OK, have you had any loss of appetite?
 
@@ -100,13 +100,13 @@ P: No.
 
 D: Have you had any diarrhea or constipation?
 
-P: No. 
+P: No.
 
-D: Have you had any painful urination or urinary frequency? 
+D: Have you had any painful urination or urinary frequency?
 
 P: No.
 
-D: OK, have you had any skin rashes? 
+D: OK, have you had any skin rashes?
 
 P: No.
 
@@ -116,11 +116,11 @@ P: No.
 
 D: Have you had any memory loss or confusion?
 
-P: No. 
+P: No.
 
 D: OK, and how has your energy been? Have you had fatigue or malaise?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. Uhm, and have you had any sneezing?
 
@@ -136,7 +136,7 @@ P: Nope.
 
 D: OK, and any allergies like to any medications or any seasonal allergies? Like do you get symptoms like this that change throughout the year?
 
-P: No. 
+P: No.
 
 D: OK and sorry, no allergies to medications as well?
 
@@ -158,7 +158,7 @@ D: OK, uh, have you been around anybody who's been sick?
 
 P: No one personally, but I do go to the grocery store and the bank and all the essential things.
 
-D: I see, OK. Uhm, and have you have you traveled anywhere recently? 
+D: I see, OK. Uhm, and have you have you traveled anywhere recently?
 
 P: No, I haven't.
 
@@ -192,25 +192,25 @@ P: Uh, nope.
 
 D: OK, how about the use of any recreational drugs?
 
-P: No. 
+P: No.
 
-D: OK, do you drink alcohol? 
+D: OK, do you drink alcohol?
 
 P: I do, I'll have like a glass of wine every day.
 
 D: OK. And in the family, are there any heart conditions or lung conditions that run in the family?
 
-P: No. 
+P: No.
 
 D: How about things like diabetes or or high blood pressure?
 
-P: Uhm, I don't think so. 
+P: Uhm, I don't think so.
 
 D: OK, and uh, are there any cancers in the family?
 
 P: Uhm, there's colon cancer in the family.
 
-D: OK, and who was that and how old were they? 
+D: OK, and who was that and how old were they?
 
 P: Uhm, my grandfather, he was 55.
 
@@ -218,7 +218,7 @@ D: OK. Uhm, alright, and so that was everything that I wanted to ask today on hi
 
 P: Uh, no, I think that was it.
 
-D: OK, so with the prominent symptoms of being nasal discharge and obstruction without fever and without, like changes to smell and also without pain, it's most likely a viral rhinosinusitis. Uhm, however, this could have symptoms that overlap with, with COVID, and so we will still end up doing a swab even though the most likely diagnosis is going to be a viral acute rhinosinusitis. 
+D: OK, so with the prominent symptoms of being nasal discharge and obstruction without fever and without, like changes to smell and also without pain, it's most likely a viral rhinosinusitis. Uhm, however, this could have symptoms that overlap with, with COVID, and so we will still end up doing a swab even though the most likely diagnosis is going to be a viral acute rhinosinusitis.
 
 P: OK.
 

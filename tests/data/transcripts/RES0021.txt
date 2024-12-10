@@ -20,7 +20,7 @@ P: No blood and no definitely no sputum. OK.
 
 D: Anything that's like triggered the cough?
 
-P: Um I don't, I don't think so. Um, No, I don't think so. 
+P: Um I don't, I don't think so. Um, No, I don't think so.
 
 D: No. OK, have you had a cough like this before?
 
@@ -32,7 +32,7 @@ P: No, no not not recently.
 
 D: OK, so you've been feeling well recently?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK, and you've you been fatigued. Can you tell me a little bit about about how you been feeling?
 
@@ -42,9 +42,9 @@ D: Oh sorry I mean in terms of your energy.
 
 P: Oh my energy yeah, I've just been feeling so tired, it seems like I can't do normally would be. I would normally have no issues doing.
 
-D: I see OK, and any changes to sleep or any kind of stressful events happen in the last few days that, might be causing you to be more tired. 
+D: I see OK, and any changes to sleep or any kind of stressful events happen in the last few days that, might be causing you to be more tired.
 
-P: I don't think so. Nothing, nothing big has happened in my life. No big changes. 
+P: I don't think so. Nothing, nothing big has happened in my life. No big changes.
 
 D: OK um. And so you've had a fever, cough, and being tired. Have you experienced any other symptoms these last few days?
 
@@ -52,11 +52,11 @@ P: Um yep, fever, cough, fatigue. But um I don't have anything any other symptom
 
 D: OK, so you you do you have any headaches?
 
-P: Oh headaches? No, no. 
+P: Oh headaches? No, no.
 
 D: OK, how about any eye or or ear symptoms like discharge or pain?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, have you had a loss of taste or a loss of smell?
 
@@ -64,7 +64,7 @@ P: No.
 
 D: Alright, and have you had a runny nose or sore throat?
 
-P: No. 
+P: No.
 
 D: OK. Have you had any chest pain?
 
@@ -72,7 +72,7 @@ P: Nope, no chest pain.
 
 D: And how about difficulty breathing or shortness of breath?
 
-P: Nope, no. 
+P: Nope, no.
 
 D: OK, and any wheezing or whistling noises while you're breathing?
 
@@ -82,7 +82,7 @@ D: OK, and have you felt like your heart's racing at all?
 
 P: Ah no.
 
-D: Have you had any like fainting spells or feeling as though you might pass out? 
+D: Have you had any like fainting spells or feeling as though you might pass out?
 
 P: Um nope, no.
 
@@ -106,9 +106,9 @@ D: And any like, painful urination or or like going to the bathroom frequently?
 
 P: No.
 
-D: Alright. Any night sweats 
+D: Alright. Any night sweats
 
-P: No. 
+P: No.
 
 D: And how about any chills or rigors?
 
@@ -116,7 +116,7 @@ P: No.
 
 D: Have you had any weight loss over the last several months?
 
-P: None. 
+P: None.
 
 D: Alright, have you noticed any rashes or skin changes over this past week?
 
@@ -134,7 +134,7 @@ D: OK, uh, are you taking medications for that?
 
 P: Um, yeah, you know they put me on some sort of DMARD.
 
-D: OK, so you're you're seeing a rheumatologist for that? 
+D: OK, so you're you're seeing a rheumatologist for that?
 
 P: Mmm, I am.
 
@@ -156,21 +156,21 @@ P: No.
 
 D: OK, and have you noticed any blood in the stool, either either being red or or your stool being really dark, kind of like a black colour?
 
-P: Nope. 
+P: Nope.
 
 D: OK, um, and do you have any allergies?
 
-P: No allergies. 
+P: No allergies.
 
 D: Alright, uh, and then. Can you tell me a little bit about your living situation?
 
 P: I live with two of my children. They are five and three, as well as my new boyfriend.
 
-D: OK, great and for either of your pregnancies, were there any complications? 
+D: OK, great and for either of your pregnancies, were there any complications?
 
 P: No.
 
-D: OK, great um and are there any concerns for safety in the home? 
+D: OK, great um and are there any concerns for safety in the home?
 
 P: No.
 
@@ -178,19 +178,19 @@ D: OK, excellent. And what do you do for work?
 
 P: I work as a secretary for an accounting firm.
 
-D: OK, that sounds like a great job. And. Uh, do you smoke cigarettes? 
+D: OK, that sounds like a great job. And. Uh, do you smoke cigarettes?
 
 P: I used to. I quit five years ago.
 
-D: Alright, and do you smoke marijuana? 
+D: Alright, and do you smoke marijuana?
 
 P: No.
 
-D: OK, and do you use any other recreational drugs? 
+D: OK, and do you use any other recreational drugs?
 
 P: No.
 
-D: OK um. And. Has anybody in the house been sick? Either your boyfriend or or your children? 
+D: OK um. And. Has anybody in the house been sick? Either your boyfriend or or your children?
 
 P: No.
 
@@ -208,23 +208,23 @@ P: No.
 
 D: And have you traveled anywhere?
 
-P: No. 
+P: No.
 
 D: OK, and then anybody in the family have a heart condition or or lung condition?
 
-P: No. 
+P: No.
 
 D: OK, no. An any cancer that that's runs in the family?
 
 P: Um, one of my aunts had pancreatic cancer.
 
-D: OK, any relatives have breast cancer? 
+D: OK, any relatives have breast cancer?
 
 P: No.
 
-D: How about any relatives with ovarian or colon cancer? 
+D: How about any relatives with ovarian or colon cancer?
 
-P: No. 
+P: No.
 
 D: OK. And so I think that was all of the questions that I wanted to ask. Actually I just remembered one. Have you had any prior surgeries?
 
@@ -234,8 +234,8 @@ D: OK, sorry, so that was the last question that I wanted to ask about on on his
 
 P: No, I think you covered it all.
 
-D: OK, excellent, so with your symptoms of having a kind of a fever, cough, and being tired, definitely concerned of viral infection and possibly COVID-19 or something more common, like the common cold, like an adenovirus. And so will do some testing for for COVID-19 with a nasal PCR swab as well as run some blood work. Um because there is a possibility that there's a bacterial infection, such as like a pneumonia or lower respiratory tract infection that would be treated with antibiotics so. We uh yeah, we'll order those investigations along with a chest X Ray. And we will go from there. 
+D: OK, excellent, so with your symptoms of having a kind of a fever, cough, and being tired, definitely concerned of viral infection and possibly COVID-19 or something more common, like the common cold, like an adenovirus. And so will do some testing for for COVID-19 with a nasal PCR swab as well as run some blood work. Um because there is a possibility that there's a bacterial infection, such as like a pneumonia or lower respiratory tract infection that would be treated with antibiotics so. We uh yeah, we'll order those investigations along with a chest X Ray. And we will go from there.
 
-P: OK, that sounds great. Thank you so much. 
+P: OK, that sounds great. Thank you so much.
 
 D: You're welcome.

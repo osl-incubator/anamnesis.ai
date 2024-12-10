@@ -14,21 +14,21 @@ P: It felt pretty stuffy at first, but now it's mostly running.
 
 D: OK, and are you coughing at all?
 
-P: No. 
+P: No.
 
 D: No OK, and the runny nose what kind of content are you producing or draining? Is it mainly like clear or is there any color to it?
 
-P: It's mostly clear. 
+P: It's mostly clear.
 
 D: OK. And, is it mainly just congestion and drainage from your nose or are you feeling and go at the back of your throat as well?
 
-P: Uh no it's just mostly for my nose. 
+P: Uh no it's just mostly for my nose.
 
 D: OK, any other symptoms like sore throat, shortness of breath, fevers or chills?
 
 P: No.
 
-D: No OK. And is this like something that's constant or does it come and go? 
+D: No OK. And is this like something that's constant or does it come and go?
 
 P: Ah, it's it's. Ah It's been pretty constant for the past week.
 
@@ -38,9 +38,9 @@ P: No, well, actually I've had I've had a cold before but not recently. Maybe li
 
 D: OK, have you tried any over the counter medications at all?
 
-P: Um I've tried like decongestants and. That's not. Well, I guess my nose is runny now so that worked a little bit. 
+P: Um I've tried like decongestants and. That's not. Well, I guess my nose is runny now so that worked a little bit.
 
-D: OK. OK, and have you been in contact with anyone who's been sick recently? 
+D: OK. OK, and have you been in contact with anyone who's been sick recently?
 
 P: Uhm? No, I don't think so. My I have um a nephew who I live with who goes to daycare.
 
@@ -58,9 +58,9 @@ P: Nope, nothing like that.
 
 D: OK, any fatigue?
 
-P: A little bit. 
+P: A little bit.
 
-D: OK, any loss of sense of taste or smell. 
+D: OK, any loss of sense of taste or smell.
 
 P: Um. No, um not that I've noticed.
 
@@ -70,23 +70,23 @@ P: No.
 
 D: No OK? Any changes in your bowel movements?
 
-P: No. 
+P: No.
 
-D: How about your any difficulties in urinating? 
+D: How about your any difficulties in urinating?
 
-P: Um no. 
+P: Um no.
 
 D: OK, have you been sleeping and eating well?
 
-P: Yes. 
+P: Yes.
 
 D: OK, any weight changes like any significant weight loss recently?
 
-P: No, no, no, nothing like that. 
+P: No, no, no, nothing like that.
 
 D: OK. At home or at work home any exposure to like fumes, dust or animals?
 
-P: No. 
+P: No.
 
 D: OK, and have you been diagnosed with any medical conditions in the past?
 
@@ -94,15 +94,15 @@ P: Um I have type one diabetes.
 
 D: OK, and when were you diagnosed with that?
 
-P: When I was like 7. 
+P: When I was like 7.
 
 D: OK. And so you have your insulin medication and your are you all up to date with that?
 
-P: Yes. 
+P: Yes.
 
 D: OK, and do you see an endocrinologist?
 
-P: I do. 
+P: I do.
 
 D: OK, alright. Any medications that you are on besides insulin?
 
@@ -110,17 +110,17 @@ P: Uh no .
 
 D: No, OK. Any allergies at all?
 
-P: No. 
+P: No.
 
-D: OK, have you been hospitalized or had any surgeries before? 
+D: OK, have you been hospitalized or had any surgeries before?
 
-P: No. 
+P: No.
 
 D: No, OK. Any family history of any medical conditions, in particular with the lungs or the heart.
 
-P: No. 
+P: No.
 
-D: No, any autoimmune diseases? 
+D: No, any autoimmune diseases?
 
 P: No.
 
@@ -130,7 +130,7 @@ P: I’m in school right now.
 
 D: OK, and so are you living, where are you living right now?
 
-P: I live in an apartment by myself. 
+P: I live in an apartment by myself.
 
 D: OK. And currently, do you use any recreational drugs like marijuana or anything?
 
@@ -138,11 +138,11 @@ P: Uh no, not OK so not frequently, but maybe like once a month I'll have an edi
 
 D: OK, any other recreational drugs like cocaine and heroin? Anything like that?
 
-P: Oh no. 
+P: Oh no.
 
 D: No. And you drink alcohol?
 
-P: Uh no. 
+P: Uh no.
 
 D: And do you smoke tobacco?
 
@@ -156,6 +156,6 @@ D: Yeah, it kind of so just a stuffy nose in the runny nose it seems like it's m
 
 P: OK, that sounds great. Thank you.
 
-D: Your welcome. Take care 
+D: Your welcome. Take care
 
 P: You too bye.

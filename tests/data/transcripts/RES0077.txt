@@ -10,7 +10,7 @@ D: OK and so it started three days ago?
 
 P: Yeah.
 
-D: When did the shortness of breath start? 
+D: When did the shortness of breath start?
 
 P: That started probably about two days ago.
 
@@ -22,7 +22,7 @@ D: OK, so it's it's pretty constant?
 
 P: Yeah, it's been constant.
 
-D: OK, and how much sputum would you say you're bringing up? 
+D: OK, and how much sputum would you say you're bringing up?
 
 P: I would say, uh, maybe like two teaspoons a day. It's only like a little bit in the tissues and I'm not bringing up sputum every time.
 
@@ -32,9 +32,9 @@ P: No, I haven't noticed anything like that.
 
 D: OK, so it's mainly just white or clear.
 
-P: Yeah, it's mostly, yeah, like whiteish or clear. 
+P: Yeah, it's mostly, yeah, like whiteish or clear.
 
-D: OK, uhm, and have you had anything like this happen before? 
+D: OK, uhm, and have you had anything like this happen before?
 
 P: No, I haven't.
 
@@ -64,7 +64,7 @@ P: No, I haven't had anything like that.
 
 D: OK, and have you been diagnosed with cancer or any other medical conditions?
 
-P: No, I haven't. 
+P: No, I haven't.
 
 D: OK uhm, so would you say the coughing and the shortness of breath is getting worse, or it's about the same?
 
@@ -92,17 +92,17 @@ P: Uhm, nothing like that.
 
 D: OK, and any headaches?
 
-P: I have had a little bit of a headache over the last day. Usually I get headaches like this when I haven't slept well. 
+P: I have had a little bit of a headache over the last day. Usually I get headaches like this when I haven't slept well.
 
 D: OK, and is it like a different type of headache and is it on one side of your head or both?
 
-P: Yeah, I feel it on both, kinda like right up into my forehead there. 
+P: Yeah, I feel it on both, kinda like right up into my forehead there.
 
 D: OK, and is it kind of like a pressure like pain? Is it pulsating pain? How would you describe it?
 
 P: I would say it's more of a pressure, yeah.
 
-D: OK, uh, have you tried any medications for it? 
+D: OK, uh, have you tried any medications for it?
 
 P: Uhm, Yeah, I took an Advil this morning. It's taken the edge off a little bit. I will use that sometimes when I get headaches.
 
@@ -112,7 +112,7 @@ P: No, I haven't had anything like that.
 
 D: OK, and have you traveled outside of the country or outside of the province at all?
 
-P: No, I haven't. 
+P: No, I haven't.
 
 D: Have you been in contact with anyone that's been sick recently?
 
@@ -152,7 +152,7 @@ P: Just kind of all over, my whole body just kind of feels a bit achy.
 
 D: OK, and when did this start?
 
-P: Yeah, probably like last night, this morning when I was laying down and just felt a bit tired and achy? 
+P: Yeah, probably like last night, this morning when I was laying down and just felt a bit tired and achy?
 
 D: OK. Has your sleep or appetite changed at all?
 
@@ -164,7 +164,7 @@ P: No, I don't take any medications.
 
 D: OK, and have you had any surgeries or have been hospitalized before?
 
-P: I did have tubes in my ears when I was little, but that's it though. 
+P: I did have tubes in my ears when I was little, but that's it though.
 
 D: OK. Any family history of any heart or lung conditions?
 
@@ -184,7 +184,7 @@ P: I do, yeah I work at a car factory nearby, just on the assembly line.
 
 D: And have you been off of work right now, with your symptoms? How is that going?
 
-P: Oh yeah, just like these last two days I called in and I let them know and I left work early yesterday when I realized that I was feeling sick and didn't go in this morning. 
+P: Oh yeah, just like these last two days I called in and I let them know and I left work early yesterday when I realized that I was feeling sick and didn't go in this morning.
 
 D: OK, uh, and what's your living situation like?
 
@@ -196,7 +196,7 @@ P: No, they've been good. My wife works from home and my son, he's been his play
 
 D: OK, that's good. OK, last few questions. Do you smoke at all?
 
-P: No, I don't. 
+P: No, I don't.
 
 D: Do you use any recreational drugs like marijuana?
 

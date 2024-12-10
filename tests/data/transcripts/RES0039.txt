@@ -1,6 +1,6 @@
 D: I just wanted to start with what brings you here today to the family clinic?
 
-P: Hi, this morning I read after I woke up by I coughed up some phlegm and there was some blood in it and it it totally scared me. 
+P: Hi, this morning I read after I woke up by I coughed up some phlegm and there was some blood in it and it it totally scared me.
 
 D: OK, and was this the first time that happened?
 
@@ -12,7 +12,7 @@ P: Uh yeah, I have, uh, had a cough recently leading up to this.
 
 D: OK, and how long have you had the cough for?
 
-P: Uhm, I've had it for uhm, yeah, about about four weeks. 
+P: Uhm, I've had it for uhm, yeah, about about four weeks.
 
 D: Wow, four weeks. OK. Do you know if you did anything prior to that, any new exposures or being around someone ill like anything like that that might have caused your cough?
 
@@ -28,7 +28,7 @@ P: Yeah, there were definitely some people around that I heard of who who mentio
 
 D: OK. And the cough that you've been having for the last four weeks at, is it like a wet cough? Are you producing any sputum or phlegm, or is it more of a dry cough?
 
-P: Uh, I have been producing some phlegm, um, but it's been just kind of white, yellowish. 
+P: Uh, I have been producing some phlegm, um, but it's been just kind of white, yellowish.
 
 D: Up until this morning?
 
@@ -38,7 +38,7 @@ D: OK. And how much blood was in the phlegm? Was it like a significant amount it
 
 P: Um it was pretty red. It, ah, yeah it was bright red and it was covering the, the issue.
 
-D: OK and have you had any similar episodes before? 
+D: OK and have you had any similar episodes before?
 
 P: I've never brought up blood before.
 
@@ -52,7 +52,7 @@ P: Uhm, it's been pretty severe through throughout the day. I've been just cough
 
 D: OK, anything that makes your coughing go away or makes it worse at all?
 
-P: Not-nothing seems to help. I've tried various over the counter medications and and stuff for, for cough and nothing has seemed to help it. 
+P: Not-nothing seems to help. I've tried various over the counter medications and and stuff for, for cough and nothing has seemed to help it.
 
 D: OK, and are you having any other symptoms at all, like shortness of breath, sore throat, runny nose, anything like that?
 
@@ -60,7 +60,7 @@ P: Uhm, nothing like like that. I mean the back of my throat, might feel a littl
 
 D: OK. Are you having any headaches or nausea or vomiting?
 
-P: Nothing like, well, a little bit of nausea maybe, but no vomiting. 
+P: Nothing like, well, a little bit of nausea maybe, but no vomiting.
 
 D: OK. How often you getting nausea?
 
@@ -80,7 +80,7 @@ P: No, I haven't measured my temperature yet.
 
 D: OK. Have you noticed at all, uh, any increased fatigue throughout the day?
 
-P: Yeah, but I've definitely been more more tired. I haven't been able to concentrate on, umm, on my schoolwork. 
+P: Yeah, but I've definitely been more more tired. I haven't been able to concentrate on, umm, on my schoolwork.
 
 D: OK. And, um, have you been having any shortness of breath?
 
@@ -88,7 +88,7 @@ P: Just after the, like coughing really, but otherwise, ah, no.
 
 D: Any chest pain?
 
-P: No chest pain. 
+P: No chest pain.
 
 D: Any feeling that your heart is racing?
 
@@ -96,7 +96,7 @@ P: No, nothing like that.
 
 D: OK, any swelling in your limbs at all?
 
-P: No. 
+P: No.
 
 D: Ok. Any loss of sense of taste or smell?
 
@@ -130,7 +130,7 @@ D: OK, and have you had any recent exposure to any fumes or dust or animals?
 
 P: Uh, no, my my parents have a dog at home, but I've been away at school, so.
 
-D: OK. OK, uh, in terms of your overall health, have you been diagnosed with any medical conditions before? 
+D: OK. OK, uh, in terms of your overall health, have you been diagnosed with any medical conditions before?
 
 P: Uh, no, I'm uh, healthy.
 
@@ -144,7 +144,7 @@ P: Uh. Yeah, I take an oral contraceptive pill.
 
 D: OK um, and when did you start that?
 
-P: Probably about five years ago. 
+P: Probably about five years ago.
 
 D: OK. Do you have any allergies, to any medications or any environmental allergies at all?
 
@@ -156,7 +156,7 @@ P: No, I've never been in the hospital before.
 
 D: OK, any previous surgery? So you said you had the appendix removed but anything else?
 
-P: Uh, no the appendix was the only thing. 
+P: Uh, no the appendix was the only thing.
 
 D: OK. Any family history of asthma or any lung conditions? Any cancers that run in the family?
 
@@ -164,13 +164,13 @@ P: Um, yeah but well, my grandfather had lung cancer, but he smoked for his enti
 
 D: OK, any heart attacks in the family or any autoimmune conditions?
 
-P: No. 
+P: No.
 
 D: OK, and currently what is your living situation like?
 
 P: So I live with uh, four roommates here going to school.
 
-D: OK, and so do you work right now or you just a student right now? 
+D: OK, and so do you work right now or you just a student right now?
 
 P: Just a student.
 
@@ -208,6 +208,6 @@ P: OK, thank you.
 
 D: We'll also get some blood work done as well, so that'll be done before your next appointment.
 
-P: Alright, that sounds good. Thank you. 
+P: Alright, that sounds good. Thank you.
 
 D: You're welcome.

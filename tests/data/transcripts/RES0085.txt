@@ -22,19 +22,19 @@ D: OK, any blood in there?
 
 P: No, I haven't notice any blood.
 
-D: Does he sound wheezy? 
+D: Does he sound wheezy?
 
 P: Uh no, it's mainly just the grunting.
 
-D: OK, OK, does he look swollen to you? 
+D: OK, OK, does he look swollen to you?
 
 P: Uh, swollen as in just, uh, like in his.
 
 D: In his, uh, like uh, legs, arms or belly area.
 
-P: No, I don't think so. 
+P: No, I don't think so.
 
-D: No ok, and uh, does he have a runny nose or a stuffy nose? 
+D: No ok, and uh, does he have a runny nose or a stuffy nose?
 
 P: No, I don't think so.
 
@@ -54,13 +54,13 @@ D: OK, OK, good. Have you noticed any changes to his bowel movements or urine?
 
 P: No, pretty much been the same.
 
-D: OK, is he throwing up at all? 
+D: OK, is he throwing up at all?
 
 P: Nope, just some spit ups, I don't know if that's, Just because of the coughing or if they're just spit ups, like, but nothing after eating.
 
 D: OK, OK, have you noticed any rashes on him?
 
-P: No, no rashes. 
+P: No, no rashes.
 
 D: OK, uhm, has he had any fainting spells or seizures?
 
@@ -78,7 +78,7 @@ D: OK, and is he an other-wise healthy baby?
 
 P: Yeah, so, uh, healthy but he was born premature at 36 weeks.
 
-D: OK. 
+D: OK.
 
 P: And no complications really with the pregnancy or after he was born. But yeah, he was premature.
 
@@ -96,7 +96,7 @@ P: No, nothing like that.
 
 D: OK, and is he up to date with all his immunizations?
 
-P: Yeah, the two months vaccinations are all up to date. 
+P: Yeah, the two months vaccinations are all up to date.
 
 D: OK, good. Medication-wise is he on anything?
 
@@ -110,13 +110,13 @@ D: Any family history of lung conditions or heart conditions?
 
 P: No, not that we know of.
 
-D: OK, any cancers in the family? 
+D: OK, any cancers in the family?
 
 P: Nope.
 
 D: And who does he live with at home?
 
-P: Just me and my wife. 
+P: Just me and my wife.
 
 D: OK, uhm, in a house, apartment?
 
@@ -124,11 +124,11 @@ P: In a house.
 
 D: OK, any old carpets, mold, dust, asbestos, pets, anything like that at home?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, and does anyone at home smoke?
 
-P: Nope. 
+P: Nope.
 
 D: OK, well, those were all the questions I had for you. Did you have any questions of your own?
 

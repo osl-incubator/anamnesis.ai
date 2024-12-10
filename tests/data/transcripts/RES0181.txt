@@ -1,6 +1,6 @@
 D: How may I help you?
 
-P: Hi, umm, so I've had a sore throat for the past three days and it doesn't seem to be getting any better, and I've also had a fever. So, I thought I should get it checked out by you. 
+P: Hi, umm, so I've had a sore throat for the past three days and it doesn't seem to be getting any better, and I've also had a fever. So, I thought I should get it checked out by you.
 
 D: Yeah, for sure. So you said that the sore throat started three days ago. Has it been getting any better or any worse?
 
@@ -28,17 +28,17 @@ P: That started two days ago.
 
 D: OK, OK and did, did you check it?
 
-P: It was 38.8. 
+P: It was 38.8.
 
 D: OK. Alright, so yeah, certainly a fever. OK, and have you had any, uh, like any runny nose?
 
 P: No, not that I've noticed.
 
-D: How about any red eyes or itchy eyes or eye discharge? 
+D: How about any red eyes or itchy eyes or eye discharge?
 
 P: No.
 
-D: OK, how about any loss or changes to your sense of smell or taste? 
+D: OK, how about any loss or changes to your sense of smell or taste?
 
 P: No.
 
@@ -48,55 +48,55 @@ P: Um, no headaches, no.
 
 D: OK. How about any cough?
 
-P: No cough. 
+P: No cough.
 
 D: No coughing, OK. And how about any shortness of breath?
 
-P: No. 
+P: No.
 
 D: OK, have you had any wheezing?
 
-P: No. 
+P: No.
 
 D: How about any chest pain?
 
 P: No chest pain.
 
-D: Any fainting or dizziness? 
+D: Any fainting or dizziness?
 
 P: No.
 
 D: OK, and have you had any heart palpitations?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK. And so you don't you haven't had any cough, but have you had any instances of bringing up any sputum or or any blood?
 
-P: No. 
+P: No.
 
 D: OK. And have you had any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: Have you had any abdominal pain?
 
-P: No. 
+P: No.
 
 D: You had any diarrhea or, or constipation?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK. How about any urinary problems?
 
-P: Um, no, nothing like that. 
+P: Um, no, nothing like that.
 
-D: I see, OK. And any skin changes or rashes? 
+D: I see, OK. And any skin changes or rashes?
 
 P: No.
 
 D: Alright, any muscle aches or body pains?
 
-P: No. 
+P: No.
 
 D: And any, and how's your energy been? Have you had fatigue?
 
@@ -104,7 +104,7 @@ P: I have been, yeah, I've been tired.
 
 D: OK. And have you had any, have you been diagnosed with any medical conditions in the past?
 
-P: Um, I have type one diabetes. 
+P: Um, I have type one diabetes.
 
 D: OK, and uh, insulin wise, do you use a pump or is it like, how do you manage diabetes?
 
@@ -128,11 +128,11 @@ P: Uhm, no allergies.
 
 D: Any, and all your immunizations up to date?
 
-P: Ah, yes. 
+P: Ah, yes.
 
 D: OK. Uhm, and any hospitalizations or surgeries before?
 
-P: No. 
+P: No.
 
 D: OK, uh, and uh currently, are you in, in school or working?
 
@@ -172,7 +172,7 @@ P: Uhm, I tried once but I don't ever do it regularly.
 
 D: OK. And uh, and do you smoke cannabis or use cannabis products?
 
-P: Um, no, I never have tried. 
+P: Um, no, I never have tried.
 
 D: OK. And and is there a family history of any heart or or lung conditions?
 
@@ -188,7 +188,7 @@ P: No.
 
 D: OK. Have you been sexually active before?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK, so umm, OK. Uhm, so that was all the questions that, uhm that, that I wanted to ask, was there anything else that you wanted to umm, mention today?
 
@@ -206,12 +206,12 @@ D: OK, so it's just to kind of summarize, this happens like this sometimes you b
 
 P: Yes.
 
-D: OK, yeah. Um alright, so it's sounding like most likely this would be strep throat or, or Group A strep pharyngitis with, because you have no cough, and with a high fever and swelling that you've been redness that you notice in the back of your mouth. And so we'll do a rapid strep antigen test and it will require just a throat swab. To see, to to detect for that, however with a, uh, umm, yeah, I guess that's it. That's what I yeah, well, we'll start with with that now and it could potentially be something like uhm, a viral illness, but that's lower on the on the differential then the bacterial infection is right now. And because of COVID it will be, we'll do a swab as well because people can get fever and sore throat with with COVID as well. 
+D: OK, yeah. Um alright, so it's sounding like most likely this would be strep throat or, or Group A strep pharyngitis with, because you have no cough, and with a high fever and swelling that you've been redness that you notice in the back of your mouth. And so we'll do a rapid strep antigen test and it will require just a throat swab. To see, to to detect for that, however with a, uh, umm, yeah, I guess that's it. That's what I yeah, well, we'll start with with that now and it could potentially be something like uhm, a viral illness, but that's lower on the on the differential then the bacterial infection is right now. And because of COVID it will be, we'll do a swab as well because people can get fever and sore throat with with COVID as well.
 
 P: Ok.
 
 D: So just to make sure that we're being comprehensive.
 
-P: OK. That sounds good. Thank you so much. 
+P: OK. That sounds good. Thank you so much.
 
 D: Thank you.

@@ -26,10 +26,10 @@ D: OK. And when did you notice that the change?
 P: So I've had this shortness of breath like at first it was pretty mild. It started about, four months ago, but over the past month or so, it's been it's been worse.
 
 
-D: OK, so a bit so it's been going on for a bit of time now. 
+D: OK, so a bit so it's been going on for a bit of time now.
 
 
-P: Yeah, 
+P: Yeah,
 
 
 D: OK um. Do you, are you able to lie down flat without experiencing shorter breath?
@@ -38,7 +38,7 @@ D: OK um. Do you, are you able to lie down flat without experiencing shorter bre
 P: Yeah, I think so. I think that's fine.
 
 
-D: OK, um so so it sounds like no orthop is what they call it, and have you had any episodes where you wake up in the middle of the night and you're short of breath and you need to sit up an end to catch it? 
+D: OK, um so so it sounds like no orthop is what they call it, and have you had any episodes where you wake up in the middle of the night and you're short of breath and you need to sit up an end to catch it?
 
 
 P: Uh no.
@@ -47,13 +47,13 @@ P: Uh no.
 D: OK, and have you had any leg swelling?
 
 
-P: No. 
+P: No.
 
 
 D: OK. Any, you mentioned that you've had a cough as well. How long have you experienced a cough for?
 
 
-P: Uh, the cough also around the same time it started off pretty mild, but now I like I have it all the time. 
+P: Uh, the cough also around the same time it started off pretty mild, but now I like I have it all the time.
 
 
 D: OK, are you coughing up any sputum or any phlegm?
@@ -62,7 +62,7 @@ D: OK, are you coughing up any sputum or any phlegm?
 P: Uh no it's it's pretty dry.
 
 
-D: Are you coughing up any blood? 
+D: Are you coughing up any blood?
 
 
 P: No.
@@ -71,7 +71,7 @@ P: No.
 D: OK. And have you had any um wheezing?
 
 
-P: No wheezing. 
+P: No wheezing.
 
 
 D: OK. How how about any chest pain?
@@ -80,22 +80,22 @@ D: OK. How how about any chest pain?
 P: Uh no chest pain, I guess with the coughing 'cause I'm coughing so much it hurts but not chest pain in the sense like it's in the area of my heart or anything like that.
 
 
-D: OK, so does that. Like how would you describe it? Is it like sharp, achy, uh dull or pressure like? 
+D: OK, so does that. Like how would you describe it? Is it like sharp, achy, uh dull or pressure like?
 
 
 P: Um it's a. It's kind of like a tugging feeling.
 
 
-D: OK, um it does it go away after you're done coughing, 
+D: OK, um it does it go away after you're done coughing,
 
 
-P: Yeah. 
+P: Yeah.
 
 
 D: I see OK. And have you experienced any um any headaches?
 
 
-P: No, no headaches. 
+P: No, no headaches.
 
 
 D: OK, how about any um? Like eye redness or eye discharge?
@@ -103,7 +103,7 @@ D: OK, how about any um? Like eye redness or eye discharge?
 
 P: No.
 
- 
+
 D: any ear pain or your discharge?
 
 
@@ -113,25 +113,25 @@ P: No.
 D: How about any changes to vision or hearing?
 
 
-P: No. 
+P: No.
 
 
-D: OK. Have you had a runny nose or sore throat? 
+D: OK. Have you had a runny nose or sore throat?
 
 
-P: No. 
+P: No.
 
 
-D: OK, how about um any changes to or have you had any loss of smell or any loss of taste? 
+D: OK, how about um any changes to or have you had any loss of smell or any loss of taste?
 
 
-P: No. 
+P: No.
 
 
 D: OK. And have you had a loss of appetite?
 
 
-P: No. 
+P: No.
 
 
 D: OK, and have you had any unexpected weight loss over the last several months?
@@ -143,16 +143,16 @@ P: Um I have had some weight loss actually. About 15 pounds over the past six mo
 D: OK, and have you been trying to lose weight?
 
 
-P: No. 
+P: No.
 
 
 D: OK. Um have you had any fevers?
 
 
-P: No. 
+P: No.
 
 
-D: Have you had any chills? 
+D: Have you had any chills?
 
 
 P: No.
@@ -161,22 +161,22 @@ P: No.
 D: Have you had any night sweats?
 
 
-P: No. 
+P: No.
 
 
 D: OK. Um and have you had any heart palpitations or feeling like your heart's racing?
 
 
-P: No. 
+P: No.
 
 
-D: Have you had any fainting or lightheadedness or dizziness? 
+D: Have you had any fainting or lightheadedness or dizziness?
 
 
 P: Um no.
 
 
-D: OK. Um have you had any abdominal pain? 
+D: OK. Um have you had any abdominal pain?
 
 
 P: No.
@@ -185,7 +185,7 @@ P: No.
 D: Have you had any nausea or vomiting?
 
 
-P: Uh no. 
+P: Uh no.
 
 
 D: have you had any diarrhea or constipation.
@@ -194,7 +194,7 @@ D: have you had any diarrhea or constipation.
 P: No.
 
 
-D: And, have you had any skin rashes? 
+D: And, have you had any skin rashes?
 
 
 P: No.
@@ -203,10 +203,10 @@ P: No.
 D: Have you had any muscle aches or joint pains?
 
 
-P: No. 
+P: No.
 
 
-D: And have you had any ah confusion or memory loss? 
+D: And have you had any ah confusion or memory loss?
 
 
 P: Uh No.
@@ -218,7 +218,7 @@ D: OK, OK, and how is your energy been uh recently have you had any fatigue or m
 P:  Um no.
 
 
-D: OK, alright so it sounds like this this dry cough and then and shortness of breath it is mostly what you been um experiencing and have you been diagnosed with any medical conditions? 
+D: OK, alright so it sounds like this this dry cough and then and shortness of breath it is mostly what you been um experiencing and have you been diagnosed with any medical conditions?
 
 
 P: Ah I have uhm a COPD.
@@ -230,19 +230,19 @@ D: OK, um and do you use uh any medications or any inhalers?
 P: Um know it's very mild. I it’s yeah, so I haven't really. I was just recently diagnosed so uhm I haven't been started on any medications just yet.
 
 
-D: OK, did you, do I I pulmonary function tests where you're breathing into a tube, 
+D: OK, did you, do I I pulmonary function tests where you're breathing into a tube,
 
 
 P: yeah
 
 
-D:  Alright. Yeah, and uhm do you have any allergies? 
+D:  Alright. Yeah, and uhm do you have any allergies?
 
 
 P: No.
 
 
-D: Um and have you had any hospitalizations or any previous surgeries? 
+D: Um and have you had any hospitalizations or any previous surgeries?
 
 
 P: No.
@@ -254,10 +254,10 @@ D: OK and could you tell me a little bit about your living situation? Like where
 P: I live in a house with my husband.
 
 
-D: OK, and has your husband been sick or anybody you've been around been sick? 
+D: OK, and has your husband been sick or anybody you've been around been sick?
 
 
-P: No. 
+P: No.
 
 
 D: OK. And are you currently working?
@@ -296,7 +296,7 @@ D: Oh congratulations, it's not easy to quit.
 P: Thank you.
 
 
-D: Uh and do you drink alcohol? 
+D: Uh and do you drink alcohol?
 
 
 P: Uh once in a while? I’ll have a glass of wine once a week.
@@ -311,25 +311,25 @@ P: Um no I don't.
 D: OK. Um and uh are there any heart or lung conditions that run in the family?
 
 
-P: Uh no. 
+P: Uh no.
 
 
 D: OK, are there any cancers that are in the family? Like anybody who's had lung cancer?
 
 
-P: Um. No, not that I can think of. 
+P: Um. No, not that I can think of.
 
 
 D: OK. And um have you traveled anywhere recently?
 
 
-P: No. 
+P: No.
 
 
 D: OK, and are you currently sexually  active?
 
 
-P: I am. 
+P: I am.
 
 
 D: OK um and can you tell me about your partner or partners? Is it's at your husband or um anyone else?
@@ -338,10 +338,10 @@ D: OK um and can you tell me about your partner or partners? Is it's at your hus
 P: Just my husband yeah.
 
 
-D: OK and any concerns for ah sexually transmitted infection? 
+D: OK and any concerns for ah sexually transmitted infection?
 
 
-P: No. 
+P: No.
 
 
 D: OK. And I think that was everything that I wanted to ask on history today. Um was there anything else that you wanted to add that I maybe forgot about?
@@ -350,9 +350,9 @@ D: OK. And I think that was everything that I wanted to ask on history today. Um
 P: Um no that was it, but how like what can I take to make these symptoms go away?
 
 
-D: Well yeah, so at this time It will be important to get some lung imaging and and possibly, some other investigations as well because of your exposure uh to inhalants and fumes, and possibly asbestos. So I’m concerned there could be possibly an asbestos related lung illness that that you have. Um and so it will be important to investigate for, yeah possibly a asbestos related lung cancer, 
+D: Well yeah, so at this time It will be important to get some lung imaging and and possibly, some other investigations as well because of your exposure uh to inhalants and fumes, and possibly asbestos. So I’m concerned there could be possibly an asbestos related lung illness that that you have. Um and so it will be important to investigate for, yeah possibly a asbestos related lung cancer,
 
-P: OK? 
+P: OK?
 
 
 D: Yeah.

@@ -24,15 +24,15 @@ P: Um a little bit uh but I think that's just because I try not to talk as much 
 
 D: OK, OK and uh have you had a runny nose?
 
-P: No, no runny nose. 
+P: No, no runny nose.
 
 D: Uh a cough?
 
-P: No. 
+P: No.
 
 D: OK. Have you had any difficulties breathing?
 
-P: No. 
+P: No.
 
 D: Any chest pain?
 
@@ -48,31 +48,31 @@ P: Um no headaches.
 
 D: Do you feel like you've been confused or just feeling not yourself?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. Any uh changes in your hearing or your vision?
 
-P: No. 
+P: No.
 
 D: OK, any um and do you feel like your heart's beating very fast?
 
-P: Uh no. 
+P: Uh no.
 
 D: Do you feel short of breath?
 
 P: Nope.
 
-D: Any uh belly pain? 
+D: Any uh belly pain?
 
 P: No.
 
 D: Any nausea or vomiting?
 
-P: Uh no. 
+P: Uh no.
 
 D: OK, any diarrhea or constipation?
 
-P: No. 
+P: No.
 
 D: Any fatigue?
 
@@ -84,7 +84,7 @@ P: No weight loss, no.
 
 D: Uh and uh do you have any medical conditions?
 
-P: Uhm no, I don't think so. 
+P: Uhm no, I don't think so.
 
 D: OK, are you up to date with your immunizations?
 
@@ -94,7 +94,7 @@ D: OK OK, um OK, any uh, did you get the flu shot?
 
 P: Oh, I didn't get that this year.
 
-D: OK, well we recommend that you you get your vaccines and um also the uh HPV vaccine. Um it's it's best to get the HPV vaccine earlier on. It's a little bit less effective as you um go past a certain age, you are still obviously nowhere close to that, but it's,  I I don't believe it's covered after the age of 26 either, so it's best if you get it done earlier. And let's go back to your symptoms, then. Have you had any surgeries? 
+D: OK, well we recommend that you you get your vaccines and um also the uh HPV vaccine. Um it's it's best to get the HPV vaccine earlier on. It's a little bit less effective as you um go past a certain age, you are still obviously nowhere close to that, but it's,  I I don't believe it's covered after the age of 26 either, so it's best if you get it done earlier. And let's go back to your symptoms, then. Have you had any surgeries?
 
 P: Uhm, I got my appendix removed when I was 13.
 
@@ -110,15 +110,15 @@ D: And uhm are you um are you currently living alone or do you live with someone
 
 P: I live with my parents and my two siblings.
 
-D: And uh do you feel safe at home? 
+D: And uh do you feel safe at home?
 
-P: Yes. 
+P: Yes.
 
 D: OK. Are you um currently sexually active?
 
 P: No.
 
-D: OK. Um do you plan on being sexually active in the near future? 
+D: OK. Um do you plan on being sexually active in the near future?
 
 P: Uh no, not before I finish high school.
 
@@ -130,9 +130,9 @@ D: OK, do you smoke?
 
 P: No.
 
-D: Have you tried marijuana or any recreational drugs? 
+D: Have you tried marijuana or any recreational drugs?
 
-P: I haven't. 
+P: I haven't.
 
 D: OK. Are things going well at, are you in school right now?
 
@@ -142,25 +142,25 @@ D: OK. Are things going well?
 
 P: Yes, I would say so.
 
-D: Any bullying uh at school? 
+D: Any bullying uh at school?
 
 P: No.
 
 D: OK, any um any any concerns about depression or anxiety?
 
-P: No. 
+P: No.
 
-D: OK OK alright and uh you uh traveled anywhere recently? 
+D: OK OK alright and uh you uh traveled anywhere recently?
 
-P: No, I've been um just at school and home. 
+P: No, I've been um just at school and home.
 
 D: So it's not it's not virtual, it's in person?
 
-P: So half the day is in person and the other half is virtual. 
+P: So half the day is in person and the other half is virtual.
 
 D: OK and are you maintaining social distancing at school, wearing a mask?
 
-P: Yeah we do, except sometimes I guess like I don't know if you have to drink water or something, we take it off. 
+P: Yeah we do, except sometimes I guess like I don't know if you have to drink water or something, we take it off.
 
 D: Yeah, sure, OK. Um and uhm, I suppose just um OK. What was I gonna ask? Um do you uh, so no travels, OK. Do you feel like you've been in contact with someone who might be sick or might have Covid?
 

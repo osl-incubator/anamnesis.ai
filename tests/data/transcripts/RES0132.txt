@@ -4,13 +4,13 @@ P: Yeah hi, um, I have been coughing nonstop for the past three days, and today 
 
 D: Yeah, for sure. And, so you said the cough started uh, three days ago. Were there any triggers to the cough or anything that, uh that changed three days ago?
 
-P: No, nothing that I can think of um, I have, like the only thing that I've been doing is going to the grocery stores, uh the bank, and laundromat. Um, and once I ran all these errands, like, I just started having this coughing fit that hasn't stopped. 
+P: No, nothing that I can think of um, I have, like the only thing that I've been doing is going to the grocery stores, uh the bank, and laundromat. Um, and once I ran all these errands, like, I just started having this coughing fit that hasn't stopped.
 
 D: Okay, uh, has the cough gotten any better, or stayed the same, or gotten worse these past three days?
 
-P: Uh, it seems like it's getting worse. 
+P: Uh, it seems like it's getting worse.
 
-D: Okay, are you bringing up any uh, sputum or phlegm? 
+D: Okay, are you bringing up any uh, sputum or phlegm?
 
 P: Um yes, it's yellow.
 
@@ -20,7 +20,7 @@ P: Um no, this has happened to me before, um, like I don't know, like maybe a ye
 
 D: Okay. Um, and uh, have you seen any blood in the sputum?
 
-P: No, no blood. 
+P: No, no blood.
 
 D: Okay. Um, and you mentioned you've been short of breath as well. Uh, how has that come on?
 
@@ -32,21 +32,21 @@ P: Um no, no.
 
 D: Okay. And have you had any shortness of breath after, like if you lie down flat?
 
-P: Um, no, not that I've noticed 
+P: Um, no, not that I've noticed
 
-D: All right, and have you had a wheeze? 
+D: All right, and have you had a wheeze?
 
 P: A little bit, yeah.
 
 D: Okay um, uh, and have you had any um, infectious-like symptoms such as like red eyes, runny nose, or, or a sore throat?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: Okay, um, have you had any, any chest pain?
 
-P: Nope, nothing like that. 
+P: Nope, nothing like that.
 
-D: Have you had any lightheadedness or, or feeling dizzy? 
+D: Have you had any lightheadedness or, or feeling dizzy?
 
 P: No.
 
@@ -60,15 +60,15 @@ P: No, not that I've noticed.
 
 D: Have you had any night sweats?
 
-P: No. 
+P: No.
 
 D: And how has your weight been over the last several months? Have you had any weight loss or gain?
 
-P: Uh no, it's been pretty stable. 
+P: Uh no, it's been pretty stable.
 
 D: Okay. Um, and have you had any abdominal pain?
 
-P: Um, no. 
+P: Um, no.
 
 D: Any diarrhea?
 
@@ -76,11 +76,11 @@ P: No.
 
 D: Or any urinary problems?
 
-P: No. 
+P: No.
 
-D: Okay. Um, and in the past um, oh sorry, before that, have you had any nausea or, or vomiting? 
+D: Okay. Um, and in the past um, oh sorry, before that, have you had any nausea or, or vomiting?
 
-P: No. 
+P: No.
 
 D: Okay. Uh, and any confusion or, or changes to um, um memory?
 
@@ -88,11 +88,11 @@ P: No.
 
 D: Okay, uh, or loss of taste or sense of smell?
 
-P: Uh no. 
+P: Uh no.
 
 D: Okay uh, so the, you've been experiencing this cough that's been getting worse over the last couple of days, as well as bringing up some yellow sputum, um, and been short of breath. Have you been experiencing any other symptoms?
 
-P: No, that's pretty much it. 
+P: No, that's pretty much it.
 
 D: Okay. Um, and in the past, have you um, been diagnosed with any medical conditions?
 
@@ -116,7 +116,7 @@ P: Um, no none. None, yeah.
 
 D: Okay. Um, and uh, are your immunizations up to date?
 
-P: Yes, I believe so. 
+P: Yes, I believe so.
 
 D: Okay, um and have you had any surgeries or, or um, hospitalizations?
 
@@ -144,23 +144,23 @@ P: Oh, for like 40-plus years um, I used to smoke a pack a day.
 
 D: Okay, well that's great that uh, that you quit, so congratulations.
 
-P: Thank you. 
+P: Thank you.
 
 D: And do you drink alcohol?
 
 P: I drink once in a while. Like maybe every other day, I'll have a glass of wine.
 
-D: Okay, and um, uh anybody, or sorry, have you been around anybody who's been sick recently? 
+D: Okay, and um, uh anybody, or sorry, have you been around anybody who's been sick recently?
 
 P: Uh no.
 
-D: You said you went to the stores and stuff like that. 
+D: You said you went to the stores and stuff like that.
 
 P: Yeah, maybe from there, yeah.
 
 D: Okay, and have you traveled anywhere else, outside of the city?
 
-P: Um, not recently, no. 
+P: Um, not recently, no.
 
 D: Alright, um, and any exposures to any like dust, chemicals, things like that?
 
@@ -170,7 +170,7 @@ D: Okay, uh, and are you working currently or, or retired?
 
 P: I'm retired.
 
-D: Okay, well, what did you do before? 
+D: Okay, well, what did you do before?
 
 P: I used to work uh, on the assembly line for Chrysler.
 

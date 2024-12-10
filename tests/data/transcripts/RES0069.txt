@@ -1,6 +1,6 @@
 D: Would you mind by starting to tell me what brought you in?
 
-P: Yeah, absolutely. Uhm, I don't know, I've just been feeling a little feverish, uhm, and I also have a, a bit of a sore throat. 
+P: Yeah, absolutely. Uhm, I don't know, I've just been feeling a little feverish, uhm, and I also have a, a bit of a sore throat.
 
 D: OK, when...
 
@@ -8,15 +8,15 @@ P: I just came in, I just came in to see what's going on, cause I was worried, y
 
 D: Certainly, when did the, the sore throat start?
 
-P: Last night actually. 
+P: Last night actually.
 
 D: OK.
 
-P: Yeah. 
+P: Yeah.
 
 D: And uhm, have you had any, uhm, problems with swallowing, like food or liquids?
 
-P: No, I don't think so. I just had breakfast this morning and no problems there. 
+P: No, I don't think so. I just had breakfast this morning and no problems there.
 
 D: OK, uh, any like, changes that, uhm, other symptoms that you've been having with the sore throat?
 
@@ -40,11 +40,11 @@ P: No, neither of those.
 
 D: OK, have you had a headache?
 
-P: No. 
+P: No.
 
 D: OK, uh, and have you had any shortness of breath?
 
-P: I don't think so. 
+P: I don't think so.
 
 D: OK, and how about any loss of taste or loss of smell?
 
@@ -56,7 +56,7 @@ P: I guess yeah, now that I think about it.
 
 D: OK, uh, and how has your appetite been?
 
-P: It's alright. 
+P: It's alright.
 
 D: OK, and so you haven't had any cough or shortness of breath, but have you noticed any wheezing?
 
@@ -70,7 +70,7 @@ D: Have you felt as though your hearts's been racing at all or, or beating out o
 
 P: No.
 
-D: OK, have you been dizzy or lightheaded? 
+D: OK, have you been dizzy or lightheaded?
 
 P: No.
 
@@ -96,7 +96,7 @@ P: Sort of, like I just, I found it really hard to get out of bed this morning.
 
 D: OK. How has your energy been? Have you been, like really fatigued?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK, and when did, uh, you said the muscle ache started this morning, uhm, how, when did the fatigue start?
 
@@ -118,7 +118,7 @@ D: OK, and are you taking any medications regularly?
 
 P: No, no, I'm not. It's not bad. I sometimes just take like, Advil whenever my headache's coming on.
 
-D: OK. Any allergies? 
+D: OK. Any allergies?
 
 P: Uh, nope.
 
@@ -126,11 +126,11 @@ D: OK. And do you smoke cigarettes?
 
 P: I smoke, uh, two or three a day.
 
-D: OK, and have you tried to quit? 
+D: OK, and have you tried to quit?
 
 P: No.
 
-D: OK, if at any point this is something that you wanted to talk about, we, we certainly could later. 
+D: OK, if at any point this is something that you wanted to talk about, we, we certainly could later.
 
 P: sure.
 
@@ -142,7 +142,7 @@ D: OK, and do you use any other recreational drugs?
 
 P: No, no, no, nothing like that.
 
-D: OK, have you in the past? 
+D: OK, have you in the past?
 
 P: No.
 
@@ -156,7 +156,7 @@ P: But no, nothing, nothing else. I've just been at home for the most part.
 
 D: OK, have you traveled traveled anywhere?
 
-P: No. 
+P: No.
 
 D: OK, and, uh, does your granddaughter go to daycare? Or is she in school?
 
@@ -200,4 +200,4 @@ P: OK, sounds good.
 
 D: All right, we'll get that started.
 
-P: Great. 
+P: Great.

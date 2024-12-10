@@ -23,7 +23,7 @@ P: It's been pretty consistent, yeah.
 
 D: OK. And did this dry cough that start at the same time?
 
-P: Yes. 
+P: Yes.
 
 D: And when you say sorry, you said mild cough, and I my next question was do you feel like it's a dry cough or you producing any sputum? Any blood? Or is it to not, not bringing up anything?
 
@@ -41,11 +41,11 @@ D: OK, OK. Have you had, in addition to these symptoms, have you had any fevers?
 
 P: Fevers, no fevers.
 
-D: OK, any difficulty breathing? 
+D: OK, any difficulty breathing?
 
 P: No.
 
-D: OK, any headaches? 
+D: OK, any headaches?
 
 P: Um no, no headaches.
 
@@ -53,15 +53,15 @@ D: OK, any sore throat?
 
 P: No.
 
-D: OK, any chills or night sweats? 
+D: OK, any chills or night sweats?
 
 P: No.
 
 D: OK, any muscle ache or general weakness?
 
-P: Uh no. 
+P: Uh no.
 
-D: OK, so generally it seems like you're pretty well other than this loss of taste slash smell and the dry cough that correct, 
+D: OK, so generally it seems like you're pretty well other than this loss of taste slash smell and the dry cough that correct,
 
 P: Yes.
 
@@ -79,9 +79,9 @@ P: Yeah, it was like half an hour from where we are.
 
 D: OK. Are your immunizations up to date?
 
-P: Yes. 
+P: Yes.
 
-D: OK, and can you think of any for this dry cough, just a circle back to that. Can you think of anything that triggers it? It's called the cold or being around certain things like cats or dogs or any other environmental things? 
+D: OK, and can you think of any for this dry cough, just a circle back to that. Can you think of anything that triggers it? It's called the cold or being around certain things like cats or dogs or any other environmental things?
 
 P: No.
 
@@ -89,11 +89,11 @@ D: OK. Have you had any chest pain? Thats the other thing . I'm not sure if I as
 
 P: No no chest pain.
 
-D: OK. And in terms of your general health, do you? Do you have any chronic conditions that you live with? 
+D: OK. And in terms of your general health, do you? Do you have any chronic conditions that you live with?
 
 P: Um no no.
 
-D: Do you take any medications? 
+D: Do you take any medications?
 
 P: No.
 
@@ -101,7 +101,7 @@ D: OK, have you ever had any surgery or been hospitalized for another reason?
 
 P: Um no.
 
-D: Do you have any allergies? 
+D: Do you have any allergies?
 
 P: No allergies.
 
@@ -111,13 +111,13 @@ P: No, nothing like that.
 
 D: OK. And just in terms of free lifestyle, so do you live with family?
 
-P: Um no. 
+P: Um no.
 
-D: OK, do you read along with a partner or roommate? 
+D: OK, do you read along with a partner or roommate?
 
 P: I live with my parents and my younger sibling.
 
-D: OK. And is that in town here? 
+D: OK. And is that in town here?
 
 P: Yes, yeah.
 
@@ -125,37 +125,37 @@ D: OK. And in general, do you eat a healthy diet? Do you exercise?
 
 P: Yeah, I think so.
 
-D: Do you smoke? 
+D: Do you smoke?
 
 P: Uh no.
 
 D: OK, do you drink alcohol?
 
-P: Uh I I have drank alcohol before but not not regularly. 
+P: Uh I I have drank alcohol before but not not regularly.
 
 D: OK um. And I do use marijuana?
 
 P: Um I have taken edibles before but also not very regularly.
 
-D: OK, any other drugs? 
+D: OK, any other drugs?
 
 P: No.
 
-D: OK, and are you currently in high school? 
+D: OK, and are you currently in high school?
 
 P: Uh yes, I am in my last year of high school.
 
-D: OK, and how is that going? 
+D: OK, and how is that going?
 
 P: Pretty good, yeah, we're doing things online now.
 
-D: So you haven't really been out of the house? 
+D: So you haven't really been out of the house?
 
 P: No.
 
 D: OK. OK. Uhm I think that's all my questions for now. Uh I definitely like to get you a covid test just because your symptoms are consistent with some common covid symptoms. So basically that means that we would do a swab. It might not come back for a day or two. You definitely have to self isolate between now and when you get the results back, potentially even if it's negative, longer, if you're still having symptoms.
 
-P: Yeah. 
+P: Yeah.
 
 D: Otherwise, there probably. There might be a couple other tests we want to do. We might have more questions when we come back, we'll go over this with the doctor that I'm working with today, but just wanted to give you a heads up of what to expect next. Did you have anything else you wanted to tell me that I didn't ask you about or any questions?
 
@@ -163,6 +163,6 @@ P: No, uh thank you so much.
 
 D: OK, well thanks for coming in today. Will definitely get you taken care of shortly.
 
-P: Thank you. 
+P: Thank you.
 
 D: K thanks.

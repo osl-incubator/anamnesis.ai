@@ -1,6 +1,6 @@
 D: I was wondering if you could start by telling me what brought you into the emergency Department.
 
-P: So I came to the emergency Department because I've been having pain in my chest. 
+P: So I came to the emergency Department because I've been having pain in my chest.
 
 D: OK, where is the pain located?
 
@@ -62,9 +62,9 @@ D: Do you feel as though your heart's racing?
 
 P: I would say like in the last hour a little bit more so than usual.
 
-D: OK. Any skin changes or or rashes you've noticed? 
+D: OK. Any skin changes or or rashes you've noticed?
 
-P: Besides, just I got some scrapes here and there on my hands, but nothing else. 
+P: Besides, just I got some scrapes here and there on my hands, but nothing else.
 
 D: OK, and do you have a cough?
 
@@ -78,7 +78,7 @@ D: OK, and uh, any dizziness?
 
 P: Um no.
 
-D: Alright, and I know you mentioned the few scratches on your hands, but any other injuries? 
+D: Alright, and I know you mentioned the few scratches on your hands, but any other injuries?
 
 P: Oh no, I I think I got a pretty lucky.
 
@@ -106,13 +106,13 @@ D: Any allergies to medications?
 
 P: Oh, just sometimes when I take like a nasal spray I think I might have an allergy to the steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them.
 
-D: OK. Uh, and any hospitalizations? 
+D: OK. Uh, and any hospitalizations?
 
 P: No, never.
 
 D: Any surgeries?
 
-P: Nope. 
+P: Nope.
 
 D: OK. Anybody in the family who have any illnesses?
 
@@ -126,9 +126,9 @@ D: OK, and do you smoke?
 
 P: I smoke around like I'd say 2 and a half to 3 packs per day. I know it's. Yeah, I have tried quitting before, but I would say I've been smoking since I was 18.
 
-D: OK, and do you smoke marijuana? 
+D: OK, and do you smoke marijuana?
 
-P: No, no, no marijuana, no other drugs. 
+P: No, no, no marijuana, no other drugs.
 
 D: OK, and do you drink alcohol?
 

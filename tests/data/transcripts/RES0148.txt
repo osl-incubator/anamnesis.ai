@@ -1,4 +1,4 @@
-D: How may I help you? 
+D: How may I help you?
 
 P: Hi, I've had um I've had a cough for the past um three days and uh I also developed a fever, um I think, so I checked it yesterday night, it was um 38. And uh I just decided to uh come into the walk in clinic just to um just to get myself checked out.
 
@@ -6,15 +6,15 @@ D: Yeah certainly, it it sounds like you um have had a fever as well, so uh with
 
 P: It's gotten a little bit better, I'd say.
 
-D: OK, that's good. Um and and prior to three days ago, um did you have a cough before or was it a new new cough? 
+D: OK, that's good. Um and and prior to three days ago, um did you have a cough before or was it a new new cough?
 
 P: It's a new cough.
 
 D: Alright, and uh are you bringing up any sputum?
 
-P: No. 
+P: No.
 
-D: Um are you bringing up any blood? 
+D: Um are you bringing up any blood?
 
 P: No.
 
@@ -32,23 +32,23 @@ P: Uhm, no.
 
 D: OK, um and so you mentioned um, with a fever have have you had any chills?
 
-P: Yeah I did. Um I had the chills yesterday. 
+P: Yeah I did. Um I had the chills yesterday.
 
-D: OK. And have you had any night sweats? 
+D: OK. And have you had any night sweats?
 
 P: Uhm, no.
 
 D: Alright, and um have you had any eye redness, runny nose, or even a sore throat?
 
-P: No, I haven't. 
+P: No, I haven't.
 
 D: Alright, have you had any uh nausea or vomiting?
 
-P: Uh no. 
+P: Uh no.
 
 D: Uh a loss of taste or loss of smell?
 
-P: No. 
+P: No.
 
 D: OK and any um abdominal pains?
 
@@ -56,13 +56,13 @@ P: Uhm, no.
 
 D: Any uh diarrhea?
 
-P: No. 
+P: No.
 
 D: You got any urinary problems?
 
 P: No.
 
-D: OK, and have you had any skin changes or uh rashes? 
+D: OK, and have you had any skin changes or uh rashes?
 
 P: No.
 
@@ -76,7 +76,7 @@ P: Uhm, not much. No, but yeah, it's just I've been feeling, yeah, I guess a lit
 
 D: OK. Uh so you've had um this cough, a dry cough, a fever, chills, and uh been more tired and and been a little bit more achy these past uh three days. Have you had any other symptoms?
 
-P: I don't think so. 
+P: I don't think so.
 
 D: OK, and have you tried anything to make it better?
 
@@ -90,7 +90,7 @@ D: OK, and in the past have you been uh diagnosed with any medical conditions?
 
 P: I have fibromyalgia and uh I um also have schizophrenia.
 
-D: OK, and are you taking medications currently? 
+D: OK, and are you taking medications currently?
 
 P: Uh yeah. Uhm, I take um quetiapine and uh I just I take Advil um when my uh joint pains are really bad.
 
@@ -98,13 +98,13 @@ D: OK, and do you have a um somebody that follows you along for either uh fibrom
 
 P: Um my family doc. And then um yeah, it's pretty much just him. Um he, yeah.
 
-D: OK. And uh do you have any allergies to medications? 
+D: OK. And uh do you have any allergies to medications?
 
 P: No.
 
 D: Alright and um are you aware if your immunizations are up to date?
 
-P: Um yeah. 
+P: Um yeah.
 
 D: Alright, and could you tell me, alright then sorry actually, uh have you had any hospitalizations or uh previous surgeries?
 
@@ -136,7 +136,7 @@ P: Uh no.
 
 D: OK, um and do you smoke cigarettes?
 
-P: I do. 
+P: I do.
 
 D: OK yeah, how much?
 
@@ -144,7 +144,7 @@ P: Uh two or three a day.
 
 D: And and for how long or for, when did you start smoking? Sorry.
 
-P: Uh so I've been uh smoking since I was uh 20 years old, so about 30 years ago was when I started. 
+P: Uh so I've been uh smoking since I was uh 20 years old, so about 30 years ago was when I started.
 
 D: OK and and have you could, have you thought of, have you tried to quit before?
 

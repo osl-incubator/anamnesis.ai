@@ -22,7 +22,7 @@ D: OK. And do you have any other symptoms like cough or chest pain?
 
 P: I have a cough sometimes, yeah.
 
-D: OK, but nothing like constant? 
+D: OK, but nothing like constant?
 
 P: No.
 
@@ -48,9 +48,9 @@ P: No.
 
 D: No, OK. And when do you feel the breathlessness the most? Is it more so during the day or at night?
 
-P: I guess it's worse at night because I'm laying down. 
+P: I guess it's worse at night because I'm laying down.
 
-D: OK. Great and, in terms of how many flights of stairs you can climb before you start feeling breathless, do you have a number? 
+D: OK. Great and, in terms of how many flights of stairs you can climb before you start feeling breathless, do you have a number?
 
 P: I would say like 3/4.
 
@@ -60,15 +60,15 @@ P: No, nothing like that.
 
 D: OK, and prior to two months, have you ever had any similar experiences?
 
-P: Prior to 2 months? No. 
+P: Prior to 2 months? No.
 
 D: OK. And, does anything make it better? Like any positional changes makes the breathlessness go away?
 
-P: I guess when I I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better. 
+P: I guess when I I'm not laying down or when I'm laying down, I try to add pillows, stack pillows so that it gets better.
 
-D: OK, and are you having any other symptoms like sore throat, runny nose, chest pain, dizziness, anything like that? 
+D: OK, and are you having any other symptoms like sore throat, runny nose, chest pain, dizziness, anything like that?
 
-P: No. 
+P: No.
 
 D: OK. Have you recently traveled outside of the country?
 
@@ -78,17 +78,17 @@ D: Have you recently had any surgeries?
 
 P: No recent surgeries, no.
 
-D: OK, any headache nausea or vomiting? 
+D: OK, any headache nausea or vomiting?
 
 P: Um, no.
 
 D: OK, any fevers or chills or night sweats.
 
-P: No. 
+P: No.
 
 D: OK. Do you feel increasingly fatigued throughout the day?
 
-P: Uh, I would say so, yeah. 
+P: Uh, I would say so, yeah.
 
 D: OK. And any changes in your bowel movements at all?
 
@@ -96,7 +96,7 @@ P: No.
 
 D: OK, and any chest pain at all within the last two months?
 
-P: No, no chest pain. 
+P: No, no chest pain.
 
 D: OK. Any swelling in your in your legs, ankles, or in your hands and arms?
 
@@ -110,41 +110,41 @@ D: OK, and how when did you first notice this?
 
 P: Around the same time actually two months ago.
 
-D: OK. Have you noticed any kind of fevers at all? 
+D: OK. Have you noticed any kind of fevers at all?
 
 P: No.
 
 D: OK. Have you been in contact with anyone that has been ill recently?
 
-P: No no. 
+P: No no.
 
 D: OK, and have you been coughing up any blood at all?
 
-P: No. 
+P: No.
 
-D: OK, any weight loss? 
+D: OK, any weight loss?
 
 P: No.
 
 D: Any night sweats or chills?
 
-P: No. 
+P: No.
 
 D: OK, apart from the breathlessness when laying down, any other issues with your sleep?
 
-P: No. 
+P: No.
 
 D: Any changes in your appetite?
 
-P: Nope. 
+P: Nope.
 
-D: OK, have you had any recent infections like a cold at all? 
+D: OK, have you had any recent infections like a cold at all?
 
-P: No. 
+P: No.
 
 D: OK, any exposure to tuberculosis in the past?
 
-P: Not that I know of. 
+P: Not that I know of.
 
 D: OK, any exposure to fumes or dust within your home or work environment?
 
@@ -156,7 +156,7 @@ P: No, no.
 
 D: OK, and in terms of your past medical history, has anyone told you that you have anything like COPD or any cardiovascular issues like high blood pressure, cholesterol?
 
-P: Um so, yeah, so I have high blood pressure, diabetes and high cholesterol. 
+P: Um so, yeah, so I have high blood pressure, diabetes and high cholesterol.
 
 D: OK, and do you take any medications for this?
 
@@ -172,7 +172,7 @@ P: Something like a stent or something.
 
 D: OK, and since then you've been on these medications?
 
-P: Yes. 
+P: Yes.
 
 D: OK, and after they managed your heart attack, have you ever had similar symptoms to when you had your heart attack?
 
@@ -188,7 +188,7 @@ P: No.
 
 D: OK, and have you previously had any surgeries in the past?
 
-P: Um, I guess the stenting. 
+P: Um, I guess the stenting.
 
 D: Just the stenting? And apart from that, have you had any other previous hospitalizations?
 
@@ -196,7 +196,7 @@ P: No.
 
 D: OK, and any family history of any cancers or heart attacks?
 
-P: Um, my father died of a heart attack when he was 60. 
+P: Um, my father died of a heart attack when he was 60.
 
 D: OK. And currently do you work at all?
 
@@ -204,31 +204,31 @@ P: I do, um, I work as a cashier.
 
 D: OK. And has the shortness of breath been affecting your daily routine at home or at work at all?
 
-P: Yeah, I would say so. It's been hard to make it to work and then standing around all day or if I have to go help out with something and exert myself too much, I get short of breath. 
+P: Yeah, I would say so. It's been hard to make it to work and then standing around all day or if I have to go help out with something and exert myself too much, I get short of breath.
 
 D: OK. And at home, do you currently live with anyone or do you live by yourself?
 
-P: I live by myself. 
+P: I live by myself.
 
 D: OK, and do you live in an apartment or house?
 
 P: I live in an apartment.
 
-D: OK, and are there any exposures like dust or mold or asbestos in your home environment? 
+D: OK, and are there any exposures like dust or mold or asbestos in your home environment?
 
 P: No.
 
 D: OK. And currently do you smoke?
 
-P: Not right now. I used to smoke. I used to smoke 10 a day for like 40 years. 
+P: Not right now. I used to smoke. I used to smoke 10 a day for like 40 years.
 
-D: OK, and do you use any recreational drugs like marijuana? 
+D: OK, and do you use any recreational drugs like marijuana?
 
 P: No.
 
 D: OK. Any alcohol?
 
-P: No. 
+P: No.
 
 D: OK. And in terms of your daily routine, do you feel that you get 3 meals a day, a well balanced diet?
 
@@ -236,10 +236,10 @@ P: I wouldn't say well balanced. I'm trying to eat healthier but doesn't always 
 
 D: OK, and how about exercise? Do you find that your exercise levels or activity levels have gone down in the last two months?
 
-P: Yes. 
+P: Yes.
 
 D: OK. Alright, is there any other questions or concerns that you have or something I may have missed to ask you today?
 
-P: No, I don't think so. 
+P: No, I don't think so.
 
 D: OK, so based on what we talked about from your swelling as well as breathlessness while laying down and your past history of a heart attack and high cholesterol, it may be likely with the medications you are on as well as your history, that you might be having what's called congestive heart failure. So we will need to do further investigations to determine if that is what it is and if we need to get you on something like lasix or a diuretic to get rid of some of the fluid that's building up in your body, which may be caused by heart failure. So we'll do some investigations and then go from there.

@@ -8,17 +8,17 @@ P: So I would say it started around two months ago.
 
 D: OK, and has the cough been dry or have you been bringing up sputum?
 
-P: Uh, it's usually always, uh, produces like the sputum, and it's usually white or yellowish in colour. 
+P: Uh, it's usually always, uh, produces like the sputum, and it's usually white or yellowish in colour.
 
-D: OK, and how much sputum are you producing each day? Some, sometimes it's useful to think about like teaspoons or tablespoons. 
+D: OK, and how much sputum are you producing each day? Some, sometimes it's useful to think about like teaspoons or tablespoons.
 
-P: I would say every time I cough like a teaspoon I probably have like. I don't know. Maybe 5 to 10 teaspoons a day. 
+P: I would say every time I cough like a teaspoon I probably have like. I don't know. Maybe 5 to 10 teaspoons a day.
 
 D: Uh OK, and is there any particular time of day that the cough is worse?
 
 P: Um, not really. It's pretty, pretty much the same. Sometimes it is worse in the morning. Yeah, and sometimes it gets better when I go out for a smoke.
 
-D: OK um. And have you noticed any blood? 
+D: OK um. And have you noticed any blood?
 
 P: No, um I haven't noticed any blood.
 
@@ -36,7 +36,7 @@ P: Uh. Not as frequently. I would say not really, it just started in the last tw
 
 D: OK, and have you had shortness of breath like this before?
 
-P: Just throughout my life I've had asthma so when I am exercising too much or get exposed to like dust, sometimes get shortness of breath. 
+P: Just throughout my life I've had asthma so when I am exercising too much or get exposed to like dust, sometimes get shortness of breath.
 
 D: OK. Has there been anything, um besides exerting yourself, that's made that either the cough or or shortness of breath worse?
 
@@ -44,11 +44,11 @@ P: Uh, over the last year like I've had a couple of chest infections. After goin
 
 D: OK, and uh, do your symptoms feel like any of those times right now?
 
-P: No, I I don't feel like I have a fever and no other symptoms, just the shortness of breath and cough. 
+P: No, I I don't feel like I have a fever and no other symptoms, just the shortness of breath and cough.
 
 D: OK, and have you been doing anything that's made it better?
 
-P: I've been taking some Tylenol Cold, hasn't really helped too much. I've tried my inhalers, they sometimes help, but I've never had have this frequent of coughing and shortness of breath before. 
+P: I've been taking some Tylenol Cold, hasn't really helped too much. I've tried my inhalers, they sometimes help, but I've never had have this frequent of coughing and shortness of breath before.
 
 D: OK, um, and how has your energy been? Have you been experiencing fatigue?
 
@@ -60,13 +60,13 @@ P: No.
 
 D: OK, how about at a loss of smell?
 
-P: No. 
+P: No.
 
 D: Um a loss of taste?
 
 P: Nope.
 
-D: OK, and have you had any chest pain? 
+D: OK, and have you had any chest pain?
 
 P: No, just sometimes when I'm like coughing a lot it gets a little bit uncomfortable. But other than that, no.
 
@@ -74,15 +74,15 @@ D: OK, um have you had any instances where you felt like your heart was racing?
 
 P: No.
 
-D: OK, how about being lightheaded or or like you were going to pass out? 
+D: OK, how about being lightheaded or or like you were going to pass out?
 
 P: No.
 
 D: OK, have you had a runny nose or or a sore throat?
 
-P: Nope. 
+P: Nope.
 
-D: OK, and how about headaches? 
+D: OK, and how about headaches?
 
 P: No headaches.
 
@@ -90,7 +90,7 @@ D: Alright, and have you had any wheezing?
 
 P: Um, sometimes I've noticed it, but I had it before. Like with asthma as well, but not not that much.
 
-D: OK, and how about abdominal pain? 
+D: OK, and how about abdominal pain?
 
 P: No abdominal pain.
 
@@ -102,7 +102,7 @@ D: Any bowel problems?
 
 P: No.
 
-D: Any rashes? 
+D: Any rashes?
 
 P: Nope.
 
@@ -110,13 +110,13 @@ D: OK, and then how about any muscle aches or or joint aches or or body aches?
 
 P: No, nothing like that.
 
-D: Alright. And you mentioned asthma, but have you been diagnosed with any other medical conditions? 
+D: Alright. And you mentioned asthma, but have you been diagnosed with any other medical conditions?
 
-P: No, just asthma. 
+P: No, just asthma.
 
-D: OK, and do you use inhalers? Are there any other medications you're currently using? 
+D: OK, and do you use inhalers? Are there any other medications you're currently using?
 
-P: Oh no, just the salbutamol and like the steroid inhaler. 
+P: Oh no, just the salbutamol and like the steroid inhaler.
 
 D: OK, yeah, and how often are you using both of those?
 
@@ -130,7 +130,7 @@ D: OK um. And I was wondering if you had any allergies to medications?
 
 P: No, not that I know of.
 
-D: Alright, and have you been in the hospital recently? 
+D: Alright, and have you been in the hospital recently?
 
 P: No.
 
@@ -148,7 +148,7 @@ P: Yep.
 
 D: OK, great um and I was wondering if you could tell me a little bit about your living situation.
 
-P: So I live in London um in a small apartment with my wife. 
+P: So I live in London um in a small apartment with my wife.
 
 D: OK, do you have any pets around?
 
@@ -156,11 +156,11 @@ P: No, no pets.
 
 D: Alright, and um, any exposures at work too, like dust or any types of like chemicals like that.
 
-P: No, not really. My work is pretty much a desk job, so nothing like that. 
+P: No, not really. My work is pretty much a desk job, so nothing like that.
 
 D: OK, and do you smoke cigarettes?
 
-P: Yeah yeah, I smoke a lot of cigarettes just like I would say 30 cigarettes a day. 
+P: Yeah yeah, I smoke a lot of cigarettes just like I would say 30 cigarettes a day.
 
 D: OK, and how long have you smoked for?
 
@@ -178,7 +178,7 @@ D: OK. Have you tried to quit?
 
 P: Yeah, tried to quit. I've even quite a couple times but then just got back onto it. Yeah, not not really ready to quit.
 
-D: OK. That's fair enough. If there's something that you wanted to talk about quitting smoking at another appointment, we can arrange follow up for that. 
+D: OK. That's fair enough. If there's something that you wanted to talk about quitting smoking at another appointment, we can arrange follow up for that.
 
 P: Alright
 
@@ -188,7 +188,7 @@ P: Not much, just out say one or two beers on the weekend.
 
 D: Alright, and you use any recreational drugs like cocaine, crystal meth, or IV drugs.
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: Alright, and has anything similar like this happened in your family before?
 
@@ -202,6 +202,6 @@ D: Alright um so, that that was all the questions that I wanted to ask on histor
 
 P: No, not really. Just wanted to get to the bottom of this.
 
-D: OK for sure so um we will run some investigations and likely get a chest X Ray because it's been a couple of months that these symptoms have been going on for. But I think it could be related to your smoking and most likely um Bronc, chronic bronchitis, but we can definitely will be looking into this, and then also with possibly some pulmonary function tests as well. 
+D: OK for sure so um we will run some investigations and likely get a chest X Ray because it's been a couple of months that these symptoms have been going on for. But I think it could be related to your smoking and most likely um Bronc, chronic bronchitis, but we can definitely will be looking into this, and then also with possibly some pulmonary function tests as well.
 
 P: OK, sounds good.

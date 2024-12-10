@@ -12,9 +12,9 @@ P: Yeah, so initially it was just, it was just climbing stairs, you know, but th
 
 D: OK, and have you had, uh, shortness of breath on exertion like this before?
 
-P: Uhm, you know, sometimes. 
+P: Uhm, you know, sometimes.
 
-D: OK. 
+D: OK.
 
 P: I don't, do much anyway, because my CPD, you know, just makes things a little bit difficult, uh, yeah, I use my puffers.
 
@@ -30,13 +30,13 @@ D: OK, and you mentioned you were bringing up sputum. Could you describe the col
 
 P: Yeah, I don't know it's kinda yellow, uh, green.
 
-D: Has that changed from before? 
+D: Has that changed from before?
 
 P: Yeah, yeah, so usually it's just sort of whiteish and foamy, and uh, yeah it's different. And it's more, you know, it's alot more, every time I'm coughing it's just like, spoonfuls, it's a lot more than usual.
 
 D: OK, yeah, it sounds like a lot more and have you noticed any blood?
 
-P: No, no, no. 
+P: No, no, no.
 
 D: OK, and uh, so have you had a cough then?
 
@@ -46,21 +46,21 @@ D: OK, and is your cough worse at any particular time of the day, Or does it hap
 
 P: Well, it's a bit worse when I'm smoking, but otherwise it's the same.
 
-D: OK, and has your cough been worse these past couple of days as well? 
+D: OK, and has your cough been worse these past couple of days as well?
 
-P: No. 
+P: No.
 
 D: OK, and have you had any headaches?
 
-P: No. 
+P: No.
 
 D: How about any ear pain or eye pain?
 
-P: No. 
+P: No.
 
 D: Any sore throat?
 
-P: No. 
+P: No.
 
 D: OK, have you had a loss of smell or a loss of taste?
 
@@ -68,7 +68,7 @@ P: No, I don't think so.
 
 D: OK, and have you had any wheezing?
 
-P: A little bit. It's been there for a while though. 
+P: A little bit. It's been there for a while though.
 
 D: OK, have you noticed any changes to the wheeze?
 
@@ -76,7 +76,7 @@ P: No, I don't think so. I don't know. I can't tell.
 
 D: I see, OK, and have you had any chest pain?
 
-P: No. 
+P: No.
 
 D: Have you had any lightheadedness or dizziness?
 
@@ -86,15 +86,15 @@ D: OK, and have you had any heart palpitations?
 
 P: No.
 
-D: Alright, and have you had any abdominal pain, nausea or vomiting? 
+D: Alright, and have you had any abdominal pain, nausea or vomiting?
 
 P: No.
 
 D: Alright, and any urinary problems?
 
-P: No. 
+P: No.
 
-D: Any bowel problems? 
+D: Any bowel problems?
 
 P: No.
 
@@ -108,11 +108,11 @@ P: I think I was feeling very chilly last night. My wife had to bring an extra b
 
 D: OK, have you had any night sweats?
 
-P: No, I don't think so. 
+P: No, I don't think so.
 
 D: OK, and uh, have you checked your temperature?
 
-P: No, I didn't. 
+P: No, I didn't.
 
 D: OK, we'll certainly check that today. And have you had any weight loss in the last several months?
 
@@ -146,13 +146,13 @@ D: OK, and, uh, can you tell me a little bit about your living situation, like w
 
 P: Yeah, I live with my wife about ten minutes away from here. We live in an apartment, uh, yeah.
 
-D: OK, are you working, are you retired? 
+D: OK, are you working, are you retired?
 
 P: I retired two years ago. I used to work at Chrysler, as a mechanic.
 
-D: OK, and have you been around anybody who might be sick? 
+D: OK, and have you been around anybody who might be sick?
 
-P: No. 
+P: No.
 
 D: Alright, how about, have you traveled anywhere?
 
@@ -176,7 +176,7 @@ P: I drink a glass or two every weekend.
 
 D: OK, and do use any other recreational drugs like marijuana, cocaine?
 
-P: No. 
+P: No.
 
 D: OK, and, any family history of heart or lung conditions?
 
@@ -190,6 +190,6 @@ D: Alright, and, so you've been experiencing worsening sputum production that no
 
 P: Sure.
 
-D: Alright, we'll get that started. 
+D: Alright, we'll get that started.
 
 P: Thank you.

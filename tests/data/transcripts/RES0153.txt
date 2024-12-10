@@ -1,16 +1,16 @@
 D: Uh how may I help you today?
 
-P: Hi, I've been um just having this just sore throat for the last uh let's say three or four days. 
+P: Hi, I've been um just having this just sore throat for the last uh let's say three or four days.
 
 D: OK, and um are you having pain with swallowing?
 
-P: Um yeah, a little bit I've noticed uh with swallowing especially solids as well. 
+P: Um yeah, a little bit I've noticed uh with swallowing especially solids as well.
 
 D: OK, have you noticed any changes to your voice? Like having a hot potato voice or or feeling as though your um your throat is kind of closing off?
 
 P: Um not closing off, but like I definitely do uh, maybe a little bit of hoarseness, but not not too much. Mainly it's just the pain that's concerning me.
 
-D: OK, and have you had uh a cough? 
+D: OK, and have you had uh a cough?
 
 P: Uh no, I haven't had a cough at all.
 
@@ -24,23 +24,23 @@ P: Um I would say it's more uh on both sides.
 
 D: OK.
 
-P: And just kind of like at the front, front of my neck. 
+P: And just kind of like at the front, front of my neck.
 
-D: OK, and you've noticed that um within the last three four days as well? 
+D: OK, and you've noticed that um within the last three four days as well?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK. Um and have you had any uh fevers or chills?
 
-P: Uhm, I have had a fever in the last day like I've been feeling warm. I didn't get a chance to take my temperature. Um and also uh just to correct myself I, it's more so the swelling is just on one side. I've noticed like this lumpiness on one side of my neck. 
+P: Uhm, I have had a fever in the last day like I've been feeling warm. I didn't get a chance to take my temperature. Um and also uh just to correct myself I, it's more so the swelling is just on one side. I've noticed like this lumpiness on one side of my neck.
 
 D: OK, thank you yeah. We'll certainly uh, I'll look at it during the in the physical exam. Right, so so yeah, you've had a fever for the last two days?
 
-P: Yeah, I would say so. 
+P: Yeah, I would say so.
 
 D: OK. Um And have you had any headaches?
 
-P: Um no, no headaches. 
+P: Um no, no headaches.
 
 D: Alright, and have you had any um like eye redness or eye discharge?
 
@@ -52,7 +52,7 @@ P: No.
 
 D: OK, and any um loss of uh smell or or loss of taste?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. Um and have you had any any shortness of breath or difficulties breathing?
 
@@ -76,7 +76,7 @@ P: Uh, no, I haven't really felt that no.
 
 D: OK. Um and have you had any, uh, any belly pain?
 
-P: No. 
+P: No.
 
 D: How about any nausea or vomiting?
 
@@ -84,7 +84,7 @@ P: Um not, no, I haven't felt that at all.
 
 D: OK, have you have you had any diarrhea?
 
-P: No. 
+P: No.
 
 D: Have you had any urinary problems?
 
@@ -96,7 +96,7 @@ P: Uh, no, not that I've noticed.
 
 D: Alright, have you had any muscle aches or body pains?
 
-P: Nope. 
+P: Nope.
 
 D: OK. Have you had any um any symptoms like this before?
 
@@ -134,7 +134,7 @@ D: OK, I see. Um uh who are you living with currently and where are you living?
 
 P: So I'm living with my parents and my sister at, in a in a house just outside of the city.
 
-D: OK. Um and is your sister doing better now or um what happened with her? 
+D: OK. Um and is your sister doing better now or um what happened with her?
 
 P: Yeah, yeah, I'm not sure, I think she did go to the doctor, now she's doing better. She did get some medications but I don't know what they were.
 
@@ -148,7 +148,7 @@ P: No, not at all.
 
 D: OK, um and are you currently sexually active?
 
-P: No. 
+P: No.
 
 D: OK. Um and how's school going?
 
@@ -164,7 +164,7 @@ P: Uh, no, they they're pretty healthy, my mom and dad.
 
 D: OK, and any uh other conditions that run in the family?
 
-P: Uh no, I don't think so. 
+P: Uh no, I don't think so.
 
 D: OK. Um uh so that was everything I wanted to ask um on the history today. Did you have any other questions for me or anything that that I didn't ask about you wanted to mention?
 

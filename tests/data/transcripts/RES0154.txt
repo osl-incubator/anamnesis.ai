@@ -2,17 +2,17 @@ D: Uh how may I help you?
 
 P: Hi, so yeah I just came to the hospital because I've just been feeling over the last um few days uh just I can't really take like a deep breath. And then I've also been coughing up uh this greenish yellowish material.
 
-D: Oh OK, and when did this uh cough start? Sorry. 
+D: Oh OK, and when did this uh cough start? Sorry.
 
 P: So I think the cough started like 4 days ago and then the shortness of breath started uh just yesterday.
 
 D: OK, um and it's been yellowish green, were you coughing up sputum prior to this and um or did you have a cough before this?
 
-P: No, not really. 
+P: No, not really.
 
 D: OK. Um and have you noticed any blood?
 
-P: No, no blood. 
+P: No, no blood.
 
 D: Alright, um and the shortness of breath, are you experiencing this at rest or um or with exertion?
 
@@ -36,7 +36,7 @@ P: Uh, no, not really. Not that I've noticed.
 
 D: OK, or have you had any uh times where you've uh woken up um from sleep because you were short of breath and you had to sit up?
 
-P: Uh no. 
+P: Uh no.
 
 D: Alright. Um and have you had any uh fevers or chills?
 
@@ -44,7 +44,7 @@ P: I have had a fever like today, I had a fever I measured it was like 38.5. Yes
 
 D: OK, yeah, certainly sounds like a fever and have you had any night sweats?
 
-P: Last night, I would say I had night sweats. My sheets were a bit drenched. 
+P: Last night, I would say I had night sweats. My sheets were a bit drenched.
 
 D: OK. And have you had a sore throat?
 
@@ -52,19 +52,19 @@ P: No.
 
 D: Changes to uh, loss of smell, loss of taste?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, have you had a runny nose or felt congested?
 
-P: No. 
+P: No.
 
 D: OK, um and how about any eye symptoms like redness or itchiness, pain?
 
-P: Uh, no, nothing like that. 
+P: Uh, no, nothing like that.
 
 D: OK. Uhm and um have you had any uh instances of fainting or feeling dizzy?
 
-P: Nope. 
+P: Nope.
 
 D: Any abdominal pain?
 
@@ -78,7 +78,7 @@ D: Any diarrhea?
 
 P: No.
 
-D: OK, any rashes? 
+D: OK, any rashes?
 
 P: No rashes.
 
@@ -100,7 +100,7 @@ P: Um no, I think those are pretty much all the symptoms.
 
 D: OK. Um and in the past, have you been diagnosed with any medical conditions before?
 
-P: I do have, uh I take medications for high blood pressure. Um then I take medications for high cholesterol as well. 
+P: I do have, uh I take medications for high blood pressure. Um then I take medications for high cholesterol as well.
 
 D: OK. Um and do you take any other medications?
 
@@ -118,7 +118,7 @@ D: OK. Um and uh could you tell me a little bit about your living situation? Lik
 
 P: Yeah, so I'm living alone right now. Um, just in an apartment.
 
-D: OK, have you been around anybody who's been sick? 
+D: OK, have you been around anybody who's been sick?
 
 P: Uhm no I, not anyone that I know of. I do, I I did see my just randkids just last week, though.
 
@@ -128,19 +128,19 @@ P: Not that I noticed, no.
 
 D: OK. Um have you traveled anywhere recently?
 
-P: No, I've been at home. 
+P: No, I've been at home.
 
 D: No, OK. Um and and do you smoke cigarettes?
 
 P: No, I probably smoked for a very short time for like probably five years of my life in my 20s.
 
-D: OK, uh, do you smoke um marijuana? 
+D: OK, uh, do you smoke um marijuana?
 
 P: No.
 
 D: OK, and do you use any recreational drugs?
 
-P: No. 
+P: No.
 
 D: OK. Um and um any family history of heart or lung conditions?
 

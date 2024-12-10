@@ -2,7 +2,7 @@ D: I understand that you've been having some diarrhea. Can you tell me a little 
 
 P: Yeah, sure I had, I've been having diarrhea for the past three to four days, and it's been pretty bad. I couldn't go, uh I couldn't go to my classes, had to skip because it was just it was just embarrassing.
 
-D: OK, I'm sorry to hear that. Uh, have you ever experienced something like this before? 
+D: OK, I'm sorry to hear that. Uh, have you ever experienced something like this before?
 
 P: Um, have I experienced something like this before? Uhm no, I don't think so.
 
@@ -50,7 +50,7 @@ D: OK, have you noticed any blood in the vomit?
 
 P: No, it's just watery.
 
-D: And are you nauseated all the time, or is it kind of on and off? 
+D: And are you nauseated all the time, or is it kind of on and off?
 
 P: It's on and off.
 
@@ -58,7 +58,7 @@ D: OK, have you taken any any over the counter medicine or anything to help?
 
 P: Uh, not really. I was just trying to drink a lot of water, 'cause I I know that I can get dehydrated so just drinking lots of water.
 
-D: OK, well that's good to hear. Have you have you been eating normally or have you not been eating as much as you regularly do? 
+D: OK, well that's good to hear. Have you have you been eating normally or have you not been eating as much as you regularly do?
 
 P: I have been eating less specially since yesterday when I had my these abdominal cramps started. I just don't feel like eating.
 
@@ -70,7 +70,7 @@ D: Just in general, like is there anything that you're finding makes your nausea
 
 P: Not really, I don't think so.
 
-D: Do you notice any changes to your urine or any discomfort when going to the bathroom? 
+D: Do you notice any changes to your urine or any discomfort when going to the bathroom?
 
 P: No.
 
@@ -82,7 +82,7 @@ D: OK, and have you noticed any fever or chills in the last few days?
 
 P: Um, I've just been feeling really tired and and, I don't know, maybe I haven't checked my checked my temperature.
 
-D: OK. Have you noticed any rashes or changes in your skin? 
+D: OK. Have you noticed any rashes or changes in your skin?
 
 P: No.
 
@@ -126,7 +126,7 @@ D: OK. What is your living situation right now? You said you're a student?
 
 P: I am.
 
-D: OK, and do you live, do you live on your own, with family, with roommates? 
+D: OK, and do you live, do you live on your own, with family, with roommates?
 
 P: I live with two roommates.
 
@@ -134,7 +134,7 @@ D: Do you drink alcohol?
 
 P: Um, sometimes.
 
-D: OK, how how many drinks per week would you say? 
+D: OK, how how many drinks per week would you say?
 
 P: I might have like a glass or two on the weekends.
 
@@ -142,7 +142,7 @@ D: OK, do you smoke?
 
 P: No.
 
-D: OK, do you use any other substances? 
+D: OK, do you use any other substances?
 
 P: No.
 
@@ -154,4 +154,4 @@ D: OK. Well, and I just wanted to jump over to ask you about your family history
 
 P: My brother had appendicitis when he was young. Um, my mom has had a hysterectomy if that counts. Yeah, nothing else.
 
-D: OK. OK, thank you for sharing that with me. So I think that's everything that I wanted to ask you for today. 
+D: OK. OK, thank you for sharing that with me. So I think that's everything that I wanted to ask you for today.

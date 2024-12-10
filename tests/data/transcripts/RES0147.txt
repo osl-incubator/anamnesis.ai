@@ -24,11 +24,11 @@ P: It's like greenish and yellow.
 
 D: Mhmm, OK. And you said that you had a cough prior to the past 12 hours. And that your cough is now worse. How is it worse?
 
-P: Ah, it's been just happening more often and like just like throughout the day usually, my cough is only in the morning. I'll bring up some some sputum in it and I'm ok, but it's carried on throughout the day. 
+P: Ah, it's been just happening more often and like just like throughout the day usually, my cough is only in the morning. I'll bring up some some sputum in it and I'm ok, but it's carried on throughout the day.
 
-D: OK, uhm, and, was your sputum and greenish yellow before as well? Or was it just starting yesterday or, or couple days ago? 
+D: OK, uhm, and, was your sputum and greenish yellow before as well? Or was it just starting yesterday or, or couple days ago?
 
-P: Yeah, that's new. That's just starting new. It was more like, I don't know, whitish? Or yeah, white I guess, before? 
+P: Yeah, that's new. That's just starting new. It was more like, I don't know, whitish? Or yeah, white I guess, before?
 
 D: OK, alright and I guess has this ever happened to you before?
 
@@ -36,11 +36,11 @@ P: Uh, no, this is the first time that that this has happened before.
 
 D: OK, and you have any other, I guess symptoms are until I ask you about a couple. Do you have any, do you feel confused or fuzzy?
 
-P: No, that that feels OK. 
+P: No, that that feels OK.
 
 D: Any headaches?
 
-P: No. 
+P: No.
 
 D: Any stuffy, stuffy nose or runny nose?
 
@@ -48,27 +48,27 @@ P: No.
 
 D: Sore throat?
 
-P: No. 
+P: No.
 
 D: Any chest pain?
 
 P: Ah, yeah I did. I do have a, uh, uh some, well, I guess I guess it's not really pain, it's more like like just chest tightness. I'm really having a hard time with that, with breathing.
 
-D: Uhm, I see, OK. Do you feel like your heart's beating very fast? 
+D: Uhm, I see, OK. Do you feel like your heart's beating very fast?
 
 P: No.
 
 D: OK. Do you have any belly pain or any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: Any changes in your bowel movements or any urinary symptoms?
 
-P: No. 
+P: No.
 
 D: Any muscle aches?
 
-P: No. 
+P: No.
 
 D: Fevers or chills?
 
@@ -98,9 +98,9 @@ D: OK, and any hospitalizations?
 
 P: No, I haven't.
 
-D: OK. Uhm, do you have any allergies to food, environmental allergies, or any allergies to medications? 
+D: OK. Uhm, do you have any allergies to food, environmental allergies, or any allergies to medications?
 
-P: No. 
+P: No.
 
 D: OK. Do you have a or what's your current living situation? Are you living in an apartment or house? Do you live alone? Do you live with other people?
 
@@ -114,7 +114,7 @@ D: What did you do for work?
 
 P: Uh, so before, I worked at the Beer Factory in in town, Labatt.
 
-D: OK, and have you ever had any exposures to any chemicals or any anything that you, any irritants that you think any smoke that might affect your lungs? Or your, yeah. 
+D: OK, and have you ever had any exposures to any chemicals or any anything that you, any irritants that you think any smoke that might affect your lungs? Or your, yeah.
 
 P: Uhm, no, I don't think so. I mean, working in the factory environment, I, I'm sure things years ago weren't as clean as they are now, but yeah, I'm not sure.
 
@@ -134,7 +134,7 @@ D: OK, have you ever have you been on oxygen at all?
 
 P: No, I haven't, but I feel like I could be right now. It's like, really, I'm short of breath.
 
-D: Yeah, yeah, we can definitely do that here. Uhm, alright. So, given your symptoms, it sounds like maybe you're having a COPD exacerbation, potentially. Do you feel like you might have had contact with anyone who was sick? 
+D: Yeah, yeah, we can definitely do that here. Uhm, alright. So, given your symptoms, it sounds like maybe you're having a COPD exacerbation, potentially. Do you feel like you might have had contact with anyone who was sick?
 
 P: Not that I can think of.
 

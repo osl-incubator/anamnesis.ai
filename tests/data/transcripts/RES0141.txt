@@ -2,9 +2,9 @@ D: How can I uh, help you today?
 
 P: Hi, so I just came in today because I've been just been feeling um, like my head's just been hurting for the past three or four days and I also felt really cold throughout the day for the last few days as well, so, um, I did end up checking my temperature just yesterday afternoon and it was um, 38.7 degrees celsius.
 
-D: Okay, um. Tell me about the headache, where exactly is it? 
+D: Okay, um. Tell me about the headache, where exactly is it?
 
-P: Yeah so it's kind of just throughout like the front of my forehead and it kind of goes to the side into my temple. 
+P: Yeah so it's kind of just throughout like the front of my forehead and it kind of goes to the side into my temple.
 
 D: And what does it feel like?
 
@@ -24,7 +24,7 @@ P: Um, I definitely think just, if I rest, it's better if, but if I'm like, like
 
 D: Okay. Um, and other than the, um, the fever and headaches, have you um, had any um, cough?
 
-P: No, no cough. 
+P: No, no cough.
 
 D: Runny nose or congestion?
 
@@ -52,7 +52,7 @@ P: No.
 
 D: Um, do you feel like your heart is racing?
 
-P: No. 
+P: No.
 
 D: Any diarrhea or constipation?
 
@@ -64,7 +64,7 @@ P: No.
 
 D: Pain in your belly?
 
-P: No. 
+P: No.
 
 D: Any muscle aches or joint pains?
 
@@ -72,11 +72,11 @@ P: Uh, no, nothing like that.
 
 D: Okay, um, do you feel like your neck is stiff?
 
-P: No. 
+P: No.
 
 D: Any numbness or tingling in your arms or fingers, or toes?
 
-P: No. 
+P: No.
 
 D: Any um, night sweats or weight loss, unintentional?
 
@@ -104,7 +104,7 @@ P: No, that's, that's all.
 
 D: Any medications other than metformin that you take? Anything over the counter?
 
-P: Um, so I do take, when my migraines get bad, like I do take, I have taken naproxen before. 
+P: Um, so I do take, when my migraines get bad, like I do take, I have taken naproxen before.
 
 D: Okay. Surgeries?
 
@@ -118,9 +118,9 @@ D: Okay, any allergies to medications, foods, or any environmental allergies?
 
 P: Not to any medications, but I do have an allergy to peanuts.
 
-D: Okay, what happens? 
+D: Okay, what happens?
 
-P: I do get like a, an anaphylactic reaction. 
+P: I do get like a, an anaphylactic reaction.
 
 D: Okay, okay. Um, and any um, family history of any medical conditions?
 
@@ -142,9 +142,9 @@ D: Okay, and do you currently smoke or did you ever smoke in the past?
 
 P: No, I've never smoked. I do smoke marijuana just, maybe once or twice a month with some friends.
 
-D: Okay, any recreational drugs? 
+D: Okay, any recreational drugs?
 
-P: Sorry, no. 
+P: Sorry, no.
 
 D: Um, any alcohol?
 
@@ -154,7 +154,7 @@ D: Okay, got it. Um, alright. Well, given your symptoms, um, we would like to do
 
 P: Okay, sounds good, um, and I work from home, so I don't need to.
 
-D: Oh that's good. Okay, so you work from home. 
+D: Oh that's good. Okay, so you work from home.
 
 P: Alright.
 

@@ -1,6 +1,6 @@
 D: Would you mind by starting with what brought you in today?
 
-P: Yeah, so I'm just coming in with my son. He's six years old and yeah, just over the last few days he's not been himself and he's been having this stomach ache. Uh, so it started around like I would say 3 days ago and then he's also having vomiting for the last two days, he's vomited in total six times over the last two days and then yesterday he also developed a fever as well. I managed to measure it and it was 38.3 degrees Celsius. 
+P: Yeah, so I'm just coming in with my son. He's six years old and yeah, just over the last few days he's not been himself and he's been having this stomach ache. Uh, so it started around like I would say 3 days ago and then he's also having vomiting for the last two days, he's vomited in total six times over the last two days and then yesterday he also developed a fever as well. I managed to measure it and it was 38.3 degrees Celsius.
 
 D: OK, I see. So I just so that I understand the timeline, so he started to have abdominal pain about 3 days ago, started with having vomiting and diarrhea two days ago and you checked his temperature, he had a fever as of yesterday?
 
@@ -22,7 +22,7 @@ D: OK, have you noticed any bile or blood in the vomit?
 
 P: Uh no I didn't notice any blood and I didn't notice any green material. It was mainly just like like normal vomit, like yellowish color.
 
-D: OK, I see and, has the what was the vomiting triggered by anything that you're aware of, like eating or drinking? 
+D: OK, I see and, has the what was the vomiting triggered by anything that you're aware of, like eating or drinking?
 
 P: Uhm? Yeah, two days ago it was it was after after lunch when he first vomited. But after that it's just been kind of random.
 
@@ -36,7 +36,7 @@ P: So in total I can count 6 times.
 
 D: OK, and, has he been complaining of any headaches at all?
 
-P: No, not that I know. 
+P: No, not that I know.
 
 D: No. OK, and how about any ear pain or or eye pain?
 
@@ -62,7 +62,7 @@ D: OK, and has he had a cough?
 
 P: Uh, no, not really.
 
-D: OK, and how about any shortness of breath or wheezing? 
+D: OK, and how about any shortness of breath or wheezing?
 
 P: No.
 
@@ -80,11 +80,11 @@ P: No, that's been OK.
 
 D: Have you noticed any rashes or skin changes?
 
-P: Uh, no, not not really, no. 
+P: Uh, no, not not really, no.
 
 D: OK. And has he had any muscle aches or uh, or joint pains that that he's mentioned?
 
-P: No, no he hasn't mentioned anything like that. 
+P: No, no he hasn't mentioned anything like that.
 
 D: OK, and he's had a fever, has he had the chills?
 
@@ -120,7 +120,7 @@ P: No, so it was a normal vaginal delivery, uh no issues, uh he was born at 39 w
 
 D: OK, oh, that's that's great. Do you remember the Apgar score or his birth weight?
 
-P: Uhm, I don't exactly remember his Apgar scores, I think they were like just just they they were normal like there was nothing concerning about them, and birth weight I think he was probably around 3 kilograms. 
+P: Uhm, I don't exactly remember his Apgar scores, I think they were like just just they they were normal like there was nothing concerning about them, and birth weight I think he was probably around 3 kilograms.
 
 D: OK, great so, yeah healthy birth weight at term it sounds like. And so, healthy, does he take any medications regularly?
 
@@ -144,7 +144,7 @@ P: No, we've been, we've been at home.
 
 D: OK, uh, and then you know recent changes to anything in the diet you've mentioned?
 
-P: No, that's been fine. 
+P: No, that's been fine.
 
 D: OK, and any concerns for safety in the home, whether physical or or verbal abuse?
 
@@ -152,7 +152,7 @@ P: No, no concerns like that.
 
 D: OK, yeah a question that we have to ask everybody and is there any smoking in the home?
 
-P: No, no, we don't smoke. 
+P: No, no, we don't smoke.
 
 D: OK, great then, are there any pets?
 
@@ -160,7 +160,7 @@ P: Nope, no pets.
 
 D: Alright, and uh and in the family, has there been anybody who's had any heart problems or any lung problems?
 
-P: Uh, we are getting the 10 year old tested for just uh, asthma. 
+P: Uh, we are getting the 10 year old tested for just uh, asthma.
 
 D: OK.
 
@@ -172,7 +172,7 @@ P: No, not that I know of.
 
 D: OK, uh, anybody in the family have celiac disease or Crohn's disease?
 
-P: No, no, uh no history of any kind of bowel diseases. 
+P: No, no, uh no history of any kind of bowel diseases.
 
 D: OK, so I think that's, uh, everything I want I wanted to ask about today. Uh, was there anything that maybe I I forgot to ask or or that I missed that you wanted to tell me?
 

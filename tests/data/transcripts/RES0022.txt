@@ -1,4 +1,4 @@
-D: Would you mind by start starting to tell me about what brought you in today? 
+D: Would you mind by start starting to tell me about what brought you in today?
 
 P: Yeah, I I. It's just over the last week I can't like do anything without just feeling really like short of breath. I'm having a really hard time breathing. Like kind of do anyways because I have COPD. So I feel like over a few years it's been getting worse, but this week it just got really bad in particular.
 
@@ -24,11 +24,11 @@ P: Yeah, like I again like I do normally because of my COPD but. It's just been 
 
 D: OK, so you're not bringing up any sputum with your cough?
 
-P: No, maybe maybe a tiny bit, but I kinda do that like anyways. 
+P: No, maybe maybe a tiny bit, but I kinda do that like anyways.
 
 D: OK. Uh, and have you coughed up any blood?
 
-P: No. 
+P: No.
 
 D: OK, and um, have you had any other symptoms that have went along with this difficulty breathing, um and cough?
 
@@ -36,7 +36,7 @@ P: Um I mean I've been, I don't have a thermometer at home, but I have felt like
 
 D: OK, so would you say that you have a loss of taste right now?
 
-P: Um pretty yeah yeah, I'm pretty sure I couldn't really taste my breakfast. 
+P: Um pretty yeah yeah, I'm pretty sure I couldn't really taste my breakfast.
 
 D: OK. And how about your sense of smell?
 
@@ -44,7 +44,7 @@ P: Actually, yeah come to think of it, I don't. I don't think I've really been s
 
 D: OK, so you're not able to smell either. Do you feel like your nose is congested or are really runny?
 
-P: It's not, it's not particularly congested or anything. 
+P: It's not, it's not particularly congested or anything.
 
 D: OK. But still have had these changes in taste and smell.
 
@@ -52,7 +52,7 @@ P: Mmmm
 
 D: Um OK and we will check your temperature as well to see if we can, if there is a documented fever. Have you had any night sweats?
 
-P: Whats that? 
+P: Whats that?
 
 D: So generally, patients would will say that their sheets are soaked and it will wake them up sometimes because it's uncomfortable.
 
@@ -70,27 +70,27 @@ D: OK, an with um the change in taste, how has your appetite been?
 
 P: Well, I mean that was just this morning that I noticed that. Um, before that, I think I was eating like pretty OK.
 
-D: OK, and have you felt as though your heart was racing at any point? 
+D: OK, and have you felt as though your heart was racing at any point?
 
-P: No. 
+P: No.
 
 D: OK. Uh, any dizziness or feeling lightheaded?
 
-P: Oh no, I don't think so. 
+P: Oh no, I don't think so.
 
-D: OK. And any abdominal pain? 
+D: OK. And any abdominal pain?
 
 P: No.
 
 D: How about any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: OK, have you had any diarrhea or constipation?
 
 P: Maybe maybe a little diarrhea. Oh but I didn't know if that was just something I ate or what.
 
-D: OK, so when did the diarrhea start 
+D: OK, so when did the diarrhea start
 
 P: Like yesterday. yesterday.
 
@@ -104,17 +104,17 @@ P: No.
 
 D: OK um, has that happened again today?
 
-P: Oh no, I didn't go today. 
+P: Oh no, I didn't go today.
 
 D: OK. And have you had any urinary problems like painful urination or needing to go really often?
 
-P: No. 
+P: No.
 
 D: OK and then uh, have you had any headaches?
 
 P: Come to think of it a little bit, I just thought I was like it was maybe because I was tired. But yeah, I've had headaches.
 
-D: OK, have you had headaches like this in the past? 
+D: OK, have you had headaches like this in the past?
 
 P: Um, I mean only when there is like reasons for it, like being really overtired or. Uh. Yeah.
 
@@ -124,7 +124,7 @@ P: Let me know it's hard to say like I am tired so. Yeah, I think so.
 
 D: OK, would you say this was the worst headache of your life or a kind of like a Thunder clap sensation?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. And have you got any photo sensitivity or kind of sensitivity of your light or sensitivity to sound?
 
@@ -132,19 +132,19 @@ P: No.
 
 D: OK. And next question would be. Have you have any any joint aches or muscle aches or general body aches?
 
-P: I mean, I'm a little I feel like I haven't been moving as much. Feel a little sore. I thought it was maybe just 'cause I, you know, wasn't going for my long walks and my body was like getting tired and stiff. But yeah, I feel a bit achey when I come to think of it. 
+P: I mean, I'm a little I feel like I haven't been moving as much. Feel a little sore. I thought it was maybe just 'cause I, you know, wasn't going for my long walks and my body was like getting tired and stiff. But yeah, I feel a bit achey when I come to think of it.
 
-D: OK, and have you noticed any rashes or changes in your skin? 
+D: OK, and have you noticed any rashes or changes in your skin?
 
 P: No.
 
 D: OK, uh, and then I'm not sure if I asked, but did you have a sore throat?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK. Um and next just wanted to ask about your past health. Um is there anything you see a physician for regularly?
 
-P: Just like the COPD. 
+P: Just like the COPD.
 
 D: OK.
 
@@ -172,13 +172,13 @@ P: Yeah, like heavier exercise.
 
 D: I see, and any other medications like prescribed or over the counter that you take?
 
-P: No, that was it. 
+P: No, that was it.
 
-D: Alright, and have you had any surgeries before? 
+D: Alright, and have you had any surgeries before?
 
 P: I had my appendix out when I was in my 20s.
 
-D: OK, and any allergies? 
+D: OK, and any allergies?
 
 P: No.
 
@@ -196,7 +196,7 @@ P: Oh, he's been well. He said he like he had a bit of a scratchy throat, but I 
 
 D: OK yeah, and do you live with anybody else or is it just you and your husband?
 
-P: Just the two of us and our dog. 
+P: Just the two of us and our dog.
 
 D: OK, and, uh, do you smoke cigarettes?
 
@@ -204,7 +204,7 @@ P: Yeah, I've tried to stop but I I smoke like a pack a day.
 
 D: OK, we can talk maybe about quitting if you're interested later on in the appointment or at another time at a follow up.
 
-P: Sure, sure. 
+P: Sure, sure.
 
 D: OK, and do you drink alcohol?
 
@@ -216,19 +216,19 @@ P: Yeah, something like that.
 
 D: Alright, and um do you smoke marijuana?
 
-P: No. 
+P: No.
 
 D: OK alright, how about that use like any like edibles or anything like that?
 
 P: No nothing like that.
 
-D: OK and then how about any recreational drugs? 
+D: OK and then how about any recreational drugs?
 
 P: Um like what?
 
 D: Like things like cocaine, crystal meth, ecstasy.
 
-P: No, no. 
+P: No, no.
 
 D: I See, OK, and Is anybody in your family had any heart conditions before?
 
@@ -240,9 +240,9 @@ P: No, not that I know of.
 
 D: OK, and anybody in the family have lung conditions in the past?
 
-P: Uh, no. 
+P: Uh, no.
 
-D: OK, at any cancers that run in the family? 
+D: OK, at any cancers that run in the family?
 
 P: No.
 

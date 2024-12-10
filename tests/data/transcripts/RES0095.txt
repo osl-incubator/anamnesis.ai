@@ -18,9 +18,9 @@ D: OK, and have you had shortness of breath like this before?
 
 P: Yeah, uhm, six months ago.
 
-D: OK, could you tell me about what happened six months ago? 
+D: OK, could you tell me about what happened six months ago?
 
-P: Yeah, yeah, I was feeling all, I was feeling, just like this was feeling awful. I went to the hospital. They started me on a water pill, kept me for a couple of days and then sent me back home. Uhm, they changed some of my meds, I think, increased the dose of something and yeah that's what happened. 
+P: Yeah, yeah, I was feeling all, I was feeling, just like this was feeling awful. I went to the hospital. They started me on a water pill, kept me for a couple of days and then sent me back home. Uhm, they changed some of my meds, I think, increased the dose of something and yeah that's what happened.
 
 D: OK, I see and have you been having, uhm, any swelling?
 
@@ -50,23 +50,23 @@ D: Is this a nightly thing?
 
 P: It's, it's fine with the two pillows now.
 
-D: OK. Yeah, and have you been experiencing any cough? 
+D: OK. Yeah, and have you been experiencing any cough?
 
-P: No. 
+P: No.
 
-D: Alright, and, uhm, how about any, any chest pain? 
+D: Alright, and, uhm, how about any, any chest pain?
 
 P: No.
 
 D: Have you been having any, uh, instances feeling as though your heart's racing or beating out of your chest?
 
-P: No. 
+P: No.
 
-D: Alright, have you had any fainting or dizziness? 
+D: Alright, have you had any fainting or dizziness?
 
 P: Uh, no.
 
-D: Alright, have you had any wheezing? 
+D: Alright, have you had any wheezing?
 
 P: No.
 
@@ -76,15 +76,15 @@ P: Not recently, I had that about two months ago, but that got better.
 
 D: OK, did you need antibiotics two months ago?
 
-P: No, no, just lasted a couple days and got better on its own. 
+P: No, no, just lasted a couple days and got better on its own.
 
-D: I see OK and, uhm, have you been having any abdominal pain? 
+D: I see OK and, uhm, have you been having any abdominal pain?
 
 P: No.
 
 D: How about any changes to bowel habits such as diarrhea or Constipation?
 
-P: Uhm, no. 
+P: Uhm, no.
 
 D: Any urinary problems?
 
@@ -100,7 +100,7 @@ P: Yeah, I have uh, heart, heart failure and uh, had two heart attacks and have 
 
 D: OK, do you know what your BMI is currently?
 
-P: What's that? 
+P: What's that?
 
 D: So this is a measure of body mass index and, uhm, can help give an indication about weight ranges, uhm, whether, uhm, being in a healthy weight range or, uhm, a weight range that's associated with, uhm, risk of certain diseases such as high blood pressure.
 
@@ -114,7 +114,7 @@ D: OK, and yeah we can check that, uh, with your height today.
 
 P: My height is 5'2".
 
-D: OK, thank you. And, uhm, so just looking at the medications here now, I see a variety for uhm, cardiovascular protection, so things like aspirin, beta blocker, ACE inhibitor, statin, uhm and, uhm, do you have any allergies to medications? 
+D: OK, thank you. And, uhm, so just looking at the medications here now, I see a variety for uhm, cardiovascular protection, so things like aspirin, beta blocker, ACE inhibitor, statin, uhm and, uhm, do you have any allergies to medications?
 
 P: No.
 
@@ -138,7 +138,7 @@ D: I see, I'm sorry to hear that about your husband. Uhm, are you currently, uh,
 
 P: Oh, she, she, she has to help me out, uhm she has to help me out. I uhm, I sometimes need help with the showering, simply because I get really short of breath and then, so I have to stop and it's just, she's just worried that it's unsafe, so she helps me out with that. Uhm, she gets most of the things done at home. She does the groceries and everything.
 
-D: OK, I see, and do you, do you smoke cigarettes? 
+D: OK, I see, and do you, do you smoke cigarettes?
 
 P: I, I don't.
 
@@ -170,9 +170,9 @@ D: Alright, uh, and uh, and in terms of family history, has anybody had any hear
 
 P: Oh yeah, everyone in my family has high blood pressure. My mom had a heart attack. My brother had a heart attack. My sister had a heart attack. Everyone, everyone has heart problems.
 
-D: OK, certainly sounds like something, uh, common in the family. Has there been any other, uh, conditions that run in the family? 
+D: OK, certainly sounds like something, uh, common in the family. Has there been any other, uh, conditions that run in the family?
 
-P: No. 
+P: No.
 
 D: Alright, uhm, I, I don't, I don't think I asked. Have you had any fevers or chills?
 
@@ -184,12 +184,12 @@ P: No
 
 D: OK, and, uh, I might have asked, but just to, to be complete, did you have any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: OK, uhm, so were there any other symptoms or anything else that, that I may have forgot to ask about?
 
 P: No, I don't think so. It's just the, the difficulties with breathing and the swelling.
 
-D: Yeah, so the first thing, I'll speak to your daughter and we will, uhm, get a look at some of the old or some of the reports from, uhm, over the last several months from, and from the cardiologist you see. But it's, uh, and then, uh, also we'll get some blood work and a chest x-ray. But it is sounding like this could be a heart failure exacerbation. Which, so some of the shortness of breath, it could be coming from fluid, uhm, that has accumulated in your lungs and so, uh, we'll give you, oh, another type of water pill now, Furosemide, to try and help get rid of some of that fluid so it will help with the breathing. And in the meantime, we'll wait for the investigations to come back. 
+D: Yeah, so the first thing, I'll speak to your daughter and we will, uhm, get a look at some of the old or some of the reports from, uhm, over the last several months from, and from the cardiologist you see. But it's, uh, and then, uh, also we'll get some blood work and a chest x-ray. But it is sounding like this could be a heart failure exacerbation. Which, so some of the shortness of breath, it could be coming from fluid, uhm, that has accumulated in your lungs and so, uh, we'll give you, oh, another type of water pill now, Furosemide, to try and help get rid of some of that fluid so it will help with the breathing. And in the meantime, we'll wait for the investigations to come back.
 
 P: Sure, Thank you.

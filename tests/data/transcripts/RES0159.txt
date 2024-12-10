@@ -26,9 +26,9 @@ D: I see. Um is it a dry cough that you have or or do you bring up any gunk or a
 
 P: Um it's mainly just a like a like a dry cough.
 
-D: Have you ever coughed up any blood or anything like that? 
+D: Have you ever coughed up any blood or anything like that?
 
-P: No, I haven't, I don't think I've seen any blood. 
+P: No, I haven't, I don't think I've seen any blood.
 
 D: OK, uhm do you have any other symptoms? Do you have any fevers or chills?
 
@@ -38,7 +38,7 @@ D: And have you had any unintentional weight loss?
 
 P: Yeah, now that you mention it, I probably lost 15 pounds in the last two months.
 
-D: OK. Uhm, have you had any muscle aches or joint pains all over your body? Do you feel achy? 
+D: OK. Uhm, have you had any muscle aches or joint pains all over your body? Do you feel achy?
 
 P: Yeah, but I've probably felt like that for the last five years, um so I have uh osteoarthritis.
 
@@ -52,19 +52,19 @@ P: No.
 
 D: Any abdominal pain?
 
-P: No, not that I've noticed. 
+P: No, not that I've noticed.
 
 D: OK. Any headaches?
 
-P: Um no, nothing like that. 
+P: Um no, nothing like that.
 
 D: Uhm, OK. Uh have you had any falls in the past or in the past couple of months or years?
 
-P: No, no, I've been lucky. 
+P: No, no, I've been lucky.
 
 D: Good. Any confusion?
 
-P: Nope. 
+P: Nope.
 
 D: Uh any time when you've lost consciousness?
 
@@ -74,13 +74,13 @@ D: OK. Um and any medical conditions that you've been diagnosed with?
 
 P: Um, so I have osteoarthritis. And then I also have um this condition with my prostate, uh BPH. And um I also take medications for my blood pressure.
 
-D: Um what medications do you take? 
+D: Um what medications do you take?
 
 P: Um I take um this medication called uh Lisinopril.
 
-D: Anything else? 
+D: Anything else?
 
-P: Um I do take uh just pain medications like Advil. 
+P: Um I do take uh just pain medications like Advil.
 
 D: Um OK. Do you take anything to protect your stomach when you're taking the Advil, any other medications?
 
@@ -88,7 +88,7 @@ P: Yeah, I was given um this other medication for, for, to take with my Advil li
 
 D: OK, OK. That's good. Um are you taking anything for your uh BPH?
 
-P: Oh yeah, sorry. So I'm taking uh this medication called Tamsulosin. 
+P: Oh yeah, sorry. So I'm taking uh this medication called Tamsulosin.
 
 D: OK, alright, any allergies, to medications or otherwise?
 
@@ -98,13 +98,13 @@ D: OK, any um I guess social history, who do you currently live with?
 
 P: Uh I live alone right now in my apartment I, um but I have pretty good support from my kids, they just live a few blocks away and come visit me.
 
-D: That's good. That's really good. And uh do you, are you able to um take care of yourself or do you need help with things like um finances and groceries and cleaning? 
+D: That's good. That's really good. And uh do you, are you able to um take care of yourself or do you need help with things like um finances and groceries and cleaning?
 
 P: No, I'm I'm fairly independent in those matters.
 
 D: OK, do you require any assistance uh with walking any cane or walker or wheelchair, anything like that?
 
-P: No, not yet. 
+P: No, not yet.
 
 D: OK good good. Do you smoke at all or did you ever smoke in the past?
 
@@ -116,7 +116,7 @@ P: Um probably for almost, I guess 50 years or maybe even more, maybe like 55 ye
 
 D: OK. Have you ever been diagnosed with any lung conditions?
 
-P: Uh no. 
+P: Uh no.
 
 D: OK, have you um had any marijuana or any recreational drugs?
 
@@ -124,7 +124,7 @@ P: Uh no, nothing like that.
 
 D: Alcohol?
 
-P: Nope. 
+P: Nope.
 
 D: OK, uhm, alright, um you mentioned that the cough started 5 to six months ago. Have you had a cough before that?
 
@@ -138,7 +138,7 @@ D: You do, OK. Um have you been, uh, sometimes for people who have been smoking 
 
 P: No, I don't remember the last time I had one.
 
-D: OK Alright. Um OK, those are all the questions I had for you. Uhm, we'll we'll do a physical exam and uh do your vitals um and see if you uh, do some labs, and then go from there. 
+D: OK Alright. Um OK, those are all the questions I had for you. Uhm, we'll we'll do a physical exam and uh do your vitals um and see if you uh, do some labs, and then go from there.
 
 P: OK, sounds good.
 

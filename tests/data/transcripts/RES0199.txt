@@ -4,17 +4,17 @@ D: What brings you in?
 
 P: Hi I just came in today I have been having, just been feeling really sick over the last three or four days. It started with just like a headache and cough four days ago and then I started getting some nausea and vomiting few days back as well as diarrhea.
 
-D: OK, so the headache and cough started first you said right? 
+D: OK, so the headache and cough started first you said right?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK, let's talk about the headache first that came on four days ago. Has it been persistent or does it come and go?
 
-P: It's been pretty persistent. Besides, when I take some Tylenol. 
+P: It's been pretty persistent. Besides, when I take some Tylenol.
 
 D: OK, and does anything make it better or worse?
 
-P: Just a Tylenol, nothing really, yeah, it's pretty constant, 
+P: Just a Tylenol, nothing really, yeah, it's pretty constant,
 
 D: OK, and have a an and sorry where exactly is it is it on it's like at the top of your head, temples, forehead?
 
@@ -38,7 +38,7 @@ P: It's kind of stayed around the same, actually.
 
 D: OK, OK, and have you ever had a headache like this in the past?
 
-P: Not really, I don't really get too many headaches 
+P: Not really, I don't really get too many headaches
 
 D: OK so this isn't you. Alright And let's go on to the cough. The cough started around the same time you said, has that gotten better or worse over the past four days?
 
@@ -48,35 +48,35 @@ D: OK, and is it a dry cough or are you breaking up any flem?
 
 P: It's mostly a dry cough.
 
-D: OK, so no sputum or blood? 
+D: OK, so no sputum or blood?
 
-P: No, no. 
+P: No, no.
 
 D: OK, good. Alright, and are you short of breath at all?
 
-P: Uhm, no, not really, 
+P: Uhm, no, not really,
 
 D: No OK. And how about wheezing?
 
-P: Uhm no, no wheezing. 
+P: Uhm no, no wheezing.
 
 D: OK. Only saying an. And any chest pain?
 
-P: No. 
+P: No.
 
 D: No OK. And have you had any weight loss over the past few months?
 
-P: No, I haven't. 
+P: No, I haven't.
 
 D: Any fevers or chills?
 
-P: No. 
+P: No.
 
 D: No OK, uhm how about fatigue?
 
 P: I guess just a little bit tired over the last few days, but I don't know that's just just from the diarrhea and just being sick.
 
-D: Um OK, and how about rashes? 
+D: Um OK, and how about rashes?
 
 P: No.
 
@@ -98,19 +98,19 @@ P: Uhm smell I feel like a little bit. I've been kind of losing my smell over th
 
 D: OK, OK. Alright, and any dizziness or fainting spells?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
-D: Confusion or memory loss? 
+D: Confusion or memory loss?
 
-P: No. 
+P: No.
 
-D: Uhm alright and joint pains or muscle aches? 
+D: Uhm alright and joint pains or muscle aches?
 
 P: Uh no.
 
 D: Alright. You mentioned you also have had diarrhea. When did that start?
 
-P: So probably like 2 days ago I started getting some liquid stools and I just had to go like probably five or six times a day. . 
+P: So probably like 2 days ago I started getting some liquid stools and I just had to go like probably five or six times a day. .
 
 D: OK. Alright. And uhm are you noticing any blood in there?
 
@@ -122,7 +122,7 @@ P: No, I've been trying to keep hydrated.
 
 D: OK, good, any changes in your appetite?
 
-P: Uh no. 
+P: Uh no.
 
 D: No, any nausea or vomiting?
 
@@ -130,11 +130,11 @@ P: Yeah, I was having some. I'm having some nausea today, but I had some vomitin
 
 D: OK. And are you throwing up any blood?
 
-P: No. 
+P: No.
 
 D: What color is it?
 
-P: Uhm it's usually I feel like whatever I eat. Yeah, contents, food contents. 
+P: Uhm it's usually I feel like whatever I eat. Yeah, contents, food contents.
 
 D: OK, do you think anything triggered that episode of vomiting?
 
@@ -148,11 +148,11 @@ D: OK, any constipation?
 
 P: No.
 
-D: OK. Alright, and are you otherwise healthy or do you have any longstanding medical conditions? 
+D: OK. Alright, and are you otherwise healthy or do you have any longstanding medical conditions?
 
 P: No, I'm I'm pretty healthy. I don't really. I don't really even take any medications.
 
-D: OK. And are you up to date with her immunizations? 
+D: OK. And are you up to date with her immunizations?
 
 P: Yep.
 
@@ -164,13 +164,13 @@ D: No, any family history of lung or heart conditions?
 
 P: Uh, no, not that I know of.
 
-D: OK, do you smoke? 
+D: OK, do you smoke?
 
-P: No. 
+P: No.
 
 D: No, OK. How  about marijuana or yeah, how about marijuana? Do you either take edibles or smoke it?
 
-P: I’ve tried a couple times but it was not really my thing. 
+P: I’ve tried a couple times but it was not really my thing.
 
 D: OK. And how about other recreational drugs like cocaine, heroin and opioids?
 
@@ -180,7 +180,7 @@ D: OK. Uhm and where do you currently live?
 
 P: I live just in an apartment just in the city. So yeah, just by myself though.
 
-D: OK, any like old carpets, dust, mold, asbestos, pets, anything that could be triggering your symptoms? 
+D: OK, any like old carpets, dust, mold, asbestos, pets, anything that could be triggering your symptoms?
 
 P: No, not really.
 
@@ -194,9 +194,9 @@ P: I work at a car dealership.
 
 D: OK, OK. An any travel recently?
 
-P: No. 
+P: No.
 
-D: OK, has anyone at your work been sick as well? 
+D: OK, has anyone at your work been sick as well?
 
 P: No, I haven't really noticed anyone being sick.
 

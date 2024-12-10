@@ -26,19 +26,19 @@ D: OK, and uh, you mentioned you had shortness of breath as well. When does this
 
 P: Since yesterday it's been pretty constant and it's more like, Uh, just uh, I'm really having trouble getting any deep breaths in, so I feel like I'm having to just breathe faster and more shallow.
 
-D: I see, OK, and has anything like this happened to you before? 
+D: I see, OK, and has anything like this happened to you before?
 
-P: No, never. 
+P: No, never.
 
 D: OK, and have you been experiencing any headaches?
 
-P: No. 
+P: No.
 
 D: How about any viral symptoms, like eye redness, nasal discharge, or nasal congestion or cough?
 
 P: I have been having a little bit of a cough, but that's it, like, it kind of started today, but it's nothing too significant.
 
-D: OK, alright, is the cough dry or have you brought up sputum? 
+D: OK, alright, is the cough dry or have you brought up sputum?
 
 P: It is dry.
 
@@ -48,7 +48,7 @@ P: Uh, no.
 
 D: How about a loss of taste or a loss of smell?
 
-P: No. 
+P: No.
 
 D: OK, how has your appetite been?
 
@@ -58,7 +58,7 @@ D: OK, so has your weight been stable over the last several months.
 
 P: Yeah, weight has been stable.
 
-D: OK, and have you had any fevers, chills, or night sweats? 
+D: OK, and have you had any fevers, chills, or night sweats?
 
 P: Uhm, Nope.
 
@@ -76,7 +76,7 @@ P: No, I don't think so.
 
 D: OK, and with the cough, have you brought up any blood?
 
-P: No. 
+P: No.
 
 D: OK, and have you had any, Uh, like urinary problems?
 
@@ -96,7 +96,7 @@ P: No.
 
 D: OK, and have you had any muscle aches, joint pains or skin changes?
 
-P: No. 
+P: No.
 
 D: OK, and uhm, in the past have you been diagnosed with any medical conditions?
 
@@ -108,11 +108,11 @@ P: No, nothing at all.
 
 D: And do you have any allergies?
 
-P: No, no allergies. 
+P: No, no allergies.
 
 D: Any hospitalizations in the past or any surgeries?
 
-P: No. 
+P: No.
 
 D: OK, and currently, can you tell me just a little bit about your living situation?
 
@@ -122,7 +122,7 @@ D: OK.
 
 P: I live in like a student housing situation.
 
-D: OK, has anybody in the house been sick or anybody that you've been around been sick? 
+D: OK, has anybody in the house been sick or anybody that you've been around been sick?
 
 P: No, we've been all pretty healthy.
 
@@ -136,7 +136,7 @@ P: 1 gram probably lasts like 2 weeks.
 
 D: OK, and do you drink alcohol?
 
-P: Yeah, just a couple of beers maybe on the weekend. 
+P: Yeah, just a couple of beers maybe on the weekend.
 
 D: OK, and are you currently sexually active?
 
@@ -148,7 +148,7 @@ P: Yeah, we use condoms, we're pretty safe.
 
 D: OK, and have you had a sexually transmitted infection before?
 
-P: No, never. 
+P: No, never.
 
 D: OK, any concerns right now or anything like that?
 
@@ -156,7 +156,7 @@ P: No, uh, we've been pretty safe and we've both been tested before and everythi
 
 D: OK, great and has anybody in the family had like a similar presentation before, like any lung problems or heart problems?
 
-P: No, I think my sister, she has asthma, but that's about it. 
+P: No, I think my sister, she has asthma, but that's about it.
 
 D: OK, and uh, any cancers that run in the family?
 

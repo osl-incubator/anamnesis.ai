@@ -26,9 +26,9 @@ D: Are you producing any sputum?
 
 P: Um, I guess a little bit, yeah. Yeah, I guess a little bit and it's yellow.
 
-D: It's yellow, OK, do you notice any kind of blood in your sputum? 
+D: It's yellow, OK, do you notice any kind of blood in your sputum?
 
-P: No, no blood. 
+P: No, no blood.
 
 D: OK, so just yellow sputum and how much would you say you're producing an average day?
 
@@ -44,7 +44,7 @@ P: Yeah, chills. I've been feeling kind of hot during the day.
 
 D: Yeah, OK. And how about the shortness of breath, is that just during activity or you can have that when you're sleeping or resting as well?
 
-P: The shortness of breath is more with like activity when I'm walking around. 
+P: The shortness of breath is more with like activity when I'm walking around.
 
 D: OK. And have all these symptoms been getting worse at all?
 
@@ -56,15 +56,15 @@ P: Um, no.
 
 D: Do you have any muscle aches?
 
-P: Um, a little bit. 
+P: Um, a little bit.
 
 D: OK, and where on your muscles would you say are aching?
 
-P: I would say my lower limbs and just generally all over, but just yeah like the big muscles like my thighs, my shoulders. 
+P: I would say my lower limbs and just generally all over, but just yeah like the big muscles like my thighs, my shoulders.
 
 D: OK. And have you been having any kind of swelling in your limbs at all?
 
-P: No, no swelling. 
+P: No, no swelling.
 
 D: OK and any kind of swelling of your neck region or lymph nodes?
 
@@ -88,7 +88,7 @@ P: No headaches.
 
 D: Any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: Any kind of fatigue or increased tiredness?
 
@@ -96,9 +96,9 @@ P: I feel fatigued, yes.
 
 D: OK, and do you feel at all that your heart is racing?
 
-P: No. 
+P: No.
 
-D: OK, and do you have any symptoms like a loss of taste, sense of taste or smell? 
+D: OK, and do you have any symptoms like a loss of taste, sense of taste or smell?
 
 P: No.
 
@@ -108,19 +108,19 @@ P: No.
 
 D: And any urinary trouble?
 
-P: Um, nothing like that. 
+P: Um, nothing like that.
 
 D: OK, have you lost any weight recently?
 
-P: No. 
+P: No.
 
 D: Have you been able to sleep throughout the night or does the cough  wake you up or the chills wake you up?
 
-P: Um, no,  they don't wake me up. I wouldn't say that. 
+P: Um, no,  they don't wake me up. I wouldn't say that.
 
 D: OK. Are you having any other symptoms like a sore throat, runny nose, congestion, anything like that?
 
-P: No. 
+P: No.
 
 D: OK, and anything in your house like dust or an old carpet or pets? Anything that triggers some of these symptoms?
 
@@ -142,17 +142,17 @@ D: No worries. Then when you went home and you were discharged, did they give yo
 
 P: Ah yes, they did. So I only had one days worth left. I was switched from IV antibiotic  to the oral kind and so I'd finish the remaining pills that day, then went home.
 
-D: OK, so you finished the course, OK. Great and do you have any past history when you were admitted, any other hospitalizations or surgeries at all? 
+D: OK, so you finished the course, OK. Great and do you have any past history when you were admitted, any other hospitalizations or surgeries at all?
 
-P: Um, no. 
+P: Um, no.
 
-D: Do you have any family history of asthma, COPD or any lung conditions? 
+D: Do you have any family history of asthma, COPD or any lung conditions?
 
 P: No.
 
 D: Any other conditions that run in the family?
 
-P: No. 
+P: No.
 
 D: OK. And currently, where do you live?
 
@@ -160,7 +160,7 @@ P: I live in a house with my daughter and her husband.
 
 D: OK, and any one of them have similar symptoms or have been sick recently?
 
-P: No. 
+P: No.
 
 D: OK, and have you had a COVID test done at all?
 
@@ -186,11 +186,11 @@ D: OK. Do you drink alcohol?
 
 P: I drink like a glass of wine a week.
 
-D: OK. Any other recreational drugs like marijuana? 
+D: OK. Any other recreational drugs like marijuana?
 
-P: No. 
+P: No.
 
-D: OK. Yeah, so is there anything else? Any other questions that you have for me today? 
+D: OK. Yeah, so is there anything else? Any other questions that you have for me today?
 
 P: No, what do you think I have?
 

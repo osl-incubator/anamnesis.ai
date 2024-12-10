@@ -6,7 +6,7 @@ D: OK, has the headache, uhm, stayed the same, gotten worse, gotten any better?
 
 P: It's only gotten worse over the past two days.
 
-D: OK, and when the headache started, was it like a thunder clap, kind of worst headache of your life when it came on? 
+D: OK, and when the headache started, was it like a thunder clap, kind of worst headache of your life when it came on?
 
 P: No, no.
 
@@ -16,7 +16,7 @@ P: No, I just, uhm, I just went out for dinner, the night before and I know that
 
 D: OK. Uhm, and have you had any other associated symptoms, with the headache.
 
-P: I've been feeling really tired. I took the day off yesterday and today, I'm working from home, but I still decided not to get any work done today or yesterday. 
+P: I've been feeling really tired. I took the day off yesterday and today, I'm working from home, but I still decided not to get any work done today or yesterday.
 
 D: OK. Uhm, and the fatigue, when did that start?
 
@@ -24,7 +24,7 @@ P: I think that started yesterday morning.
 
 D: OK. And sorry, back to the headache. Have you tried anything for it?
 
-P: I took Tylenol and Advil, but, I guess it did get better for about an hour a little bit, but it was back on again. 
+P: I took Tylenol and Advil, but, I guess it did get better for about an hour a little bit, but it was back on again.
 
 D: OK. And could you describe like where you feel the headache?
 
@@ -36,19 +36,19 @@ P: No, no, like I said it's like nothing like my usual migraine headaches.
 
 D: OK. And, I mean, the Advil or Tylenol, It helps the symptoms for a brief period, but has there been anything else that's helped your headache?
 
-P: No, not really. 
+P: No, not really.
 
 D: OK. And is there any particular time of the day that the headache's worse, like, is, in the morning time when you're first waking up or later in the day?
 
 P: I don't think so.
 
-D: OK. And have you had any nausea or vomiting? 
+D: OK. And have you had any nausea or vomiting?
 
 P: No.
 
 D: OK. And have you had any, like visual changes?
 
-P: No. 
+P: No.
 
 D: OK. Uhm, and have you had a runny nose or a sore throat?
 
@@ -72,13 +72,13 @@ P: No, nothing like that.
 
 D: OK, uh and with the, with the cough, have you had any difficulties breathing or shortness of breath?
 
-P: Maybe a little bit. 
+P: Maybe a little bit.
 
 D: OK, how about any wheezing?
 
 P: No.
 
-D: OK. Have you been bringing up any sputum with the cough? 
+D: OK. Have you been bringing up any sputum with the cough?
 
 P: No.
 
@@ -86,21 +86,21 @@ D: OK, how about, any, any blood?
 
 P: No.
 
-D: OK. And have you had any changes to your sense of smell? 
+D: OK. And have you had any changes to your sense of smell?
 
 P: No.
 
 D: Any changes to your sense of taste?
 
-P: No. 
+P: No.
 
-D: OK. Uh, and have you had any changes to your weight recently over the last several months? 
+D: OK. Uh, and have you had any changes to your weight recently over the last several months?
 
 P: I don't think so.
 
 D: Alright, and how is your appetite been?
 
-P: Uhm, it's fine. 
+P: Uhm, it's fine.
 
 D: Any chest pain?
 
@@ -108,13 +108,13 @@ P: No.
 
 D: OK. Uhm any lightheadedness or, or feeling dizzy?
 
-P: No, no. 
+P: No, no.
 
 D: Alright. Any nausea or vomiting?
 
 P: No.
 
-D: Any diarrhea? 
+D: Any diarrhea?
 
 P: No.
 
@@ -122,7 +122,7 @@ D: Any urinary problems?
 
 P: No
 
-D: How about , uh, have you had any muscle aches or joint pains? 
+D: How about , uh, have you had any muscle aches or joint pains?
 
 P: A little bit.
 
@@ -130,7 +130,7 @@ D: OK. And any rashes anywhere?
 
 P: No, no, no.
 
-D: OK. And have you been diagnosed with any medical conditions before? 
+D: OK. And have you been diagnosed with any medical conditions before?
 
 P: Uhm, I have, uh, I have migraines and uh, I also have Polymyalgia rheumatica.
 
@@ -140,11 +140,11 @@ P: No.
 
 D: OK. And have you had any hospitalizations?
 
-P: No. 
+P: No.
 
 D: OK, any surgeries?
 
-P: No. 
+P: No.
 
 D: OK, and, uh, do you smoke cigarettes?
 
@@ -168,7 +168,7 @@ P: Yeah.
 
 D: And any heart conditions or cancers or anything like that in the family?
 
-P: No no no. 
+P: No no no.
 
 D: OK. And have you been around anybody who's been sick, recently? You went out for dinner a couple days ago.
 
@@ -176,7 +176,7 @@ P: Yeah, uhm, I don't think anyone was sick.
 
 D: OK. And you didn't feel that you had any triggers to your migraines at that time?
 
-P: No, I didn't. I did yes, I, I did meet up with my friends and we went out for dinner. I know we're not supposed to, but it's been such a long time. 
+P: No, I didn't. I did yes, I, I did meet up with my friends and we went out for dinner. I know we're not supposed to, but it's been such a long time.
 
 D: Yeah.
 

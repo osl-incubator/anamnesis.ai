@@ -50,9 +50,9 @@ D: OK, I see OK. And are you getting any pain in any other joints?
 
 P: Um actually yeah my my right ankle bugs me a little bit. I'm sorry if that's considered a large joint. But yeah, my ankle hurts and then also my in my hands I have. Like the middle one. Not proximal interphalangeal joint, yeah those ones hurt too.
 
-D: OK. 
+D: OK.
 
-P: I think I have like more than 10 joints that are swollen and painful. 
+P: I think I have like more than 10 joints that are swollen and painful.
 
 D: OK, I see and has this pain been pretty constant or have there been days that you don't have the pain?
 
@@ -78,7 +78,7 @@ D: OK, and have you lost any movement in any of these joints at all?
 
 P: Uh it is harder to to make a fist. Yeah I can't fully close my my fingers all the way down to make a fist.
 
-D: I see. OK. Any kind of a um night sweats at all? 
+D: I see. OK. Any kind of a um night sweats at all?
 
 P: No.
 
@@ -100,7 +100,7 @@ P: No changes to vision or hearing.
 
 D: OK. Any shortness of breath, chest pain?
 
-P: No. 
+P: No.
 
 D: Any changes in your bowel movements?
 
@@ -108,7 +108,7 @@ P: No, that's been normal.
 
 D: OK, any changes in your urinary patterns?
 
-P: Nope, I haven't had any pain or anything like that. 
+P: Nope, I haven't had any pain or anything like that.
 
 D: OK, any numbness or tingling sensation anywhere, anywhere in your body?
 
@@ -118,9 +118,9 @@ D: OK, have you been sick at all recently, either with like cold symptoms of any
 
 P: No, I felt OK.
 
-D: OK and any muscle weakness? 
+D: OK and any muscle weakness?
 
-P: I. I don't think so. I've just I I have had trouble like opening jars and various things, but I think that's part of the, um like pain that I'm having in my in my hands it makes it hard to grip. 
+P: I. I don't think so. I've just I I have had trouble like opening jars and various things, but I think that's part of the, um like pain that I'm having in my in my hands it makes it hard to grip.
 
 D: OK, uhm. And in terms of your medical history, have you been diagnosed with any conditions?
 
@@ -130,7 +130,7 @@ D: OK, and when were you diagnosed with the hypothyroidism?
 
 P: Um this was about I like four years ago.
 
-D: OK, today tell you what it was caused by it at all. 
+D: OK, today tell you what it was caused by it at all.
 
 P: Oh, I think I was, I think they said Hashimoto's.
 
@@ -144,19 +144,19 @@ P: Yeah, I think it, I'm taking an ACE inhibitor for the blood pressure.
 
 D: OK, any allergies to any medications that you know?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK, any hospitalizations or surgeries in the past?
 
 P: No.
 
-D: OK. Any family history of any autoimmune conditions? 
+D: OK. Any family history of any autoimmune conditions?
 
-P: My mom had hypothyroidism as well, and uh, and that's it. 
+P: My mom had hypothyroidism as well, and uh, and that's it.
 
 D: OK, so anything else like rheumatoid arthritis, ulcertaive colitis, Crohn's disease, type one, diabetes, anything like that?
 
-P: I I think my cousin actually has type one diabetes. He's a, like he's much younger than me, but yeah, I think he I have a cousin with type one diabetes as well. 
+P: I I think my cousin actually has type one diabetes. He's a, like he's much younger than me, but yeah, I think he I have a cousin with type one diabetes as well.
 
 D: OK. Alright, and um currently do you work?
 
@@ -206,7 +206,7 @@ P: Yeah I can do. I can do that.
 
 D: OK. And are you able to walk without a limp or anything like that?
 
-P: Um, yes I can. 
+P: Um, yes I can.
 
 D: OK. Alright, so those are just all the questions I had for you today. Do you have any questions or concerns?
 
@@ -218,4 +218,4 @@ P: It does, yeah, thank you.
 
 D: You're welcome. And then if it does come out to be rheumatoid arthritis arthritis, which seems likely, you will need a referral to a rheumatologist to manage and treat your, uh, treat you with medications.
 
-D: OK, thank you alright, you're welcome. Take care. 
+D: OK, thank you alright, you're welcome. Take care.

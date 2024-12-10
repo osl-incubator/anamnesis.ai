@@ -1,10 +1,10 @@
 D: Can you tell me what brings you in here today?
 
-P: So I've had this, uh, this cough that it started two days ago and it's been getting worse. I've been bringing up this rust colored sputum. 
+P: So I've had this, uh, this cough that it started two days ago and it's been getting worse. I've been bringing up this rust colored sputum.
 
 D: OK, and so that's been going on for a few days?
 
-P: Yeah, yeah about two days. 
+P: Yeah, yeah about two days.
 
 D: OK, and how often are you coughing?
 
@@ -14,7 +14,7 @@ D: OK, and the shortness of breath, is it just with the exertion or it can, is i
 
 P: Yeah, even right now it feels like I'm not able to get, I don't know, a full breath, it just feels like it's more difficult to to breathe.
 
-D: OK, have you felt any kind of dizziness or fainting episodes? 
+D: OK, have you felt any kind of dizziness or fainting episodes?
 
 P: No, I haven't.
 
@@ -36,7 +36,7 @@ P: No, I haven't noticed anything like that.
 
 D: OK. Any fevers or chills?
 
-P: Yeah, I have had, I've had both of those. I've had a I I checked my temperature this morning and it was 38.2 and I was pretty chilly last night. 
+P: Yeah, I have had, I've had both of those. I've had a I I checked my temperature this morning and it was 38.2 and I was pretty chilly last night.
 
 D: OK. Uhm, and before these symptoms started, were you having any similar symptoms at all before?
 
@@ -48,7 +48,7 @@ P: I did try some over the counter cold medicine. It, I think it might have help
 
 D: OK, does your shortness of breath improve with any positions or does it improve when you're not exerting yourself?
 
-P: Uh, not really. It's kind of always there, 
+P: Uh, not really. It's kind of always there,
 
 D: It's ok. Do you have to wake up at night to take a deep breath? Or do you feel any kind of shortness of breath with laying down at all?
 
@@ -78,7 +78,7 @@ D: OK, and give any other symptoms like chest pain, runny nose, sore throat, any
 
 P: Uh, no. Just been really tired these last couple of days and I've just felt like sleeping all day. Haven't felt like eating either, my appetite has been really poor.
 
-D: OK, uhm. And other than that, have you experienced any kind of headaches, nausea or vomiting? 
+D: OK, uhm. And other than that, have you experienced any kind of headaches, nausea or vomiting?
 
 P: No, I haven't.
 
@@ -120,7 +120,7 @@ P: Yeah my, my left hand, still, still it gives me some some problems. I get uh,
 
 D: OK, OK, and are you taking any other medications at all?
 
-P: Yeah, I use metformin. Empagliflozin or an SGLT2, insulin and uh, and aspirin, I think. 
+P: Yeah, I use metformin. Empagliflozin or an SGLT2, insulin and uh, and aspirin, I think.
 
 D: OK, and any over the counter medications?
 
@@ -128,15 +128,15 @@ P: Yeah, I take a multivitamin and in vitamin D.
 
 D: OK. Any allergies to any medications at all?
 
-P: No. 
+P: No.
 
 D: OK, any environmental allergies?
 
-P: No. 
+P: No.
 
-D: OK, any ill contacts at all? 
+D: OK, any ill contacts at all?
 
-P: No, no. 
+P: No, no.
 
 D: Any recent or prior hospitalizations?
 
@@ -146,7 +146,7 @@ D: OK and so, but after that, no other hospitalizations or surgeries?
 
 P: No.
 
-D: OK, any surgeries in the past? 
+D: OK, any surgeries in the past?
 
 P: Yeah, well I did have a C-section for my son but that was many years ago now and everything for that was, was OK. Yeah.
 
@@ -170,9 +170,9 @@ D: OK, and how, how long have you have smoked for?
 
 P: Since I was 15 maybe?
 
-D: OK. 
+D: OK.
 
-P: So yeah for like 45 years. 
+P: So yeah for like 45 years.
 
 D: And have you, at all been diagnosed with COPD or anything like that?
 

@@ -8,7 +8,7 @@ P: It's wet, I've been bringing up, uh, sputum that's uh, It's just, it leaves a
 
 D: What color is the sputum?
 
-P: It's kind of, uh, like, yellowish green, type color. 
+P: It's kind of, uh, like, yellowish green, type color.
 
 D: Havey you noticed any blood?
 
@@ -18,11 +18,11 @@ D: And it only started yesterday. What about the difficulties breathing, when di
 
 P: Yeah, that started really within the last twelve hours or so.
 
-D: And can you tell me if it's gotten better or worse since then? 
+D: And can you tell me if it's gotten better or worse since then?
 
 P: Yeah, it's been, it's been getting worse, uhm, and the phlegm, also smells really bad.
 
-D: OK. When do you have difficult, like, is there anything that makes the, shortness of breath, worse? 
+D: OK. When do you have difficult, like, is there anything that makes the, shortness of breath, worse?
 
 P: Yeah, if I, uhm, when I was having a cigarette earlier today, it got a bit worse and when I went out to get the Mail today I, I just couldn't do it. I, I had to just sit down.
 
@@ -46,7 +46,7 @@ D: Any congestion?
 
 P: No.
 
-D: No, OK. Have you had any pain in your chest? 
+D: No, OK. Have you had any pain in your chest?
 
 P: Uh, no pain.
 
@@ -70,7 +70,7 @@ D: OK, and any uh diarrhea or Constipation?
 
 P: Uhm no, I haven't anything like that.
 
-D: OK, any sore throat? 
+D: OK, any sore throat?
 
 P: Uhm, no.
 
@@ -94,7 +94,7 @@ D: OK, ok.
 
 P: And I've also been, had issues with anxiety in the past as well.
 
-D: In terms of medications, are you taking any? 
+D: In terms of medications, are you taking any?
 
 P: Yeah, I take uhm, an ACE inhibitor, statin, uhm, and uh, medication for my stomach, I think, like Pantoprazole.
 
@@ -112,7 +112,7 @@ P: No, I haven't had any, any panic attacks.
 
 D: OK, alright. Do you have any allergies?
 
-P: No. 
+P: No.
 
 D: OK, so you said that these symptoms started yesterday and they were quite sudden, uh, was there anything that you were doing yesterday or the day before that was different or unusual?
 

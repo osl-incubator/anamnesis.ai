@@ -12,17 +12,17 @@ P: Um, it's been going on for the past four days.
 
 D: Four days, okay. Um, and do you have any kind of cough at all?
 
-P: No cough. 
+P: No cough.
 
 D: Okay, so just shortness of breath. And can you describe your shortness of breath a little bit? Is it uh, are you having catching your breath, or would you say you're having trouble taking deep breaths? Or how would you describe it?
 
-P: It's mostly when I'm trying to take a deep breath in. 
+P: It's mostly when I'm trying to take a deep breath in.
 
 D: Okay, and uh, where would you say you're getting the chest pain?
 
 P: Um, it's mostly like centre of my chest, like, close to my, like I'd say it's like it feels like, it's not my like, it doesn't feel like it's inside. It feels more like it's pushing up on, on my chest wall.
 
-D: Okay, I see. And is it related to you taking deep breaths at all? 
+D: Okay, I see. And is it related to you taking deep breaths at all?
 
 P: Yes, it's definitely when I take a deep breath in.
 
@@ -40,23 +40,23 @@ P: Um, nothing like this.
 
 D: Okay. Um, would you say like, your symptoms are constant, or do they kind of come and go?
 
-P: Um, they're pretty constant. 
+P: Um, they're pretty constant.
 
 D: Okay. And are they getting worse at all?
 
-P: Uh, no it's not getting worse, it was just bad to start with and it's still bad. 
+P: Uh, no it's not getting worse, it was just bad to start with and it's still bad.
 
 D: Okay, and um, is there anything that you've tried that helps you with your breathing or relieves your chest pain? Anything that works for you?
 
 P: Um I guess sitting forward helps. Time now to take a super deep breath in.
 
-D: Okay, and have you had any kind of fevers or chills? 
+D: Okay, and have you had any kind of fevers or chills?
 
 P: Uh, yeah, I've, I've had chills for sure. I felt hot. I haven't actually taken my temperature, so I'm not too sure about if I actually have a fever.
 
 D: Okay, and when did you feel these chills?
 
-P: They've been going on for the past three days. 
+P: They've been going on for the past three days.
 
 D: Okay. Uh, and do you have any kind of other symptoms, like runny nose, sore throat, anything like that?
 
@@ -70,13 +70,13 @@ D: Okay, and do you have to wake up at night to catch your breath at all?
 
 P: No, nothing like that.
 
-D: Okay, and do you have any kind of swelling in your legs, hands, anywhere? 
+D: Okay, and do you have any kind of swelling in your legs, hands, anywhere?
 
 P: No.
 
 D: Okay. Have you experienced any kind of um dizziness or fainting episodes?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Okay, do you get any kind of chest pain with any activities?
 
@@ -86,7 +86,7 @@ D: And do you, um, find that your heart is racing at all?
 
 P: Uh no, nothing like that.
 
-D: Are you having any night sweats? 
+D: Are you having any night sweats?
 
 P: No.
 
@@ -96,25 +96,25 @@ P: Uh, I guess when I went to the grocery store the other day and there were peo
 
 D: Okay, and were they wearing masks or were you wearing a mask?
 
-P: Yeah, everyone was wearing a mask. 
+P: Yeah, everyone was wearing a mask.
 
-D: Okay. Are you um, having any kind of changes in your bowel movements at all? Any constipation or diarrhea? 
+D: Okay. Are you um, having any kind of changes in your bowel movements at all? Any constipation or diarrhea?
 
-P: No. 
+P: No.
 
-D: No, okay. Any changes in your appetite at all? 
+D: No, okay. Any changes in your appetite at all?
 
 P: Uh, no.
 
-D: No. Any nausea or vomiting? 
+D: No. Any nausea or vomiting?
 
 P: No.
 
 D: Okay. Any changes in your urinary pattern?
 
-P: No. 
+P: No.
 
-D: Okay, any changes in your weight recently? Have you lost any significant weight? 
+D: Okay, any changes in your weight recently? Have you lost any significant weight?
 
 P: No.
 
@@ -124,11 +124,11 @@ P: Um, yeah, I guess the runny nose. Um, I've had on and off for the past like 7
 
 D: Okay, now, it hasn't gone away?
 
-P: No, it's not that bothersome though. It's more the chills and the shortness of breath, and this chest pain now that is worrying me. 
+P: No, it's not that bothersome though. It's more the chills and the shortness of breath, and this chest pain now that is worrying me.
 
 D: Okay, and do you have any past medical conditions or diagnoses?
 
-P: Um I was diagnosed with diabetes, um high blood pressure and high cholesterol. 
+P: Um I was diagnosed with diabetes, um high blood pressure and high cholesterol.
 
 D: Okay, and when were you diagnosed with diabetes?
 
@@ -136,7 +136,7 @@ P: I was diagnosed about 10 years ago.
 
 D: Okay. Um, I'm sorry I forgot to ask you this specifically, have you experienced any kind of loss of your sense of taste or smell?
 
-P: No. 
+P: No.
 
 D: No, okay. Um do you take any medications for your medical conditions?
 
@@ -148,19 +148,19 @@ P: No.
 
 D: Okay. Um, any recent surgeries or hospitalizations? Or any reason for why, if like, if you were immobilized at all?
 
-P: Um no, I don't think so. 
+P: Um no, I don't think so.
 
 D: Okay, any history of hospitalizations or surgeries at all?
 
-P: Uh, I had a cholecystectomy about, oh gosh, it's like, 12 years ago. 
+P: Uh, I had a cholecystectomy about, oh gosh, it's like, 12 years ago.
 
 D: Okay, and were there any complications at all?
 
-P: No. 
+P: No.
 
-D: Okay. Um any family history of any lung conditions, heart conditions or cancers? 
+D: Okay. Um any family history of any lung conditions, heart conditions or cancers?
 
-P: No. 
+P: No.
 
 D: Okay. Um currently, do you work at all?
 
@@ -186,11 +186,11 @@ D: Okay, and how long did you smoke for and how much would you smoke everyday?
 
 P: Uh, so I stopped about 20 years back. I smoked for about 25 years. I smoked about a pack a day.
 
-D: I see, um, and do you use any recreational drugs like marijuana? 
+D: I see, um, and do you use any recreational drugs like marijuana?
 
 P: Um, I don't, no.
 
-D: Okay, and do you drink alcohol at all? 
+D: Okay, and do you drink alcohol at all?
 
 P: I, I'll have a glass of wine here and there.
 
@@ -200,11 +200,11 @@ P: Um, yeah like what, do you think I have COVID?
 
 D: Yeah so, right now it's definitely something that's on everyone's mind. Um some of these symptoms, um the shortness of breath and fever, definitely can be COVID, and that's something that we are going to test you with, and that's something we test everyone with. Um, but because you're having shortness of breath, uh, we do need to make sure nothing else is going on as well. Uh you can potentially have pneumonia that's not COVID, it can be any other virus or bacteria, so we will get some blood work done, we'll get your temperature and all your vitals taken as well, um and then get a chest x-ray as well.
 
-P: Okay. 
+P: Okay.
 
 D: And if it turns out at all that you have pneumonia, we'll just reassess and see if you need to stay in the hospital for longer, if you need any antibiotics within the hospital, or you can take them at home. So yeah, we'll do a full physical examination and do all those tests and then go from there.
 
-P: Okay, that sounds great. Thank you. 
+P: Okay, that sounds great. Thank you.
 
 D: You're welcome. Um yeah, we'll be there with you shortly.
 

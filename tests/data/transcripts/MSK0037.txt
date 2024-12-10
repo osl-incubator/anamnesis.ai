@@ -42,7 +42,7 @@ D: OK, so no muscle weakness?
 
 P: No.
 
-D: OK, and have you been having any fevers or chills? 
+D: OK, and have you been having any fevers or chills?
 
 P: No.
 
@@ -74,7 +74,7 @@ D: Alright and have you had a sore throat or cough.
 
 P: No, nothing like that.
 
-D: How about any shortness of breath or wheezing? 
+D: How about any shortness of breath or wheezing?
 
 P: Nope.
 
@@ -100,7 +100,7 @@ P: Nope.
 
 D: Have you had any diarrhea or constipation?
 
-P: Nope. 
+P: Nope.
 
 D: Alright, and have you had like any blood in the stool?
 
@@ -120,7 +120,7 @@ P: No.
 
 D: OK, and have you been having any muscle aches or joint pains or body pains anywhere else?
 
-P: No, not really. 
+P: No, not really.
 
 D: Alright, and uh. Have you had any memory loss or confusion?
 
@@ -128,9 +128,9 @@ P: No, nothing like that.
 
 D: OK, and have you had any appetite loss or fatigue?
 
-P: Uhm no. 
+P: Uhm no.
 
-D: Alright, and in the past, have you been diagnosed with any medical conditions? 
+D: Alright, and in the past, have you been diagnosed with any medical conditions?
 
 P: Uhm they say I have like some high cholesterol. I'm taking this medication like a statin and but other than that umm no.
 
@@ -144,7 +144,7 @@ P: Uhm I did a have a ACL repair just when I was probably 18.
 
 D: OK, do you have any allergies?
 
-P: No, not that I know. 
+P: No, not that I know.
 
 D: Alright, and are your immunizations up to date?
 
@@ -158,7 +158,7 @@ D: OK, and are you working right now?
 
 P: Yeah, just as a construction worker. Been doing that for the last probably 10 years.
 
-D: OK, uh and have you been around anybody who's been sick? 
+D: OK, uh and have you been around anybody who's been sick?
 
 P: No.
 
@@ -168,7 +168,7 @@ P: Not any puncture wounds. Like uh yeah, I sometimes get splinters here and the
 
 D: Alright, OK and have you ever traveled anywhere recently?
 
-P: Nope. 
+P: Nope.
 
 D: Been around anybody who's been sick.
 
@@ -244,4 +244,4 @@ P: Mmmm
 
 D: But it'll be important to get some blood work and things to make sure that we're not missing that. But for Dupuytren's contracture. It'll be a uh, do doing what we can with therapy to try it like physiotherapy and activity modification to try and loosen those structures on the on the palm of your hand.
 
-P: OK, sounds good. 
+P: OK, sounds good.

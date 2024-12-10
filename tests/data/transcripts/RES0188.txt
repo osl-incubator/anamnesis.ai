@@ -12,7 +12,7 @@ P: Yeah, so I think it was 38.5 degrees Celsius.
 
 D: OK, and did you do that orally or rectal or under armpit?
 
-P: I did it under the armpit. 
+P: I did it under the armpit.
 
 D: OK. OK, uhm so you mentioned that he's had a fever, he's been grunting and he just seems a little bit more fussy. Is that right?
 
@@ -20,27 +20,27 @@ P: Yeah.
 
 D: OK is he coughing at all?
 
-P: He was yesterday but not really now. 
+P: He was yesterday but not really now.
 
-D: OK and was it a dry cough? 
+D: OK and was it a dry cough?
 
 P: I think so. I mean, not-nothing really came out.
 
 D: OK, that's good. So no blood, no sputum?
 
-P: No. 
+P: No.
 
 D: OK, and did he seem wheezy?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No, OK. So there's no wheezing with the grunting?
 
-P: Maybe a little bit like that, just a little bit of a noise, but it's mostly the grunting. 
+P: Maybe a little bit like that, just a little bit of a noise, but it's mostly the grunting.
 
 D: OK. Has he had any weight loss?
 
-P: No, not that I really, we haven't really weighed him now since his last appointment. 
+P: No, not that I really, we haven't really weighed him now since his last appointment.
 
 D: OK. Does he seem excessively tired or fatigued?
 
@@ -66,7 +66,7 @@ D: No, OK. And he said he hasn't had any like fainting spells?
 
 P: Uh, no, I don't think so.
 
-D: No, OK. And how many wet diapers is he producing in a day now? 
+D: No, OK. And how many wet diapers is he producing in a day now?
 
 P: Probably 5 or 6.
 
@@ -108,11 +108,11 @@ P: No.
 
 D: No medications, OK. And is up to date with all his immunizations?
 
-P: Yeah, oh he had all his immunizations so far. 
+P: Yeah, oh he had all his immunizations so far.
 
 D: OK. How about allergies? Does he have any?
 
-P: Not that I know of. 
+P: Not that I know of.
 
 D: No, OK. Any family history of lung or heart conditions?
 
@@ -120,13 +120,13 @@ P: No.
 
 D: OK, and does anyone at home smoke?
 
-P: No, no one smokes. 
+P: No, no one smokes.
 
 D: OK. Has he been in contact with anyone sick recently?
 
 P: Uh, no, not that I know of. Uhm his older sister does go to school though, but I don't know if she might have carried something home.
 
-D: OK, how old is she? 
+D: OK, how old is she?
 
 P: She's six years old.
 
@@ -134,9 +134,9 @@ D: Six, OK. And is she healthy or is she having similar symptoms?
 
 P: No, she's healthy. No, no symptoms.
 
-D: OK. Any travel recently? 
+D: OK. Any travel recently?
 
-P: No. 
+P: No.
 
 D: No, OK. And who does he live with at home?
 

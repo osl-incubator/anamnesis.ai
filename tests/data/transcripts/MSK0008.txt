@@ -8,45 +8,45 @@ P: Yes.
 
 D: OK, and how many days ago was this?
 
-P: This was two days ago. 
+P: This was two days ago.
 
 D: OK, since then, has the pain begin getting any better or worse or staying the same?
 
-P: No, it's staying the same or a little bit worse. 
+P: No, it's staying the same or a little bit worse.
 
 D: OK. Could you describe the pain? Is it sharp, achy?
 
-P: I'd say it's pretty sharp. 
+P: I'd say it's pretty sharp.
 
 D: OK. Uhm and do you feel the pain radiate anywhere like down the leg or or up into the thigh?
 
-P: Um no. 
+P: Um no.
 
 D: OK, any pain in the posterior aspect of the knee or the lateral aspect?
 
-P: No. 
+P: No.
 
 D: OK. Um and is there anything that makes the pain worse?
 
 P: I guess if I press on that area or I try to. And. I don't know, flex or extend my knee too much.
 
-D: OK. An anything that you've tried to make the pain better? 
+D: OK. An anything that you've tried to make the pain better?
 
 P: Um some ice helps.
 
-D: OK, uh. And have you noticed swelling over the area? 
+D: OK, uh. And have you noticed swelling over the area?
 
 P: Just a little bit.
 
 D: OK, and redness as well?
 
-P: Yes. 
+P: Yes.
 
 D: OK. Uhm and what would you say the severity of the pain is a 10 being the worst pain that you've ever felt and 1 being low intensity pain.
 
 P: Um I'd give it about a 5.
 
-D: OK, and have you had any injuries or any knee pain before? 
+D: OK, and have you had any injuries or any knee pain before?
 
 P: No.
 
@@ -58,11 +58,11 @@ D: OK, and how about any difficulties walking or having any knee instability?
 
 P: Um a little bit only when I like try to extend or flex my knee too much.
 
-D: OK. Um. And. Uh, um alright. So have you been experiencing any other symptoms? 
+D: OK. Um. And. Uh, um alright. So have you been experiencing any other symptoms?
 
-P: No. 
+P: No.
 
-D: Alright, so just to be comprehensive so I'll run through a review. So have you been, having any any headaches? 
+D: Alright, so just to be comprehensive so I'll run through a review. So have you been, having any any headaches?
 
 P: No.
 
@@ -70,7 +70,7 @@ D: Any sensory changes like changes to vision, hearing, smell or taste?
 
 P: No.
 
-D: OK, any eye symptoms or your symptoms? 
+D: OK, any eye symptoms or your symptoms?
 
 P: No.
 
@@ -86,23 +86,23 @@ D: Any shortness of breath?
 
 P: No.
 
-D: Have you had any wheezing? 
+D: Have you had any wheezing?
 
 P: No.
 
-D: Have you had any chest pain? 
+D: Have you had any chest pain?
 
 P: No.
 
-D: Any heart palpitations or heart racing? 
+D: Any heart palpitations or heart racing?
 
 P: No.
 
 D: OK. Have you had any fainting or dizziness?
 
-P: Um no. 
+P: Um no.
 
-D: Alright, have you had any nausea or vomiting? 
+D: Alright, have you had any nausea or vomiting?
 
 P: No.
 
@@ -110,7 +110,7 @@ D: Have you had any changes to your appetite like loss of appetite?
 
 P: No.
 
-D: Have you had any weight loss unexpectedly. 
+D: Have you had any weight loss unexpectedly.
 
 P: No.
 
@@ -128,7 +128,7 @@ P: No.
 
 D: Alright, and have you had any skin changes such as ra' rashes or anything like that?
 
-P: No. 
+P: No.
 
 D: OK, any joint pains anywhere else?
 
@@ -138,7 +138,7 @@ D: OK, and any fatigue?
 
 P: No.
 
-D: OK, and in the past, have you had or have you been diagnosed with any medical conditions? 
+D: OK, and in the past, have you had or have you been diagnosed with any medical conditions?
 
 P: Um no.
 
@@ -186,7 +186,7 @@ D: Um do you drink alcohol?
 
 P: No.
 
-D: OK, did you use any recreational drugs like marijuana or anything else? 
+D: OK, did you use any recreational drugs like marijuana or anything else?
 
 P: No.
 
@@ -216,23 +216,23 @@ P: It looks or is that a bruise, it looks red and I would say it's a little bit 
 
 D: OK, is there any muscle atrophy?
 
-P: Um no. 
+P: Um no.
 
 D: OK, and is there any misalignment or joint deformities?
 
-P: No, not that I notice. 
+P: No, not that I notice.
 
-D: OK. And alright on gait or walking, is there any limp or antalgia? 
+D: OK. And alright on gait or walking, is there any limp or antalgia?
 
 P: Um no.
 
 D: You're able to walk normally?
 
-P: I am able to walk normally and it hurts, but I think I'm walking OK. 
+P: I am able to walk normally and it hurts, but I think I'm walking OK.
 
 D: OK. Uhm and next is there any changes to temperature like the joint itself feel hot?
 
-P: No. 
+P: No.
 
 D: OK and are there any areas of the joint line itself of the knee that is painful to palpation?
 
@@ -240,7 +240,7 @@ P: At just the medial part of it like the I guess where the ligament would be.
 
 D: OK, so just let me OK, and, any pain over the patella?
 
-P: No. 
+P: No.
 
 D: Any pain over the tibial tuberosity or patellar tendon?
 
@@ -264,9 +264,9 @@ P: To the varus stress? I guess it would be, there will be pain if I press down 
 
 D: OK, and is there any joint yeah, the joint laxity or pain too, like a valgus stress of the knee?
 
-P: Yeah, so when I press when I do that it hurts on the medial aspect but not the lateral aspect. 
+P: Yeah, so when I press when I do that it hurts on the medial aspect but not the lateral aspect.
 
-D: OK. Uhm and does it feel is as though there's some like the joints opening more when you put the valgus stress? 
+D: OK. Uhm and does it feel is as though there's some like the joints opening more when you put the valgus stress?
 
 P: A little bit, yes.
 
@@ -276,7 +276,7 @@ P: Um no.
 
 D: And how about if you pull the tibia posteriorly, any instability?
 
-P: No. 
+P: No.
 
 D: OK, um and the is their full range of motion of the knee?
 
@@ -284,9 +284,9 @@ P: Yes.
 
 D: And full range of motion of the hip and ankle?
 
-P: Yes. 
+P: Yes.
 
-D: OK, um and do you have any like numbness, tingling or muscle weakness? 
+D: OK, um and do you have any like numbness, tingling or muscle weakness?
 
 P: No.
 
@@ -294,7 +294,7 @@ D: OK, and any sensory changes to the skin?
 
 P: No, no.
 
-D: OK and reflexes are normal. 
+D: OK and reflexes are normal.
 
 P: Mmmm
 
@@ -302,7 +302,7 @@ D: OK. So I think that was everything I wanted to ask and and kind of go through
 
 P: Ah no, that was it. Just what can I do about my my knee?
 
-D: Yeah, so right now it's sounding like this could be an MCL or medial collateral ligament strain, or injury and so these types of injuries are usually treated conservatively, like with things like NSAIDs or anti-inflammatories to help that pain and swelling. If the pain depending on how severe it is, it might be useful to use maybe crutches for a day or two to try to help let the pain to subside and allow you to be able to do some physical therapy exercises like strengthening the quadriceps and hamstring muscles. 
+D: Yeah, so right now it's sounding like this could be an MCL or medial collateral ligament strain, or injury and so these types of injuries are usually treated conservatively, like with things like NSAIDs or anti-inflammatories to help that pain and swelling. If the pain depending on how severe it is, it might be useful to use maybe crutches for a day or two to try to help let the pain to subside and allow you to be able to do some physical therapy exercises like strengthening the quadriceps and hamstring muscles.
 
 P: OK.
 

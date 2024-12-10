@@ -14,9 +14,9 @@ D: OK. And has it gotten better or worse or stayed the same since last week?
 
 P: Uh, it's it's gotten a little bit, little bit better.
 
-D: OK, that's good. And the sore throat started four days ago, are you having any difficulties swallowing at all? 
+D: OK, that's good. And the sore throat started four days ago, are you having any difficulties swallowing at all?
 
-P: Yeah, it's, it's, it's really sore. 
+P: Yeah, it's, it's, it's really sore.
 
 D: OK. Uhm, and I guess going back to the cough, does it make it difficult for you to fall asleep at night or does it wake you up in the middle of the night?
 
@@ -24,7 +24,7 @@ P: No I, it hasn't done that.
 
 D: OK, alright. Other uh, and and I guess this sore throat has just gotten worse over the past four days or has been kind of the same or better?
 
-P: Yeah, it's gotten a little, it's gotten a little bit worse over the last few days. 
+P: Yeah, it's gotten a little, it's gotten a little bit worse over the last few days.
 
 D: OK, do you have any other symptoms like headaches, stuffy nose, runny nose, uhm any discharge from your eyes, red eyes, any pain in your ears? Anything like that?
 
@@ -44,7 +44,7 @@ P: No, I haven't.
 
 D: Changes in your sense of taste?
 
-P: No. 
+P: No.
 
 D: OK, alright, and any chest pain?
 
@@ -52,7 +52,7 @@ P: No, I haven't had any chest pain.
 
 D: Difficulties breathing?
 
-P: No. 
+P: No.
 
 D: Any, uhm, I guess headache or any pressure in your cheeks or your head when you bend down or squat down?
 
@@ -62,7 +62,7 @@ D: OK. Uhm, any belly pain, nausea or vomiting, any changes in your bowel moveme
 
 P: No.
 
-D: OK. Alright. And do you have any medical conditions that you've been diagnosed with? 
+D: OK. Alright. And do you have any medical conditions that you've been diagnosed with?
 
 P: I've had uhm, like tonsillitis a few times in the, in the past. The last time happened about about six months ago, I'm wondering if I have strep throat.
 
@@ -76,13 +76,13 @@ P: I do, yeah I do, yes, yeah.
 
 D: OK, uhm and any other medical conditions?
 
-P: No. 
+P: No.
 
-D: OK, any surgeries? 
+D: OK, any surgeries?
 
 P: No.
 
-D: Have you ever been hospitalized? 
+D: Have you ever been hospitalized?
 
 P: No.
 
@@ -90,7 +90,7 @@ D: OK. And any when you were younger would you have a lot of infections uhm, whe
 
 P: Uh, I did have a couple of ear infections when I was, when I was younger, but I haven't had any since.
 
-D: OK. And no pneumonia or anything like that, right? 
+D: OK. And no pneumonia or anything like that, right?
 
 P: No, nothing like that.
 
@@ -110,19 +110,19 @@ D: Right and uh, do you have allergies to food or environmental allergies or all
 
 P: Yeah I, I have allergies to peanuts.
 
-D: What happens? 
+D: What happens?
 
-P: Yeah, I do get anaphylaxis from it. I've uhm, or I'll get yeah like hives and throat swelling. And so I do carry an EpiPen, I haven't had to use it though. 
+P: Yeah, I do get anaphylaxis from it. I've uhm, or I'll get yeah like hives and throat swelling. And so I do carry an EpiPen, I haven't had to use it though.
 
 D: Yeah, that's good, that's good. And so couple questions about, uhm, I guess more general questions, do you, who do you live with and where do you live, in a house or an apartment?
 
-P: Live in a house with uhm, with my parents and older sister. 
+P: Live in a house with uhm, with my parents and older sister.
 
 D: OK, and uhm, are you, uhm, are you currently smoking or have you ever smoked in the past?
 
 P: No.
 
-D: OK. Also I just want to remind you that these questions will remain confidential between you and me. In case you're worried, no one's going to find out about what we're talking about unless you, unless there's concern about harm to you or harm to anyone else. Do you feel safe at home? 
+D: OK. Also I just want to remind you that these questions will remain confidential between you and me. In case you're worried, no one's going to find out about what we're talking about unless you, unless there's concern about harm to you or harm to anyone else. Do you feel safe at home?
 
 P: I do, yes.
 
@@ -148,7 +148,7 @@ P: I don't think so. I mean, going to, we both I mean, we've been going back to 
 
 D: OK. So you've been doing schooling in person, then, OK.
 
-P: Yeah. 
+P: Yeah.
 
 D: Alright. Any medical conditions that run in your family, anything related to the lungs, or otherwise?
 
@@ -156,7 +156,7 @@ P: Uh, no.
 
 D: OK, uhm, alright, well those are all the questions I had for you. So it sounds like last week you had itchy eyes runny nose, you were sneezing and you had a dry cough. And then over time some of those symptoms resolved and you continued to have a cough that was also getting better, but you then developed a sore throat. And you have been feeling feverish over the past two days. Did you measure, did you check your temperature last week?
 
-P: I didn't check it last week, but I checked it yesterday and it was 38.2, I think. 
+P: I didn't check it last week, but I checked it yesterday and it was 38.2, I think.
 
 D: OK.
 

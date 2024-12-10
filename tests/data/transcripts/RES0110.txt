@@ -4,7 +4,7 @@ P: Hi, um so for the past week or so I've um I've had this cough um and some sho
 
 D: Yeah, yeah it's it's that was a really good idea to come in to get checked out. Um so can you uh, I'll talk I'll ask about each symptom a little bit. So starting with the shortness of breath can you um tell me how uh bad the shortness of breath has been?
 
-P: Uh it's been sometimes it's not so bad, some other times it's really bad. Um at first it wasn't that bad, but now like I'm having a hard time taking a deep breath in. Um it hurts and I just feel like I can't walk like 2 blocks even before getting short of breath. 
+P: Uh it's been sometimes it's not so bad, some other times it's really bad. Um at first it wasn't that bad, but now like I'm having a hard time taking a deep breath in. Um it hurts and I just feel like I can't walk like 2 blocks even before getting short of breath.
 
 D: And uh before this week how much did, did you ever feel short of breath before this?
 
@@ -24,9 +24,9 @@ P: Um it was it was a dry cough at first, but now I'm seeing some phlegm um and 
 
 D: Have you seen any blood in the phlegm?
 
-P: No. 
+P: No.
 
-D: Uhm and, uh, are you hearing any wheezing sounds? 
+D: Uhm and, uh, are you hearing any wheezing sounds?
 
 P: Yeah, a little bit.
 
@@ -40,7 +40,7 @@ P: Um I did I it was like 38.5 this morning.
 
 D: And have you been checking your fever this past week, or was that the first time you, um, checked it?
 
-P: It's the first time I checked it. I I've felt hot though in the past and I've felt like I had chills. 
+P: It's the first time I checked it. I I've felt hot though in the past and I've felt like I had chills.
 
 D: Yeah. You're also feeling a little bit fuzzy. When did that start, and can you explain that a little bit?
 
@@ -60,7 +60,7 @@ P: Um no, no headache.
 
 D: OK, any changes in your vision or your uh hearing that has that has uh been very sudden or that has happened over the past week?
 
-P: No. 
+P: No.
 
 D: Nothing like that, OK. Um any change in your taste, change uh, sense of smell?
 
@@ -70,7 +70,7 @@ D: Sense of taste?
 
 P: No.
 
-D: OK uhm and uh any runny nose or congestion? 
+D: OK uhm and uh any runny nose or congestion?
 
 P: Um a little bit of a runny nose, yeah.
 
@@ -82,13 +82,13 @@ D: Um any uh sore throat?
 
 P: Uhm no, no sore throat.
 
-D: OK. And um any chest pain? 
+D: OK. And um any chest pain?
 
 P: Yeah, it hurt hurts when I try to take a deep breath in.
 
 D: When did that start?
 
-P: That started about the same time as my shortness of breath. 
+P: That started about the same time as my shortness of breath.
 
 D: OK, uhm and uh any uh do you feel like your heart is racing?
 
@@ -116,11 +116,11 @@ P: No.
 
 D: Uh any changes in your bowel movements like diarrhea or constipation that is new in the past week or two weeks or so?
 
-P: No. 
+P: No.
 
 D: OK. Um any um difficulties with uh peeing? Do you have uh any pain or any increase in how often you're going to the bathroom, or how um urgently you need to get to the bathroom? Anything like that?
 
-P: No. 
+P: No.
 
 D: No, OK. Any pains in your joints or muscles?
 
@@ -160,9 +160,9 @@ P: No.
 
 D: Ever been diagnosed with asthma?
 
-P: No 
+P: No
 
-D: Heart attack or any heart related problems? 
+D: Heart attack or any heart related problems?
 
 P: No.
 
@@ -172,7 +172,7 @@ P: Um no. Actually sorry, I have, for the DVT.
 
 D: Yeah, yeah, yeah, I see. Any surgeries?
 
-P: Uh no, no surgeries. 
+P: Uh no, no surgeries.
 
 D: OK. Um what what caused your DVT? Do you remember or do you know?
 
@@ -192,7 +192,7 @@ P: Yeah.
 
 D: That's great. Uh yeah, that's very important that you know for women um um above the age of 65, I think, 50. Um uh OK, so in terms of your living situation, are you living with someone? Are you living alone?
 
-P: Um I live with my husband. 
+P: Um I live with my husband.
 
 D: OK, and are you, um, is there anybody else in the house? Any pets, animals?
 
@@ -218,14 +218,14 @@ D: OK. Um OK. Uh alright, well I think I have all the information I need today. 
 
 P: Um no, thank you so much.
 
-D: Welcome. Um so the likely diagnosis is um a pneumonia, either bacterial or viral, but given yeah, yeah could be either, OK. 
+D: Welcome. Um so the likely diagnosis is um a pneumonia, either bacterial or viral, but given yeah, yeah could be either, OK.
 
 P: Do I still need to isolate in this case?
 
 D: Oh that's very true. Yep, Yep uh so.
 
-P: OK. 
+P: OK.
 
-D: Well, you will be in the hospital, so yes you do. We will be we will be doing a Covid test, but that's a really good point um uh because your symptoms do overlap with Covid symptoms um we will also uh have you in an isolated room away from other patients until your Covid swabs are back and we know whether um, yeah, we'll follow the guidelines um put forth by the public health. 
+D: Well, you will be in the hospital, so yes you do. We will be we will be doing a Covid test, but that's a really good point um uh because your symptoms do overlap with Covid symptoms um we will also uh have you in an isolated room away from other patients until your Covid swabs are back and we know whether um, yeah, we'll follow the guidelines um put forth by the public health.
 
 P: OK, sure.

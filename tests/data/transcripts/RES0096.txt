@@ -18,7 +18,7 @@ D: And prior to this change, how far were you able to walk and and how long ago 
 
 P: Uhm, I, I guess I could walk, uh, I don't know, it's been very, I guess it's, it's been a gradual change. Uhm, maybe a month, a month ago I felt that I couldn't really walk as much as I used to, and then it's only gotten worse. Two or three months ago I could, I could walk a kilometre or two, or more.
 
-D: OK, so quite a significant change over the last little while. Have you had any episodes where you wake up in the middle of the night with, with shortness of breath, and you need to sit up? 
+D: OK, so quite a significant change over the last little while. Have you had any episodes where you wake up in the middle of the night with, with shortness of breath, and you need to sit up?
 
 P: No.
 
@@ -28,7 +28,7 @@ P: One.
 
 D: OK and have you noticed any like ankle swelling or or leg swelling?
 
-P: No. 
+P: No.
 
 D: OK. And you mentioned cough. When did that start?
 
@@ -52,11 +52,11 @@ P: A bit more of a dry cough before, but I mean, so sometimes it will be a dry c
 
 D: OK, and you're coughing more often as well over this last month?
 
-P: Oh yeah, Oh yeah, 
+P: Oh yeah, Oh yeah,
 
 D: OK. Have you been experiencing any, any headaches?
 
-P: No. 
+P: No.
 
 D: OK, how about any eye pain or ear pain?
 
@@ -64,15 +64,15 @@ P: No, no, no.
 
 D: How about any eye redness or, or discharge?
 
-P: Nope. 
+P: Nope.
 
 D: Any runny nose or sore throat?
 
-P: no. 
+P: no.
 
 D: OK, have you had any fevers or chills?
 
-P: Uhm, I, I checked my fevers, I checked my temperature uh, couple days ago. It's just been this little bit, 30, I think it was 38. 
+P: Uhm, I, I checked my fevers, I checked my temperature uh, couple days ago. It's just been this little bit, 30, I think it was 38.
 
 D: OK, so, yeah, that would be a fever.
 
@@ -80,7 +80,7 @@ P: That was I think two weeks ago.
 
 D: OK, do you feel hot now?
 
-P: Not really, no. 
+P: Not really, no.
 
 D: OK. Have you had any night sweats?
 
@@ -104,17 +104,17 @@ P: Yeah, yeah I was, uhm, 210 pounds.
 
 D: OK, uhm, so yeah, about a 10% reduction in your weight over the last couple of months, it sounds like. OK, How is your appetite been?
 
-P: Uh, it's OK. 
+P: Uh, it's OK.
 
 D: Alright, and have you been having any chest pain?
 
-P: No. 
+P: No.
 
-D: Any, any wheeze? 
+D: Any, any wheeze?
 
 P: No.
 
-D: Have you had any dizziness or lightheadedness? 
+D: Have you had any dizziness or lightheadedness?
 
 P: Uhm no, no.
 
@@ -130,7 +130,7 @@ D: Any urinary problems?
 
 P: No.
 
-D: Any skin rashes or muscle aches. 
+D: Any skin rashes or muscle aches.
 
 P: No.
 
@@ -138,7 +138,7 @@ D: OK, and, uh, have you been diagnosed with any medical conditions before?
 
 P: Yeah, I've been diagnosed with COPD, with, uh, high blood pressure and high cholesterol.
 
-D: I see, alright and do you take any medications for those? 
+D: I see, alright and do you take any medications for those?
 
 P: Uh, I take Lipitor.
 
@@ -148,7 +148,7 @@ P And I take some puffers but don't use them very frequently. I forget to use th
 
 D: OK, so yeah, you've tried them, when you were short of breath and they haven't helped?
 
-P: They haven't done much. 
+P: They haven't done much.
 
 D: OK. And are you allergic to any medications or have any allergies?
 
@@ -164,17 +164,17 @@ P: It's been, uh, I was, uh, I was actually hospitalized about four or five time
 
 D: And was this for COPD exacerbations?
 
-P: Yeah, yeah. 
+P: Yeah, yeah.
 
 D: OK, did those each require a stay in the hospital?
 
-P: Two or three of them I did, yeah. 
+P: Two or three of them I did, yeah.
 
-D: OK. And have you had any surgeries? 
+D: OK. And have you had any surgeries?
 
 P: Uh, no.
 
-D: And are you currently smoking? 
+D: And are you currently smoking?
 
 P: Yeah.
 
@@ -200,7 +200,7 @@ P: I live with my wife.
 
 D: OK, and are you, uhm, do you help looking after the home, and uh, like functionally independent right now?
 
-P: Uh, yeah. I use a cane. 
+P: Uh, yeah. I use a cane.
 
 D: Mhm, ok.
 
@@ -212,7 +212,7 @@ P: yep.
 
 D: OK, uhm, and has anybody in the family had any heart or lung conditions?
 
-P: My dad died of lung cancer. He was a, he was a big smoker as well. And my mom had a heart attack. 
+P: My dad died of lung cancer. He was a, he was a big smoker as well. And my mom had a heart attack.
 
 D: OK, and how old were your parents approximately?
 
@@ -224,7 +224,7 @@ P: No, no she did not.
 
 D: Oh, I'm sorry to hear that. Uhm, and the lung cancer you mention, any other cancers that run in the family?
 
-P: No. 
+P: No.
 
 D: OK, so that was all the questions I wanted to ask on on history. Uhm certainly it sounds like you're bringing up some blood with, with, with the increased cough and with difficulties breathing so we will get a, uhm, a chest x-ray and possibly a CT image of your chest as well to see if there's anything going on in your lungs and we might do some blood work as well to check a few things so uhm, we'll get those ordered and, and see what, see what that shows.
 

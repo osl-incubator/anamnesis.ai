@@ -1,5 +1,5 @@
 
-D: How may I help you? 
+D: How may I help you?
 
 P: I'm I am here because I've had this intense pain in my right foot for the past six hours or so or so, and I thought it was important to come get it checked out by you guys.
 
@@ -53,13 +53,13 @@ P: No, nothing like that.
 
 D: Alright, and have you had any any headaches?
 
-P: No, no headaches. 
+P: No, no headaches.
 
-D: Have you had any memory loss or or or confusion? 
+D: Have you had any memory loss or or or confusion?
 
 P: No.
 
-D: OK. Have you had any fevers or chills? 
+D: OK. Have you had any fevers or chills?
 
 P: No.
 
@@ -69,7 +69,7 @@ P: No.
 
 D: And have you had any any night sweats?
 
-P: No. 
+P: No.
 
 D: OK, and how about any sensory changes like changes to your vision, hearing, sense of smell or sense of taste?
 
@@ -77,7 +77,7 @@ P: No changes there.
 
 D: Alright and have you had a sore throat or runny nose?
 
-P: No. 
+P: No.
 
 D: And how about having a cough or shortness of breath?
 
@@ -93,13 +93,13 @@ P: No.
 
 D: OK. And have you had any lightheadedness or dizziness?
 
-P: No. 
+P: No.
 
 D: OK. And how about any nausea or vomiting?
 
 P: No.
 
-D: Alright, have any abdominal pain? 
+D: Alright, have any abdominal pain?
 
 P: Nope.
 
@@ -107,9 +107,9 @@ D: Any changes to your bowel habits like diarrhea or constipation?
 
 P: No, I don't think so.
 
-D: OK, and have you had any changes to urinary patterns like pain frequency or incontinence? 
+D: OK, and have you had any changes to urinary patterns like pain frequency or incontinence?
 
-P: No. 
+P: No.
 
 D: OK. And have you had any skin changes like rashes or any changes to your nails or hair?
 
@@ -129,7 +129,7 @@ P: Um no, I am. Actually sorry I have um high blood pressure as well as diabetes
 
 D: OK, do you take medications for any of those things?
 
-P: Um I take ramipril for high blood pressure and I'm on insulin for the diabetes. 
+P: Um I take ramipril for high blood pressure and I'm on insulin for the diabetes.
 
 D: OK, have you had any medication changes recently?
 
@@ -145,15 +145,15 @@ P: No surgeries, just the lithotripsy for the kidney stone.
 
 D: OK, and are your immunizations up to date?
 
-P: Yep they are. 
+P: Yep they are.
 
-D: Excellent, um OK and do you smoke cigarettes? 
+D: Excellent, um OK and do you smoke cigarettes?
 
 P: No, I don't.
 
 D: How about marijuana or using other cannabis products?
 
-P: No. 
+P: No.
 
 D: OK and do you use any recreational drugs?
 
@@ -171,13 +171,13 @@ D: OK. Alright, and alright could you tell me a little bit about your living sit
 
 P: I live with my son in a house.
 
-D: OK, uh, and have you been around anybody who's been sick? 
+D: OK, uh, and have you been around anybody who's been sick?
 
-P: No. 
+P: No.
 
 D: Alright, and have you traveled anywhere recently?
 
-P: Um no no travel recently. 
+P: Um no no travel recently.
 
 D: OK, and and can you tell me a little bit about your diet an and like do you eat a lot of red meat and or a lot of seafood like like shell shellfish?
 

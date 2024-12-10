@@ -9,9 +9,9 @@ P: Sure, yeah the sore throat it started about four days ago. And it's really it
 
 D: OK, so you said four days ago?
 
-P: Yes, four days ago. 
+P: Yes, four days ago.
 
-D: OK. So it's been kind of sore, some issues swallowing food OK, and over the last four days has it gotten worse, Better that it stayed the same? 
+D: OK. So it's been kind of sore, some issues swallowing food OK, and over the last four days has it gotten worse, Better that it stayed the same?
 
 P: Um the sore throat has it's got, it's getting worse for sure.
 
@@ -21,17 +21,17 @@ P: I I, I guess when I was younger I had mono. And I had a sore throat when I ha
 
 D: OK, is there anything that makes it worse or like anything that makes it feel better right now?
 
-P: No, not really. I've tried, you know, I've tried gargling with salt water. I've tried some painkillers like nothing, nothing seems to be working. 
+P: No, not really. I've tried, you know, I've tried gargling with salt water. I've tried some painkillers like nothing, nothing seems to be working.
 
 D: Uhm OK, and you said you've also had some difficulty breathing.
 
-P: Yeah, that's right. 
+P: Yeah, that's right.
 
 D: Did that start around the same time?
 
 P: That actually started yesterday, and it's gotten me very concerned.
 
-D: OK. Yeah, I can understand how that would be concerning. We're definitely going to try to get to the bottom of it today. Um OK so started yesterday, said then has it gotten any worse? Is it the same way better? 
+D: OK. Yeah, I can understand how that would be concerning. We're definitely going to try to get to the bottom of it today. Um OK so started yesterday, said then has it gotten any worse? Is it the same way better?
 
 P: Um the, well, I guess it's getting worse, yeah.
 
@@ -41,7 +41,7 @@ P: It's it's just there all the time.
 
 D: Have you ever had any difficulty breathing in the past?
 
-P: Um no no, no, not like this. 
+P: Um no no, no, not like this.
 
 D: OK. Uh. Have you have you recently been in contact with anyone that's been sick?
 
@@ -51,19 +51,19 @@ D: OK, have you traveled recently?
 
 P: Um no, no, I haven't left the city for anything.
 
-D: OK. Do you know if your immunizations are up to date? 
+D: OK. Do you know if your immunizations are up to date?
 
 P: Ah yes, everything's up to date.
 
-D: OK. That’s good. See you so I'm just gonna ask you about a few other symptoms. I just like to get an idea if there's anything else you been experiencing. Have you had a cough at all? 
+D: OK. That’s good. See you so I'm just gonna ask you about a few other symptoms. I just like to get an idea if there's anything else you been experiencing. Have you had a cough at all?
 
 P: No.
 
-D: Have you had a runny nose? 
+D: Have you had a runny nose?
 
 P: No runny nose.
 
-D: Have you had any headaches? 
+D: Have you had any headaches?
 
 P: No.
 
@@ -77,25 +77,25 @@ P: Um maybe taste a little bit but not smell.
 
 D: OK, OK, when did that start?
 
-P: The taste ah. Maybe two days ago? 
+P: The taste ah. Maybe two days ago?
 
 D: OK. OK taste two days ago. Has it been on and off or has it been kind of constantly like a reduced sense of taste?
 
 P: It's it's. It's been pretty constant.
 
-D: OK. Have you had anything like that before? 
+D: OK. Have you had anything like that before?
 
 P: No.
 
 D: Have you had any fevers?
 
-P: I don't think so. 
+P: I don't think so.
 
-D: OK. Have you had any chills or night sweats? 
+D: OK. Have you had any chills or night sweats?
 
 P: No.
 
-D: Have you felt overall really tired and weak? 
+D: Have you felt overall really tired and weak?
 
 P: I. I felt tired, maybe not weak, but my I feel like my muscles all ache.
 
@@ -113,7 +113,7 @@ P: Um I'm on a long acting beta agonist.
 
 D: OK, is that the only medication you take?
 
-P: Pardon me. 
+P: Pardon me.
 
 D: Is that the only medication that you take?
 
@@ -123,13 +123,13 @@ D: OK. Do you have any allergies?
 
 P: Um no, no allergies.
 
-D: Just gonna ask you few questions about your lifestyle. Do you live here in town? 
+D: Just gonna ask you few questions about your lifestyle. Do you live here in town?
 
 P: I do.
 
 D: Do you ah live alone or with family?
 
-P: I live alone. 
+P: I live alone.
 
 D: OK. And do you smoke?
 
@@ -141,9 +141,9 @@ P: I did, I smoked for 40 years.
 
 D: OK. Do you drink alcohol?
 
-P: I drink occasionally, maybe like on the weekends. 
+P: I drink occasionally, maybe like on the weekends.
 
-D: OK. Uhm, and do you use cannabis? 
+D: OK. Uhm, and do you use cannabis?
 
 P: No.
 
@@ -157,15 +157,15 @@ P: I am retired, yeah.
 
 D: OK, what did you do for work before?
 
-P: I worked for GM. 
+P: I worked for GM.
 
-D: Crock. OK. And do you have any family history of respiratory problems, heart problems and? 
+D: Crock. OK. And do you have any family history of respiratory problems, heart problems and?
 
 P: No.
 
 D: OK. Uhm. OK, I think that that about covers my questions for you right now. Is there anything else that you wanted to add that I didn't ask you about?
 
-P: Um no, I don't think so. 
+P: Um no, I don't think so.
 
 D: OK. I’m going to go over this with the document I'm working with today, I'm guessing just because some of your symptoms are in line with common symptoms of covid 19, that will probably do a covid swab, and what happens with that is since we do have some syptoms, will have to isolate until the result come back and potentially after that if you still have symptoms, even if it is negative. So that's just kind of a heads up on that. Maybe one of the next things that happens. We will probably get you a chest xray 'cause we want to get an idea of what's going on in there. Did you have any other questions?
 
@@ -173,6 +173,6 @@ P: No, thank you very much.
 
 D: OK well thanks for chatting with me we should be back shortly to kind of let you know with the next step.
 
-P: OK, great, thank you. 
+P: OK, great, thank you.
 
 D: Thanks.

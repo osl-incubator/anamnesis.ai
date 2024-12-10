@@ -18,7 +18,7 @@ D: OK. OK, and if you were to describe the quality of your pain, would you say i
 
 P: Uh, it's a sharp pain.
 
-D: Sharp pain, OK. And one to 10, 10 being the worst pain you've ever had. How bad is this pain? 
+D: Sharp pain, OK. And one to 10, 10 being the worst pain you've ever had. How bad is this pain?
 
 P: It's about a 7.
 
@@ -52,11 +52,11 @@ P: No, just, just the left knee.
 
 D: And whereabouts on the left knee, is it?
 
-P: It's on the anterior aspect. Like on the front of it, but I I could, it feels like the pain is right behind my like right underneath the kneecap. 
+P: It's on the anterior aspect. Like on the front of it, but I I could, it feels like the pain is right behind my like right underneath the kneecap.
 
-D: Right underneath the knee, OK. 
+D: Right underneath the knee, OK.
 
-P: Yeah. 
+P: Yeah.
 
 D: OK. Alright and otherwise like have you had any weight loss?
 
@@ -86,13 +86,13 @@ D: OK, chest pain or heart palpitations?
 
 P: Nope. No chest pain or or anything like that.
 
-D: OK. Any changes in your bowel movements? 
+D: OK. Any changes in your bowel movements?
 
 P: Nope, I haven't had any diarrhea or any blood.
 
 D: OK, any changes in your urination?
 
-P: No. 
+P: No.
 
 D: No, OK. Alright, and are you otherwise healthy or do you have any longstanding medical conditions?
 
@@ -106,7 +106,7 @@ D: OK alright. And are you, have you been hospitalized or had surgeries in the p
 
 P: No, I haven't had any.
 
-D: OK, how about immunizations? Are you up to date? 
+D: OK, how about immunizations? Are you up to date?
 
 P: I am, yes.
 
@@ -190,15 +190,15 @@ D: No pain there. OK, good. When you are palpating, was there a difference in te
 
 P: No, the temperature feels the same.
 
-D: OK, OK, good. So now I'm going to uhm, are you sitting down? 
+D: OK, OK, good. So now I'm going to uhm, are you sitting down?
 
-P: I am yes. 
+P: I am yes.
 
 D: OK, so from a sitting position I'm going to get you to stand up uhm, and you let me know if that is painful.
 
-P: It is, yeah. 
+P: It is, yeah.
 
-D: Yeah, OK. Uhm, and then how about when you bend your knees? 
+D: Yeah, OK. Uhm, and then how about when you bend your knees?
 
 P: Uhm, no, no pain with just bending.
 

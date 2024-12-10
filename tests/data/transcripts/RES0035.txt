@@ -1,10 +1,10 @@
 D: May I just begin with asking you what brought you in here today?
 
-P: Sure, um, I've been experiencing some issues breathing, um and just a lot of coughing over the past year or so. 
+P: Sure, um, I've been experiencing some issues breathing, um and just a lot of coughing over the past year or so.
 
 D: OK. And is your cough, has it been a wet cough or a dry cough?
 
-P: Uh, but it's been a wet cough. 
+P: Uh, but it's been a wet cough.
 
 D: OK. You mentioned it started over a year?
 
@@ -26,11 +26,11 @@ D: Or just maybe every time you cough.
 
 P: Every time I cough maybe like the size of my thumbprint.
 
-D: OK, and have you notice at all coughing up any blood? 
+D: OK, and have you notice at all coughing up any blood?
 
-P: No. 
+P: No.
 
-D: Is the blood ever mixed into the phlegm? 
+D: Is the blood ever mixed into the phlegm?
 
 P: No.
 
@@ -44,7 +44,7 @@ P: No.
 
 D: No. OK. Is there anything you do that makes the coughing or shortness of breath worse?
 
-P: Um, I guess walking. 
+P: Um, I guess walking.
 
 D: Walking? Is there anything that makes it better at all?
 
@@ -52,11 +52,11 @@ P: Just resting.
 
 D: Just resting, OK. How much can you walk or run until you feel the coughing or shortness of breath?
 
-P: About like 200 meters. 
+P: About like 200 meters.
 
 D: OK. And has this ever happened to you before the eight months?
 
-P: No. Actually, I get wheezy because I have asthma, but it doesn't, it's not as bad as this. 
+P: No. Actually, I get wheezy because I have asthma, but it doesn't, it's not as bad as this.
 
 D: OK. And, um how often are you coughing, are you coughing throughout the day? Or is it more so during the day and then or more at night?
 
@@ -90,7 +90,7 @@ D: Do you feel increasingly fatigued throughout the day?
 
 P: Yeah, I guess coughing a lot makes me tired.
 
-D: OK, do you ever feel that your heart is racing or you have any kind of chest pain? 
+D: OK, do you ever feel that your heart is racing or you have any kind of chest pain?
 
 P: No.
 
@@ -98,7 +98,7 @@ D: Have you noticed any issues urinating?
 
 P: No.
 
-D: Any changes in your bowel movements, any constipation or diarrhea? 
+D: Any changes in your bowel movements, any constipation or diarrhea?
 
 P: No.
 
@@ -106,11 +106,11 @@ D: Any issues with your sleep or appetite?
 
 P: Uh, no.
 
-D: Any significant changes in your weight? 
+D: Any significant changes in your weight?
 
 P: No.
 
-D: Have you had any recent infections that you know of? 
+D: Have you had any recent infections that you know of?
 
 P: Not that I know of.
 
@@ -120,19 +120,19 @@ P: No.
 
 D: Um, do you think you have had any exposure to tuberculosis in the past?
 
-P: No. 
+P: No.
 
 D: And do you have exposure to fumes or dust or animals or pets in your work or home environment?
 
-P: I have a bird. 
+P: I have a bird.
 
 D: A bird? And when did you get the bird?
 
-P: Like five years ago. 
+P: Like five years ago.
 
 D: OK, but no issues before the eight months?
 
-P: No. 
+P: No.
 
 D: OK. In terms of your overall health, do you have any past medical conditions? You mentioned asthma, but anything else like diabetes, high blood pressure?
 
@@ -146,7 +146,7 @@ D: OK, any medications for any other reasons?
 
 P: I take some vitamin D tablets.
 
-D: OK, any allergies, environmental or to medications? 
+D: OK, any allergies, environmental or to medications?
 
 P: No.
 
@@ -168,15 +168,15 @@ P: No lung conditions or cancers.
 
 D: OK. And currently, do you work?
 
-P: I do. 
+P: I do.
 
 D: And where do you work?
 
-P: I work as an accountant. 
+P: I work as an accountant.
 
 D: OK. And do you currently live in an apartment or a house?
 
-P: In an apartment. 
+P: In an apartment.
 
 D: OK. And do you live by yourself or do you live with anyone else?
 
@@ -192,7 +192,7 @@ P: No, I smoked when I was younger, but not anymore.
 
 D: OK, and do you smoke cigarettes?
 
-P: I do. 
+P: I do.
 
 D: OK, and how much would you say you smoke on an average day?
 
@@ -216,10 +216,10 @@ P: Um, yeah, I'd say so.
 
 D: OK, and lastly, in terms of exercise, would you say you're fairly active throughout the week?
 
-P: Uhm, yep. 
+P: Uhm, yep.
 
 D: And what kind of things do you do for activity?
 
 P: Um, I take walks when I can. Um, before this whole shortness of breath thing, I used to ride my bike.
 
-D: OK. 
+D: OK.

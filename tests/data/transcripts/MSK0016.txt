@@ -12,7 +12,7 @@ P: Yeah, it first uh it would only bug me for a couple of minutes at a time and 
 
 D: OK, so um it's gotten worse then, you said over the past few weeks?
 
-P: Yeah it has. 
+P: Yeah it has.
 
 D: OK um and is it always there? Is it persistent or does it come and go?
 
@@ -20,7 +20,7 @@ P: It comes and goes.
 
 D: OK and what makes it better or worse?
 
-P: Uh better uh I've tried some um Advil um and Tylenol and it's kind of the, hasn't done much um for the pain really, uh I think only the thing that kind of helps it is just not using it as much, um yeah. 
+P: Uh better uh I've tried some um Advil um and Tylenol and it's kind of the, hasn't done much um for the pain really, uh I think only the thing that kind of helps it is just not using it as much, um yeah.
 
 D: Yeah, alright, um have you tried any like cold compresses, um topical creams? Anything like that?
 
@@ -74,7 +74,7 @@ D: Uh fevers or chills?
 
 P: No.
 
-D: Uh rashes? 
+D: Uh rashes?
 
 P: No rashes.
 
@@ -92,7 +92,7 @@ P: Nope, neither of those.
 
 D: OK. Chest pain or heart palpitations?
 
-P: Um nope, I haven't had that. 
+P: Um nope, I haven't had that.
 
 D: OK, how about um changes in your bowel movements?
 
@@ -102,7 +102,7 @@ D: OK, good. Any nausea or vomiting?
 
 P: No I haven't had any of that.
 
-D: OK, any changes in your voiding? 
+D: OK, any changes in your voiding?
 
 P: Uh, no I I um haven't had any problems with urination.
 
@@ -110,7 +110,7 @@ D: OK, um are you otherwise healthy? Do you have any longstanding medical condit
 
 P: Um I have hypothyroidism, so I take um like uh thyroxine for that and um I am overweight as well, or in obesity class one I think.
 
-D: OK, and um do you take any medications for the hypothyroid? 
+D: OK, and um do you take any medications for the hypothyroid?
 
 P: Yeah I do, I take um I take uh Synthroid, I think.
 
@@ -120,15 +120,15 @@ P: No, I've just been trying to uh change diet around when I can and um and tryi
 
 D: Yeah, for sure. Um alright, and then are you up to date with your immunizations?
 
-P: I am, yeah and I get the flu shot every year. 
+P: I am, yeah and I get the flu shot every year.
 
-D: OK, that's good. Um and have you had any hospitalizations or surgeries in the past? 
+D: OK, that's good. Um and have you had any hospitalizations or surgeries in the past?
 
 P: Um I, I, no, I haven't had anything like that.
 
 D: No, OK. Um any allergies?
 
-P: Uh no allergies. 
+P: Uh no allergies.
 
 D: OK, family history of lung or heart conditions?
 
@@ -152,7 +152,7 @@ P: Uh no cancer.
 
 D: No cancers, OK. Um alright and then, do you smoke?
 
-P: I do, yeah, I smoke about um 5 to 10 cigarettes per day. 
+P: I do, yeah, I smoke about um 5 to 10 cigarettes per day.
 
 D: OK, and um for how long have you been doing that?
 
@@ -170,7 +170,7 @@ D: No, OK. Any recreational drugs.
 
 P: Um nope, I don't use anything like that.
 
-D: OK, how about alcohol? Do you drink? 
+D: OK, how about alcohol? Do you drink?
 
 P: Um I'll have wine every once in awhile on the weekends, maybe maybe a drink per week, something like that.
 
@@ -178,7 +178,7 @@ D: OK, um and have you been in contact with anyone sick recently?
 
 P: Uh no, I don't believe so.
 
-D: OK, how about travel? 
+D: OK, how about travel?
 
 P: No, I've been I've been at home and and just going to work.
 
@@ -194,9 +194,9 @@ D: OK, alright good, um so now we're just going to move on to the physical exam 
 
 P: No, no symptoms like that.
 
-D: No, OK. And um do you, does that one seem to be more atrophied or are there any deformities or skin changes on that one? 
+D: No, OK. And um do you, does that one seem to be more atrophied or are there any deformities or skin changes on that one?
 
-P: Um maybe uh a little less muscle bulk on the, like where my thumb is. 
+P: Um maybe uh a little less muscle bulk on the, like where my thumb is.
 
 D: OK, OK. Um and then I'm gonna get you to palpate certain areas of that arm. So let's start um at the top, when you when you press down on your shoulder blades or just at the very top of your um arm where your, or at the very top where your arm connects to your shoulder, does it hurt over there?
 
