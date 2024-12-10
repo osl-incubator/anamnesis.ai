@@ -43,7 +43,7 @@ def check_possible_fhir_resources(
         )
         result = gen.generate(query=text, context=[])
     except Exception as e:
-        logging.degug(str(e))
+        logging.debug(str(e))
         return FHIRResourceFoundModel()
 
     return cast(FHIRResourceFoundModel, result)
@@ -59,7 +59,9 @@ def extract_fhir(text: str, api_key: str) -> dict[str, Resource]:
         resource_name = fhir_class.__name__
 
         if not getattr(possible_fhir, resource_name, False):
-            logging.debug(str(e))
+            logging.debug(
+                f"{resource_name} resource not found in the conversation."
+            )
             continue
 
         resource_detail = get_resource_detail(fhir_class)

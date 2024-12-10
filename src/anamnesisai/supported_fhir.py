@@ -30,7 +30,10 @@ RESOURCES_CLASSES = (
 )
 
 fields = {cls.__name__: (bool, ...) for cls in RESOURCES_CLASSES}
-FHIRResourceFoundModel = create_model("FHIRResourceFoundModel", **fields)
+FHIRResourceFoundModel = create_model(  # type: ignore[call-overload]
+    "FHIRResourceFoundModel",
+    **fields,
+)
 
 __all__ = [
     "RESOURCES_CLASSES",
