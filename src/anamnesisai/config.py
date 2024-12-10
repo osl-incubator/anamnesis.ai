@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+# prompt template for getting the given FHIR resource from the given
+# conversation between m.d. and patient.
 PROMPT_TEMPLATE = """
 You are a FHIR Resource generating expert. Given a conversion
 between doctor and patient, first create a syntactically correct
@@ -24,15 +26,18 @@ it is from the Patience.
 Conversation:
 
 ```
-{query}
+{context}
 ```
 """.strip()
 
+# prompt template for checking possible FHIR resources present in the given
+# conversation
 PROMPT_TEMPLATE_POSSIBLE_RESOURCES = """
-please read the following conversation between patient and md doctor:
+please read the conversation between patient and md doctor in the given
+context:
 
 ```
-{query}
+{context}
 ```
 
 In the conversation, `D:` means it is from the Doctor, and `P:` means

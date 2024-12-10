@@ -41,7 +41,8 @@ def check_possible_fhir_resources(
             output_max_length=10384,  # note: calc this number
             structured_output=FHIRResourceFoundModel,
         )
-        result = gen.generate(query=text, context=[])
+        # the query is already present in the prompt template
+        result = gen.generate(query="", context=[text])
     except Exception as e:
         logging.debug(str(e))
         return FHIRResourceFoundModel()
@@ -82,7 +83,8 @@ def extract_fhir(text: str, api_key: str) -> dict[str, Resource]:
                 output_max_length=10384,  # note: calc this number
                 structured_output=fhir_class,
             )
-            result = gen.generate(query=text, context=[])
+            # the query is already present in the prompt template
+            result = gen.generate(query="", context=[text])
         except Exception as e:
             logging.warning(str(e))
             continue
