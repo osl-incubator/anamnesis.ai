@@ -2,7 +2,7 @@ P: Hi, I'm Rob and I just feel like I can't catch my breath.
 
 D: OK, how old are you Rob?
 
-P: I'm I'm 50 I'm gonna be 50 soon. 
+P: I'm I'm 50 I'm gonna be 50 soon.
 
 D: OK, OK, when did this start?
 
@@ -24,7 +24,7 @@ D: Does it? Oh sorry, go ahead.
 
 P: Maybe like you know five or six.
 
-D: OK, OK. Does it hurt when you take a deep breath in? 
+D: OK, OK. Does it hurt when you take a deep breath in?
 
 P: Yeah.
 
@@ -44,7 +44,7 @@ D: Any swelling in your legs?
 
 P: I I don't think so.
 
-D: No? OK, how about on exertion? Like when you walk or run, or you know, does it hurt more or does I mean sorry, does your shortness of breath get worse? 
+D: No? OK, how about on exertion? Like when you walk or run, or you know, does it hurt more or does I mean sorry, does your shortness of breath get worse?
 
 P: Oh yeah, it was like going up the stairs, can't really breathe in after.
 
@@ -52,9 +52,9 @@ D: OK, how about when you're laying down?
 
 P: I don't know. I don't think that's any different. No, I slept fine last night. I got up and when I went up the stairs I was like holy...
 
-D: OK. How about wheezing? Are you experiencing any wheezing? 
+D: OK. How about wheezing? Are you experiencing any wheezing?
 
-P: I don't think so. 
+P: I don't think so.
 
 D: OK, how about fevers or chills?
 
@@ -62,7 +62,7 @@ P: No, not that I've noticed, no.
 
 D: OK. Any abdominal pain?
 
-P: Uh, no, no, it's like it aches kind of it, but it's all up here and like kind of in my back a little bit. 
+P: Uh, no, no, it's like it aches kind of it, but it's all up here and like kind of in my back a little bit.
 
 D: OK and, do you think anything triggered this?
 
@@ -90,9 +90,9 @@ P: I, I mean, I've been trying to to lose weight.
 
 D: OK.
 
-P: They told me a year ago I have like high blood pressure so I've been cutting out like salt and trying to walk more. 
+P: They told me a year ago I have like high blood pressure so I've been cutting out like salt and trying to walk more.
 
-D: OK, OK, good. 
+D: OK, OK, good.
 
 P: So I've lost like 15 pounds but like not... Like I've been trying to.
 
@@ -106,7 +106,7 @@ P: No, that's that's like it. I've never had any like chest problems.
 
 D: OK. Have you had any investigations done for your chest like pulmonary function tests, ECG's, chest X-rays?
 
-P: No, no, they just they just put the thing on my arm. But my doctors office and said that it was high. So they said to you know, eat better and I don't I don't wanna start any drugs so, I didn't do anything. I've been fine ever since. 
+P: No, no, they just they just put the thing on my arm. But my doctors office and said that it was high. So they said to you know, eat better and I don't I don't wanna start any drugs so, I didn't do anything. I've been fine ever since.
 
 D: OK, so you're not on any medications?
 
@@ -127,9 +127,9 @@ P: Uh. No, no and I I smoke, I'm trying to smoke less, you know, since they told
 
 D: Yeah, OK. Any other recreational drugs?
 
-P: No no. 
+P: No no.
 
-D: No, OK. How about alcohol? Do you drink alcohol? 
+D: No, OK. How about alcohol? Do you drink alcohol?
 
 P: Oh like, maybe you know, a beer on the weekend.
 
@@ -139,7 +139,7 @@ P: Like I don't I think I got all the ones when I was like a kid. What else shou
 
 D: OK, so like the flu vaccine every year?
 
-P: Oh, I get that, like my wife, my wife makes me get that. 
+P: Oh, I get that, like my wife, my wife makes me get that.
 
 D: OK that's good. Any family history of lung or heart disease?
 

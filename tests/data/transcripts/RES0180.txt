@@ -18,7 +18,7 @@ D: OK, do you feel short of breath?
 
 P: No thats I haven't been short of breath.
 
-D: OK, how about wheezing? 
+D: OK, how about wheezing?
 
 P: No wheezing.
 
@@ -36,7 +36,7 @@ P: It's a kind of a dull, achy pain.
 
 D: OK. Uhm, alright and where is it located?
 
-P: Uh kind of in the front of uh I have my over my head and on both sides as well. 
+P: Uh kind of in the front of uh I have my over my head and on both sides as well.
 
 D: OK, OK. Any feelings of feeling like your heart's racing?
 
@@ -64,11 +64,11 @@ P: No.
 
 D: No, OK, how about that loss of smell or taste?
 
-P: Uh yeah I have actually. Yeah, I have. 
+P: Uh yeah I have actually. Yeah, I have.
 
 D: OK, both?
 
-P: Yeah, both it's uh, I've actually yeah, I notice that in the last day, it's kind of weird. I didn't even think of it until you until you asked there. 
+P: Yeah, both it's uh, I've actually yeah, I notice that in the last day, it's kind of weird. I didn't even think of it until you until you asked there.
 
 D: OK.
 
@@ -76,7 +76,7 @@ P: But yeah, I have haven't really noticed being able to smell or taste.
 
 D: OK, any changes in your vision or hearing?
 
-P: No. 
+P: No.
 
 D: OK. Weight loss?
 
@@ -116,11 +116,11 @@ P: Uh, I am yes I think so.
 
 D: Yeah, OK. Alright, and are you allergic to anything?
 
-P: No, I don't think so. 
+P: No, I don't think so.
 
 D: No, OK. Alright, and any family history of lung or heart conditions.
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, umm, alright. Do you smoke?
 
@@ -128,7 +128,7 @@ P: I don't, no.
 
 D: No, OK. Any other recreational drugs?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK. Do you drink alcohol?
 
@@ -140,7 +140,7 @@ P: No, I I don't think so. I mean, I've been working from well, some days I've h
 
 D: OK. OK. Uhm and where do you live right now?
 
-P: So I live in a house downtown in the city here and I live with my wife and our two sons. 
+P: So I live in a house downtown in the city here and I live with my wife and our two sons.
 
 D: OK, any are they, they're ok, they're all healthy?
 
@@ -148,7 +148,7 @@ P: Uhm, yeah they they, they uh, well my son actually had a cough and a sore thr
 
 D: OK. Uhm, and do you have any old carpets? Asbestos, mold, anything like that in your home?
 
-P: Uh, no, nothing like that. 
+P: Uh, no, nothing like that.
 
 D: No, OK. Uhm alright, I think those are all the questions that I had for you. Did you have any questions of your own for myself?
 

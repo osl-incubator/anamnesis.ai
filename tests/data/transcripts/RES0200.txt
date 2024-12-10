@@ -8,17 +8,17 @@ D: OK, you said you were diagnosed with COPD couple years ago. Was that two year
 
 P: It was almost, probably five years ago.
 
-D: Five years ago, OK, and have you always had this cough since then? 
+D: Five years ago, OK, and have you always had this cough since then?
 
-P: Yeah I’ve probably had a cough for the last 10 years, I think. 
+P: Yeah I’ve probably had a cough for the last 10 years, I think.
 
 D: OK.
 
-P: Yeah. 
+P: Yeah.
 
 D: And you you’ve mentioned that this cough has gotten worse over the last week?
 
-P: Yeah, I've been coughing a lot more. Even just walking down the stairs from my bedroom to even the kitchen I just have to take a little bit of a breather, just start coughing. 
+P: Yeah, I've been coughing a lot more. Even just walking down the stairs from my bedroom to even the kitchen I just have to take a little bit of a breather, just start coughing.
 
 D: OK. And is it a dry cough or are you bringing up any phlem?
 
@@ -36,23 +36,23 @@ D: OK. Alright, and do you get short of breath when you're laying down?
 
 P: Uhm no, not really, it's mainly just when I'm moving around and doing stuff.
 
-D: OK, how about when you're asleep? Does it wake you up and kind of make you gasp for air? 
+D: OK, how about when you're asleep? Does it wake you up and kind of make you gasp for air?
 
-P: No. 
+P: No.
 
 D: No OK. So no orthopnea or PND. Alright, and the puffers that you're on, can you remind me which ones you're on again?
 
-P: So I'm on this one called Ventilin for the which I’ve been using a lot more recently just for relief and then, I'm on this other puffer thing. It's called spiriva. 
+P: So I'm on this one called Ventilin for the which I’ve been using a lot more recently just for relief and then, I'm on this other puffer thing. It's called spiriva.
 
 D: OK, how often? How? How many times this week have you had to use your ventilin?
 
 P: Uhm, Ventilin are probably used. Probably almost like 10 times this past week.
 
-D: OK. Alright, any chest pain? 
+D: OK. Alright, any chest pain?
 
 P: Uhm? Just when I'm having like those coughing fits in with the breathing, I feel some discomfort, but that's it.
 
-D: OK, OK. Alright and then any palpitations or feeling like your heart's racing? 
+D: OK, OK. Alright and then any palpitations or feeling like your heart's racing?
 
 P: Uh no.
 
@@ -68,9 +68,9 @@ D: OK. Numbness or tingling?
 
 P: No.
 
-D: Confusion or memory loss? 
+D: Confusion or memory loss?
 
-P: No. 
+P: No.
 
 D: Headaches?
 
@@ -78,25 +78,25 @@ P: No.
 
 D: Changes in your bowel movements?
 
-P: No. 
+P: No.
 
 D: Uhm nausea or vomiting?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Changes in your appetite?
 
-P: No, not really. Eating about the same. 
+P: No, not really. Eating about the same.
 
 D: OK, changes in your urine?
 
-P: No. 
+P: No.
 
 D: Runny nose or stuffy nose?
 
 P: Uh, no. I don’t have that.
 
-D: OK, sore throat? 
+D: OK, sore throat?
 
 P: No.
 
@@ -112,7 +112,7 @@ D: OK, how about weight loss?
 
 P: No, my weights been pretty steady.
 
-D: OK, chills? 
+D: OK, chills?
 
 P: Uhm, maybe a few times this, like from that last couple days I've been feeling a bit chilly. But I I don't know if I have a fever or anything like that.
 
@@ -120,19 +120,19 @@ D: OK, so you haven't actually measured your temperature right?
 
 P: No.
 
-D: OK, we can do that today. Any rashes? 
+D: OK, we can do that today. Any rashes?
 
-P: Uh no. 
+P: Uh no.
 
 D: Fatigue?
 
-P: No. 
+P: No.
 
 D: OK, um and besides the COPD do you have any other longstanding medical conditions?
 
 P: Uhm. I I have a like high cholesterol.
 
-D: OK. 
+D: OK.
 
 P: And. Just I, I used to take blood pressure medications but I don't right now.
 
@@ -144,9 +144,9 @@ D: OK, OK, and the doctor was OK with that.
 
 P: Uh no, I just stopped taking it. I didn't really like ask the doctor.
 
-D: OK, well, we'll keep checking your blood pressure and that's something you should keep an eye on as well, just in case ou have complications with your kidneys. Does that sound OK? 
+D: OK, well, we'll keep checking your blood pressure and that's something you should keep an eye on as well, just in case ou have complications with your kidneys. Does that sound OK?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK uhm? And are you on any medications other than the puffers?
 
@@ -178,11 +178,11 @@ P: Probably half a pack a day. It used to be one pack, even 2 packs at one point
 
 D: OK, alright, well, it's good that you're cutting down. And if you need more resources to help you do that, we have some available that we can refer you to. Do you take any other recreational drugs like cannabis, heroin, cocaine?
 
-P: No, nothing like that, no. 
+P: No, nothing like that, no.
 
-D: OK. And do you drink alcohol? 
+D: OK. And do you drink alcohol?
 
-P: Um just probably maybe like a couple times a month. 
+P: Um just probably maybe like a couple times a month.
 
 D: Couple times a month OK. And are you currently married?
 
@@ -200,7 +200,7 @@ D: OK, and have you traveled anywhere recently?
 
 P: No, just been on our house.
 
-D: OK. Alright, well those were all the questions that I had. Did you have any questions of your own? 
+D: OK. Alright, well those were all the questions that I had. Did you have any questions of your own?
 
 P: Uh, yeah I was just wondering what this can be.
 

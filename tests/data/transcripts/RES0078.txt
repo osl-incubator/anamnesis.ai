@@ -2,9 +2,9 @@ D: How may I help you?
 
 P: I've been having difficulties breathing over these last few days.
 
-D: When did it start? 
+D: When did it start?
 
-P: It started about, like, three or four days ago. 
+P: It started about, like, three or four days ago.
 
 D: OK, and since then, has it gotten any better or worse?
 
@@ -12,11 +12,11 @@ P: It has, maybe gotten a little bit worse, but not, maybe, a little worse.
 
 D: And are there certain times when you feel that you're more short of breath than other times? Anything in particular that you're doing that makes it worse?
 
-P: Uhm, not really, it's kind of, I just feel like, it's just more difficult to breathe, uh, most of the time. 
+P: Uhm, not really, it's kind of, I just feel like, it's just more difficult to breathe, uh, most of the time.
 
 D: And, has this happened to you before?
 
-P: Uhm, not like, no, nothing like this has happened before. 
+P: Uhm, not like, no, nothing like this has happened before.
 
 D: OK, do you have a history of any lung problems?
 
@@ -36,7 +36,7 @@ P: I've been bringing up, some, like, uh, whitish sputum. It's like, yeah, whiti
 
 D: And you haven't seen blood anytime right? In your sputum?
 
-P: No. 
+P: No.
 
 D: OK, and has the cough gotten any worse overtime?
 
@@ -64,7 +64,7 @@ P: I would say, maybe six. It feels pretty sharp when it happens and it goes awa
 
 D: OK, and where exactly is it, is the pain?
 
-P: Uh yeah, I kind of feel it, Yeah, just over on the right side of the sternum. 
+P: Uh yeah, I kind of feel it, Yeah, just over on the right side of the sternum.
 
 D: OK. Alright, and does it radiate anywhere? Does it go anywhere other than that one location?
 
@@ -76,7 +76,7 @@ P: No, that pain started, I guess like two days ago. More recent than the cough 
 
 D: I see, I see, OK. And so you said that coughing makes it worse and sometimes breathing in. So is it just normal breathing or when you're doing like, deep breathing?
 
-P: Deep breathing. 
+P: Deep breathing.
 
 D: Deep breathing hurts? OK. Alright, and you've never experienced this before, right?
 
@@ -86,7 +86,7 @@ D: OK, when you sort of touch that area over your chest, does touching it make i
 
 P: Uhm, no, I haven't noticed that, touching it doesn't make it worse.
 
-D: OK. Uhm, alright, have you had a headache? 
+D: OK. Uhm, alright, have you had a headache?
 
 P: Uh, no.
 
@@ -94,17 +94,17 @@ D: No, OK. What about fatigue or muscle aches?
 
 P: I've been fatigued. No muscle aches.
 
-D: OK, any pain in your belly? 
+D: OK, any pain in your belly?
 
 P: No.
 
-D: Any diarrhea? 
+D: Any diarrhea?
 
 P: No.
 
 D: Constipation?
 
-P: No. 
+P: No.
 
 D: Any changes in your, uh, any changes when you pee?
 
@@ -112,7 +112,7 @@ P: Uh, nothing there.
 
 D: No. OK. Any rash that you've noticed on your skin?
 
-P: No. 
+P: No.
 
 D: OK. Any changes in your sense of taste?
 
@@ -128,7 +128,7 @@ P: No, I haven't. I don't have a thermometer at home.
 
 D: Yeah, no problem and your throat's been a little bit itchy and then two days ago you also started having this pain in your chest. Is there any other symptom that I have not mentioned that you have been experiencing over the past couple of days?
 
-P: No, that's everything. 
+P: No, that's everything.
 
 D: Yeah, OK. And you mentioned that you don't have a history of asthma or COPD. Do you have any other medical conditions?
 
@@ -160,13 +160,13 @@ P: She's been fine. Yeah, she's been healthy.
 
 D: OK, good. Other than your daughter, have you been in contact with anyone else who might have, who might be sick or might have symptoms similar to what your daughter has?
 
-P: I don't think so. 
+P: I don't think so.
 
 D: OK, alright, and do you, have you traveled anywhere recently?
 
 P: No, I've been just, uh, working from home.
 
-D: OK, and do you smoke? 
+D: OK, and do you smoke?
 
 P: No.
 
@@ -190,7 +190,7 @@ D: Alright, and you told me about your medical history, but do you have, have yo
 
 P: Uh, I've had a hernia repair, about seven years ago. I haven't had any issues since.
 
-D: Alright, OK, uhm, and are there any medical conditions that run in your family? 
+D: Alright, OK, uhm, and are there any medical conditions that run in your family?
 
 P: Uhm, my grand-father had a heart attack, in his seventies. And, I think my dad has high blood pressure as well, but, I think that's it.
 

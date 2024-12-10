@@ -12,19 +12,19 @@ P: It started around the same time.
 
 D: OK, it is it. A dry cough or or wet cough?
 
-P: It's a dry cough. 
+P: It's a dry cough.
 
 D: OK, is it? Is this cough new or if you had a cough before?
 
-P: No, it's it's kind of new. 
+P: No, it's it's kind of new.
 
-D: Alright, have you brought up any, I know you said its been but have you brought up any blood? 
+D: Alright, have you brought up any, I know you said its been but have you brought up any blood?
 
 P: No.
 
 D: OK, and have you had any wheezing?
 
-P: No. 
+P: No.
 
 D: OK. And you mentioned a fever as well. Have you checked your your temperature today or yesterday?
 
@@ -32,9 +32,9 @@ P: Yeah, it was at 38 last night.
 
 D: Are you feeling feverish today as well?
 
-P: Yeah, a little bit. 
+P: Yeah, a little bit.
 
-D: OK, and uh. So have you had any any infectious symptoms, like runny or red eyes? 
+D: OK, and uh. So have you had any any infectious symptoms, like runny or red eyes?
 
 P: No.
 
@@ -56,11 +56,11 @@ P: No, I don't think so.
 
 D: OK. And have you had a sore throat?
 
-P: No. 
+P: No.
 
 D: How about any losses of smell or or taste?
 
-P: No. 
+P: No.
 
 D: OK, and have you had any chest pain?
 
@@ -68,13 +68,13 @@ P: No, no. I haven't.
 
 D: K, and have you had any nausea or vomiting
 
-P: No. 
+P: No.
 
 D: Alright, and any abdominal pain or diarrhea?
 
 P: No.
 
-D: Any urinary problems like painful urination or frequency? 
+D: Any urinary problems like painful urination or frequency?
 
 P: No.
 
@@ -84,7 +84,7 @@ P: Yeah, yeah. Just act different feeling achy and kinda tired these past well l
 
 D: I see OK, so it has been kind of like all over or there are particular muscles sore or our body part?
 
-P: No, it's it's like all over. 
+P: No, it's it's like all over.
 
 D: OK, and you've been fatigued as well?
 
@@ -92,7 +92,7 @@ P: Oh yeah.
 
 D: OK. Have you had any headaches?
 
-P: No. 
+P: No.
 
 D: Any skin changes or rashes?
 
@@ -102,19 +102,19 @@ D: Alright. And then how about any night sweats or chills? I know you mentioned 
 
 P: No, I've just been feeling hot.
 
-D: OK, I mean, how was your weight been over the last several months? Is it like have you lost weight or gaining weight or is up in the same? 
+D: OK, I mean, how was your weight been over the last several months? Is it like have you lost weight or gaining weight or is up in the same?
 
-P: Kind of in the same. 
+P: Kind of in the same.
 
 D: OK. And uh, in the past, have you been diagnosed with any medical conditions?
 
-P: No, I'm pretty healthy. 
+P: No, I'm pretty healthy.
 
 D: OK, you see. Yeah, you haven't had asthma in the past or or anything like that?
 
-P: No. 
+P: No.
 
-D: OK, any allergies to medications you're aware of or or environmental things like or dust or pollen? 
+D: OK, any allergies to medications you're aware of or or environmental things like or dust or pollen?
 
 P: No no. Which is why I was kind of surprised. I'm usually fine and I spend a lot of time outdoors so, I don't know. Yeah, I was surprised when this happened when I went to his place.
 
@@ -122,7 +122,7 @@ D: OK, did you ever get these kind of symptoms if you are like yeah or around sm
 
 P: No.
 
-D: OK, and you get seasonal symptoms like throughout the year you get like itchy runny eyes or like. Like a runny nose? 
+D: OK, and you get seasonal symptoms like throughout the year you get like itchy runny eyes or like. Like a runny nose?
 
 P: No, no. That hasn't happened to me.
 
@@ -132,11 +132,11 @@ P: I just take a birth control pill.
 
 D: And when, how long have you been on that for?
 
-P: About three years. 
+P: About three years.
 
 D: OK. And any prior surgeries or hospitalizations?
 
-P: Oh no. 
+P: Oh no.
 
 D: Alright, and can you tell me a little bit about where you're living currently and two you're living with?
 
@@ -144,19 +144,19 @@ P: I live alone, uh? I have an apartment next to the University.
 
 D: OK, and any potential for being around anybody who's been sick like your boyfriend or his family or or anywhere else?
 
-P: No, I've just been visiting him and I just go grocery shopping. I've just I've been doing schooling online. Yeah, I don't think so. I'm usually very careful, I'm not. Yeah, I'm not maintaining social distancing with my boyfriend. He's in my social circle, but yeah, other than that no one I think yeah. 
+P: No, I've just been visiting him and I just go grocery shopping. I've just I've been doing schooling online. Yeah, I don't think so. I'm usually very careful, I'm not. Yeah, I'm not maintaining social distancing with my boyfriend. He's in my social circle, but yeah, other than that no one I think yeah.
 
 D: Ok. And have you traveled anywhere?
 
-P: No. 
+P: No.
 
 D: Alright then are you currently working or going to school?
 
-P: I'm going to school. 
+P: I'm going to school.
 
 D: OK, cool and uh. And are you currently sexually active?
 
-P: Yep. 
+P: Yep.
 
 D: OK, and are you using birth control. Are you using condoms?
 
@@ -168,7 +168,7 @@ D: OK? And do you smoke cigarettes?
 
 P: No.
 
-D: Do you drink alcohol? 
+D: Do you drink alcohol?
 
 P: Sometimes if, like during like parties and stuff, but I haven't really been drinking much 'cause there's nothing going on.
 
@@ -178,15 +178,15 @@ P: No.
 
 D: Alright, then umm in the family is there a history of any lung problems or any any heart problems?
 
-P: Um just high blood pressure. My mom and dad have it. 
+P: Um just high blood pressure. My mom and dad have it.
 
-D: OK. And so I wanted to ask about the boyfriend's house as well. Is there any pets in the home there? 
+D: OK. And so I wanted to ask about the boyfriend's house as well. Is there any pets in the home there?
 
 P: Oh yeah. Yeah, he has this cute little parrot. And he also has a cat.
 
 D: OK, and do you have any pets at your house?
 
-P: No, no I don't. 
+P: No, no I don't.
 
 D: Oh, OK. So that I think that was everything that I wanted to ask on on history today, was there anything else I forgot to mention or you wanted to to bring up?
 

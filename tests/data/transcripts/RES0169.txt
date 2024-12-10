@@ -2,29 +2,29 @@ D: What brings you in today?
 
 P: I I've been having uh, this fever, the last couple of days and I've had a cough as well and my nose is, keeps running.
 
-D: OK. And when did the fevers start? 
+D: OK. And when did the fevers start?
 
 P: I think the fever started two days ago.
 
 D: How, did you measure your magic temperature?
 
-P: Yeah, it was 38 point .5 when I when I checked it. 
+P: Yeah, it was 38 point .5 when I when I checked it.
 
 D: And have you been checking it out past days? Has it gotten better or worse?
 
 P: It's been about the same both both days.
 
-D: And your cough, when did that start? 
+D: And your cough, when did that start?
 
 P: Cough started four days ago.
 
 D: OK, is it a wet cough or dry cough?
 
-P: It's been dry. 
+P: It's been dry.
 
 D: I've been bringing up any blood or any mucus or anything like that.
 
-P: No, and I haven't had a cough before either. This is new. 
+P: No, and I haven't had a cough before either. This is new.
 
 D: OK, and the runny nose, what kind of discharge, or what like what's coming out of your nose?
 
@@ -32,7 +32,7 @@ P: It's pretty pretty watery and clear.
 
 D: OK, alright, and when did that start?
 
-P: Yeah, yeah, sorry that started about four days ago as well, so about the same time as the cough. 
+P: Yeah, yeah, sorry that started about four days ago as well, so about the same time as the cough.
 
 D: Have you had any other symptoms, such as having a stuffy nose that have congestion in your sinuses, sore throat? Umm, red eyes? Watery, teary eyes? Sneezing, any of those symptoms.
 
@@ -40,17 +40,17 @@ P: Um, no nothing like that.
 
 D: Any difficulties breathing?
 
-P: No. 
+P: No.
 
 D: Any pain in your chest?
 
-P: No. 
+P: No.
 
 D: OK, any headaches?
 
 P: Uh yeah I have had a bit of a headache, actually. Well, just just this morning.
 
-D: How how bad is it? 
+D: How how bad is it?
 
 P: It's pretty mild. Something pretty simple like it, so I've had headaches like like this before. It's not, it's not a big deal.
 
@@ -60,7 +60,7 @@ P: No muscle aches, but yeah, I have been fatigued last a couple of days. Two or
 
 D: Any changes in your sense of smell?
 
-P: No. 
+P: No.
 
 D: Changes in your sense of taste?
 
@@ -68,15 +68,15 @@ P: No.
 
 D: Any pain in your belly or any diarrhea?
 
-P: Nothing like that. 
+P: Nothing like that.
 
-D: OK? Alright um, any medical conditions that you've been diagnosed with? 
+D: OK? Alright um, any medical conditions that you've been diagnosed with?
 
 P: Uh. No, I I've been, I've been healthy.
 
 D: OK, any surgeries or hospitalizations?
 
-P: No, I haven't had anything like that before. 
+P: No, I haven't had anything like that before.
 
 D: OK. And do you take any medications?
 
@@ -88,7 +88,7 @@ P: I think I have an allergy to penicillin. I got it, I had a rash when I was I 
 
 D: OK, and do you currently? Would you currently let that?
 
-P: Yeah, so I I just live with my with my mom. 
+P: Yeah, so I I just live with my with my mom.
 
 D: OK, do you have any pets at home?
 
@@ -104,13 +104,13 @@ P: Uhm, I mean, maybe at the school or something like that, but I can't think of
 
 D: OK, alright, have you traveled anywhere outside the province?
 
-P: No. 
+P: No.
 
-D: OK, uhm. And, uh, do you I guess a couple of other more general questions. Do you feel safe at home? 
+D: OK, uhm. And, uh, do you I guess a couple of other more general questions. Do you feel safe at home?
 
 P: I do, yeah. We have a good a good relationship.
 
-D: I'm glad, I'm glad, and an anything that we discuss will see confidential between you and me, unless there's something that you could be talk about that could harm you or harm anyone else. Do you feel safe at school? 
+D: I'm glad, I'm glad, and an anything that we discuss will see confidential between you and me, unless there's something that you could be talk about that could harm you or harm anyone else. Do you feel safe at school?
 
 P: Yes, I do. I enjoy school. It's been fun.
 
@@ -118,13 +118,13 @@ D: That's good, that's good. And have you can have been consuming the drug? Trie
 
 P: No, I've heard of other people. I mean in high school doing stuff like that, but I haven't been around anything like that.
 
-D: OK, alright. Any alcohol? 
+D: OK, alright. Any alcohol?
 
-P: No. 
+P: No.
 
 D: OK, are you sexually active?
 
-P: No. 
+P: No.
 
 D: Alright. And uh, let's see so.. uh, you've had a fever, a cough, and a runny nose for the past few days. And have you been going to school? In the past couple of days or no?
 

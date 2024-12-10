@@ -44,7 +44,7 @@ P: Uh, no.
 
 D: No. Any headaches?
 
-P: No. 
+P: No.
 
 D: Dizziness?
 
@@ -74,7 +74,7 @@ D: Chest pain or heart palpitations?
 
 P: No.
 
-D: Uh, changes in your bowel movements? 
+D: Uh, changes in your bowel movements?
 
 P: No.
 
@@ -82,7 +82,7 @@ D: Nausea or vomiting?
 
 P: No.
 
-D: Changes in your voiding? 
+D: Changes in your voiding?
 
 P: No.
 
@@ -92,7 +92,7 @@ P: Yeah no, I've been healthy, uh, no other issues in my Life.
 
 D: Okay, that's good. Um, how about, um, medications, are you on any?
 
-P: No, no medications. I've just been taking some Advil for this pain. 
+P: No, no medications. I've just been taking some Advil for this pain.
 
 D: Okay, I see. And how about immunizations? Are you up-to-date?
 
@@ -106,7 +106,7 @@ D: Family history of any musculoskeletal issues?
 
 P: No, just uh, I guess my dad, he's, he's getting some knee pain and hip pain now, starting now. But like that's about it.
 
-D: How old is he? 
+D: How old is he?
 
 P: My dad, he's 60.
 
@@ -124,7 +124,7 @@ P: Um, I think my aunt on my mother's side, um, she, she had, uh, uterine cancer
 
 D: Okay, I see, alright. Um any allergies, or sorry, you answered that. Do you, do you smoke?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No. Um, do you consume any marijuana?
 
@@ -132,9 +132,9 @@ P: Uh, no.
 
 D: Do you drink alcohol?
 
-P: Um, just, like maybe some wine on uh, wine, beer every couple days. 
+P: Um, just, like maybe some wine on uh, wine, beer every couple days.
 
-D: Okay, um, and where do you live right now? And who do you live with? 
+D: Okay, um, and where do you live right now? And who do you live with?
 
 P: Um, I live with my wife and uh, four year old daughter.
 
@@ -150,7 +150,7 @@ D: Have you traveled anywhere recently?
 
 P: No.
 
-D: Okay, well um, let's move on to the physical exam part of this interview then. Um, so I'm going to get you to look at both your uh, arms and hands and you let me know if you see any redness or swelling in uh, your right arm compared to your left. 
+D: Okay, well um, let's move on to the physical exam part of this interview then. Um, so I'm going to get you to look at both your uh, arms and hands and you let me know if you see any redness or swelling in uh, your right arm compared to your left.
 
 P: Okay. Um, so like, with movement?
 
@@ -192,9 +192,9 @@ P: Um, not weak, but it does definitely like um, when I picked up the pencil and
 
 D: Okay, alright. So would you mind extending or like straightening out your elbow all the way and then also straightening out your wrists. Um, does that hurt?
 
-P: Uh, straightening out, no, it doesn't hurt. 
+P: Uh, straightening out, no, it doesn't hurt.
 
-D: Even with uh, like the wrist um, straightened out? 
+D: Even with uh, like the wrist um, straightened out?
 
 P: Um, yeah if I, if I completely straighten out my wrist uh, then like I just feel a bit of uh, soreness, but not as much pain as when I, um, am lifting something with my wrist or just raising my wrist upwards.
 
@@ -202,7 +202,7 @@ D: Okay. Okay, how about when you flex your wrist all the way?
 
 P: Um, that hurts a little bit, but not nearly as much as when I extend it.
 
-D: Okay. Okay, um, those are all the questions I had for you today, and did you have any questions of your own for myself? 
+D: Okay. Okay, um, those are all the questions I had for you today, and did you have any questions of your own for myself?
 
 P: Uh, yeah, I was just wondering what this, this might be.
 

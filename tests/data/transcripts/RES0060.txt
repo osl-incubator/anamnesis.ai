@@ -1,6 +1,6 @@
 D: What brings you in?
 
-P: So I've had a fever that I measured this morning and I had a cough.  I've had a cough these last several days. Yeah, today is Friday so it started Monday, so I guess like yeah the cough started four days ago. 
+P: So I've had a fever that I measured this morning and I had a cough.  I've had a cough these last several days. Yeah, today is Friday so it started Monday, so I guess like yeah the cough started four days ago.
 
 D: OK, and the fever started four days ago as well?
 
@@ -20,7 +20,7 @@ P: No sore throat. It does get a little scratchy with my cough but hasn't been s
 
 D: OK, and do you have any issues swallowing food?
 
-P: No, but I haven't been as hungry. 
+P: No, but I haven't been as hungry.
 
 D: OK, you haven't been as hungry. Um, have you had any changes to your taste?
 
@@ -32,7 +32,7 @@ P: I feel like I've been able to smell.
 
 D: OK, do you have a runny nose or a blocked nose? Do you feel congested?
 
-P: Maybe a little runny, but not too bad. 
+P: Maybe a little runny, but not too bad.
 
 D: OK, how about your hearing or vision? Any changes there?
 
@@ -44,11 +44,11 @@ P: No, nothing like that.
 
 D: OK, so let's go back to the cough. Um, are you producing any sputum?
 
-P: No sputum. 
+P: No sputum.
 
 D: OK, so it's a dry cough?
 
-P: Yeah it is. 
+P: Yeah it is.
 
 D: OK, any blood associated with the cough?
 
@@ -56,11 +56,11 @@ P: I haven't seen any blood.
 
 D: OK, do you feel wheezy at all?
 
-P: I haven't noticed any wheezing. 
+P: I haven't noticed any wheezing.
 
 D: OK, how about shortness of breath?
 
-P: Usually well, after some of my coughing fits, I can be a little bit shorter in breath, but otherwise they've been. 
+P: Usually well, after some of my coughing fits, I can be a little bit shorter in breath, but otherwise they've been.
 
 D: OK, any chest pain?
 
@@ -68,11 +68,11 @@ P: No, I haven't had any chest pain.
 
 D: Do you ever feel like your heart's racing?
 
-P: No, I don't. 
+P: No, I don't.
 
 D: OK, and any night sweats or chills?
 
-P: I have felt a little chilly at night, but I haven't had any night sweats. 
+P: I have felt a little chilly at night, but I haven't had any night sweats.
 
 D: OK, and how about weight loss? Have you had any weight loss over the past few months?
 
@@ -80,7 +80,7 @@ P: No, it's been about the same. Maybe down a few pounds over this week as I jus
 
 D: OK, yeah. Umm, does anything make the cough better or worse?
 
-P: Umm, no, I can't think of anything. 
+P: Umm, no, I can't think of anything.
 
 D: OK, and how have your bowel movements been?
 
@@ -104,7 +104,7 @@ P: Um, so it's been on and off these last several days so I've been kind of rest
 
 D: OK yeah, you said past several days, have you ever had headaches before that?
 
-P: Yeah, I've had, I think they're called tension headaches. I get those every so often and will take Advil or something like that for them, and they usually go away. 
+P: Yeah, I've had, I think they're called tension headaches. I get those every so often and will take Advil or something like that for them, and they usually go away.
 
 D: OK. Do these headaches feel like the same headaches?
 
@@ -120,9 +120,9 @@ P: Yeah, for sure. I haven't really had any changes, but just haven't been reall
 
 D: Yeah, umm, and do you feel any sort of body aches that go along with your fatigue?
 
-P: Maybe a little. 
+P: Maybe a little.
 
-D: OK. Umm, can you think of anything that may have caused your symptoms? You know, have you been in contact with anyone who's been sick recently? 
+D: OK. Umm, can you think of anything that may have caused your symptoms? You know, have you been in contact with anyone who's been sick recently?
 
 P: I can't think of anybody I've been around who's been sick, but last weekend I went shopping in the mall so I went into quite a few stores.
 
@@ -132,15 +132,15 @@ P: Yeah, everybody far as I could tell.
 
 D: OK, have you traveled anywhere recently?
 
-P: Uh, no, I've just been home. 
+P: Uh, no, I've just been home.
 
 D: OK, I just want to ask you a few more questions. Any memory loss or confusion?
 
-P: No. 
+P: No.
 
 D: Any dizziness or fainting spells?
 
-P: Nothing like that, no. 
+P: Nothing like that, no.
 
 D: OK. Are you otherwise healthy?
 
@@ -150,7 +150,7 @@ D: OK, and is it helping with the cholesterol levels?
 
 P: Yeah, the last time I was at the family doctor I was told they were at a good level. O
 
-D: OK, good. 
+D: OK, good.
 
 P: I'm sorry I'm pre-diabetic as well.
 
@@ -164,7 +164,7 @@ P: Yeah, I think my A1C was like 6.2% so uh, on the cusp.
 
 D: OK, yeah, that's understandable. Um, have you made any sort of lifestyle changes to get your blood glucose under control?
 
-P: Well, I have been walking the dog more. he weather is getting better and trying to eat out less often. Yeah, I've been trying to lose weight, but it it's been yeah, relatively stable still. 
+P: Well, I have been walking the dog more. he weather is getting better and trying to eat out less often. Yeah, I've been trying to lose weight, but it it's been yeah, relatively stable still.
 
 D:OK, we can review some options with you later on in the visit if you would like.
 
@@ -172,21 +172,21 @@ P: Yeah, certainly we can talk about that later.
 
 D: OK, sounds good. Have you had any surgeries or hospitalizations in the past?
 
-P: Yeah I had an inguinal hernia repaired about five years ago. 
+P: Yeah I had an inguinal hernia repaired about five years ago.
 
 D: And are you on any medications?
 
-P: Just Rosuvastatin right now. 
+P: Just Rosuvastatin right now.
 
 D: OK, and any over the counter medications or herbal supplements?
 
-P: Just a multi vitamin. 
+P: Just a multi vitamin.
 
-D: OK, umm, do you have any allergies? 
+D: OK, umm, do you have any allergies?
 
-P: Penicillin. I break out in hives. 
+P: Penicillin. I break out in hives.
 
-D: OK, and did you need to be treated with any sort of antibiotics recently? 
+D: OK, and did you need to be treated with any sort of antibiotics recently?
 
 P: No, no, I haven't had any antibiotics for a long time.
 
@@ -204,13 +204,13 @@ P: I think my grandfather had bladder cancer, but, uh, I'm not sure.
 
 D: OK, and I forget if I asked you earlier, but have you had any changes to your urinary habits, any changes in your urine itself or voiding frequency?
 
-P: No, I haven't had any changes there and I haven't noticed any like blood or color changes. No pain. 
+P: No, I haven't had any changes there and I haven't noticed any like blood or color changes. No pain.
 
-D: OK, great. And do you smoke? 
+D: OK, great. And do you smoke?
 
 P: Um, no I do not.
 
-D: OK, how about marijuana? 
+D: OK, how about marijuana?
 
 P: Nope.
 
@@ -232,12 +232,12 @@ P: Not in our unit so I mean, maybe upstairs, but if it's anything like our plac
 
 D: OK. I think those were all the questions that I had for you. Did you have any questions or concerns that you wanted to bring up before we end the interview?
 
-P: Uh, no, well  I guess I was just concerned about about COVID. 
+P: Uh, no, well  I guess I was just concerned about about COVID.
 
 D: Yeah, you know that's the top on my list of differential diagnosis for you. So what we'll do is a COVID swab and that should come back in a day or so, but we do encourage isolation for 14 days and that includes from your girlfriend as well. So even if the COVID swab comes back negative, sometimes it can be false negative, so as long as you're having these symptoms, and these symptoms are common in COVID,  we do ask that you isolate for 14 days if the swab comes back positive. We will also notify public health so that they can get in touch with you and do some contact tracing to see where you may have gotten COVID from, but other than that, if it's not COVID, it could likely be another upper respiratory viral illness because of this time of year. A lot of different viruses are going around like common viruses or the flu, you know, so it could be one of those. And then if you're still sick or your symptoms change, we can reassess to make sure it's not a bacterial infection or bacterial pneumonia, in which case we can prescribe antibiotics.
 
 P: OK yeah, thank you for all that information. Sounds great.
 
-D: OK, well take care then, alright. 
+D: OK, well take care then, alright.
 
 P: Thank you.

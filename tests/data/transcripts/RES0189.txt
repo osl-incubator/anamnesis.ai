@@ -1,4 +1,4 @@
-D: How may I help you? 
+D: How may I help you?
 
 P: So I've been having a lot of trouble in the last two weeks of especially this past week of just a lot of shortness of breath. I'm getting a lot of coughing as well and producing a lot of material. And also I think I might have been having a fever this week as well.
 
@@ -24,7 +24,7 @@ P: Uh no, I don't think so.
 
 D: OK, have you noticed any leg swelling?
 
-P: No. 
+P: No.
 
 D: OK, and you said that to you, so you've had a cough for awhile now, but it's gotten worse. This past week in your, are you bringing up sputum?
 
@@ -36,7 +36,7 @@ P: Yeah.
 
 D: OK and have you brought up or coughed up any blood? So have you had any hemoptysis?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, and have you had any wheezing?
 
@@ -64,7 +64,7 @@ P: Uh, I didn't get a chance to measure any of them, but I might have had a feve
 
 D: OK, and have you had any night sweats?
 
-P: No. 
+P: No.
 
 D: OK and have you had any unexpected weight loss over the last several months?
 
@@ -72,7 +72,7 @@ P: No, I think my weights been pretty steady.
 
 D: OK. Have you had any headaches?
 
-P: No. 
+P: No.
 
 D: Have you had any like eye redness or eye discharge?
 
@@ -84,27 +84,27 @@ P: No.
 
 D: OK, have you had a loss of taste or loss of smell?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. Have you had any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: Have you had any abdominal pain?
 
 P: No abdominal pain.
 
-D: Have you had any diarrhea? 
+D: Have you had any diarrhea?
 
 P: No.
 
 D: Have you had any constipation?
 
-P: No. 
+P: No.
 
 D: Have you had any skin rashes?
 
-P: No. 
+P: No.
 
 D: Any muscle aches or joint pains?
 
@@ -112,15 +112,15 @@ P: No, nothing like that.
 
 D: OK, and have you had any any fatigue?
 
-P: Maybe a little bit more tired just with the shortness of breath and chills and everything like that, but yeah, so a little bit more fatigue. 
+P: Maybe a little bit more tired just with the shortness of breath and chills and everything like that, but yeah, so a little bit more fatigue.
 
 D: OK, and have you had any fainting or dizziness?
 
-P: Uh, no. 
+P: Uh, no.
 
-D: Or, OK and have you had any heart palpitations? 
+D: Or, OK and have you had any heart palpitations?
 
-P: Nope. 
+P: Nope.
 
 D: Alright. And have you been diagnosed with any medical conditions in the past?
 
@@ -140,7 +140,7 @@ P: I usually break out into hives.
 
 D: OK, and any prior surgeries or hospitalizations?
 
-P: So I've had a surgery to remove my appendix when I was really young. Then I've had another surgery for my hips as well, but yeah, other than that, no other issues. 
+P: So I've had a surgery to remove my appendix when I was really young. Then I've had another surgery for my hips as well, but yeah, other than that, no other issues.
 
 D: OK. And are your immunizations up to date?
 
@@ -172,7 +172,7 @@ P: Uh, probably at least 45 years.
 
 D: OK and uhm, if you wanted to talk about quitting, we can discuss that further at a later time if you'd like. Uhm, and so do you use any recreational drugs?
 
-P: No, no no no drugs at all. 
+P: No, no no no drugs at all.
 
 D: OK. Uhm, and have you had a family history of heart disease or any lung conditions?
 
@@ -182,7 +182,7 @@ D: OK, and any lung cancer in the family?
 
 P: No, not that I know of.
 
-D: OK. So I think that was all the questions that I I wanted to ask today. Was there anything else that I maybe forgot about that you wanted to mention? 
+D: OK. So I think that was all the questions that I I wanted to ask today. Was there anything else that I maybe forgot about that you wanted to mention?
 
 P: Uhm no, I think that those are all the questions I had and everything was covered.
 

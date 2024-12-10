@@ -4,9 +4,9 @@ P: Uh, yesterday, right after leaving work I started to not feel well and this m
 
 D: I'm sorry that's doesn't sound good. So all this started yesterday or I guess yesterday was just with you were, not feeling too good and then just noticed all these symptoms this morning. Did you measure your temperature?
 
-P: Yeah, I checked it this morning and it was 38.5. 
+P: Yeah, I checked it this morning and it was 38.5.
 
-D: And uh, did you, can you tell me about your headache? 
+D: And uh, did you, can you tell me about your headache?
 
 P: Yeah, so I I started to get a little bit of a headache last night, so I tried some Tylenol. It helped relieve the pain a little bit so I can sleep then. And this morning I woke up but I uh, didn't have a headache at first, but it came on maybe an hour after waking up and it feels like a there's a band around squeezing my head.
 
@@ -20,7 +20,7 @@ P: About a five.
 
 D: OK. Uhm and do you have any other symptoms, such as a runny nose or a stuffy nose?
 
-P: Yeah, my nose has been, been runny. I started noticing, noticing that a little bit yesterday too actually, now that you mention it. 
+P: Yeah, my nose has been, been runny. I started noticing, noticing that a little bit yesterday too actually, now that you mention it.
 
 D: And what was the discharge? Or what was the discharge like?
 
@@ -28,17 +28,17 @@ P: It's pretty runny in in. Yeah, it's pretty running clear.
 
 D: OK. Uhm, and do you have a cough?
 
-P: No. 
+P: No.
 
-P: OK. 
+P: OK.
 
-D: Any sore throat? 
+D: Any sore throat?
 
 P: No.
 
 D: Uhm, have you had any difficulties with breathing?
 
-P: No. 
+P: No.
 
 D: OK, any chest pain?
 
@@ -50,13 +50,13 @@ P: Yeah well, well my nose has been itchy and I, I have been I have been sneezin
 
 D: Alright, and have you had any diarrhea or constipation?
 
-P: No. 
+P: No.
 
 D: Any nausea or vomiting?
 
-P: No. 
+P: No.
 
-D: OK, any belly pain? 
+D: OK, any belly pain?
 
 P: No.
 
@@ -76,7 +76,7 @@ D: Are you taking any other medications?
 
 P: I take vitamin D and a multivitamin.
 
-D: And do you have any allergies? 
+D: And do you have any allergies?
 
 P: No.
 
@@ -88,13 +88,13 @@ D: OK, and since you've been feeling sick, have you, been maintaining social dis
 
 P: Yeah, yeah we have. We we have separate, ah rooms that we've been able to distance for the last few days.
 
-D: OK, that's good. And do you ah, have you traveled anywhere recently, outside the province? 
+D: OK, that's good. And do you ah, have you traveled anywhere recently, outside the province?
 
 P: No travel.
 
 D: OK, and do you smoke or have you ever smoked?
 
-P: No. I I don't. 
+P: No. I I don't.
 
 D: And marijuana?
 
@@ -106,7 +106,7 @@ P: No.
 
 D: Have you ever had or do you currently consume alcohol?
 
-P: Yeah, have a few beers on the weekend, but I've been trying to cut down after I was told I have, uh, pre diabetes. 
+P: Yeah, have a few beers on the weekend, but I've been trying to cut down after I was told I have, uh, pre diabetes.
 
 D: Ok, that's really good. Umm, and, and OK, let's see, do you have any family history of any heart problems or any lung issues or any cancers?
 

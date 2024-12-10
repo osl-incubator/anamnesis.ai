@@ -20,9 +20,9 @@ P: Uh, Yeah, it has been a bit sore when eating food, but it hasn't been so pain
 
 D: OK, do you have a cough?
 
-P: No, I haven't had a cough. 
+P: No, I haven't had a cough.
 
-D: OK, uhm, and do you have a runny nose, any discharge? 
+D: OK, uhm, and do you have a runny nose, any discharge?
 
 P: Uh, Yeah, there's been a little bit of a like watery discharge, my nose has been running.
 
@@ -32,7 +32,7 @@ P: Uh, yeah, now that you say it, yeah, when I was bending over to put my shoes 
 
 D: OK, and you haven't been feeling feverish or having having any chills, right?
 
-P: No 
+P: No
 
 D: OK, any fatigue, malaise, any aches or pains?
 
@@ -40,7 +40,7 @@ P: Uh. no, I felt OK, that way, yeah.
 
 D: Any rashes?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No, OK, Have you been up to date with your immunizations?
 
@@ -60,15 +60,15 @@ P: Uh, no, I haven't noticed anything like that.
 
 D: OK, alright and any difficulties breathing?
 
-P: No. 
+P: No.
 
-D: Any chest pain? 
+D: Any chest pain?
 
 P: No chest pain.
 
 D: Ok, any pain in your belly or any problems with your bowel movements?
 
-P: No 
+P: No
 
 D: OK, any urinary symptoms?
 
@@ -94,9 +94,9 @@ D: Have you been around a cat recently?
 
 P: No, we used to have a cat, but unfortunately we were unable to keep it because allergies were so bad.
 
-D: Yeah, do you have any environmental allergies at all? 
+D: Yeah, do you have any environmental allergies at all?
 
-P: Uhm, yeah sometimes in the spring or fall I can get like itchy eyes and a runny nose, so that's why I didn't think much about the runny nose at first, but with a sore throat and, been sneezing more, I thought to come in. 
+P: Uhm, yeah sometimes in the spring or fall I can get like itchy eyes and a runny nose, so that's why I didn't think much about the runny nose at first, but with a sore throat and, been sneezing more, I thought to come in.
 
 D: Yeah, OK. So in terms of your, uh, so general information. Do you live alone or do you live with your parents or anyone else?
 
@@ -124,7 +124,7 @@ P: No, I haven't.
 
 D: Have you taken any antibiotics recently?
 
-P: No. 
+P: No.
 
 D: OK, alright well it sounds like you're probably having just a common cold, likely viral. So, and seeing that it's only been two days, have your symptoms gotten better or worse in the past couple of days?
 

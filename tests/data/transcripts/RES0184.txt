@@ -12,11 +12,11 @@ P: Uh yeah, I have that feeling.
 
 D: OK, have you had any pain on your face?
 
-P: Pain? Ah no, nothing like that. 
+P: Pain? Ah no, nothing like that.
 
 D: OK, how about a change to your sense of smell? Like loss of smell?
 
-P: No, I haven't had that. 
+P: No, I haven't had that.
 
 D: OK. Have you had any discharge from your eyes or eye redness or any eye pain?
 
@@ -26,7 +26,7 @@ D: Alright, have you had a sore throat?
 
 P: Uhm, no sore throat.
 
-D: Have you had a cough? 
+D: Have you had a cough?
 
 P: No.
 
@@ -36,7 +36,7 @@ P: Ah, just a slight headache.
 
 D: OK, I mean, have you experienced headaches like this in the past?
 
-P: Yeah, usually when I get sick, I get get a headache. 
+P: Yeah, usually when I get sick, I get get a headache.
 
 D: OK. OK, can you describe where you feel the headache the most and is it pulsating or kind of always there?
 
@@ -44,7 +44,7 @@ P: It's kind of always there and it's just on the sides of my head.
 
 D: OK, have you tried anything for it?
 
-P: Just some Tylenol, which seems to have helped. 
+P: Just some Tylenol, which seems to have helped.
 
 D: OK. Uhm, and umm, yeah, have you had a cough?
 
@@ -56,7 +56,7 @@ P: Mhmm.
 
 D: Was it dry or did you were bringing up any sputum or phlegm?
 
-P: No, it's pretty dry. 
+P: No, it's pretty dry.
 
 D: OK. Uhm, and do you have a sore throat?
 
@@ -68,13 +68,13 @@ P: No.
 
 D: OK, and have you had any chest pain?
 
-P: No. 
+P: No.
 
 D: How about any we, sorry, fainting or dizziness?
 
 P: No, nothing like that.
 
-D: OK, have you had any heart palpitations or feeling like your heart's racing? 
+D: OK, have you had any heart palpitations or feeling like your heart's racing?
 
 P: No.
 
@@ -88,19 +88,19 @@ P: Last week as well.
 
 D: OK. Uh, was there any blood in the stool?
 
-P: No. 
+P: No.
 
 D: OK, have you had any changes to your urinary habits? Like any pain or frequency?
 
-P: No. 
+P: No.
 
 D: Alright, and have you had any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: How about any fevers or chills?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Have you had any night sweats?
 
@@ -108,11 +108,11 @@ P: Uh, no, nothing like that.
 
 D: I see, OK. And have you had any weight loss recently?
 
-P: No. 
+P: No.
 
 D: Alright, have you had any rashes or skin rashes?
 
-P: No. 
+P: No.
 
 D: And how about any muscle aches or or body pains?
 
@@ -132,7 +132,7 @@ P: Uh, no, I've been pretty healthy.
 
 D: OK, great and so do you take any medications regularly, either over the counter or prescribed?
 
-P: No. 
+P: No.
 
 D: OK, and do you have any allergies?
 
@@ -148,7 +148,7 @@ P: I'm I'm living by myself. I'm a student. I live in an apartment.
 
 D: OK, and are you going to classes in person right now?
 
-P: No, they're all online. 
+P: No, they're all online.
 
 D: OK. And have, have you been around anybody who's been sick?
 
@@ -160,7 +160,7 @@ P: No.
 
 D: OK. And you smoke cigarettes?
 
-P: I don't. 
+P: I don't.
 
 D: And do you smoke cannabis or use any cannabis products?
 
@@ -172,7 +172,7 @@ P: Uhm I will maybe smoke once a week.
 
 D: OK, uh, and use any recreational drugs like cocaine or opioids?
 
-P: Oh gosh, no. 
+P: Oh gosh, no.
 
 D: And do you drink alcohol?
 
@@ -184,7 +184,7 @@ P: Uhm, I'll have like a bottle of wine a week.
 
 D: OK, and are there any heart or lung conditions that run in the family?
 
-P: No. 
+P: No.
 
 D: OK. How about any cancers?
 

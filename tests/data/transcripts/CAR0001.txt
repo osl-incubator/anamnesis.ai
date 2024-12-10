@@ -2,7 +2,7 @@ D: What brought you in today?
 
 P: Sure, I'm I'm just having a lot of chest pain and and so I thought I should get it checked out.
 
-D: OK, before we start, could you remind me of your gender and age? 
+D: OK, before we start, could you remind me of your gender and age?
 
 P: Sure 39, I'm a male.
 
@@ -10,7 +10,7 @@ D: OK, and so when did this chest pain start?
 
 P: It started last night, but it's becoming sharper.
 
-D: OK, and where is this pain located? 
+D: OK, and where is this pain located?
 
 P: It's located on the left side of my chest.
 
@@ -18,11 +18,11 @@ D: OK, and, so how long has it been going on for then if it started last night?
 
 P: So I guess it would be a couple of hours now, maybe like 8.
 
-D: OK. Has it been constant throughout that time, or uh, or changing? 
+D: OK. Has it been constant throughout that time, or uh, or changing?
 
 P: I would say it's been pretty constant, yeah.
 
-D: OK, and how would you describe the pain? People will use words sometimes like sharp, burning, achy. 
+D: OK, and how would you describe the pain? People will use words sometimes like sharp, burning, achy.
 
 P: I'd say it's pretty sharp, yeah.
 
@@ -38,7 +38,7 @@ D: OK, do you find that the pain is radiating anywhere?
 
 P: No.
 
-D: OK, and is there anything else that makes the pain worse besides laying down? 
+D: OK, and is there anything else that makes the pain worse besides laying down?
 
 P: Not that I've noticed, no.
 
@@ -66,7 +66,7 @@ D: OK. Have you had any loss of consciousness?
 
 P: No.
 
-D: OK. Uh, have you been experiencing any like racing of the heart? 
+D: OK. Uh, have you been experiencing any like racing of the heart?
 
 P: Um, a little bit, yeah.
 
@@ -74,25 +74,25 @@ D: OK. And have you been sweaty at all?
 
 P: Just from the from having issues breathing.
 
-D: OK, have you been having issues breathing since the pain started? 
+D: OK, have you been having issues breathing since the pain started?
 
 P: Yes.
 
 D: OK. Um recently have you had any periods of time where you like have been immobilized or or, you haven't been like able to move around a lot?
 
-P: No no. 
+P: No no.
 
-D: OK. And have you been feeling sick at all? Any infectious symptoms? 
+D: OK. And have you been feeling sick at all? Any infectious symptoms?
 
-P: No. 
+P: No.
 
-D: OK, have you had any nausea or vomiting? 
+D: OK, have you had any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: Any fevers or chills?
 
-P: No. 
+P: No.
 
 D: OK, how about any abdominal pain?
 
@@ -112,7 +112,7 @@ P: No.
 
 D: OK. You haven't brought up any blood?
 
-P: No. 
+P: No.
 
 D: OK, have you had a wheeze with your difficulty breathing?
 
@@ -124,21 +124,21 @@ P: No. Well, I guess if when I'm really having trouble breathing, yeah.
 
 D: OK. Has anything like this ever happened to you before?
 
-P: No. 
+P: No.
 
 D: No, OK. And have you had any night sweats?
 
-P: No. 
+P: No.
 
 D: Alright, and then how about any rashes or skin changes?
 
-P: No rashes, but I guess like my neck seems to be a little swollen. 
+P: No rashes, but I guess like my neck seems to be a little swollen.
 
-D: OK, do you have any neck pain? 
+D: OK, do you have any neck pain?
 
-P: No. 
+P: No.
 
-D: OK, have you had any like accidents like a car accident or anything where you really jerked your neck? 
+D: OK, have you had any like accidents like a car accident or anything where you really jerked your neck?
 
 P: No.
 
@@ -146,13 +146,13 @@ D: OK. Um any any trauma at all to the chest or or back?
 
 P: No.
 
-D: OK, so just in regards to past medical history, do you have any prior medical conditions? 
+D: OK, so just in regards to past medical history, do you have any prior medical conditions?
 
 P: No.
 
 D: OK, any recent hospitalizations?
 
-P: No. 
+P: No.
 
 D: OK, any prior surgeries?
 
@@ -160,17 +160,17 @@ P: No.
 
 D: OK, do you take any medications regularly? Are they prescribed or over the counter?
 
-P: No. 
+P: No.
 
-D: Alright, how about any allergies to medications? 
+D: Alright, how about any allergies to medications?
 
 P: None.
 
-D: Alright, any immunizations or are they up to date? 
+D: Alright, any immunizations or are they up to date?
 
 P: They are all up to date.
 
-D: Excellent. Alright, and could you tell me a little bit about your living situation currently? 
+D: Excellent. Alright, and could you tell me a little bit about your living situation currently?
 
 P: Sure, I live in an apartment by myself. I, uh, yep, that's about it.
 
@@ -178,7 +178,7 @@ D: OK, and how do you support yourself financially?
 
 P: I'm an accountant.
 
-D: OK, sounds like a pretty stressful job or that it can be. Do you smoke cigarettes? 
+D: OK, sounds like a pretty stressful job or that it can be. Do you smoke cigarettes?
 
 P: I do.
 
@@ -192,9 +192,9 @@ P: For the past 10 to 15 years.
 
 D: OK, and do you smoke cannabis?
 
-P: Uh sometimes. 
+P: Uh sometimes.
 
-D: Uh, how much marijuana would you smoke per per week? 
+D: Uh, how much marijuana would you smoke per per week?
 
 P: Per week, maybe about 5 milligrams. Not that much.
 
@@ -204,7 +204,7 @@ P: No.
 
 D: OK. Have you used IV drugs before?
 
-P: No. 
+P: No.
 
 D: OK. And do you drink alcohol?
 
@@ -212,7 +212,7 @@ P: I do.
 
 D: OK. How much alcohol do you drink each week?
 
-P: Uhm about I would say I have like one or two drinks a day, so about 10 drinks a week. 
+P: Uhm about I would say I have like one or two drinks a day, so about 10 drinks a week.
 
 D: OK, uh, yeah and um alright, and then briefly, could you tell me a little bit about your like diet and exercise?
 
@@ -220,7 +220,7 @@ P: Sure, I try to eat healthy for dinner at least, but most of my lunches are, u
 
 D; OK, well that's great that you've been working on the the activity and the diet as well. So has anything like this happened in your family before?
 
-P: No. 
+P: No.
 
 D: OK, has anybody in the family had a heart attack before?
 
@@ -238,6 +238,6 @@ D: OK, and then any cancers in the family?
 
 P: No.
 
-D: OK, and is there anything else that you wanted to tell me about today that that I on on history? 
+D: OK, and is there anything else that you wanted to tell me about today that that I on on history?
 
 P: No, I don't think so. I think you asked me everything.

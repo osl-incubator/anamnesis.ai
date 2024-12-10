@@ -1,4 +1,4 @@
-D: What brings you here today? 
+D: What brings you here today?
 
 P: I've had this like, pain in my knee. It started within the last few hours and my knee's swollen, it's painful. Um, I can barely move it.
 
@@ -12,7 +12,7 @@ P: Uh. Um, no, nothing in my joints. I've had other infections before, like in m
 
 D: Okay, I see. And have you ever had cellulitis in that area?
 
-P: Uh, I, I had it over, kind of my, uh, like over my foot before. 
+P: Uh, I, I had it over, kind of my, uh, like over my foot before.
 
 D: Okay, and um, where would you describe the pain is? Is it like on the kneecap, is it above the kneecap, below? Where would you describe it?
 
@@ -22,9 +22,9 @@ D: Okay, is it like um, so, it's swollen, is it red and warm?
 
 P: It is, yeah, it's really red.
 
-D: Okay 
+D: Okay
 
-P: And warm as well. 
+P: And warm as well.
 
 D: Okay, and how would you describe the pain? Um, is it like a sharp, stabbing pain, or is it an aching pain?
 
@@ -44,7 +44,7 @@ P: Um, I mean just trying to stay as still as possible is all I've been been doi
 
 D: Okay, and are you able to weight bear, are you able to stand and walk by yourself?
 
-P: Uh, I, I was pretty much like hopping on one leg to, to get in here and as soon as I could, I got in a wheelchair, just because it uh, hurts so bad. 
+P: Uh, I, I was pretty much like hopping on one leg to, to get in here and as soon as I could, I got in a wheelchair, just because it uh, hurts so bad.
 
 D: Okay, and um, do you have any pain or symptoms in any other joints or muscles of your body?
 
@@ -58,7 +58,7 @@ D: Okay, when were you feeling fevers?
 
 P: Uh, just like, today, it's kind of, yeah, it started within the last day.
 
-D: Okay, and um, did you get a chance to measure your temperature at all? If not, we can do that here. 
+D: Okay, and um, did you get a chance to measure your temperature at all? If not, we can do that here.
 
 P: Um no, no, I didn't get to uh, I, I didn't check it.
 
@@ -66,9 +66,9 @@ D: Okay, and have you been sick at all recently, either with um, any cold-like s
 
 P: Uh, no, I haven't had any, anything like that.
 
-D: Okay, and have you recently had any um, sexually transmitted diseases, or exposures to uh, ticks or lyme disease? 
+D: Okay, and have you recently had any um, sexually transmitted diseases, or exposures to uh, ticks or lyme disease?
 
-P: Uh, I don't think so. I've been just, in well, in the city. I haven't traveled anywhere, and I uh, I haven't been sexually active for, for quite a while now, so. 
+P: Uh, I don't think so. I've been just, in well, in the city. I haven't traveled anywhere, and I uh, I haven't been sexually active for, for quite a while now, so.
 
 D: Okay, okay. Uh, have you recently, at all, had um, any procedures done on your knee, like any surgeries or any joint like um, injections or aspirations?
 
@@ -104,15 +104,15 @@ P: Uh, I've been told my, my blood sugar has been like, it hasn't been controlle
 
 D: Okay, um, do you take anything for medicate, medication for your diabetes?
 
-P: Uh, yeah, I, I take metformin and um, and uh, yeah, that, that's all I've been taking, but, I mean, it's really hard for me to uh, like get my medication sometimes and so um, I don't always take it. 
+P: Uh, yeah, I, I take metformin and um, and uh, yeah, that, that's all I've been taking, but, I mean, it's really hard for me to uh, like get my medication sometimes and so um, I don't always take it.
 
-D: Okay, I see. Um, and do you have any allergies to any medications? 
+D: Okay, I see. Um, and do you have any allergies to any medications?
 
-P: Uh, not that I, not that I can think of. And, so something that I forgot to mention is uh, like I've had hepatitis in the past as well um, and uh, yeah. 
+P: Uh, not that I, not that I can think of. And, so something that I forgot to mention is uh, like I've had hepatitis in the past as well um, and uh, yeah.
 
-D: And do you know hepatitis you've had? 
+D: And do you know hepatitis you've had?
 
-P: Um, I've had, it was uh, hepatitis C and uh, I was, um, treated, I was treated for it. 
+P: Um, I've had, it was uh, hepatitis C and uh, I was, um, treated, I was treated for it.
 
 D: Okay. Okay, and how long ago was that?
 
@@ -122,7 +122,7 @@ D: Okay, and uh, did they tell you like how it may have been transmitted at all?
 
 P; Yeah, the, the likely cause was um, I was told it was through IV uh, drug use. I've been using now for uh, for about 10 years.
 
-D: Okay, and have you um, and what do you usually use? 
+D: Okay, and have you um, and what do you usually use?
 
 P: Uh, well like, any, anything that I, that I can usually. But I, I guess like um, various types of opioids are kind of the, the, the main thing that I'll, that I'll use.
 
@@ -146,7 +146,7 @@ D: Okay, have you had any hospitalizations or surgeries in the past?
 
 P: Um no, I haven't.
 
-D: Okay. Uh, any family history of any conditions um, musculoskeletal or rheumatologic conditions? Uh, any rheumatoid arthritis, anything like that? 
+D: Okay. Uh, any family history of any conditions um, musculoskeletal or rheumatologic conditions? Uh, any rheumatoid arthritis, anything like that?
 
 P: Uh, I don't think so.
 
@@ -166,17 +166,17 @@ D: Okay, and how long have you been smoking for?
 
 P: Uh, so this has been, uh, about 20 years.
 
-D: 20 years, okay. And do you drink alcohol? 
+D: 20 years, okay. And do you drink alcohol?
 
-P: Um, sometimes yeah. I'll, I'll have uh, just a few beers, maybe a few beers a week. 
+P: Um, sometimes yeah. I'll, I'll have uh, just a few beers, maybe a few beers a week.
 
 D: Okay, and yeah, we were just talking about some of uh, like the movement, but you're saying you have pain with any kind of movement at all, right?
 
-P: Yeah, it, it's really painful, I just, I try not to move it at all. 
+P: Yeah, it, it's really painful, I just, I try not to move it at all.
 
 D: And it's very red and swollen and warm as well?
 
-P: Yeah, all of those. 
+P: Yeah, all of those.
 
 D: Any symptoms at all in your hips or ankle?
 
@@ -186,7 +186,7 @@ D: Okay, alright, so those are all the questions I had for you. We'll do like a 
 
 P: Okay, uh, thank you. Yeah, that, that sounds good.
 
-D: Alright, yeah, so yeah, we'll get all that done for you shortly, and uh, we'll go from there. 
+D: Alright, yeah, so yeah, we'll get all that done for you shortly, and uh, we'll go from there.
 
 P: Right, thank you.
 

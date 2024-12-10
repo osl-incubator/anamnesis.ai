@@ -8,7 +8,7 @@ from typing import Optional
 
 import pytest
 
-from anamnesisai import extract_fhir_openai
+from anamnesisai.openai import extract_fhir
 
 
 @pytest.fixture
@@ -31,7 +31,7 @@ def test_fixture(transcript_1: str, api_key: str) -> None:
 @pytest.mark.skip_on_ci
 def test_transcript_1(transcript_1: str, api_key: str) -> None:
     """Test if transcript 1."""
-    fhir_data = extract_fhir_openai(transcript_1, api_key)
+    fhir_data = extract_fhir(transcript_1, api_key)
     assert fhir_data
     assert isinstance(fhir_data, dict)
     assert len(fhir_data)

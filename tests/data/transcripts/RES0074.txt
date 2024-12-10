@@ -12,9 +12,9 @@ P: Uhm, yeah my appetite's been a bit less over the last few days just because o
 
 D: OK, have you noticed any neck swelling?
 
-P: Uh, no, not really. 
+P: Uh, no, not really.
 
-D: OK, how about any redness in the back of your throat? 
+D: OK, how about any redness in the back of your throat?
 
 P: I checked, I didn't see too much.
 
@@ -24,7 +24,7 @@ P: Uhm, a little bit, I wouldn't say too significant.
 
 D: OK, and muscle aches, like, when did those start?
 
-P: Yeah, so that started just 3 days ago. I remember waking up and my thighs were hurting, then my upper arms and then it kind of went into my upper back and now it's kind of just general pain in all of the muscles. 
+P: Yeah, so that started just 3 days ago. I remember waking up and my thighs were hurting, then my upper arms and then it kind of went into my upper back and now it's kind of just general pain in all of the muscles.
 
 D: OK, are you having any muscle weakness?
 
@@ -34,7 +34,7 @@ D: OK, and how has your energy been? Have you been having fatigue?
 
 P: Yeah, I would say, uh, I don't know if it's because of the pain, but I definitely feel a lot more tired.
 
-D: OK, and you mentioned diarrhea as well. When did that start? 
+D: OK, and you mentioned diarrhea as well. When did that start?
 
 P: Yeah, diarrhea also started around 3 days ago. I normally go 1 or 2 times a day, but now I'm going like 6 or 7 times a day and it's all usually pretty watery.
 
@@ -48,23 +48,23 @@ P: No, it's usually just been loose watery stools.
 
 D: OK, and have you been experiencing any other symptoms besides the sore throat, muscle aches, fatigue, and diarrhea?
 
-P: Uhm, no, I don't think so. Those are probably all of the symptoms. 
+P: Uhm, no, I don't think so. Those are probably all of the symptoms.
 
 D: OK, so quickly to run through a review. Have you been having any fevers or chills?
 
 P: No, not that I've noticed.
 
-D: OK, how about any headaches? 
+D: OK, how about any headaches?
 
 P: Uh, no.
 
-D: OK, and have you had a runny nose? 
+D: OK, and have you had a runny nose?
 
 P: No.
 
 D: Have you had a loss of smell or taste?
 
-P: I don't think so. I haven't been really eating too much recently, but I don't think so, no. 
+P: I don't think so. I haven't been really eating too much recently, but I don't think so, no.
 
 D: OK, have you had a cough?
 
@@ -80,23 +80,23 @@ P: No wheezing.
 
 D: OK, you said you haven't had a cough, but have you brought up any sputum?
 
-P: No. 
+P: No.
 
 D: OK, and have you had any chest pain?
 
-P: No chest pain. 
+P: No chest pain.
 
 D: Alright, any dizziness or lightheadedness?
 
-P: Nope. 
+P: Nope.
 
-D: Any feeling as though your heart is racing. 
+D: Any feeling as though your heart is racing.
 
 P: No.
 
 D: OK, have you had any abdominal pain?
 
-P: Uhm, maybe just a little bit with all the diarrhea, I feel like I do have some, Just, tenderness in my abdomen. 
+P: Uhm, maybe just a little bit with all the diarrhea, I feel like I do have some, Just, tenderness in my abdomen.
 
 D: OK, uh and have you had any nausea or vomiting?
 
@@ -104,7 +104,7 @@ P: No, not really.
 
 D: OK, have you had any urinary problems?
 
-P: Uhm, no. 
+P: Uhm, no.
 
 D: OK, and any rashes anywhere?
 
@@ -136,7 +136,7 @@ P: No, that's the only surgery.
 
 D: OK, and any allergies to medications?
 
-P: No, not that I know of. 
+P: No, not that I know of.
 
 D: OK, and can you tell me a little bit about your living situation?
 
@@ -144,9 +144,9 @@ P: Yeah, so I currently live with my wife and son. We live in a house just in Lo
 
 D: OK, well that's good. Yeah, it's important to be socially distancing, especially when having symptoms. Has anybody else in that house been sick?
 
-P: No, no one has been sick recently, at least in my house, but uh, just two weeks ago I did attend a family event, and just last week I found out, uhm, someone was having symptoms. They just got tested two days ago and their test result hasn't come back. 
+P: No, no one has been sick recently, at least in my house, but uh, just two weeks ago I did attend a family event, and just last week I found out, uhm, someone was having symptoms. They just got tested two days ago and their test result hasn't come back.
 
-D: OK, I see. And have you traveled anywhere outside of the province or outside of the country? 
+D: OK, I see. And have you traveled anywhere outside of the province or outside of the country?
 
 P: No, it was just here in London, so nothing other than that. I haven't left the province.
 
@@ -164,7 +164,7 @@ P: Yeah, maybe a one or two beers a week.
 
 D: OK, and uh, do you use any recreational drugs?
 
-P: No, never. 
+P: No, never.
 
 D: OK. And, uh, in terms of family history, does anybody in the family have any heart or lung conditions?
 

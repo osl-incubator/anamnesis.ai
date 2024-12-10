@@ -36,7 +36,7 @@ D: OK, and do you find that it's constantly there or um is it worse during a par
 P: It's kind of just been there
 all the time right now.
 
-D: OK, and um is it getting worse, do you think? 
+D: OK, and um is it getting worse, do you think?
 
 P: I think so. I think like today is worse than yesterday, and the day before that, it just felt like dry and then and then like the next day I started coughing, so yeah.
 
@@ -79,7 +79,7 @@ little high like I don't know if it was like a fever but I've been feeling hot, 
 
 D: OK OK yeah so yeah we'll double check to make sure that um you either do or don't have a fever. Um have you experienced any chills or night sweats over the past few days?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No, OK. OK, how about um any weight loss?
 
@@ -87,11 +87,11 @@ P: No, like I don't weigh myself regularly, but I don't think so.
 
 D: OK, um any changes to your hair or uh nails or skin, like rashes?
 
-P: Uh no. 
+P: Uh no.
 
 D: No, OK. How about um chest pain?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No chest pain, OK. Um swelling in your limbs?
 
@@ -99,7 +99,7 @@ P: Uh, no.
 
 D: No, do you ever feel like your heart's racing?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No, OK. Um how about um, how about any dizziness or or fainting spells?
 
@@ -109,17 +109,17 @@ D: Just tired, OK.
 
 P: Yeah I don't, I don't, I haven't fainted or anything.
 
-D: OK, any headaches? 
+D: OK, any headaches?
 
-P: No. 
+P: No.
 
 D: No, OK. Uh how about confusion or memory loss?
 
-P: Um, no, I don't think so. 
+P: Um, no, I don't think so.
 
 D: OK, um any changes to your bowel habits?
 
-P: Um, no. 
+P: Um, no.
 
 D: No, OK. So no constipation or diarrhea or blood in your stool?
 
@@ -127,7 +127,7 @@ P: Yeah, exactly.
 
 D: OK, any changes to your urine?
 
-P: No. 
+P: No.
 
 D: OK. Any nausea or vomiting?
 
@@ -135,7 +135,7 @@ P: No.
 
 D: No, OK. And um no abdominal aches?
 
-P: No. 
+P: No.
 
 D: No, OK. Um are you otherwise healthy?
 
@@ -147,7 +147,7 @@ P: Yeah, like I, I've been seeing my family doctor and they they said they thoug
 
 D: Oh, I see, OK. Um, OK.
 
-P: I wish I knew exactly, but they just said, yeah, they don't really know. 
+P: I wish I knew exactly, but they just said, yeah, they don't really know.
 
 D: OK.
 
@@ -159,7 +159,7 @@ P: No.
 
 D: No, OK. Um are you on any medications?
 
-P: No. 
+P: No.
 
 D: OK, and how about um any allergies?
 
@@ -167,25 +167,25 @@ P: Um, just uh pineapple, like not any medications or anything.
 
 D: Pineapple, OK. Um are you up to date with all your immunizations?
 
-P: Uh yeah yeah. 
+P: Uh yeah yeah.
 
 D: OK. Um any family history of lung conditions or heart conditions?
 
 P: Um, like my my uncle had a heart attack.
 
-D: OK. 
+D: OK.
 
-P: I don't, like, not my parents. 
+P: I don't, like, not my parents.
 
 D: OK, I see. Um any cancers in the family?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK. Um and do you smoke?
 
 P: No.
 
-D: No, OK. How about marijuana? 
+D: No, OK. How about marijuana?
 
 P: No.
 
@@ -251,4 +251,4 @@ P: Awesome.
 
 D: Alright, thank you.
 
-P: OK thanks. 
+P: OK thanks.

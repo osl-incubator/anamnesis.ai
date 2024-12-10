@@ -24,7 +24,7 @@ P: No, no.
 
 D: Any blood?
 
-P: Um, no, no blood. 
+P: Um, no, no blood.
 
 D: No blood, okay. And with your shortness of breath, is it, are you having difficulty taking deep breaths, or do you find that you're taking more fast, shallow breaths?
 
@@ -42,7 +42,7 @@ D: No. And do you ever wake up gasping for air?
 
 P: No.
 
-D: Okay. Um, and have you tried anything that's helped you uh, relieve some of these symptoms? 
+D: Okay. Um, and have you tried anything that's helped you uh, relieve some of these symptoms?
 
 P: Sorry, could you say that again?
 
@@ -52,7 +52,7 @@ P: No, no I haven't.
 
 D: Um, have you traveled at all recently?
 
-P: No. 
+P: No.
 
 D: Have you been in contact with anyone that's been sick?
 
@@ -60,13 +60,13 @@ P: Um, no, not really. I, I did go out to the pharmacy to get my medications, bu
 
 D: And what, what medications do you take?
 
-P: Um, I just take aspirin. 
+P: Um, I just take aspirin.
 
 D: Aspirin, okay. Have you been diagnosed with any medical conditions?
 
-P: I had a heart attack. 
+P: I had a heart attack.
 
-D: Oh okay, well when was that? 
+D: Oh okay, well when was that?
 
 P: Last year.
 
@@ -74,13 +74,13 @@ D: Last year, well I'm so sorry and um, did they give you any medications to go 
 
 P: Yeah yeah, yeah there, there were a couple of other medications as well. Something um, something, something -pril. And uh, I think there's uh, uh, rosuvastatin.
 
-D: Okay, and do you still take those? 
+D: Okay, and do you still take those?
 
 P: Yeah, I take those. Sometimes I forget that I do, I try to take them as much as I can.
 
 D: Okay, and you also take the aspirin. Alright, have you noticed any fevers or chills?
 
-P: No. 
+P: No.
 
 D: Nausea or vomiting?
 
@@ -88,7 +88,7 @@ P: Nope.
 
 D: And any chest pain?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No, okay. Any increased fatigue?
 
@@ -96,7 +96,7 @@ P: No.
 
 D: Any diarrhea or constipation?
 
-P: No. 
+P: No.
 
 D: Any numbness or tingling anywhere?
 
@@ -108,9 +108,9 @@ P: Um, no, I don't think so.
 
 D: Any trouble urinating?
 
-P: Um, no. 
+P: Um, no.
 
-D: Okay, have you noticed any swelling um, in your feet, ankles, legs at all? 
+D: Okay, have you noticed any swelling um, in your feet, ankles, legs at all?
 
 P: No.
 
@@ -118,7 +118,7 @@ D: Okay. Um, and how's your appetite been like?
 
 P: Um, it's been, it's been the same.
 
-D: Okay, and any um, significant weight changes? Have you lost any weight? 
+D: Okay, and any um, significant weight changes? Have you lost any weight?
 
 P: No.
 
@@ -136,7 +136,7 @@ P: Yeah, lots of chemicals and things like that.
 
 D: Okay. And any exposure to any pets or animals?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Besides your medical history of having a heart attack and some blood pressure, um, any other medical conditions?
 
@@ -144,7 +144,7 @@ P: Uh, I just have high blood pressure.
 
 D: Okay, any allergies to any medications or any environmental allergies?
 
-P: No. 
+P: No.
 
 D: Okay. Um, any hospitalizations besides when you had a heart attack, previously?
 
@@ -154,31 +154,31 @@ D: Any surgeries?
 
 P: No.
 
-D: Okay. Did they tell you at all what the cause of your heart attack was? 
+D: Okay. Did they tell you at all what the cause of your heart attack was?
 
 P: Um, they just uh, they said it was my, my diet.
 
-D: They said diet, okay. 
+D: They said diet, okay.
 
 P: Yeah, something about cholesterol.
 
-D: Did you require any stents, or did you have to get a bypass surgery or anything like that? 
+D: Did you require any stents, or did you have to get a bypass surgery or anything like that?
 
 P: Uh, they put in, I think they put in stents.
 
-D: Stents, okay. Um, any family history of any heart or lung conditions? 
+D: Stents, okay. Um, any family history of any heart or lung conditions?
 
-P: Yeah, um, my um, mom had heart failure. 
+P: Yeah, um, my um, mom had heart failure.
 
-D: Okay, um, and how old was she when she had her heart failure? 
+D: Okay, um, and how old was she when she had her heart failure?
 
-P: She was young, she was uh, 55. 
+P: She was young, she was uh, 55.
 
 D: 55, okay. Um, and currently, right now, or sorry, do you have any family history of any cancers, any lung cancer or anything like that?
 
-P: No. 
+P: No.
 
-D: And currently do you work or are you retired? 
+D: And currently do you work or are you retired?
 
 P: I'm retired.
 
@@ -198,17 +198,17 @@ D: How long would you say you smoked for?
 
 P: Um, I'd say 45 years.
 
-D: And how much would you smoke in an average day? 
+D: And how much would you smoke in an average day?
 
-P: Um, about a pack a day. 
+P: Um, about a pack a day.
 
 D: Um, any recreational drugs like marijuana?
 
-P: No. 
+P: No.
 
 D: And do you drink alcohol?
 
-P: Yeah I do. Um I'll, I'll drink a glass at night, every night. 
+P: Yeah I do. Um I'll, I'll drink a glass at night, every night.
 
 D: And a glass of, what would you drink?
 
@@ -216,9 +216,9 @@ P: Oh just a, a glass of wine, white wine.
 
 D: Okay, so those are all the questions I have for you today. Any questions for me?
 
-P: No. 
+P: No.
 
-D: Okay, so yeah, there's definitely like the coughing and shortness of breath are definitely concerning, and they've been going on for a pretty long time. Do you ever have any night sweats or anything like that? 
+D: Okay, so yeah, there's definitely like the coughing and shortness of breath are definitely concerning, and they've been going on for a pretty long time. Do you ever have any night sweats or anything like that?
 
 P: No.
 

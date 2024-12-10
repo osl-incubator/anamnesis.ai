@@ -1,8 +1,8 @@
 D: How may I help you?
 
-P: Um I'm here because I've had some numbness in my right hand and uh doesn't seem to be going going away, so I thought I should get it checked out by you. 
+P: Um I'm here because I've had some numbness in my right hand and uh doesn't seem to be going going away, so I thought I should get it checked out by you.
 
-D: Yeah, certainly so, so when did this exactly start? 
+D: Yeah, certainly so, so when did this exactly start?
 
 P: Um so it's been pretty gradual, I would say over the past month or two months um is when I first noticed it, but the numbness is definitely worse now than it was at the start.
 
@@ -40,7 +40,7 @@ P: Mhmm, yes.
 
 D: OK, and do you feel any, uh, like the numbness or tingling, does it radiate anywhere? Like to your forearm or up into your like upper arm or shoulder?
 
-P: Uh no, I don't think so. No. 
+P: Uh no, I don't think so. No.
 
 D: OK. And do you have any neck pain?
 
@@ -52,17 +52,17 @@ P: No, nothing that I can think of.
 
 D: Alright. Um and, have you had any weight loss recently?
 
-P: No. 
+P: No.
 
 D: How about any fevers or chills?
 
-P: No. 
+P: No.
 
 D: Have you had any night sweats?
 
-P: No. 
+P: No.
 
-D: OK, have you had any changes to vision or hearing? 
+D: OK, have you had any changes to vision or hearing?
 
 P: No.
 
@@ -70,7 +70,7 @@ D: How about other senses like any changes to your sense of smell or sense of ta
 
 P: No.
 
-D: Alright, have you had a runny nose or felt congested? 
+D: Alright, have you had a runny nose or felt congested?
 
 P: Uh no.
 
@@ -80,21 +80,21 @@ P: No.
 
 D: Alright, have you had any shortness of breath?
 
-P: No. 
+P: No.
 
-D: Have you had any chest pain or feeling like you're uh like feeling like you have heart palpitations? 
+D: Have you had any chest pain or feeling like you're uh like feeling like you have heart palpitations?
 
 P: No.
 
-D: OK. Have you had any lightheadedness or dizziness? 
+D: OK. Have you had any lightheadedness or dizziness?
 
-P: Uh no. 
+P: Uh no.
 
 D: Alright, and have you had any nausea or vomiting?
 
-P: No. 
+P: No.
 
-D: How about any abdominal pain? 
+D: How about any abdominal pain?
 
 P: No.
 
@@ -106,17 +106,17 @@ D: Have you had any changes to your bowel movements like diarrhea, constipation?
 
 P: No.
 
-D: OK, and have you had any changes to your hair or nails? 
+D: OK, and have you had any changes to your hair or nails?
 
 P: No.
 
 D: And any skin rashes or um anything like that?
 
-P: No. 
+P: No.
 
 D: Alright, and uh have you had any other pains in your joints or any joint swelling?
 
-P: No. 
+P: No.
 
 D: OK. Uh, and have you been diagnosed with any medical conditions before?
 
@@ -128,13 +128,13 @@ P: No, not for a long time.
 
 D: OK, do you take any other medications?
 
-P: No. 
+P: No.
 
 D: OK, um and how about, do you have any allergies?
 
 P: No.
 
-D: OK, and have you had any surgeries or hospitalizations? 
+D: OK, and have you had any surgeries or hospitalizations?
 
 P: Uh no.
 
@@ -146,7 +146,7 @@ D: OK. Um and are you working currently, or are you in school?
 
 P: Um I am a grad student.
 
-D: OK, excellent, and um do you smoke cigarettes? 
+D: OK, excellent, and um do you smoke cigarettes?
 
 P: I don't.
 
@@ -170,7 +170,7 @@ D: OK. Uh, and so next I would like to just um uh do a physical exam, and for th
 
 P: Um so, in my right hand, um I guess the you know the fleshy part of your thumb just above your wrist, um that seems to be um I guess atrophied compared to my left hand.
 
-D: OK so, OK, so the muscle bulk is um reduced there. 
+D: OK so, OK, so the muscle bulk is um reduced there.
 
 P: Mhmm.
 
@@ -204,7 +204,7 @@ P: Uh I guess a little bit of tingling.
 
 D: OK, so that would be a positive Phalen's test as well. Um and range of motion of the neck, do you have any problems with that or any pain there?
 
-P: No. 
+P: No.
 
 D: OK. Um I think that was everything I wanted to ask about and check on the exam. Did you have any questions for me?
 

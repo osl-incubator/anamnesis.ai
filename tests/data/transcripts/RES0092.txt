@@ -16,11 +16,11 @@ P: No, I haven't noticed any blood.
 
 D: Alright, what about any other symptoms over the past two weeks? Have you had, have you had any fevers or chills?
 
-P: Not, no. 
+P: Not, no.
 
 D: No. OK. And any uhm, I guess, any runny nose?
 
-P: Yeah, my nose was a bit runny last week, but it's, that's better now. 
+P: Yeah, my nose was a bit runny last week, but it's, that's better now.
 
 D: OK. OK, uhm, it's just, OK last week, what else, what other symptoms did you have last week?
 
@@ -28,7 +28,7 @@ P: Yeah, I had a sore throat and a little bit of a headache as well, uhm, and, a
 
 D: So those other symptoms that you had last week that lasted about three days, are they all gone? are you still feeling fatigued or having a headache?
 
-P: Those are both, yeah, they're gone. 
+P: Those are both, yeah, they're gone.
 
 D: Hmm, It's only the cough?
 
@@ -42,7 +42,7 @@ D: OK, but you're otherwise feeling better?
 
 P: Yeah, for the most part, yeah, feeling better, but I still have a cough.
 
-D: OK. Uhm, have you had any chest pain? 
+D: OK. Uhm, have you had any chest pain?
 
 p: No.
 
@@ -80,7 +80,7 @@ P: No, not that I could think of, I mean we went out one night last week and tha
 
 D: OK, OK. Uhm and have you traveled outside the city or country?
 
-P: No, I haven't. 
+P: No, I haven't.
 
 D: No, ok. Do you drink alcohol?
 
@@ -90,15 +90,15 @@ D: alright.
 
 P: Just a few drinks.
 
-D: What about smoking? 
+D: What about smoking?
 
 P: Uh, no.
 
-D: Marijuana? 
+D: Marijuana?
 
 P: Uh, sometimes with, like socially with friends, but that might be once a month or probably even less.
 
-D: Any recreational drugs? 
+D: Any recreational drugs?
 
 P: No.
 

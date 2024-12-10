@@ -18,17 +18,17 @@ D: OK, and um, how would you describe the headache? Is it like sharp, is it like
 
 P: It you know it feels crampy.
 
-D: OK. Um, and has there been anything that triggered the headache or or made it worse? 
+D: OK. Um, and has there been anything that triggered the headache or or made it worse?
 
 P: I don't think so. Nothing is helping, sleeping is not helping, moving around is not helping. It's just always there.
 
-D: OK, does the headache get worse with lying flat? 
+D: OK, does the headache get worse with lying flat?
 
 P: Uh, no, I wouldn't say so, no.
 
 D: OK, and are you feeling any pain down into your neck or into your shoulders or back?
 
-P: No, no. 
+P: No, no.
 
 D: OK. And, would you say that this headache, which is was like worst headache of your life or thunder clap kind of sensation?
 
@@ -44,15 +44,15 @@ P: I would say I would give it around a 6 or seven.
 
 D: OK. And have you had any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: OK, and how about any sensitivity to light when you're you're seeing it or sensitivity to sound?
 
-P: No. 
+P: No.
 
-D: OK, and have you had any eye symptoms such as discharge, tearing or or itchiness? 
+D: OK, and have you had any eye symptoms such as discharge, tearing or or itchiness?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK, um, and so you you mentioned that you had you had a fever as well. Did you check your temperature?
 
@@ -72,7 +72,7 @@ P: Yes, I would say I am significantly more tired than I used to be.
 
 D: OK, um, how has your sleep been?
 
-P: My sleep has been pretty normal. I go to bed around the same time, wake up around the same time. Yeah, I'd say that there's no issue there. 
+P: My sleep has been pretty normal. I go to bed around the same time, wake up around the same time. Yeah, I'd say that there's no issue there.
 
 D: OK, with this fatigue, have you had any aches and pains?
 
@@ -100,7 +100,7 @@ P: Um no no wheezing.
 
 D: OK, and have you had any loss of taste or smell?
 
-P: Um, no. 
+P: Um, no.
 
 D: OK, alright have you noticed any rashes?
 
@@ -110,13 +110,13 @@ D: Alright. And have you had any abdominal pain?
 
 P: No no.
 
-D: OK, have you had any diarrhea? 
+D: OK, have you had any diarrhea?
 
 P: Um no, no diarrhea.
 
 D: OK, um and any constipation?
 
-P: No. 
+P: No.
 
 D: Alright, and then how about any urinary problems such as painful urination or going frequently?
 
@@ -128,11 +128,11 @@ P: I am.
 
 D: OK. Could you tell me about your partners or partner?
 
-P: Sure, I I just my husband, um we we don't use protection. But I'm on the birth control pill. 
+P: Sure, I I just my husband, um we we don't use protection. But I'm on the birth control pill.
 
 D: OK, and have you had a sexually transmitted infection before?
 
-P: No. 
+P: No.
 
 D: OK, and any I guess like vaginal discharge or vaginal discomfort?
 
@@ -140,19 +140,19 @@ P: No.
 
 D: OK. And, so next just wanted to ask a few questions about your past health. Have you been diagnosed with any medical conditions in the past?
 
-P: No. 
+P: No.
 
 D: OK, so no diabetes, high blood pressure, anything like that?
 
 P: No.
 
-D: Alright, and do you take any medications regularly like prescription or over the counter? 
+D: Alright, and do you take any medications regularly like prescription or over the counter?
 
 P: I don't.
 
 D: Alright, so it's just the birth control?
 
-P: Oh sorry, yes. Just the birth control pills. 
+P: Oh sorry, yes. Just the birth control pills.
 
 D: Yeah OK, no worries, and any allergies?
 
@@ -160,7 +160,7 @@ P: Just seasonal allergies.
 
 D: OK, and so are immunizations up to date?
 
-P: Yep, they are. 
+P: Yep, they are.
 
 D: Alright, and in in the home, is there anybody who's sick right now?
 
@@ -168,17 +168,17 @@ P: No, no one is sick.
 
 D: Ok, how about at work?
 
-P: I'm I'm a teacher. Um, so I work with a lot of children, but no one that I no one I know of has been sick. 
+P: I'm I'm a teacher. Um, so I work with a lot of children, but no one that I no one I know of has been sick.
 
 D: OK, um and so have you traveled anywhere recently?
 
 P: No.
 
-D: Alright. And do you smoke cigarettes? 
+D: Alright. And do you smoke cigarettes?
 
 P: I don't.
 
-D: OK. Do you smoke marijuana? 
+D: OK. Do you smoke marijuana?
 
 P: I don't.
 
@@ -192,7 +192,7 @@ P: I do.
 
 D: OK, so for one of the Ontario stores?
 
-P: Yes. 
+P: Yes.
 
 D: OK great yeah 'cause you could never be sure where else, what the dosing is, so it's good to get it from the appropriate stores for sure.
 

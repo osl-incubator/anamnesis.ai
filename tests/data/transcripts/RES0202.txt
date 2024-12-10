@@ -3,19 +3,19 @@
 
 D: What brings you all in today?
 
-P: Hi. So I just brought in my son he's 5. Essentially, when he, so today is Friday when he got home from school on Wednesday, he seemed fine, but he I don’t know that night he started to have a bit of like a cough. It just seemed like a little dry cough, but obviously I just wanted to keep him home, keep him safe and not like spread anything if he was sick. So he stayed at home on Thursday and he was like having a bit of a cough. Then yesterday it seemed to get a little bit worse and he was really tired, uh sorry. Today, today is Friday. He was like his cough is like getting a bit worse and I've been taking his temp the whole time and it got like a little high today, what was it? My thermometer says it was high. I'm just like trying to remember it was it was. It was like over 100 though. 
+P: Hi. So I just brought in my son he's 5. Essentially, when he, so today is Friday when he got home from school on Wednesday, he seemed fine, but he I don’t know that night he started to have a bit of like a cough. It just seemed like a little dry cough, but obviously I just wanted to keep him home, keep him safe and not like spread anything if he was sick. So he stayed at home on Thursday and he was like having a bit of a cough. Then yesterday it seemed to get a little bit worse and he was really tired, uh sorry. Today, today is Friday. He was like his cough is like getting a bit worse and I've been taking his temp the whole time and it got like a little high today, what was it? My thermometer says it was high. I'm just like trying to remember it was it was. It was like over 100 though.
 
-D: Oh OK. 
+D: Oh OK.
 
 P: Uh, 101 or something or maybe 100.1 if. But anyways it was so I I just thought I should probably bring him in 'cause I was really worried about him and you know so he could have maybe got covid and like at school or something.
 
-D: Yeah for sure. Um OK, so just to clarify, he's had this cough and fever for the past five five days. 
+D: Yeah for sure. Um OK, so just to clarify, he's had this cough and fever for the past five five days.
 
 P: Mhm.
 
 D: OK, OK so let's focus on the cough.
 
-P: It’s Friday. Its been more like like 3 days.  Wednesday is when he came home, and then um he. And then today is Friday. So yeah, sorry. 
+P: It’s Friday. Its been more like like 3 days.  Wednesday is when he came home, and then um he. And then today is Friday. So yeah, sorry.
 
 D: Today is Friday OK. And um. OK, yeah sure uh so. Is this cough a productive cough, or is it kind of a dry cough?
 
@@ -39,11 +39,11 @@ P: Mm I think it kinda just there the whole day.
 
 D: OK, and it does it, how does it sound? Does this sound like a barky cough? Does it sound? Uhm? Like harsh, what is what would you say the quality of it, of the sound of the cough is?
 
-P: Uh, I, just sounds kind of dry. It's not like super loud. 
+P: Uh, I, just sounds kind of dry. It's not like super loud.
 
 D: OK. OK, and has he ever experienced anything like this in the past?
 
-P: Um like he's had colds before, but I haven't like. I haven't like you this time he kind of had the fever, which is different than you know, having a regular cold. 
+P: Um like he's had colds before, but I haven't like. I haven't like you this time he kind of had the fever, which is different than you know, having a regular cold.
 
 D: OK. And are his symptoms getting worse?
 
@@ -51,13 +51,13 @@ P: I think so 'cause yeah, the first day he just seemed like a little dry and th
 
 D: OK, and is he complaining of anything like chest pain? Or feeling like his heart's racing?
 
-P: No, I don't think so. 
+P: No, I don't think so.
 
 D: No, OK. Does he have a sore throat?
 
 P: Mm I don't think so.
 
-D: OK, and is he having any issues swallowing food or fluids? 
+D: OK, and is he having any issues swallowing food or fluids?
 
 P: I don't know if he's having trouble swallowing, but he doesn't seem to have a big appetite right now.
 
@@ -71,27 +71,27 @@ P: He, this morning he really seemed like he wasn't like into his breakfast and 
 
 D: OK, how about vision or hearing?
 
-P: I think those are fine. 
+P: I think those are fine.
 
 D: OK, and is he complaining of any chills or night sweats?
 
-P: No. 
+P: No.
 
-D: OK, any changes in his hair, nails or skin like rashes? 
+D: OK, any changes in his hair, nails or skin like rashes?
 
 P: No, I haven't noticed anything like that.
 
-D: Any changes in his bowel movements. Pardon? 
+D: Any changes in his bowel movements. Pardon?
 
 P: Um sorry no changes.
 
 D: OK, no diarrhea, no constipation, no blood in the stool?
 
-P: No 
+P: No
 
 D: OK, any nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: OK, any changes in his urine?
 
@@ -103,7 +103,7 @@ P: No, just like fatigue.
 
 D: OK, any confusion or memory loss?
 
-P: No. 
+P: No.
 
 D: And is he and is he an otherwise healthy child?
 
@@ -111,19 +111,19 @@ P: Yeah, actually he hasn't decided to like a vaccine that he hasn't had to go t
 
 D: OK, um so no past illnesses and I guess no hospitalizations or surgeries except for the broken arm.
 
-P: Exactly, like nothing. 
+P: Exactly, like nothing.
 
 D: OK, and were things normal with your pregnancy with him?
 
-P: Yeah totally. 
+P: Yeah totally.
 
 D: OK um. And then how about as a newborn, any complications after birth?
 
 P: No, no, like everything is things really good.
 
-D: OK, and then did he hit all his milestones up till now? 
+D: OK, and then did he hit all his milestones up till now?
 
-P: Yeah totally. 
+P: Yeah totally.
 
 D: OK. Any, does he have any allergies?
 
@@ -131,13 +131,13 @@ P: Um. No, no, I don't think so. I mean like he hasn't really taken a lot of med
 
 D: Is he up to date with all his immunizations?
 
-P: Yeah. 
+P: Yeah.
 
 D: Yeah OK. And. In terms of family history, are there any lung conditions or heart conditions?
 
 P: Uh no everyone is really healthy.
 
-D: OK, and. And are there and who does he live with and where does he live? 
+D: OK, and. And are there and who does he live with and where does he live?
 
 P: Um he lives with just me and my husband, and he has a little sister, like this in town here.
 
@@ -147,27 +147,27 @@ P: Yeah, I think she, yeah she's healthy.
 
 D: OK um? Any concerns for old carpets, mold, asbestos or any environmental issues like that in the home that you're in?
 
-P: No. 
+P: No.
 
 D: No, OK. Has he been around any sick contacts recently?
 
-P: Not, not like outside of school. I like we know for sure, not outside of school, um but he goes to school right now so. Kinda hard to say. 
+P: Not, not like outside of school. I like we know for sure, not outside of school, um but he goes to school right now so. Kinda hard to say.
 
-D: OK. 
+D: OK.
 
-P: But they haven't. They haven't like contacted us about anything. 
+P: But they haven't. They haven't like contacted us about anything.
 
 D: OK, sure. And has he traveled anywhere recently?
 
-P: No. 
+P: No.
 
 D: No OK. OK, well those are all the questions I had for you today. Were, was there anything that I missed that you wanted to chat about today?
 
 P: I don't think so. Um, like I, I realized that I can often times like you don't really do much for kids when you know when it's just like a virus or something. But we do, I guess need to have a covid test to go back to the school, even if you know either way 'cause they want us to be able to say. It's like the other kids have had an exposure.
 
-D: Yeah for 
+D: Yeah for
 
-P: yeah, like. Sorry, go ahead, 
+P: yeah, like. Sorry, go ahead,
 
 D: No go ahead.
 
@@ -181,6 +181,6 @@ D: OK great yeah, yeah no worries and. I I should have mentioned if it was just 
 
 P: OK yeah, that's good to know.
 
-D: Alright, sounds great. Have a good day. 
+D: Alright, sounds great. Have a good day.
 
 P: You too thanks.

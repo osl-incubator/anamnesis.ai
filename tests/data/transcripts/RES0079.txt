@@ -1,6 +1,6 @@
 D: How may I help you today?
 
-P: Yeah I've had, a fever and a cough that started just like four days ago. 
+P: Yeah I've had, a fever and a cough that started just like four days ago.
 
 D: OK, when did you, when did you start having your, so the cough started four days ago, what about the fever?
 
@@ -12,19 +12,19 @@ P: Yeah, I just checked it last night. I felt hot previously, but, I don't know,
 
 D: OK, and the cough that started four days ago, has it been a dry cough or wet cough?
 
-P: It's been dry. 
+P: It's been dry.
 
 D: OK, so there's been no sputum or any, or blood?
 
-P: No sputum or blood 
+P: No sputum or blood
 
 D: OK. Has it gotten worse over the past four days?
 
 P: Uh, a little bit, yeah.
 
-D; And, other than the fever and the cough, do you have any fatigue? 
+D; And, other than the fever and the cough, do you have any fatigue?
 
-P: Uhm, yes. 
+P: Uhm, yes.
 
 D: We do, OK. Any muscle aches?
 
@@ -32,11 +32,11 @@ P: Uh, no.
 
 D: OK, Sore throat?
 
-P: No. 
+P: No.
 
 D: Any difficulties breathing?
 
-P: No. 
+P: No.
 
 D: Any wheezing?
 
@@ -44,19 +44,19 @@ P: No.
 
 D: Any chest pain or pressure?
 
-P: No. 
+P: No.
 
-D: OK, any runny nose? 
+D: OK, any runny nose?
 
-P: Yeah, my nose has been a little bit runny. 
+P: Yeah, my nose has been a little bit runny.
 
 D: OK, that started over the past four days as well?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK, what about pain in your belly?
 
-P: No pain. 
+P: No pain.
 
 D: OK, any diarrhea or Constipation?
 
@@ -66,21 +66,21 @@ D: Any nausea or vomitting?
 
 P: No.
 
-D: Any urinary symptoms? 
+D: Any urinary symptoms?
 
-P: No. 
+P: No.
 
 D: OK, any rash that you've noticed on your skin?
 
 P: No.
 
-D: Any changes in your sense of taste or your sense of smell? 
+D: Any changes in your sense of taste or your sense of smell?
 
 P: Uh, yeah, I haven't been able to smell as well.
 
 D: You feel like you have a runny nose, but is it sort of congested?
 
-P: Not really, it,  yeah, just kind of running, and yeah, I haven't been able to smell very well. 
+P: Not really, it,  yeah, just kind of running, and yeah, I haven't been able to smell very well.
 
 D: OK, and do you have any past medical, any conditions, medical conditions?
 
@@ -88,7 +88,7 @@ P: Uh, depression and anxiety.
 
 D: And have you had any surgeries in the past or hospitalizations?
 
-P: Uhm, no 
+P: Uhm, no
 
 D: OK, are you taking any medications, including over the counter pills?
 
@@ -98,15 +98,15 @@ D: And, uh.
 
 P: sorry I do take, um, I take, uh, an SSRI, Citalopram as well.
 
-D: OK, that's good. OK, any allergies? 
+D: OK, that's good. OK, any allergies?
 
-P: No allergies 
+P: No allergies
 
 D: OK, specifically allergies to medications?
 
 P: Uhm,  yeah no, no medications, I don't think so.
 
-D: Good, ok, and do you currently smoke or have you ever smoked in the past? 
+D: Good, ok, and do you currently smoke or have you ever smoked in the past?
 
 P: Uhm, I smoked when I was in high school very briefly, but I haven't smoked anything in the last twenty years.
 
@@ -116,7 +116,7 @@ P: Uh, we'll use edibles every once in a while. I buy them from the, like, I gue
 
 D: I see, OK, any recreational drugs?
 
-P: No, 
+P: No,
 
 D: OK, and do you currently live alone or do you live with others?
 
@@ -142,7 +142,7 @@ D: OK, alright, and uh, any, you don't have any asthma or COPD or any lung condi
 
 P: Right, I don't have anything like that.
 
-D: OK, and, any conditions that run in your family? 
+D: OK, and, any conditions that run in your family?
 
 P: Uhm, no, nothing that runs in the family.
 

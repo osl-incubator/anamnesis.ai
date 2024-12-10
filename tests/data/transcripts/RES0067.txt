@@ -68,7 +68,7 @@ P: I mean, she goes to daycare so she might have picked something up from there.
 
 D: OK, any past medical history?
 
-P: Um, no, she's been pretty healthy otherwis. 
+P: Um, no, she's been pretty healthy otherwis.
 
 D: Any issues during pregnancy or after birth at all?
 
@@ -80,7 +80,7 @@ P: Um, yes, she didn't get the H. flu vaccine though.
 
 D: OK, OK, any hospitalizations or anything like that in the past?
 
-P: Um, no. 
+P: Um, no.
 
 D: OK, and any family history of any medical conditions?
 
@@ -90,7 +90,7 @@ D: And currently, who does she live with at home?
 
 P: I'm she lives with myself as well as her older brother.
 
-D: OK, alright, so yeah those are all the questions that I have. 
+D: OK, alright, so yeah those are all the questions that I have.
 
 P: Do you think this is like an urgent matter?
 
@@ -106,6 +106,6 @@ D: So I'll give them a call right now, and, uh, you can head over to the ER. Or 
 
 P: OK, great, that sounds great.
 
-D: Thank you. 
+D: Thank you.
 
 P: You too.

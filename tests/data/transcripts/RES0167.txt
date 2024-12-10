@@ -1,4 +1,4 @@
-D: What brings you in? 
+D: What brings you in?
 
 P: I've just had a real like a real bad cough. Umm, it's been going on for 4 or 5 days now umm, and I'm just, I'm having some trouble breathing. I'm coughing up like gunky green stuff. Uhm, yeah, it's just really bad. I haven't had anything like this before.
 
@@ -32,31 +32,31 @@ P: No, not a sore throat.
 
 D: Not a sore throat, OK. Uhm, how about changes in your taste or smell?
 
-P: No, none of those. 
+P: No, none of those.
 
 D: OK. How about changes in your vision or hearing?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Fever, weight loss?
 
-P: I feel like I've I've probably had a fever the last couple nights. I've just been really hot in the evenings. 
+P: I feel like I've I've probably had a fever the last couple nights. I've just been really hot in the evenings.
 
 D: OK.
 
 P: Yeah, I feel like I've had a fever. I don't know bout my weight. I don't weigh myself all the time.
 
-D: Mhmm. 
+D: Mhmm.
 
-P: But nothing like major. 
+P: But nothing like major.
 
 D: Any chest pain?
 
-P: Feels a little like it hurts a little bit, like when I when I breathe in. 
+P: Feels a little like it hurts a little bit, like when I when I breathe in.
 
 D: OK. Uhm, do you ever feel like your heart's racing?
 
-P: No, I don't think so. 
+P: No, I don't think so.
 
 D: Alright, And any changes in your bowel movements?
 
@@ -64,7 +64,7 @@ P: No, no, that's all the same.
 
 D: No bellyaches?
 
-P: Nope. 
+P: Nope.
 
 D: No bellyaches?
 
@@ -72,11 +72,11 @@ P: Nope.
 
 D: OK, how about changes to your urine?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: No, any dizziness or confusion?
 
-P: No, uh no, not dizziness or confusion, but I have just been feeling very weak and tired. 
+P: No, uh no, not dizziness or confusion, but I have just been feeling very weak and tired.
 
 D: When you say weak, have you like lost any of your like motor movements like your arms, legs?
 
@@ -86,15 +86,15 @@ D: OK.
 
 P: Just like just fatigued like more than usual, yeah.
 
-D: OK. Are you otherwise healthy or do you have any longstanding medical conditions? 
+D: OK. Are you otherwise healthy or do you have any longstanding medical conditions?
 
-P: Uhm, I don't I don't have too much luckily, knock on wood. Uhm, I, I take a medication for my reflux. 
+P: Uhm, I don't I don't have too much luckily, knock on wood. Uhm, I, I take a medication for my reflux.
 
 D: Mhmm.
 
 P: And I did, I did have a knee replacement, five years ago.
 
-D: OK. 
+D: OK.
 
 P: Other than that, like I don't, I haven't really been to the doctor for much.
 
@@ -108,11 +108,11 @@ P: Just that one for the reflux its uhm oh, it starts with an R. Uhm, Rabeprazol
 
 D: OK.
 
-P: Yeah. 
+P: Yeah.
 
 D: Alright and are you up to date with all your immunizations?
 
-P: Uh, yeah. 
+P: Uh, yeah.
 
 D: Including like the pneumovax vaccine and the shingrix?
 
@@ -142,7 +142,7 @@ D: OK.
 
 P: Otherwise, I think we pretty healthy I try to, you know, follow healthy recipes and find them online.
 
-D: Yeah, for sure. Yeah, that's good. Do you, do you smoke? 
+D: Yeah, for sure. Yeah, that's good. Do you, do you smoke?
 
 P: No, no.
 

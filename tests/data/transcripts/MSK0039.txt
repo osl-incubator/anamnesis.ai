@@ -4,7 +4,7 @@ P: Uh I just came in today I think I broke my leg or something, it's something t
 
 D: When did this happen?
 
-P: Just uh I would say like an hour ago 
+P: Just uh I would say like an hour ago
 
 D: Hour ago, OK. Are you able to bear any weight on it at all?
 
@@ -16,7 +16,7 @@ P: It's pretty much my whole lower leg is painful, but I think where it looks li
 
 D: The middle part, OK middle part of your lower leg, so kind of where your shins are?
 
-P: Mhmm.  
+P: Mhmm.
 
 D: OK, so in the shin area, OK. Um have you tried anything for it? I know it's only been an hour.
 
@@ -46,7 +46,7 @@ D: How about any numbness or tingling in the area?
 
 P: Um I do feel some numbness, tingling just below where it happened, um but it like comes and goes.
 
-D: OK um and then how about how about any um like feelings of like losing sensation or feeling cold in that area? 
+D: OK um and then how about how about any um like feelings of like losing sensation or feeling cold in that area?
 
 P: Um no, I I can feel everything in that area.
 
@@ -54,17 +54,17 @@ D: OK.
 
 P: But it's hard to tell like it's just very painful right now.
 
-D: OK, yeah, that's understandable. Um how about headaches? 
+D: OK, yeah, that's understandable. Um how about headaches?
 
 P: No, no headaches.
 
 D: Uh any fainting or dizziness.
 
-P: No. 
+P: No.
 
 D: Um confusion or memory loss?
 
-P: No. 
+P: No.
 
 D: Um weight loss recently.
 
@@ -84,11 +84,11 @@ P: No.
 
 D: Um how about coughing, shortness of breath, or wheezing?
 
-P: No, no, nothing like that. 
+P: No, no, nothing like that.
 
 D: No, OK, um how about chest pain or palpitations?
 
-P: No. 
+P: No.
 
 D: No, any changes to your bowel movements?
 
@@ -120,11 +120,11 @@ P: Yep.
 
 D: OK, that's good. Um do you have any allergies?
 
-P: No, not that I know of. 
+P: No, not that I know of.
 
 D: OK, um and then is there any family history of like musculoskeletal issues?
 
-P: Um so my mother has something called osteoporosis. 
+P: Um so my mother has something called osteoporosis.
 
 D: OK, yep.
 
@@ -134,7 +134,7 @@ D: How old was she when she was diagnosed with that?
 
 P: Um probably in her fifties.
 
-D: In her fifties, OK. 
+D: In her fifties, OK.
 
 P: Late fifties I would say.
 
@@ -152,7 +152,7 @@ P: Uh no, not that I know of.
 
 D: Any cancers?
 
-P: Uh, I think one of my aunts has uh ovarian cancer. 
+P: Uh, I think one of my aunts has uh ovarian cancer.
 
 D: OK, OK, um how old was she when she was diagnosed with that?
 
@@ -160,11 +160,11 @@ P: Um like pretty uh recently, so probably like in her sixties.
 
 D: OK, OK, um and then have you been in touch with anyone sick recently?
 
-P: No. 
+P: No.
 
 D: No, OK, have you done any travel recently?
 
-P: No. 
+P: No.
 
 D: OK. Um those are all the questions I had for you. Did you have any questions of your own or anything you wanted to add before we move to the physical exam component?
 

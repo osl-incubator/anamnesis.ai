@@ -38,7 +38,7 @@ D: OK. And, have you taken any any medicine or anything to try to help with us?
 
 P: Um. No, I I've I I do have a little bit of pain so I was. I did take some Tylenol and some Advil over the last few days, but that's about it.
 
-D: OK, Ok. Did you find that they helped at all? 
+D: OK, Ok. Did you find that they helped at all?
 
 P: A little bit yeah, but it would just kind of take the edge off of the pain for a little bit and it came back.
 
@@ -60,9 +60,9 @@ P: I would say more so when I cough or if I'm like taking a big breath. Um yeah,
 
 D: OK, and and um, you said that it's a sharp pain?
 
-P: Yeah, yeah, more of a sharp pain. 
+P: Yeah, yeah, more of a sharp pain.
 
-D: OK, OK, and is it any worse when you're doing activity, like when you're up and walking around? 
+D: OK, OK, and is it any worse when you're doing activity, like when you're up and walking around?
 
 P: No, don't notice it with any any activity.
 
@@ -74,19 +74,19 @@ D: OK. OK, well I'm glad that I'm really glad that you came in because yeah, we 
 
 P: No, but I I do some volunteer work at one of the homeless shelters at a few times a week, so I am around a lot of people.
 
-D: OK. And have you traveled anywhere recently? 
+D: OK. And have you traveled anywhere recently?
 
 P: No, I've been at home. And and doing the volunteer work.
 
-D: OK um. OK, and can you just give me an idea of any? Do you have any chronic conditions that you see your family doctor for regularly or anything you take medication for? 
+D: OK um. OK, and can you just give me an idea of any? Do you have any chronic conditions that you see your family doctor for regularly or anything you take medication for?
 
 P: Um yeah, I have type 2 diabetes. And I I take Metformin. Um I think an SGLT 2 inhibitor and then I use insulin for that as well. And I have some, it has affected my kidneys as well. The diabetes I mean.
 
-D: OK, do you have a history of high blood pressure? 
+D: OK, do you have a history of high blood pressure?
 
 P: I do yes.
 
-D: OK, do you take medication for that? 
+D: OK, do you take medication for that?
 
 P: Oh yeah, I do. It starts with an "a" I think, amlodipine.
 
@@ -94,7 +94,7 @@ D: OK OK and do you have any history of heart problems?
 
 P: No, not that I know. No, I haven't really had any chest pain. On the left side anyway.
 
-D: Um, So you said that you have had a cough for a really long time, a dryer cough then you're having sputum now. But is that something you've seen the doctor for? 
+D: Um, So you said that you have had a cough for a really long time, a dryer cough then you're having sputum now. But is that something you've seen the doctor for?
 
 P: Oh yeah, I think I was called like bronchitis in the past or something. Something like that. One of the doctors, my family doctor told me it was because I was a smoker.
 
@@ -123,7 +123,7 @@ D: Ok. And do you have any family history of respiratory or heart problems?
 
 P: Yeah, my dad actually had a heart attack. He was in his 70s. I think my mom had high blood pressure, but other than that, no.
 
-D: OK, um and do you have any allergies? 
+D: OK, um and do you have any allergies?
 
 P: I think just environmental stuff, no medications. I am aware of.
 

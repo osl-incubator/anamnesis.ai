@@ -1,6 +1,6 @@
 D: What brings you in?
 
-P: Hi, yeah, so I've had this uh back pain that's been going on now for the last uh two weeks, it's just kind of right in the lower back and it just hasn't gone away. 
+P: Hi, yeah, so I've had this uh back pain that's been going on now for the last uh two weeks, it's just kind of right in the lower back and it just hasn't gone away.
 
 D: OK, um last two weeks you said, is it getting worse?
 
@@ -8,7 +8,7 @@ P: Uh no, it's not really getting any worse, uh it's just been uh limiting my ab
 
 D: Right, OK, and what do you do for work?
 
-P: So I work um at a butcher shop. 
+P: So I work um at a butcher shop.
 
 D: OK.
 
@@ -22,9 +22,9 @@ D: OK, OK, um and is this a persistent kind of back pain or does it come and go?
 
 P: It's um, I can kind of always feel it, but it certainly gets worse if I am moving. So if I'm just kind of sitting at rest, I don't really, yeah, I don't really feel it that much.
 
-D: OK, OK, and if you were to describe the quality of this pain, um would you say it's sharp, throbbing, achy, crampy? 
+D: OK, OK, and if you were to describe the quality of this pain, um would you say it's sharp, throbbing, achy, crampy?
 
-P: I'd say I get kind of uh, it's a sharp pain. 
+P: I'd say I get kind of uh, it's a sharp pain.
 
 D: Sharp pain, OK. Um does anything make it better or worse?
 
@@ -32,31 +32,31 @@ P: Um better would just be uh resting.
 
 D: OK.
 
-P: Um kind of just lying down, or um yeah, just just trying to uh rest. But um making it worse, yeah, if I'm uh like really any movement um if I'm like bending forward or um kind of like leaning to the side, I start to get um get some pain in the lower back. 
+P: Um kind of just lying down, or um yeah, just just trying to uh rest. But um making it worse, yeah, if I'm uh like really any movement um if I'm like bending forward or um kind of like leaning to the side, I start to get um get some pain in the lower back.
 
-D: OK, OK. And then 1 to 10, 10 being the worst pain you've ever felt, how bad or uh how severe would you rate it? 
+D: OK, OK. And then 1 to 10, 10 being the worst pain you've ever felt, how bad or uh how severe would you rate it?
 
-P: I would say 7. 
+P: I would say 7.
 
 D: A 7, OK. And have you ever had pain like this in the past?
 
-P: Uh yeah, I've I've hurt my lower back before like many years ago. Um but it's been OK since then. 
+P: Uh yeah, I've I've hurt my lower back before like many years ago. Um but it's been OK since then.
 
 D: OK. Uh did you get any sort of treatment or management for that pain um back in the day?
 
-P: At that time it was just rest and like did some stretching and I took some um anti inflammatories and it went away after a couple of months. 
+P: At that time it was just rest and like did some stretching and I took some um anti inflammatories and it went away after a couple of months.
 
 D: OK, OK. Um and are you having any sort of like numbness or tingling, anywhere on your body?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: Alright, how about any muscle weakness?
 
-P: Uh no muscle weakness. 
+P: Uh no muscle weakness.
 
 D: No, OK. Are you still able to walk and do things that you normally would do in a day?
 
-P: Uh yeah, I'm able to walk still. 
+P: Uh yeah, I'm able to walk still.
 
 D: OK. Um any dizziness or fainting spells?
 
@@ -64,19 +64,19 @@ P: Nope, nothing like that.
 
 D: OK. Any pain elsewhere on your body?
 
-P: No, just just the lower back, yeah. 
+P: No, just just the lower back, yeah.
 
 D: OK. Headaches?
 
-P: Uh nope. 
+P: Uh nope.
 
 D: OK, weight loss?
 
 P: No, I haven't had any weight loss.
 
-D: OK. Fevers or chills? 
+D: OK. Fevers or chills?
 
-P: Nope, no fevers or chills. 
+P: Nope, no fevers or chills.
 
 D: Um rashes?
 
@@ -86,7 +86,7 @@ D: Changes in your vision, hearing, taste or smell?
 
 P: No changes like that.
 
-D: OK. Any coughing, shortness of breath or wheeziness? 
+D: OK. Any coughing, shortness of breath or wheeziness?
 
 P: Um nope, nothing like that.
 
@@ -100,7 +100,7 @@ P: Uh no changes to bowel movements, no diarrhea and no incontinence or anything
 
 D: OK, um and then uh nausea or vomiting?
 
-P: Nope, nothing like that. 
+P: Nope, nothing like that.
 
 D: OK, how about um changes to your appetite?
 
@@ -122,7 +122,7 @@ D: OK. Are you on any medications?
 
 P: No, I I don't uh take any medications.
 
-D: OK. Are you up to date with all your immunizations? 
+D: OK. Are you up to date with all your immunizations?
 
 P: I am, yep.
 
@@ -136,7 +136,7 @@ P: Um no, nothing like that.
 
 D: OK, how about um heart or lung diseases?
 
-P: Uh, no, no heart or lung diseases. 
+P: Uh, no, no heart or lung diseases.
 
 D: OK, uhm how about autoimmune conditions?
 
@@ -154,7 +154,7 @@ D: OK and do you consume marijuana?
 
 P: Uh sometimes, I'll have like uh edibles, little candy, sometimes at nighttime they they help me uh relax and sleep, but I don't use that very often.
 
-D: OK, how often do you use them? 
+D: OK, how often do you use them?
 
 P: I would say maybe uh once a week.
 
@@ -164,7 +164,7 @@ P: No, and I haven't used any before.
 
 D: OK, and how about alcohol, do you consume alcohol?
 
-P: Yeah I'll have a couple of beers on the weekend, so maybe like two or three. 
+P: Yeah I'll have a couple of beers on the weekend, so maybe like two or three.
 
 D: OK, uhm and who and where do you live right, who with and where do you live right now?
 
@@ -174,11 +174,11 @@ D: OK, OK. Um alright, and any concerns for STI's at all?
 
 P: Oh no, I've been with my wife now for a long time and we've been monogamous so no concerns for uh sexually transmitted infection right now.
 
-D: OK, how about um sick contacts, have you been in contact with anyone sick recently? 
+D: OK, how about um sick contacts, have you been in contact with anyone sick recently?
 
 P: No, I don't think so.
 
-D: OK, any travel recently? 
+D: OK, any travel recently?
 
 P: Uh no, I haven't traveled anywhere.
 
@@ -192,11 +192,11 @@ P: Kind of just, yeah, on the lower uh lower right side like more on the, more o
 
 D: More on the right side, OK. Now, if you have a mirror with you, or if you have someone there with you who can um speak to this, does your right side appear more red, swollen, or hot compared to your left side of the lower back?
 
-P: Uh no, nothing like that. 
+P: Uh no, nothing like that.
 
 D: No, OK, and does it seem like it's more atrophied or do you see any deformities or skin changes in that area?
 
-P: Uh nope, no deformities or skin changes. 
+P: Uh nope, no deformities or skin changes.
 
 D: OK, um alright and I'm gonna get you to um bend down all the way and touch your toes if you can.
 

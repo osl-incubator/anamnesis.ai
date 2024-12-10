@@ -8,13 +8,13 @@ P: No, I was just about to head to bed and suddenly I felt this crampy pain in m
 
 D: Ok, and where is this pain located?
 
-P: I'd say like the center of my chest. 
+P: I'd say like the center of my chest.
 
 D: Ok, uh, has the pain been going on constantly since last night?
 
 P: Yeah, I would say so.
 
-D: Ok, has it changed in character at all? You said it was crampy, but has it felt like anything else? 
+D: Ok, has it changed in character at all? You said it was crampy, but has it felt like anything else?
 
 P: Um, no. Just just crampy, yeah.
 
@@ -30,7 +30,7 @@ D: Ok, and how about changing positions, does the pain get worse if you lie flat
 
 P: No.
 
-D: Ok, um, and have you ever had a pain like this in your chest before? 
+D: Ok, um, and have you ever had a pain like this in your chest before?
 
 P: No.
 
@@ -52,7 +52,7 @@ P: No, it it it, it's just always there.
 
 D: Ok, and have you noticed any changes to the sounds of your breathing, like a wheeze or whistling sound?
 
-P: Yeah, maybe maybe a slight wheeze. 
+P: Yeah, maybe maybe a slight wheeze.
 
 D: Ok, do you think that you're breathing more quickly?
 
@@ -64,11 +64,11 @@ P: No cough, no.
 
 D: Alright, and so you haven't been bringing up any sputum or or any blood?
 
-P: No. 
+P: No.
 
 D: Ok and, have you had a sore throat?
 
-P: No sore throat. 
+P: No sore throat.
 
 D: Alright, so you've had this chest pain since last night and shortness of breath that started around a similar time last night. Have you had any other symptoms?
 
@@ -92,9 +92,9 @@ P: No, nothing like that.
 
 D: Any any redness of your eye?
 
-P: Nope. 
+P: Nope.
 
-D: Alright, so have you had a runny nose? 
+D: Alright, so have you had a runny nose?
 
 P: No.
 
@@ -102,7 +102,7 @@ D: Alright, and uh have you felt like your heart is racing at all?
 
 P: No.
 
-D: Ok, have you had a loss of taste or smell? 
+D: Ok, have you had a loss of taste or smell?
 
 P: Nope.
 
@@ -116,9 +116,9 @@ P: No.
 
 D: Alright and, have you had any diarrhea or constipation?
 
-P: No. 
+P: No.
 
-D: Alright, and how about any nausea or vomiting? 
+D: Alright, and how about any nausea or vomiting?
 
 P: Uh, none.
 
@@ -128,19 +128,19 @@ P: No.
 
 D: Alright, and how about any confusion or or concerns around memory?
 
-P: No. 
+P: No.
 
 D: Alright, and, any muscle aches or pains?
 
 P: Maybe slight muscle aches.
 
-D: Have you had any weakness? 
+D: Have you had any weakness?
 
 P: No.
 
 D: Ok, and any rashes you noticed anywhere?
 
-P: No none. 
+P: No none.
 
 D: Ok, and have you had a fever?
 
@@ -148,9 +148,9 @@ P: Um, nope.
 
 D: How about any any chills?
 
-P: No chills. 
+P: No chills.
 
-D: Alright and then any night sweats? 
+D: Alright and then any night sweats?
 
 P: No.
 
@@ -178,7 +178,7 @@ D: Ok, any allergies?
 
 P: I'm allergic to penicillin.
 
-D: Ok, have you had antibiotics recently for any reason? 
+D: Ok, have you had antibiotics recently for any reason?
 
 P: No.
 
@@ -186,7 +186,7 @@ D: Ok, and are your immunizations up to date?
 
 P: I think so. I think the only thing is I have to see if I'm up to date with my Pneumovax.
 
-D: Ok, great yeah I was wondering about that one so we can look into that certainly. And do you know if you've had the Zoster or the Shingles vaccine? 
+D: Ok, great yeah I was wondering about that one so we can look into that certainly. And do you know if you've had the Zoster or the Shingles vaccine?
 
 P: Yes, I had that one.
 
@@ -194,19 +194,19 @@ D: Ok great um, and um next could you I was wondering if you could tell me a lit
 
 P: Sure, I live with my husband. We live in a 3 bedroom townhouse. It's a fairly new home.
 
-D: Ok, great. Did you recently move there? 
+D: Ok, great. Did you recently move there?
 
 P: Yes we did.
 
-D: Ok, cool. And so there's no concerns with like old carpets or being exposed to kind of like dust or or molds or anything like that in the home? 
+D: Ok, cool. And so there's no concerns with like old carpets or being exposed to kind of like dust or or molds or anything like that in the home?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
-D: Ok, and um, has your husband been sick at all? 
+D: Ok, and um, has your husband been sick at all?
 
 P: No, he's been fine.
 
-D: Ok, and do you have any pets in the home? 
+D: Ok, and do you have any pets in the home?
 
 P: We have a cat.
 
@@ -220,7 +220,7 @@ P: Um, we're both retired, but we have our RESP savings.
 
 D: Oh excellent, ok, and for your previous occupation, were you exposed to any chemicals or like asbestos or inhalants that you're aware of?
 
-P: Uh no no, nothing like that. 
+P: Uh no no, nothing like that.
 
 D: Ok, and you smoke cigarettes?
 
@@ -228,9 +228,9 @@ P: I don't.
 
 D: Do you drink alcohol?
 
-P: I have maybe a glass or two glasses of wine over the weekends. 
+P: I have maybe a glass or two glasses of wine over the weekends.
 
-D: Ok, and do you smoke marijuana or use any cannabis products? 
+D: Ok, and do you smoke marijuana or use any cannabis products?
 
 P: No, I don't.
 

@@ -10,7 +10,7 @@ D: OK, what colour is the phlegm?
 
 P: It's like whitish, sometimes it's clear.
 
-D: OK, is it ever green or bloody? 
+D: OK, is it ever green or bloody?
 
 P: No.
 
@@ -30,7 +30,7 @@ D: Any chest pain?
 
 P: Um, no not initially, but like since the past few days, especially after I've like coughed a lot, it just kind of hurts me a little bit.
 
-D: OK, OK, any, do you ever feel so it just hurts after coughing. 
+D: OK, OK, any, do you ever feel so it just hurts after coughing.
 
 P: Yeah.
 
@@ -46,7 +46,7 @@ D: OK, OK, and do you ever feel like your heart's racing?
 
 P: No, no.
 
-D: OK. And have you noticed any swelling in your legs, arms, or abdomen? 
+D: OK. And have you noticed any swelling in your legs, arms, or abdomen?
 
 P: No.
 
@@ -64,7 +64,7 @@ P: No.
 
 D: Have you noticed any fevers?
 
-P: No. 
+P: No.
 
 D: Any weight loss?
 
@@ -112,7 +112,7 @@ P: I kind of had this about, I don't know three or four years ago. I just had th
 
 D: Yeah, for sure. When you had this in the past, were you ever done given a diagnosis?
 
-P: No, I didn't go to see a doctor. I just kind of stay at home. 
+P: No, I didn't go to see a doctor. I just kind of stay at home.
 
 D: OK.
 
@@ -134,7 +134,7 @@ D: OK OK, are you otherwise healthy? Do you have any longstanding medical condit
 
 P: No, I don't. I don't.
 
-D: No, OK. Have you had any hospitalizations or surgeries in the past? 
+D: No, OK. Have you had any hospitalizations or surgeries in the past?
 
 P: I have my wisdom teeth removed.
 
@@ -190,17 +190,17 @@ D: OK. Uhm, any travel recently?
 
 P: No.
 
-D: No, OK. How about umm smoking, do you smoke? 
+D: No, OK. How about umm smoking, do you smoke?
 
 P: Uhm, once in awhile.
 
-D: OK, what's once in awhile? 
+D: OK, what's once in awhile?
 
 P: Maybe when I'm out with my friends I might sometimes, have a cigarette or two. I used to smoke a lot more, but I'm trying to cut it down.
 
 D: OK. How long have you been smoking for?
 
-P: I started smoking in high school, so when I was 18 years old. 
+P: I started smoking in high school, so when I was 18 years old.
 
 D: Mhmm.
 
@@ -224,7 +224,7 @@ P: Uh, I live, I live in an apartment with my boyfriend, about 20 minutes from h
 
 D: OK. Any old carpets at home? Dust, mold, asbestos, anything that would be triggering your cough?
 
-P: I don't know. I have not really had a problem but been here at this place for about a year and a half. 
+P: I don't know. I have not really had a problem but been here at this place for about a year and a half.
 
 D: OK.
 

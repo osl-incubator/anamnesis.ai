@@ -4,7 +4,7 @@ D: What brings you in today?
 
 P: Hey, so I just for the last couple days I've just been feeling really short of breath really rundown. Just like super tired and you know, normally really active and I'm just, I'm just having a rough go.
 
-D: Is there is the shortness of breath knew for you? 
+D: Is there is the shortness of breath knew for you?
 
 P: Yeah yeah, it's just like just like I can't. I don't know like I can't catch up. I kind of just feel I feel a bit weak like I've just been feeling really tired and then because of that I haven't really been eating a lot so. Yeah, I don't know.
 
@@ -24,9 +24,9 @@ D: Me too, um OK, what about your sense of smell? Do you feel like you're not yo
 
 P: I haven't thought about it too hard, but yeah, kind of.
 
-D: OK. And have you had a cough? 
+D: OK. And have you had a cough?
 
-P: Uh I don't know I. I feel like I maybe could be starting starting one. 
+P: Uh I don't know I. I feel like I maybe could be starting starting one.
 
 D: Sure.
 
@@ -34,21 +34,21 @@ P: Like it's when it feels dry like it's on its way. Haven't really been coughin
 
 D: I see, what about a sore throat?
 
-P: I’m starting to feel a little bit like that. Like I don't know if I'm imagining it, but yeah, I I think so. 
+P: I’m starting to feel a little bit like that. Like I don't know if I'm imagining it, but yeah, I I think so.
 
 D: I see OK. Have you had a runny nose or any congestion?
 
-P: No. 
+P: No.
 
-D: Any headaches? 
+D: Any headaches?
 
-P: Uh. Good question, I I kind of I get I get headaches fairly often I don't think I'm getting any more than usual, but I have had a little bit. 
+P: Uh. Good question, I I kind of I get I get headaches fairly often I don't think I'm getting any more than usual, but I have had a little bit.
 
 D: OK. Is the headache that you've had different in quality from the headaches that you usually get?
 
 P: I mean, I don't know, I don't know. I usually get kind of difficult stress headache, you know?
 
-D: Yeah yeah. 
+D: Yeah yeah.
 
 P: Pretty well. I am stressed, just that I you know, might be sick.
 
@@ -66,7 +66,7 @@ P: Uh, like it's. No, yeah no. No chest pain.
 
 D: Any do you feel like your heart's beating really fast?
 
-P: No, I wouldn't say so. 
+P: No, I wouldn't say so.
 
 D: OK, have you had any pain in your belly?
 
@@ -80,37 +80,37 @@ D: OK. And you mentioned you have muscle aches, is it, so all over your body or 
 
 P: I would just say I feel kind of overall achy.
 
-D: OK, 
+D: OK,
 
 P: Um not any one spot.
 
-D: Any numbness or tingling in your arms or legs? 
+D: Any numbness or tingling in your arms or legs?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK. All right, have you had any exposure to anyone who could potentially be sick?
 
 P: Well. My grandkids, uh, visited last weekend and my grandson has a cold. He goes to daycare. Yeah, so I'm not really. I'm not really sure like he's been staying home and they didn't. They didn't really know that when they came to visit.
 
-D: OK, that's yeah, uhm OK. And have you traveled anywhere outside the province? 
+D: OK, that's yeah, uhm OK. And have you traveled anywhere outside the province?
 
 P: No no.
 
-D: OK alright. Do you have any medical conditions that you've been diagnosed with? 
+D: OK alright. Do you have any medical conditions that you've been diagnosed with?
 
 P: Uhm? I'm pretty, I'm pretty healthy. I have some um like reflux that I see my doctor for. And I've had I've had some difficulties like with like urinating a little bit. Yeah, my my prostate's a little big like it's not cancer but. So just those two things that aren't that aren't there that really big deal they don't affect my life too much.
 
-D: Are you taking any medications for either problem? 
+D: Are you taking any medications for either problem?
 
 P: I take avodart.
 
-D: OK. 
+D: OK.
 
-P: And for the the reflux I take a tums here and there I used to be on a medication, but it seemed like I kind of figured out the foods that were going to help, so I stopped. 
+P: And for the the reflux I take a tums here and there I used to be on a medication, but it seemed like I kind of figured out the foods that were going to help, so I stopped.
 
 D: Great, that's great. Any allergies to medications, foods, or environmental allergies?
 
-P: Uh no, no 
+P: Uh no, no
 
 D: No, and any medical conditions that run in the family? Specifically, anything related to the lungs?
 
@@ -136,11 +136,11 @@ D: Any marijuana or recreational drugs?
 
 P: No.
 
-D: Any alcohol? 
+D: Any alcohol?
 
-P: I usually have a whiskey or two on the weekends. 
+P: I usually have a whiskey or two on the weekends.
 
-D: OK alright. Uh so it sounds like you have some sort of an infection with the fevers and fatigue and muscle aches, and then the difficulty breathing, of course, and then your sensation, that sensation that you are having a very cool sort of a sore throat and cough that you might be getting. We can't necessarily rule out covid just yet. 
+D: OK alright. Uh so it sounds like you have some sort of an infection with the fevers and fatigue and muscle aches, and then the difficulty breathing, of course, and then your sensation, that sensation that you are having a very cool sort of a sore throat and cough that you might be getting. We can't necessarily rule out covid just yet.
 
 P: Thats what I was worried about.
 
@@ -150,6 +150,6 @@ P: OK, OK no, that sounds fair,
 
 D: All right. Well, let's do a physical exam and then go from there.
 
-P: OK. Thank you. 
+P: OK. Thank you.
 
 D: You're welcome.

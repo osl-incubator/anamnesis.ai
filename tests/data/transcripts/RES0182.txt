@@ -1,14 +1,14 @@
-D: How may I help you? 
+D: How may I help you?
 
 P: Hi, yeah, I'm here because I'm over the past like couple of months I've been losing a lot of weight. Uhm, but I didn't really have any other symptoms, but since like 2 weeks ago I've been coughing up some blood and now I have a fever as well.
 
-D: OK, so you mentioned you notice the weight loss first. How much weight have you lost? Or roughly? 
+D: OK, so you mentioned you notice the weight loss first. How much weight have you lost? Or roughly?
 
 P: I've lost about 30 pounds in the past, past like 8 months.
 
 D: OK. So, and have you been trying to lose weight?
 
-P: No. 
+P: No.
 
 D: OK and, any, like any changes to your diet or exercise?
 
@@ -20,7 +20,7 @@ P: The cough started two weeks ago.
 
 D: OK. And prior to this, did you have a cough?
 
-P: No. 
+P: No.
 
 D: No. And are you bringing bringing up any sputum or phlegm?
 
@@ -30,7 +30,7 @@ D: OK. So you're, you're, you're coughing up blood as well.
 
 P: Yes, that's right.
 
-D: OK, uh, and that's been going going on for the last two weeks too? 
+D: OK, uh, and that's been going going on for the last two weeks too?
 
 P: Yes.
 
@@ -44,33 +44,33 @@ P: Uhm, I don't think so. They just happen throughout the day.
 
 D: OK, and have you tried anything for the cough?
 
-P: I tried this cough suppressants. I tried like salt water rinses, like just like at home remedies and over the counter products, but nothing is helping. 
+P: I tried this cough suppressants. I tried like salt water rinses, like just like at home remedies and over the counter products, but nothing is helping.
 
-D: OK. And so have you had any like viral infectious type symptoms, such as like eye, eye discharge or red eyes or runny nose or even a sore throat?	
+D: OK. And so have you had any like viral infectious type symptoms, such as like eye, eye discharge or red eyes or runny nose or even a sore throat?
 
 P: No, nothing like that.
 
-D: OK. And, and have you had any any headaches? 
+D: OK. And, and have you had any any headaches?
 
 P: No, no headaches.
 
 D: OK. Have you had any, have you had a runny nose?
 
-P: No. 
+P: No.
 
 D: OK, how about any, have you had any loss of smell or, or taste?
 
-P: No. 
+P: No.
 
 D: OK, have you had any shortness of breath?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Have you had any wheezing?
 
 P: Uhm, no. No wheezing.
 
-D: OK, have you had any chest pain? 
+D: OK, have you had any chest pain?
 
 P: No.
 
@@ -78,21 +78,21 @@ D: OK. Have you had any dizziness or fainting?
 
 P: Uhm, no, nothing like that.
 
-D: Heart palpitations? 
+D: Heart palpitations?
 
-P: No. 
+P: No.
 
 D: OK. And have you had any any nausea or vomiting?
 
-P: No. 
+P: No.
 
-D: Have you had any abdominal pain? 
+D: Have you had any abdominal pain?
 
 P: No.
 
 D: Have you had any diarrhea or constipation?
 
-P: No. 
+P: No.
 
 D: Have you had any pain with urination or, or frequency?
 
@@ -102,9 +102,9 @@ D: OK, have you had any rashes?
 
 P: No.
 
-D: How about muscle aches or body pains? 
+D: How about muscle aches or body pains?
 
-P: Uhm, muscle aches, yeah. Yeah, that's been happening. 
+P: Uhm, muscle aches, yeah. Yeah, that's been happening.
 
 D: Any particular muscles? Or is it more general?
 
@@ -128,7 +128,7 @@ P: Uhm, no, I've been pretty healthy so far.
 
 D: OK. Uhm, so do you take any medications regularly for anything?
 
-P: No. 
+P: No.
 
 D: OK. And do you have any allergies to medications or, or anything environmental?
 
@@ -136,7 +136,7 @@ P: Uh, no.
 
 D: OK, and have you had any prior hospitalizations or surgeries?
 
-P: Uhm, no. 
+P: Uhm, no.
 
 D: OK. And, uh, could you tell me a little bit about your living situation currently? Like who you're living with an ah, whereabouts you're living?
 
@@ -144,11 +144,11 @@ P: Uhm, I live alone by myself. I live in an apartment downtown.
 
 D: OK, and are you working currently or in school or?
 
-P: Um, I'm working from home right now. 
+P: Um, I'm working from home right now.
 
 D: OK, have you been around anybody who's been sick?
 
-P: No. 
+P: No.
 
 D: Have you traveled anywhere recently?
 
@@ -162,7 +162,7 @@ D: OK. And, and in Sri Lanka, were any of your family members or people that you
 
 P: I mean, it's pretty common in Sri Lanka. None of my immediate family members were.
 
-D: OK. And do you smoke cigarettes? 
+D: OK. And do you smoke cigarettes?
 
 P: No.
 
@@ -184,9 +184,9 @@ P: Heart or lung? Uh, no, not that I know of.
 
 D: OK, and how about any cancers in the family?
 
-P: No, no cancers. 
+P: No, no cancers.
 
-D: I see, alright. Did you have any other questions for me today? I think that was everything I wanted to ask about for now. 
+D: I see, alright. Did you have any other questions for me today? I think that was everything I wanted to ask about for now.
 
 P: Ah no, what do you like, what do you think I have, and how do you think I should treat it?
 

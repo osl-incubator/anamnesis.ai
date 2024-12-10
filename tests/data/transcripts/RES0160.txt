@@ -16,7 +16,7 @@ P: Yeah, it's mostly watery.
 
 D: And what colour is it?
 
-P: Just normal colour, no, it's not dark or anything like that. 
+P: Just normal colour, no, it's not dark or anything like that.
 
 D: OK, any blood that you've noticed, anything red?
 
@@ -26,7 +26,7 @@ D: And you've had this cough, but your cough is getting better. What's the cough
 
 P: It's uh, it's more of a dry cough.
 
-D: Have you coughed up anything at all, like blood or any, any mucus? 
+D: Have you coughed up anything at all, like blood or any, any mucus?
 
 P: No, no I haven't coughed up anything.
 
@@ -36,7 +36,7 @@ P: No, none of those. But I, I have also been having like a little bit of a head
 
 D: Where is, where is your headache?
 
-P: Just in the like on my forehead, on both sides. 
+P: Just in the like on my forehead, on both sides.
 
 D: What does it feel like?
 
@@ -52,15 +52,15 @@ P: Right now, like today I took Tylenol so I don't know if it's just better beca
 
 D: I see. And have you taken any other medications to help with your symptoms?
 
-P: No. 
+P: No.
 
-D: OK, uhm, have you had a fever or chills? 
+D: OK, uhm, have you had a fever or chills?
 
 P: Uhm, I know I haven't felt any fever, chills.
 
-D: OK and have you had any chest pain or any difficulties breathing? 
+D: OK and have you had any chest pain or any difficulties breathing?
 
-P: No. 
+P: No.
 
 D: OK, uhm, have you had any nausea or vomiting?
 
@@ -76,7 +76,7 @@ P: No.
 
 D: OK, any numbness or tingling in your arms or feet?
 
-P: Uh, no, nothing like that. 
+P: Uh, no, nothing like that.
 
 D: Any change in your sense of smell?
 
@@ -84,15 +84,15 @@ P: Uhm, maybe a little bit, I haven't really.. Yeah, I would say in the last few
 
 D: Any change in your sense of taste?
 
-P: Uh no. 
+P: Uh no.
 
 D: OK. Have you have you been in contact with someone who you think could potentially be sick?
 
-P: Uh, no, not that I know of. I do I do go to work in, like in person. Unfortunately I'm I can't work from home. But I've been noticing anyone sick around me though. 
+P: Uh, no, not that I know of. I do I do go to work in, like in person. Unfortunately I'm I can't work from home. But I've been noticing anyone sick around me though.
 
 D: And what do you do for work?
 
-P: So I work at like a car shop. 
+P: So I work at like a car shop.
 
 D: OK. And do you wear a mask and maintain social distancing?
 
@@ -116,13 +116,13 @@ P: Probably half a pack a day.
 
 D: And for how many years?
 
-P: Only like 15, 15 years. 
+P: Only like 15, 15 years.
 
 D: OK do you, do you smoke marijuana or have you smoked in the past?
 
 P: Uh, I've tried it a couple times. I don't really like it, so no.
 
-D: Any recreational drugs? 
+D: Any recreational drugs?
 
 P: No.
 
@@ -134,13 +134,13 @@ D: Do you have any medical conditions that you've been diagnosed with?
 
 P: Uhm I, I take uh, medications for blood pressure and high cholesterol.
 
-D: What do you take? 
+D: What do you take?
 
 P: Uhm, I take this medication called, I think it's it's like a Lipitor. And then I take uh, Ramipril for the blood pressure.
 
 D: Any allergies to food, environmental allergies or any medication allergies to medications?
 
-P: Not that I know of, no. 
+P: Not that I know of, no.
 
 D: Any medical conditions that run in the family?
 
@@ -150,9 +150,9 @@ D: OK, and have you, I guess have you, I forgot to ask earlier, have you had any
 
 P: Uhm I had a surgery to remove my appendix in my 20s and since then, no. No surgeries or hospitalizations.
 
-D: OK.  Alright, and I guess that's all the questions I have for you. You haven't had any difficulties breathing right? 
+D: OK.  Alright, and I guess that's all the questions I have for you. You haven't had any difficulties breathing right?
 
-P: No, 
+P: No,
 
 D: No, OK. Do you OK? And you've had diarrhea for two days. How's your appetite and have you been eating and drinking OK?
 

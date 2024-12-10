@@ -28,7 +28,7 @@ P: The past week.
 
 D: OK, and what about the numbness in your groin area?
 
-P: That's been going on for the past week as well. 
+P: That's been going on for the past week as well.
 
 D: OK, and OK, and how would you describe your pain right now on a scale of 1 to 10, 10 being the worst pain you've felt?
 
@@ -38,7 +38,7 @@ D: Eight or nine OK, and does it get worse with any, any motions at all?
 
 P: I think it's worse with um, I don't know like, it's worse with anything, anytime, anytime I tried to move it, it hurts.
 
-D: OK, so you just improved with rest complete rest. 
+D: OK, so you just improved with rest complete rest.
 
 P: Yeah.
 
@@ -50,13 +50,13 @@ D: Is it both legs or just one?
 
 P: It's mostly on my right, but the left one isn't the same as it used to be either.
 
-D: OK 
+D: OK
 
 P: Yeah, I'm having a hard time like getting up from a chair and things like that.
 
 D: OK, and anything that you've tried that has helped relieve some of your symptoms.
 
-P: I've tried like over the counter counter and ibuprofen. I've tried some topical analgesics and nothing seems to be working. 
+P: I've tried like over the counter counter and ibuprofen. I've tried some topical analgesics and nothing seems to be working.
 
 D: OK. And. Have you experienced any trauma? So you mentioned you had a car accident rate two months ago?
 
@@ -80,23 +80,23 @@ P: No rashes or skin changes.
 
 P: No.
 
-D: Any kind of chest pain short of, ah sorry shortness of breath? 
+D: Any kind of chest pain short of, ah sorry shortness of breath?
 
 P: Um no.
 
 D: Any cough or cold like symptoms?
 
-P: No. 
+P: No.
 
 D: Uhm, any so you have some urinary incontinence, any fecal incontinence?
 
 P: No.
 
-D: OK, how's an any recent changes in your weight? 
+D: OK, how's an any recent changes in your weight?
 
 P: No.
 
-D: Have you been sick at all recently? 
+D: Have you been sick at all recently?
 
 P: No.
 
@@ -128,9 +128,9 @@ D: OK, any other medications?
 
 P: No.
 
-D: OK, any allergies to any medications? 
+D: OK, any allergies to any medications?
 
-P: No. 
+P: No.
 
 D: OK. Any hospitalizations or previous surgeries?
 
@@ -138,11 +138,11 @@ P: No.
 
 D: Any family history of any musculoskeletal or rheumatologic conditions?
 
-P: Um no. 
+P: Um no.
 
 D: OK. Currently, do you work?
 
-P: I do. I work from home right now, I'm a teacher. 
+P: I do. I work from home right now, I'm a teacher.
 
 D: OK, uh. And do you, did you do any work previously that required heavy lifting or strenuous activities regarding your back at all.
 
@@ -154,19 +154,19 @@ P: I live at home with two of my children.
 
 D: OK. And are you able to do things at home that you were before look like, or do you need some extra help from it, your family members, or extra help from other workers. Anything like that?
 
-P: Yeah, my family's definitely been helping me out a lot over these past few weeks because. Yeah, like I said, like I'm having some weakness in my legs. I can't move around as much because I'm in so much pain. Um and then like there are all these like bladder accidents so. Yeah, they've been helping me out with everyday things. 
+P: Yeah, my family's definitely been helping me out a lot over these past few weeks because. Yeah, like I said, like I'm having some weakness in my legs. I can't move around as much because I'm in so much pain. Um and then like there are all these like bladder accidents so. Yeah, they've been helping me out with everyday things.
 
 D: OK, I see. And currently, do you smoke?
 
 P: No.
 
-D: OK, do you drink alcohol? 
+D: OK, do you drink alcohol?
 
 P: No.
 
 D: And any recreational drugs like marijuana?
 
-P: No. 
+P: No.
 
 D: OK. I'm just getting at you to do a few things on just just as part of the physical examination.
 
@@ -180,11 +180,11 @@ D: Do you notice any kind of redness, swelling in and around your back?
 
 P: Um not that I can tell.
 
-D: OK, and how about if you press down on the your lower back, does it hurt? 
+D: OK, and how about if you press down on the your lower back, does it hurt?
 
-P: Yeah, that hurts. 
+P: Yeah, that hurts.
 
-D: OK. And are you experiencing the numbness right now and in your groin area? 
+D: OK. And are you experiencing the numbness right now and in your groin area?
 
 P: I am.
 

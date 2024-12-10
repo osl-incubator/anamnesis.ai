@@ -36,15 +36,15 @@ P: Yeah.
 
 D: OK. Any numbness or tingling?
 
-P: No. 
+P: No.
 
 D: No, OK. The cough, is it a dry cough or like productive cough? Are you bringing up phlegm?
 
 P: It's a dry cough.
 
-D: A dry cough, OK. Uhm, so no sputum or blood, right? 
+D: A dry cough, OK. Uhm, so no sputum or blood, right?
 
-P: No. 
+P: No.
 
 D: OK, and you have a runny nose or stuffy nose?
 
@@ -52,15 +52,15 @@ P: Uh, no.
 
 D: Sore throat?
 
-P: No. 
+P: No.
 
 D: Shortness of breath?
 
 P: No.
 
-D: No, OK. Wheeziness? 
+D: No, OK. Wheeziness?
 
-P: No. 
+P: No.
 
 D: OK, any fevers?
 
@@ -80,11 +80,11 @@ P: Not that I've noticed.
 
 D: OK. Changes in your vision or hearing?
 
-P: No. 
+P: No.
 
 D: Taste or smell?
 
-P: No. 
+P: No.
 
 D: Chest pain?
 
@@ -96,7 +96,7 @@ P: Mhmm.
 
 D: OK. And any chest pain?
 
-P: No. 
+P: No.
 
 D: OK, any feelings of like feel like feeling like your heart's racing?
 
@@ -112,7 +112,7 @@ P: No.
 
 D: OK, any changes to your bowel movements?
 
-P: Uhm, no. 
+P: Uhm, no.
 
 D: OK, and any nausea or vomiting?
 
@@ -148,7 +148,7 @@ P: Uh, no medications.
 
 D: OK, are you up to date with all your immunizations?
 
-P: Yep. 
+P: Yep.
 
 D: OK, and how about allergies, do you have any?
 
@@ -180,7 +180,7 @@ P: Uhm, just socially sometimes when I'm with friends, not-nothing regular.
 
 D: OK, and so for the past like two months, how often have you been smoking?
 
-P: Probably a couple cigarettes on the weekend. We usually smoke marijuana, so not not too much like tobacco or cigarettes. 
+P: Probably a couple cigarettes on the weekend. We usually smoke marijuana, so not not too much like tobacco or cigarettes.
 
 D: OK. OK. Uhm, do you do any other recreational drugs like marijuana, cocaine?
 
@@ -208,7 +208,7 @@ P: Just mostly beers, maybe whiskey sometimes.
 
 D: OK, and how much of that?
 
-P: So probably a couple beers. Uhm every few days and then whiskey, maybe a normal glass every few days, so yeah I would say 3 or 4 beers a week and then maybe 2 glasses of whiskey. In a, in an average week. 
+P: So probably a couple beers. Uhm every few days and then whiskey, maybe a normal glass every few days, so yeah I would say 3 or 4 beers a week and then maybe 2 glasses of whiskey. In a, in an average week.
 
 D: OK, OK. Alright, and have you been in touch with or in contact with anyone sick recently?
 

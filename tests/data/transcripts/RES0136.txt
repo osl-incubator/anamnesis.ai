@@ -8,7 +8,7 @@ P: Kind of around the same time when I woke up in the morning.
 
 D: And did it wake you up from sleep at all? Like did you wake up trying to catch a breath or anything?
 
-P: No. 
+P: No.
 
 D: Okay, so it happened after you had woken up and gotten out of bed. And um, so, can you describe your cough a little bit? Is it wet or is it dry?
 
@@ -16,9 +16,9 @@ P: Um, it's just um, it's just a dry cough.
 
 D: Okay, you're not bringing up any sputum or any other material?
 
-P: No. 
+P: No.
 
-D: And uh, are you coughing up any blood by any chance? 
+D: And uh, are you coughing up any blood by any chance?
 
 P: No.
 
@@ -34,9 +34,9 @@ D: No. Were you doing anything before it started? Like were you doing any, any a
 
 P: No, I was just uh, I, I slept in, I slept in a bit more than usual, um, and I was feeling quite um, drowsy. My, my doc increased my pain meds and I took the first dose um, yesterday night, um, I actually took an extra pill um, um, of the morphine um, and yeah, I don't know, maybe it, it's an allergic reaction to the morphine.
 
-D: Have you had any allergic reactions before? 
+D: Have you had any allergic reactions before?
 
-P: No. 
+P: No.
 
 D: And so you took an extra morphine last night and then went to sleep. Um, did you wake up coughing or catching your breath or anything like that?
 
@@ -52,7 +52,7 @@ P: Yeah, since yesterday. Actually, not even yesterday, this morning I would say
 
 D: This morning, okay. Um, and is there anything that makes your symptoms worse? Like does lying down make your symptoms worse?
 
-P: Not really. 
+P: Not really.
 
 D: No. How about exerting yourself, does it make your symptoms worse?
 
@@ -62,7 +62,7 @@ D: Okay. Um, do you have any other symptoms like any fevers or chills?
 
 P: I checked my fever last night, it was um, 37.2.
 
-D: Okay, so you didn't have a fever last night, okay. Um, do you have any other symptoms like dizziness uh, any fainting spells? 
+D: Okay, so you didn't have a fever last night, okay. Um, do you have any other symptoms like dizziness uh, any fainting spells?
 
 P: No.
 
@@ -76,17 +76,17 @@ P: No, I don't.
 
 D: And um, have you been traveling at all recently?
 
-P: No. 
+P: No.
 
 D: Any contact with anyone who has been sick recently?
 
-P: No. 
+P: No.
 
 D: No. Uh, any nausea or vomiting?
 
-P: No. 
+P: No.
 
-D: Okay. Any night sweats? 
+D: Okay. Any night sweats?
 
 P: No.
 
@@ -100,33 +100,33 @@ P: Maybe a little bit.
 
 D: Okay. Have you been having any cold-like symptoms before the two days, like in the last week, like runny nose, sore throat?
 
-P: No. I was, like, I was absolutely fine. 
+P: No. I was, like, I was absolutely fine.
 
 D: Okay. Um, how about, do you have any changes in your bowel movements like constipation, diarrhea?
 
-P: No. 
+P: No.
 
 D: No. Any trouble with urinating?
 
-P: No. 
+P: No.
 
 D: Okay, any sleep or appetite issues?
 
-P: No. 
+P: No.
 
 D: Okay. Have you lost uh, significant weight in the last few months?
 
-P: No. 
+P: No.
 
 D: Okay. Um, have you been exposed to anyone who may have had tuberculosis?
 
-P: I don't think so. 
+P: I don't think so.
 
-D: No, and uh, do you have any pets or animals at home? 
+D: No, and uh, do you have any pets or animals at home?
 
 P: Um, I have a dog.
 
-D: Have you ever had any allergies to any pets or animals? 
+D: Have you ever had any allergies to any pets or animals?
 
 P: No.
 
@@ -140,27 +140,27 @@ P: I um, I just have the osteoarthritis.
 
 D: Osteoarthritis, okay. Is that why you're taking the?
 
-P: Yeah, yeah. 
+P: Yeah, yeah.
 
-D: And are you taking any other medications? 
+D: And are you taking any other medications?
 
 P: I take uh, Advil.
 
 D: Advil, okay. Any allergies that you know of?
 
-P: Um, no. 
+P: Um, no.
 
 D: Okay, any previous hospitalizations?
 
 P: Um, I had my wisdom teeth removed. But no, I wasn't, I wasn't hospitalized.
 
-D: Okay, is that the only surgery that you've had, or have you had anything else? 
+D: Okay, is that the only surgery that you've had, or have you had anything else?
 
 P: Yeah. No, that's it.
 
 D: Any family history of any lung or heart conditions?
 
-P: Uh no. 
+P: Uh no.
 
 D: Any cancers?
 
@@ -182,11 +182,11 @@ D: Okay. Okay, um, do you smoke currently?
 
 P: No.
 
-D: Have you smoked in the past? 
+D: Have you smoked in the past?
 
 P: No.
 
-D: Okay, and do you work currently? 
+D: Okay, and do you work currently?
 
 P: Uh I, I do.
 

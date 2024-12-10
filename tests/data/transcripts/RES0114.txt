@@ -36,31 +36,31 @@ P: No, no, I haven't noticed any blood.
 
 D: OK, any uh changes to your hair or on your skin, like rashes?
 
-P: Not that I've noticed, no. 
+P: Not that I've noticed, no.
 
 D: OK, any weight loss?
 
-P: Um, I don't think so. 
+P: Um, I don't think so.
 
 D: OK, fevers?
 
-P: No. 
+P: No.
 
 D: OK, exhaustion?
 
-P: Um yeah, I would say like for the last few months I am a bit more tired. 
+P: Um yeah, I would say like for the last few months I am a bit more tired.
 
 D: Mhmm OK, how about changes in your vision or hearing?
 
 P: No, I haven't experienced that.
 
-D: How about a stuffy nose? Runny nose? 
+D: How about a stuffy nose? Runny nose?
 
 P: Uh no, not really.
 
 D: No, OK. How about changes to your smell or taste?
 
-P: Uh nope. 
+P: Uh nope.
 
 D: No, OK. Uh chest pain?
 
@@ -80,19 +80,19 @@ P: I I did notice, like uh a little bit of swelling in my uh both my, like right
 
 D: OK, OK and how long has that been going on?
 
-P: Probably, uh, I've had this issue for like a pretty long time um, probably I would say the last year at least. 
+P: Probably, uh, I've had this issue for like a pretty long time um, probably I would say the last year at least.
 
-D: OK, OK, last year. Um any uh dizziness or fainting spells? 
+D: OK, OK, last year. Um any uh dizziness or fainting spells?
 
 P: No.
 
 D: No, OK, any memory issues, uh confusion?
 
-P: No. 
+P: No.
 
 D: Numbness or tingling?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: No headaches?
 
@@ -104,7 +104,7 @@ P: No, I tend to go like once a day. And yeah, it's pretty normal.
 
 D: OK, uh nausea or vomiting?
 
-P: No. 
+P: No.
 
 D: No, OK. And are you otherwise healthy? Do you have any longstanding conditions? I know you said you have COPD, anything else?
 
@@ -120,13 +120,13 @@ P: Oh I yeah, I I yeah, I didn't know anything about that. I just thought that w
 
 D: OK. Um alright, and are you taking any medications?
 
-P: Yeah, I have this medication uh right now I'm taking it, it's called lisinopril. 
+P: Yeah, I have this medication uh right now I'm taking it, it's called lisinopril.
 
-D: OK, so that's for your blood pressure? 
+D: OK, so that's for your blood pressure?
 
-P: Yeah. 
+P: Yeah.
 
-D: OK. Are you on any puffers? Sorry, go ahead. 
+D: OK. Are you on any puffers? Sorry, go ahead.
 
 P: Yes I'm on, no worries, I'm on um uh two puffers right now. One of them is like just one that I use when I really need it. And then um there's another one, so I think that's like the Ventolin puffer.
 
@@ -142,39 +142,39 @@ D: OK, OK. Uh do you find they're not working as much as they used to though?
 
 P: Yeah, I feel like uh before, I didn't really like, it, just last year I didn't really have to take it too much. Um like even when I use the puffer, I start getting coughing like maybe half an hour later and so it's not, I don't think it's as effective.
 
-D: OK, yeah. Um OK. And have you had any recent blood work done? 
+D: OK, yeah. Um OK. And have you had any recent blood work done?
 
 P: Uh, no, I haven't been to the doctor for a while.
 
 D: OK. And do you have any allergies?
 
-P: Um I think I have allergies to uh like um amoxicillin, I got like a rash once. 
+P: Um I think I have allergies to uh like um amoxicillin, I got like a rash once.
 
 D: OK. Have you had any, uh, amoxicillin, or like penicillin type antibiotics recently?
 
 P: No.
 
-D: No, OK. Um are you up to date with all your immunizations? 
+D: No, OK. Um are you up to date with all your immunizations?
 
-P: Yep. 
+P: Yep.
 
 D: OK. Um, you're not quite at this age range yet, but uh we do recommend the pneumococcal vaccine when you turn 65. And um did you get the flu vaccine this year?
 
-P: Uh yeah I did, with the pandemic going on, I usually don't get it, but I got it this year. 
+P: Uh yeah I did, with the pandemic going on, I usually don't get it, but I got it this year.
 
 D: OK, good good. Um any family history of lung conditions or heart conditions?
 
 P: Uhm, lung conditions I don't think so. Heart conditions, uh my father did have a heart attack in his 60s, but he's fine. He's he's living right now.
 
-D: OK OK, any cancers? 
+D: OK OK, any cancers?
 
-P: Cancers, I think my uncle from my father's side um had uh bladder cancer. 
+P: Cancers, I think my uncle from my father's side um had uh bladder cancer.
 
-D: OK, OK. Um do you smoke? 
+D: OK, OK. Um do you smoke?
 
-P: I used to smoke. Um I just quit a few years ago. 
+P: I used to smoke. Um I just quit a few years ago.
 
-D: OK, congrats. Um how much did you used to smoke? 
+D: OK, congrats. Um how much did you used to smoke?
 
 P: Uhm, I don't know, probably I went through a like a whole pack every day, I would say for at least 30 years of my life.
 
@@ -198,7 +198,7 @@ D: OK, any uh old carpets? Mold, dust, asbestos, anything like that in the condo
 
 P: No, it's pretty well maintained.
 
-D: OK, good. And have you been in contact with any anyone sick recently? 
+D: OK, good. And have you been in contact with any anyone sick recently?
 
 P: No, I've mainly just been trying to stay inside. I work from home too, so haven't really been seeing anyone.
 

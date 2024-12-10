@@ -32,7 +32,7 @@ P: That was just today.
 
 D: Just today, have you taken your temperature?
 
-P: No, I haven't. 
+P: No, I haven't.
 
 D: OK, and have you been experiencing any other symptoms?
 
@@ -52,15 +52,15 @@ P: No.
 
 D: OK, have you had a runny nose?
 
-P: Mmmm, no no. 
+P: Mmmm, no no.
 
 D: Alright. And within the last month or so, have you had any cold like symptoms with a runny nose, headache, sore throat, and or a cough?
 
-P: Ah no. 
+P: Ah no.
 
 D: OK, so it's just been these last few days?
 
-P: Yes. 
+P: Yes.
 
 D: Um, alright, and do you have a sore throat now?
 
@@ -76,7 +76,7 @@ P: No, well, no no. I would say no.
 
 D: OK, um an in the last several months. Have you had any weight loss?
 
-P: Um no weight loss. 
+P: Um no weight loss.
 
 D: Alright, and have you had any chills?
 
@@ -96,7 +96,7 @@ P: Yeah.
 
 D: Have you had any chest pain?
 
-P: Um no, no chest pain no. 
+P: Um no, no chest pain no.
 
 D: Alright, and how about shortness of breath?
 
@@ -104,7 +104,7 @@ P: No.
 
 D: Alright, any wheezing?
 
-P: No. 
+P: No.
 
 D: Alright, and have you had any instances where you felt as though your heart was racing or beating out of your chest?
 
@@ -120,13 +120,13 @@ P: Um no, no dizziness.
 
 D: Alright and have you had any loss or of your sense of taste or loss of your sense of smell?
 
-P: Um no. 
+P: Um no.
 
 D: OK. And have you had any diarrhea?
 
 P: No diarrhea.
 
-D: Alright, and then how about any nausea or vomiting? 
+D: Alright, and then how about any nausea or vomiting?
 
 P: No.
 
@@ -136,7 +136,7 @@ P: A little bit of both, yeah.
 
 D: I see OK and have you had any painful urination or feeling the need to urinate frequently?
 
-P: No. 
+P: No.
 
 D: OK, and any skin rashes or or skin changes?
 
@@ -170,7 +170,7 @@ D: Alright, and have you had any surgeries before?
 
 P: Um, I had my appendix removed when I was a teenager.
 
-D: OK, and any complications with that surgery? 
+D: OK, and any complications with that surgery?
 
 P: No.
 
@@ -184,7 +184,7 @@ P: My husband has been throwing up for the past two days and I think he was feel
 
 D: OK, has he been assessed by a physician?
 
-P: No, I tried to bring him today, but he refused. 
+P: No, I tried to bring him today, but he refused.
 
 D: I see OK. Has he been around anybody who's been sick that you're aware of, like at work or anything?
 
@@ -192,7 +192,7 @@ P: He works at this IT company. There aren't a lot of them and they all have the
 
 D: OK, and how about yourself? Any other exposures or sick contacts or maybe at work or something like that?
 
-P: Um so I do marketing stuff online, but I I work from home. 
+P: Um so I do marketing stuff online, but I I work from home.
 
 D: OK. Um and your kids have been well?
 
@@ -204,13 +204,13 @@ P: No.
 
 D: And do you drink alcohol?
 
-P: I'll have a glass of wine with dinner once in awhile. 
+P: I'll have a glass of wine with dinner once in awhile.
 
 D: OK, do you and what's once in awhile?
 
 P: Maybe every three or four days.
 
-D: OK, so a couple of drinks per week? 
+D: OK, so a couple of drinks per week?
 
 P: Yeah.
 
@@ -242,7 +242,7 @@ D: Alright so I think that's all I wanted to cover on the history today. Was the
 
 P: Um no, I was just curious if you think I had COVID?
 
-D: Certainly one of the top things that I'm considering after hearing about your symptoms of having this cough and fever and being tired these last few days, especially with your husband being sick with nausea, vomiting, and not feeling well. That being said, it could be another type of viral illness, or possibly a bacterial infection. But certainly we will order some investigations, some blood work, a PCR nasal swab that will actually test for COVID as well as a chest X Ray to start with. Um and we will wait for some of those results to come back. 
+D: Certainly one of the top things that I'm considering after hearing about your symptoms of having this cough and fever and being tired these last few days, especially with your husband being sick with nausea, vomiting, and not feeling well. That being said, it could be another type of viral illness, or possibly a bacterial infection. But certainly we will order some investigations, some blood work, a PCR nasal swab that will actually test for COVID as well as a chest X Ray to start with. Um and we will wait for some of those results to come back.
 
 P: OK, yeah, that sounds good.
 

@@ -20,19 +20,19 @@ P: Yeah, so just in the last three days when the congestion got really bad I sta
 
 D: OK, have you had any changes to your sense of taste?
 
-P: No, taste is fine. 
+P: No, taste is fine.
 
 D: OK, and have you had any cough or sore throat?
 
 P: Uh, no. No cough or sore throat.
 
-D: OK, and the symptoms have gone on for five days. Have you had a period of time where you got better and then got sick again? 
+D: OK, and the symptoms have gone on for five days. Have you had a period of time where you got better and then got sick again?
 
 P: I did kind of have a runny nose last week as well, so probably like 8 days ago but then the runny nose discontinued a little bit but really got worse 5 days ago, but all these other symptoms just happened in the last few days.
 
 D: OK, and you have pain. Do you feel it in your jaw or do you feel it in the in the front of your nose?
 
-P: Yes, I would say mainly over the cheeks. It can kind of go near the front of my teeth as well, so like I would say like mostly around the cheeks, jaws and up to the front of my teeth. 
+P: Yes, I would say mainly over the cheeks. It can kind of go near the front of my teeth as well, so like I would say like mostly around the cheeks, jaws and up to the front of my teeth.
 
 D: OK, And do you grind your teeth at all at night? or have you had, TMJ issues before?
 
@@ -46,7 +46,7 @@ D: OK, have you had any fevers or chills?
 
 P: Uhm, I Don't think I've had a fever. I did feel some chills over the last few days, but just very brief episodes.
 
-D: OK, and over the last few weeks have you had any weight loss? 
+D: OK, and over the last few weeks have you had any weight loss?
 
 P: No.
 
@@ -60,7 +60,7 @@ P: Uh, not shortness of breath. Just sometimes when my nose gets like really con
 
 D: I see, OK, and have you had any chest pain?
 
-P: No, no chest pain. 
+P: No, no chest pain.
 
 D: Alright, and any lightheadedness or feeling dizzy?
 
@@ -68,9 +68,9 @@ P: No.
 
 D: OK, have you had any nausea or vomiting?
 
-P: Nope. 
+P: Nope.
 
-D: Any abdominal pain? 
+D: Any abdominal pain?
 
 P: No.
 
@@ -80,7 +80,7 @@ P: Sorry, what was that?
 
 D: Have you had any diarrhea?
 
-P: No diarrhea. 
+P: No diarrhea.
 
 D: OK, and have you had any urinary problems?
 
@@ -90,7 +90,7 @@ D: And have you had any rashes or skin changes?
 
 P: No, not that I know.
 
-D: OK, then how about any muscle aches or joint aches? 
+D: OK, then how about any muscle aches or joint aches?
 
 P: Uh, no.
 
@@ -110,9 +110,9 @@ D: OK, have your eyes been itchy?
 
 P: Uhm Yeah, a little bit. I would say they have been a bit itchy.
 
-D: OK, alright then, do you have any medical conditions that you see a physician for regularly? 
+D: OK, alright then, do you have any medical conditions that you see a physician for regularly?
 
-P: Uh, just uhm, its called dyslipidemia. 
+P: Uh, just uhm, its called dyslipidemia.
 
 D: OK, I see, and any medications you take for that?
 
@@ -128,7 +128,7 @@ P: Uh, no, not that I know.
 
 D: OK, so you don't experience any symptoms like this when the seasons change?
 
-P: I don't think so. I have had this happen to me, Uh, I would say like once before. It happened like two years ago. It was pretty similar. 
+P: I don't think so. I have had this happen to me, Uh, I would say like once before. It happened like two years ago. It was pretty similar.
 
 D: OK, uhm, and what was done at that time?
 
@@ -140,7 +140,7 @@ P: No hospitalizations.
 
 D: Any surgeries?
 
-P: Nope. 
+P: Nope.
 
 D: Alright, and could you tell me where abouts you're living currently and who you're living with?
 
@@ -166,7 +166,7 @@ D: Oh, that's great. It's not easy to quit, so that's awesome. And do you drink 
 
 P: Just maybe like red wine a couple of times a week.
 
-D: I see, OK, and do you use any recreational drugs? 
+D: I see, OK, and do you use any recreational drugs?
 
 P: Uh, just, in a month, maybe once or twice, I smoke a joint.
 
@@ -182,7 +182,7 @@ D: OK, I think I that was everything I wanted to ask about today. Was there any 
 
 P: No,  I think that's all. I just didn't know if I needed any, like, medications or if I needed to get tested. I just wanted to make sure.
 
-D: Yeah, so well, certainly check your temperature to see if you have a fever. And if you do and it's high enough, that will increase the chance that you have a bacterial sinusitis,  and if so, with some of your symptoms, including the discharge, obstruction, loss of smell, and facial pain, that all fits the picture for it and also you had a period where you felt a little bit better and then worse again. So that might require antibiotics, but we will check your temperature and go from there. 
+D: Yeah, so well, certainly check your temperature to see if you have a fever. And if you do and it's high enough, that will increase the chance that you have a bacterial sinusitis,  and if so, with some of your symptoms, including the discharge, obstruction, loss of smell, and facial pain, that all fits the picture for it and also you had a period where you felt a little bit better and then worse again. So that might require antibiotics, but we will check your temperature and go from there.
 
 P: Alright, sounds good, thank you so much.
 

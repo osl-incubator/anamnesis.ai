@@ -1,6 +1,6 @@
-D: What brings you in? 
+D: What brings you in?
 
-P: Yeah, so I just came in today uh a bit concerned. Uh I've been just having this nasty cough for like the last week and then today morning uh, like I thought the cough would just go away, but today morning I also noticed I'm coughing up some blood. 
+P: Yeah, so I just came in today uh a bit concerned. Uh I've been just having this nasty cough for like the last week and then today morning uh, like I thought the cough would just go away, but today morning I also noticed I'm coughing up some blood.
 
 D: Oh, OK.
 
@@ -12,7 +12,7 @@ P: Um, so let me think uh I just returned from a mission trip uh to the Philippi
 
 D: OK. And that and the blood in your cough, um that was about yesterday, you said? Or?
 
-P: Yeah today, uh. 
+P: Yeah today, uh.
 
 D: Today, OK. OK. Um are you bringing up any phlegm at all, besides the blood?
 
@@ -20,7 +20,7 @@ P: Uh no it's just uh like I saw it on my hand, like there wasn't anything, like
 
 D: OK, are you short of breath at all?
 
-P: No, I'm not short of breath. Um just, it's just the cough. 
+P: No, I'm not short of breath. Um just, it's just the cough.
 
 D: OK, and are you having any wheeziness?
 
@@ -32,7 +32,7 @@ P: No, no uh runny or stuffy nose.
 
 D: Changes in vision, hearing, smell, or taste?
 
-P: Nope. 
+P: Nope.
 
 D: Uh weight loss?
 
@@ -48,23 +48,23 @@ P: I did have a, I did have some chills over the last week, um but I didn't real
 
 D: OK, we'll take your temperature today just to make sure. Um any rashes?
 
-P: No. 
+P: No.
 
 D: Any chest pain?
 
-P: No chest pain. 
+P: No chest pain.
 
 D: Uh swelling in your limbs?
 
-P: No. 
+P: No.
 
-D: Fainting spells or dizziness? 
+D: Fainting spells or dizziness?
 
 P: No, nothing like that.
 
 D: Confusion or memory loss?
 
-P: No. 
+P: No.
 
 D: Headaches?
 
@@ -72,19 +72,19 @@ P: No headaches.
 
 D: Uh, joint pain?
 
-P: No. 
+P: No.
 
 D: Fatigue?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Um, changes in your bowel movements?
 
 P: Uh, no. Not at all.
 
-D: No, changes in your urine? 
+D: No, changes in your urine?
 
-P: Nope. 
+P: Nope.
 
 D: Uh, nausea or vomiting?
 
@@ -98,7 +98,7 @@ D: OK, are you otherwise healthy? Do you have any longstanding medical condition
 
 P: Yeah no, I'm otherwise I um I don't, I'm really healthy. I don't take any medications so this was something that happened out of the blue.
 
-D: OK, any um hospitalizations or surgeries in the past? 
+D: OK, any um hospitalizations or surgeries in the past?
 
 P: No.
 
@@ -106,25 +106,25 @@ D: No, um medications, are you on any?
 
 P: No, I haven't um tried any medications.
 
-D: OK. Um are you up to date with all your immunizations? 
+D: OK. Um are you up to date with all your immunizations?
 
 P: Uh I I've been yeah, pretty up to date with all my immunizations.
 
-D: OK, uh, allergies, do you have any? 
+D: OK, uh, allergies, do you have any?
 
 P: No.
 
 D: Sorry, forgot to ask, immunizations. Did you get the flu shot this year?
 
-P: Yeah I did. 
+P: Yeah I did.
 
 D: OK, good. Any family history of lung conditions?
 
-P: No, not at all. 
+P: No, not at all.
 
 D: No, any lung cancers?
 
-P: No. 
+P: No.
 
 D: No, OK. Do you smoke?
 
@@ -136,13 +136,13 @@ P: No I would never take drugs.
 
 D: OK. Do you drink alcohol?
 
-P: No, no, not at all. 
+P: No, no, not at all.
 
 D: OK. Um where do you live right now?
 
 P: So I I just live in a small apartment by myself, uh just been moving around a lot.
 
-D: OK, for sure. Um any like asbestos, mold, or like old carpets, dust, anything like that at your apartment? 
+D: OK, for sure. Um any like asbestos, mold, or like old carpets, dust, anything like that at your apartment?
 
 P: No, I don't think so.
 
@@ -152,7 +152,7 @@ P: Um not uh, I don't think so like we um, maybe in the Philippines, we do provi
 
 D: OK.
 
-P: Sometimes yeah, we we do see some sick people. 
+P: Sometimes yeah, we we do see some sick people.
 
 D: Mhmm, OK.
 
@@ -160,7 +160,7 @@ P: But other than that, not since I've been here, no.
 
 D: Any travel outside the Philippines recently?
 
-P: Uhm, so I think. So this year has just been the Philippines, before I used to go to India as well. Um but recently nothing outside of the Philippines. 
+P: Uhm, so I think. So this year has just been the Philippines, before I used to go to India as well. Um but recently nothing outside of the Philippines.
 
 D: OK. OK, um those were all the questions that I had for you. Do you have any questions for me?
 

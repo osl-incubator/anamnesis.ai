@@ -10,7 +10,7 @@ D: OK, and is it like what kind of pain is it? Is it like a dull aching pain, or
 
 P: The pain is. It's stabbing, but also it feels really really tight in my chest.
 
-D: OK, and if you're to rate it on a scale of zero to 10, zero being the least amount of pain you felt in your life and 10 being the worst, how much would you rate it? 
+D: OK, and if you're to rate it on a scale of zero to 10, zero being the least amount of pain you felt in your life and 10 being the worst, how much would you rate it?
 
 P: I think at 6.
 
@@ -18,7 +18,7 @@ D: Six, OK. And when did it start?
 
 P: It started this morning just right after I got out of bed.
 
-D: OK, so you weren't doing anything like you weren't doing any activities, you just woke up from sleep? 
+D: OK, so you weren't doing anything like you weren't doing any activities, you just woke up from sleep?
 
 P: Yeah I got outta bed. I was just trying to get dressed and all of a sudden I got this tightness and and stabbing pain on the left side of my chest.
 
@@ -32,17 +32,17 @@ P: Uh, it's it's getting worse.
 
 D: It's getting worse, OK. And have you had any similar sort of pain in the past before?
 
-P: Um nothing like this before. 
+P: Um nothing like this before.
 
-D: No, OK. And is the pain going anywhere else or is it just staying in your chest? 
+D: No, OK. And is the pain going anywhere else or is it just staying in your chest?
 
-P: The pain is just in my chest. 
+P: The pain is just in my chest.
 
 D: OK. And does anything that you do make it feel better?
 
-P: Sitting up tends to make it feel a bit better. 
+P: Sitting up tends to make it feel a bit better.
 
-D: OK, and does anything you do make it get, make the pain get worse? 
+D: OK, and does anything you do make it get, make the pain get worse?
 
 P: It gets worse every time I breathe in.
 
@@ -56,7 +56,7 @@ P: Yeah, with the pain, I'm having a hard time breathing.
 
 D: OK. OK, I just have a few other questions. Uh, have you recently had any kind of trauma or injury to your chest at all?
 
-P: Um no. 
+P: Um no.
 
 D: OK, have you traveled at all recently?
 
@@ -72,7 +72,7 @@ P: Ah, my legs felt a bit swollen on the way back on the airplane, but they tend
 
 D: OK so they have swollen up before but you saw them swollen this time as well?
 
-P: Yeah. 
+P: Yeah.
 
 D: OK. And have you been feeling at all fatigued at all?
 
@@ -92,7 +92,7 @@ P: I've had a cough since last week, but it feels much worse today.
 
 D: OK, and has there been any kind of green slimy mucus in your cough at all?
 
-P: No, it's been a dry cough. 
+P: No, it's been a dry cough.
 
 D: Dry cough, OK. and have you noticed at all coughing up blood?
 
@@ -104,7 +104,7 @@ P: Yeah, a couple of weeks ago I had a runny nose and sore throat and a little b
 
 D: OK, and to just go away by itself, or did you have to take any medications?
 
-P: It just went away on its own 
+P: It just went away on its own
 
 D: OK. Have you been feeling any kind of dizziness at all?
 
@@ -116,7 +116,7 @@ P: My left leg hurts really bad right now, but my entire body has been achy thes
 
 D: OK, and then you're right, like do you know where it hurts?
 
-P: Um. I think just like in the calf. 
+P: Um. I think just like in the calf.
 
 D: In the calf, OK. OK, and do you have any past medical history any like hypertension that like diabetes? So any conditions that you've been diagnosed with?
 
@@ -144,17 +144,17 @@ P: No.
 
 D: Any surgeries in the past?
 
-P: No surgeries. 
+P: No surgeries.
 
 D: OK, in your family, has anyone had any conditions like has anyone passed away from a heart attack any cancers, anything like that?
 
 P: No cancer, but my mother died of a heart attack when she was 43. And my grandma also had a heart attack when she when she was younger. I wanna say in her 50s but I don't exactly remember how old.
 
-D: And currently right now, where do you live? Do you live in like a house, apartment? 
+D: And currently right now, where do you live? Do you live in like a house, apartment?
 
-P: Yeah, I live in an apartment by myself. 
+P: Yeah, I live in an apartment by myself.
 
-D: OK, and do you currently work? 
+D: OK, and do you currently work?
 
 P: Yeah, I'm in charge of um a retail store as a manager there.
 
@@ -164,13 +164,13 @@ P: Sometimes on weekends or if I'm socializing with friends, but not very often.
 
 D: OK, and do you use any recreational drugs like marijuana?
 
-P: Never. 
+P: Never.
 
 D: OK, and do you smoke?
 
 P: Yes, I smoke about 2 packs of cigarettes per day. And I've been smoking since I was 12.
 
-D: OK. Alright and in terms of your daily routine like do you get any exercise? 
+D: OK. Alright and in terms of your daily routine like do you get any exercise?
 
 P: Uh, not really. Life's a bit too busy and hectic right now right now, unfortunately.
 
@@ -178,4 +178,4 @@ D: OK. And how about your diet like what is your regular diet look like?
 
 P: A lot of fast food. I know I could work on that, but again, with the busy lifestyle we tend to eat a lot of fried foods and fatty foods. I know I could do better.
 
-D: OK. Great thank you. 
+D: OK. Great thank you.

@@ -4,11 +4,11 @@ P: Yeah, I've had this sore throat for the past three days and it doesn't seem t
 
 D: OK, and when did you start having this sore throat?
 
-P: Three days ago. 
+P: Three days ago.
 
 D: OK, and how about the fever?
 
-P: The fever I noticed maybe a day back. 
+P: The fever I noticed maybe a day back.
 
 D: OK, and did you get any temperature measurements?
 
@@ -24,7 +24,7 @@ P: I would say that it doesn't really have a pattern. The sore throat is always 
 
 D: OK. And besides that, do you have any cough?
 
-P: No, no cough. 
+P: No, no cough.
 
 D: OK, and have you tried anything that has helped you at all?
 
@@ -44,7 +44,7 @@ P: Not that I know of.
 
 D: Anything that makes your sore throat worse?
 
-P: I guess swallowing foods makes it worse, or at least it's painful. 
+P: I guess swallowing foods makes it worse, or at least it's painful.
 
 D: OK. And have you at all noticed any like swelling around your neck region, like swelling of your lymph nodes?
 
@@ -52,21 +52,21 @@ P: So yeah, not swelling of my entire neck, but I have felt some lumps in my nec
 
 D: OK, and how about any swelling anywhere else on your body?
 
-P: Nowhere else. 
+P: Nowhere else.
 
-D: OK, have you noticed any kind of skin changes like rashes or anything like that? 
+D: OK, have you noticed any kind of skin changes like rashes or anything like that?
 
-P: No. 
+P: No.
 
 D: OK. And have you traveled at all recently?
 
-P: No, nowhere. 
+P: No, nowhere.
 
 D: OK, do you have any headaches or nausea or vomiting?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
-D: OK, and any night sweats. 
+D: OK, and any night sweats.
 
 P: No.
 
@@ -76,7 +76,7 @@ P: Umm, yeah, I've been feeling really tired.
 
 D: OK, any chest pain or feeling that your heart is racing?
 
-P: No, nothing like that. 
+P: No, nothing like that.
 
 D: OK. Any issues with bowel movements, like any diarrhea or constipation?
 
@@ -98,17 +98,17 @@ D: And is it just with solids or do you get the soreness with liquids too?
 
 P: I would say mostly with solids, sometimes with liquid. If it's like really cold or something.
 
-D: OK. Do you have any kind of allergies to anything in your house like carpets, pets or anything like that? 
+D: OK. Do you have any kind of allergies to anything in your house like carpets, pets or anything like that?
 
 P: No.
 
-D: OK, have you had any recent infections like a cold? 
+D: OK, have you had any recent infections like a cold?
 
-P: No. 
+P: No.
 
 D: No, OK. And do you have any past medical conditions?
 
-P: Um, I have Crohn's disease. 
+P: Um, I have Crohn's disease.
 
 D: And when did you get diagnosed with Crohn's?
 
@@ -116,7 +116,7 @@ P: That would have been last year.
 
 D: Last year, OK. And are you taking any medications for your Crohn's disease?
 
-P: I am on something for it, I think it's Sulfasalazine or something like that. 
+P: I am on something for it, I think it's Sulfasalazine or something like that.
 
 D: OK. And any other medications besides that?
 
@@ -126,9 +126,9 @@ D: Any previous hospitalizations or surgeries?
 
 P: Um, I had a colonoscopy done. I just needed hospitalization for just the day I guess.
 
-D: OK, and when was that? 
+D: OK, and when was that?
 
-P: That was also last year. 
+P: That was also last year.
 
 D: Last year, OK. And do you have any family history of any conditions that run in the family? Like do you have any Crohn's disease or Ulcerative Colitis that run in the family?
 
@@ -136,11 +136,11 @@ P: Yeah, both do.
 
 D: Both do, OK. Any anything else that runs in the family?
 
-P: Uhm, I know there's some asthma and eczema that run in the family too. 
+P: Uhm, I know there's some asthma and eczema that run in the family too.
 
 D: OK. And you mentioned you haven't been around anyone that was sick or recently got sick?
 
-P: No. 
+P: No.
 
 D: OK. And where do you currently live?
 
@@ -152,11 +152,11 @@ P: No, I drank once or twice in the past, but I didn't like it. It makes my Croh
 
 D: OK, and do you smoke cigarettes?
 
-P: No. 
+P: No.
 
-D: And how about any other drugs like marijuana? 
+D: And how about any other drugs like marijuana?
 
-P: No. 
+P: No.
 
 D: OK. Alright, so do you partake in any like sports or activities or anything like that?
 
@@ -164,7 +164,7 @@ P: Um, I swim.
 
 D: OK, any contact sports?
 
-P: No. 
+P: No.
 
 D: OK. Alright, so yeah, overall it seems that you had this sore throat which is constant, getting worse and a bit of a fever in th last one or two days and you've also had swelling in your neck and so yeah, do you have any other questions or concerns?
 
@@ -176,8 +176,8 @@ P: OK, sure I can do that.
 
 D: Yeah, do you have any questions?
 
-P: No, that sounds good. Thank you so much. 
+P: No, that sounds good. Thank you so much.
 
-D: You're welcome. Take care. 
+D: You're welcome. Take care.
 
 P: You too.

@@ -1,5 +1,5 @@
 
-D: What brings you in here today. 
+D: What brings you in here today.
 
 P: I I've had this cough that's been ongoing and and getting worse, and and now I've been having this like sharp pain in my in my chest.
 
@@ -19,13 +19,13 @@ D: OK, and before that were you getting any production throughout your coughs fo
 
 P: Uh, no.
 
-D: No, OK. Can you just describe your cough currently? Is it more of a wet cough or dry cough? 
+D: No, OK. Can you just describe your cough currently? Is it more of a wet cough or dry cough?
 
 P: Uh it, yeah, it's it's dry mostly with the exception of bringing up some of the blood.
 
-D: And is the blood just in like sputum that you're bringing up? Or are you coughing up blood into the tissue, for example? 
+D: And is the blood just in like sputum that you're bringing up? Or are you coughing up blood into the tissue, for example?
 
-P: Blood is, I'm coughing that up into the tissue. 
+P: Blood is, I'm coughing that up into the tissue.
 
 D: OK, and do you remember 2 weeks ago prior to that, were there any factors that might have caused this, like for example, did you travel anywhere or see or was in contact with anyone that was sick?
 
@@ -47,7 +47,7 @@ D: OK, are you having any other symptoms at all besides the the coughing and the
 
 P: Yeah, I've been uh, starting to get like this sharp chest pain as well. I kind of feel it on the left sides and in center I guess kinda more so.
 
-D: OK and your chest pain, when did that start? 
+D: OK and your chest pain, when did that start?
 
 P: So, uh, this started, yeah, 'bout a few days ago as well. It's been within the last week.
 
@@ -65,7 +65,7 @@ P: Yeah, well if I lie flat, uhm it, it's uh, or sorry. No actually, the pain ge
 
 D: OK, I see, and do you have any pain when breathing in or out?
 
-P: I do, yeah it it gets worse if I if I'm taking a deep breath in, and even more so after I after I cough, if I'm trying to catch my breath, I'll feel it then too. 
+P: I do, yeah it it gets worse if I if I'm taking a deep breath in, and even more so after I after I cough, if I'm trying to catch my breath, I'll feel it then too.
 
 D: OK, and uhm, other than these symptoms, do you have any kind of shortness of breath? Do you have any dizziness or increased sweating, any of those symptoms?
 
@@ -97,7 +97,7 @@ P: No.
 
 D: OK, and do you have any issues with your bowel movements? Any Constipation or diarrhea?
 
-P: No. 
+P: No.
 
 D: Any urinary issues?
 
@@ -109,7 +109,7 @@ P: Uh, no. Sleep's been OK, and I've been eating well, but I have uhm, lost some
 
 D: OK. Before the two weeks or a couple of weeks that you had this, were you sick at all recently? Like with a cold or any flu like symptoms?
 
-P: No, I I uh, I guess I've been fatigued over the last couple of months, but I haven't had any flu like symptoms. 
+P: No, I I uh, I guess I've been fatigued over the last couple of months, but I haven't had any flu like symptoms.
 
 D: OK, and do you have any exposure to dust, fumes, animals anywhere in your surrounding?
 
@@ -165,11 +165,11 @@ P: No.
 
 D: And how about alcohol?
 
-P: Sometimes I'll have some like red wine with dinner, but that's only on like Christmas or an occasion. 
+P: Sometimes I'll have some like red wine with dinner, but that's only on like Christmas or an occasion.
 
 D: OK. Yeah, alright so uh other than that, sorry, I think I might have forgotten to ask you a couple questions. So no fainting spells, no shortness of breath, nothing like that?
 
-P: No, I haven't had anything like that, just a stern cough. 
+P: No, I haven't had anything like that, just a stern cough.
 
 D: OK, and no chest pain on exertion?
 

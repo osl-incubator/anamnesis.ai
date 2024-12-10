@@ -2,9 +2,9 @@ D: What brings you in?
 
 P: Yeah, so uh I'm just bringing my son uh here to the clinic. He's been having um just I think he's been complaining of uh ear ache in his uh I think it's mainly in his left ear for the last, I'd say at least a week. Um he's been kind of just having discomfort um and over the last few days uh he also started crying because of how much pain he is having, and then um we also noticed that he had like was just feeling warm, so we took his temperature and he actually had a fever just yesterday of like 39 degrees Celsius.
 
-D: OK, uhm, alright. So let's back up just a little bit. The ear pain, when did that start? You said a couple of days ago, so was that two, three, four days? 
+D: OK, uhm, alright. So let's back up just a little bit. The ear pain, when did that start? You said a couple of days ago, so was that two, three, four days?
 
-P: Uh I think the discomfort like uh, we saw him scratching his ear for the whole last week, but uh the crying actually started just I would say four days ago, um. 
+P: Uh I think the discomfort like uh, we saw him scratching his ear for the whole last week, but uh the crying actually started just I would say four days ago, um.
 
 D: OK.
 
@@ -14,13 +14,13 @@ D: Yeah, so three, four days. OK, have you taken a look into his ear? Like does 
 
 P: Uh I think we did see some uh, just like it wasn't red or anything, but I think we did uh see some um just kind of clear to almost uh clear to yellowish fluid from his affected ear.
 
-D: OK, clear to, you said white-ish? 
+D: OK, clear to, you said white-ish?
 
 P: Uh like it was a bit of a yellow tinge to to it as well.
 
 D: Yellow, OK, OK. And which ear was it, sorry, the right or left?
 
-P: Left ear. 
+P: Left ear.
 
 D: Left ear, OK. And the right ear looks normal?
 
@@ -86,7 +86,7 @@ D: No, um how about coughing?
 
 P: Uh no, he hasn't been really coughing.
 
-D: No coughing, how about wheezing or shortness of breath? 
+D: No coughing, how about wheezing or shortness of breath?
 
 P: No.
 
@@ -116,7 +116,7 @@ P: Uh no, no, no nausea or vomiting.
 
 D: Any appetite change?
 
-P: Uh no, uh, maybe a little bit more fussy just, but I don't know if that's probably due to the pain. 
+P: Uh no, uh, maybe a little bit more fussy just, but I don't know if that's probably due to the pain.
 
 D: OK. Um and how about his urine?
 
@@ -144,9 +144,9 @@ P: No, he wasn't hospitalized. Uh we stayed there maybe one day extra just becau
 
 D: OK.
 
-P: That kind of went away. 
+P: That kind of went away.
 
-D: OK, OK, good. And is he on any medications? 
+D: OK, OK, good. And is he on any medications?
 
 P: Uh no, no medications.
 
@@ -162,7 +162,7 @@ D: OK, how about family history of lung conditions, heart conditions?
 
 P: Um no, we've been pretty healthy as parents. Um and I think my my father has like high blood pressure, diabetes, and all those types of things.
 
-D: OK, OK, any um ear issues like congenital ear, sorry um, genetic hearing issues or ear issues? 
+D: OK, OK, any um ear issues like congenital ear, sorry um, genetic hearing issues or ear issues?
 
 P: No, nothing like that.
 
@@ -172,7 +172,7 @@ P: No, no one smokes.
 
 D: OK. Um and who does he live with?
 
-P: So he lives with um me, his father, and his mother as well. 
+P: So he lives with um me, his father, and his mother as well.
 
 D: OK. Uhm, any siblings?
 

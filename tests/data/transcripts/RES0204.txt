@@ -8,15 +8,15 @@ D: Can you tell me about what brought you in today?
 
 P: Yeah, I've had this cough for the past four or five days and it doesn't seem to be going away or getting better, so I thought I should get it checked out.
 
-D: OK, are you here with your mom today? 
+D: OK, are you here with your mom today?
 
 P: I am.
 
 D: Hi mum. Um OK. You got a cough you said I'm sorry, you said for five days?
 
-P: For, yeah, four to five days ish, yeah? 
+P: For, yeah, four to five days ish, yeah?
 
-D: OK. And, uh, has it you said it was a dry cough? Is that right? 
+D: OK. And, uh, has it you said it was a dry cough? Is that right?
 
 P: Yeah, that's right.
 
@@ -26,19 +26,19 @@ P: Yeah. No, no, nothing like that.
 
 D: OK. Since it started, do you think it's gotten worse or has it kind of stayed the same? Gotten any better?
 
-P: It's kind of stayed the same. 
+P: It's kind of stayed the same.
 
 D: OK. OK, uhm. Along with the cough have have you been having any other new symptoms?
 
-P: Uh no. 
+P: Uh no.
 
 D: OK, have you had a sore throat?
 
-P: No. 
+P: No.
 
 D: Do you feel like you can taste and smell things normally?
 
-P: Yeah, I think so. 
+P: Yeah, I think so.
 
 D: OK. OK, have you been having a runny nose?
 
@@ -46,19 +46,19 @@ P: Oh yes, I have had that for the past couple of days as well.
 
 D: And is it a runny nose with kind of clear stuff? Is it watery or is it thick? Does it have a color to it a yucky the color?
 
-P: It's pretty clear. 
+P: It's pretty clear.
 
 D: OK, OK. Uhm. And uh have you had any fevers? Your mom might be able to answer that one better.
 
 P: Yeah, um. He has had uh like he's had fevers in the past, but I I didn't really check this time. He didn't seem hot. He didn't have any chills.
 
-D: OK, well that's good. Uhm. OK, have you had any back or muscle pain? 
+D: OK, well that's good. Uhm. OK, have you had any back or muscle pain?
 
 P: No.
 
 D: OK. Have you had any chest pain?
 
-P: Uh no, no chest pain. 
+P: Uh no, no chest pain.
 
 D: OK. Any, any nausea or vomiting?
 
@@ -72,25 +72,25 @@ D: Any headaches?
 
 P: No, no headaches.
 
-D: OK, have you been around anyone that's been sick? 
+D: OK, have you been around anyone that's been sick?
 
-P: No, not that not that I can remember. 
+P: No, not that not that I can remember.
 
 D: OK. Uhm, have you traveled anywhere recently?
 
-P: Uh nope. 
+P: Uh nope.
 
 D: Are you going to school right now or staying home?
 
-P: I’m going to school and they're doing these half days. 
+P: I’m going to school and they're doing these half days.
 
 D: OK. OK uhm, and has anyone in your school been sick?
 
 P: Ah, Nope, not recently.
 
-D: At least not that we know of. OK. 
+D: At least not that we know of. OK.
 
-P: No. 
+P: No.
 
 D: OK, have you ever had anything like this before?
 
@@ -100,11 +100,11 @@ D: OK, have you ever been in the hospital?
 
 P: No.
 
-D: OK. Did you see your family doctor for anything? Any health problems? 
+D: OK. Did you see your family doctor for anything? Any health problems?
 
 P: No, no.
 
-D: Do you take any medicines? 
+D: Do you take any medicines?
 
 P: No.
 
@@ -112,27 +112,27 @@ D: OK. This may be a tricky one to answer, so Mom can definitely help us. Do you
 
 P: Um uh his grandparents had um asthma, but he's been worked up for that and he doesn't get short of breath or wheezing or anything like that with even with physical activity. So yeah, so he doesn't have that.
 
-D: And what else? 
+D: And what else?
 
 P: Pardon me.
 
 D: I said just some some asthma in the family.
 
-P: Yeah. 
+P: Yeah.
 
 D: OK. And so you live, you live with your mom. Do you live with anyone else in your family?
 
 P: I have a four year old sister.
 
-D: OK, do you live with your dad too? 
+D: OK, do you live with your dad too?
 
 P: Yes.
 
-D: Do you guys have any pets? 
+D: Do you guys have any pets?
 
 P: Um no, no pets.
 
-D: And does anyone smoke in the home? 
+D: And does anyone smoke in the home?
 
 P: Nope, no.
 
@@ -150,7 +150,7 @@ P: I don't think so, no.
 
 D: Do you know what an X Ray is?
 
-P: A little bit, yeah. 
+P: A little bit, yeah.
 
 D: Yeah it's like taking picture of your body on the inside. It's pretty cool so it gives us an idea of what's going on in the inside. Also, this really this part is kind of not so much fun, but I think we should probably do a covid swab because we're doing that with anyone that comes in with these symptoms lately and that's not a lot of fun. We gotta stick something up your nose, but I think that you're really brave and I think that you'll be just fine with it, OK?
 
@@ -162,6 +162,6 @@ P: OK, that sounds good.
 
 D: Thank you guys for chatting with me.
 
-P: Yeah, thank you. 
+P: Yeah, thank you.
 
 D: Thanks.

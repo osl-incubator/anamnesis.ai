@@ -30,7 +30,7 @@ P: Oh yeah, I would say like I'm coughing especially the last few days coughing 
 
 D: OK, anything you've tried to make the offer better?
 
-P: Um, I mean, really, I, I didn't really know what to try, um, so no, I haven't tried anything. 
+P: Um, I mean, really, I, I didn't really know what to try, um, so no, I haven't tried anything.
 
 D: OK and anything you've noticed that that so I guess, yeah, anything you notice that makes it worse?
 
@@ -40,11 +40,11 @@ D: OK, so exercising brings out the cough? Any other symptoms you've been experi
 
 P: Uh the only thing that sometimes, uh, like I panic sometimes when uh when I have like a really bad coughing fit especially in gym class. It almost feels like I can't breathe and that's when I get really scared.
 
-D: OK um, have you been having any nausea or vomiting? 
+D: OK um, have you been having any nausea or vomiting?
 
-P: Oh no, no nausea or vomiting. 
+P: Oh no, no nausea or vomiting.
 
-D: OK. How about any headaches? 
+D: OK. How about any headaches?
 
 P: No, no headaches.
 
@@ -52,17 +52,17 @@ D: OK and have you had a fever?
 
 P: Uh I think I felt like a little bit warmer in the past few days, but I didn't I didn't really check.
 
-D: OK, and have you had any chills? 
+D: OK, and have you had any chills?
 
 P: I don't think so, no.
 
 D: OK, and have you traveled anywhere recently?
 
-P: Uh no, I've been I'm I've been home. 
+P: Uh no, I've been I'm I've been home.
 
 D: OK, uh any night sweats?
 
-P: No. 
+P: No.
 
 D: Have you had any racing of your heart?
 
@@ -70,7 +70,7 @@ P: No, nothing like that.
 
 D: OK, and have you had any symptoms of fatigue?
 
-P: Uh no I, I think my energy levels are fine. 
+P: Uh no I, I think my energy levels are fine.
 
 D: OK um, do you have any chest pain?
 
@@ -78,15 +78,15 @@ P: Um, sometimes when I cough, like when it's really bad, I sometimes feel like 
 
 D: OK, um any urinary problems?
 
-P: No, I've been peeing alright, no issues there. 
+P: No, I've been peeing alright, no issues there.
 
-D: OK, any bowel problems? 
+D: OK, any bowel problems?
 
 P: Uh, no.
 
 D: OK, any issues with your appetite?
 
-P: No, I think I've been eating the same amount. 
+P: No, I think I've been eating the same amount.
 
 D: OK, any changes to your weight?
 
@@ -96,7 +96,7 @@ D: OK and any problems with, uh, sorry, uh, any recent infections?
 
 P: Like I feel like I might have a cold but I think I maybe a week ago I had like a little bit of a runny nose, so I don't know, I might have a cold.
 
-D: OK. Um, and these symptoms, cold symptoms, you've been feeling for the last few days? 
+D: OK. Um, and these symptoms, cold symptoms, you've been feeling for the last few days?
 
 P: Yeah, it's almost up to a week now.
 
@@ -120,15 +120,15 @@ D: OK. Are you allergic to any medications?
 
 P: Uh, so, I for my eczema like I do have like a hydrocortisone cream that I apply. But yeah, I don't think I'm allergic to any medications.
 
-D: OK, um do you have allergies? 
+D: OK, um do you have allergies?
 
 P: I I do have allergies like sometimes around like animals. Like if I go to the farm or if I'm like at a zoo and just petting animals, I get my eczema gets really bad.
 
 D: OK, and any hospitalizations?
 
-P: No, no, no, never been hospitalized. 
+P: No, no, no, never been hospitalized.
 
-D: OK, anybody you've been around who's sick? 
+D: OK, anybody you've been around who's sick?
 
 P: No, I've been I've been pretty much been at home, so no one.
 
@@ -144,11 +144,11 @@ D: OK, uh, and what are you doing right now for work?
 
 P: So currently like I'm not working. I'm a student just doing some online studying. I'm actually going to college to learn about how to make video games, but yeah, it's all just been at home right now.
 
-D: OK, and um, where are you from? Like are you living at home right now or are you away for school? 
+D: OK, and um, where are you from? Like are you living at home right now or are you away for school?
 
 P: Yeah, so I mean right now it's all online so I'm living at home with my mom.
 
-D: OK, uh, and do you drink alcohol? 
+D: OK, uh, and do you drink alcohol?
 
 P: Uh not often like just when I'm at like parties and like when I was at school, just maybe sometimes on the weekends, but nothing regularly.
 
@@ -158,9 +158,9 @@ P: Um, just just marijuana I I try sometimes at parties but nothing like regular
 
 D: So it sounds occasional.
 
-P: OK, nothing like it, I'm not addicted or anything to any drugs. 
+P: OK, nothing like it, I'm not addicted or anything to any drugs.
 
-D: OK, do you smoke cigarettes? 
+D: OK, do you smoke cigarettes?
 
 P: I don't smoke cigarettes, but I do have marijuana once or twice in a week.
 

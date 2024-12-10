@@ -32,7 +32,7 @@ P: Yeah, I think it, it's there kind of most of the time, like the chest pressur
 
 D: OK I see. And are all of your symptoms constant? Or do they come and go?
 
-P: They've been constant and they've got been getting worse since since last night. 
+P: They've been constant and they've got been getting worse since since last night.
 
 D: OK, and have you had this happen to you before?
 
@@ -40,7 +40,7 @@ P: It has, yeah, I, actually last last winter I was hospitalized for a COPD exac
 
 D: I see and did you go home on home oxygen at all? Like do you use oxygen at home?
 
-P: No, I was told I didn't need any any yet, but if I didn't quit smoking I might in the future. 
+P: No, I was told I didn't need any any yet, but if I didn't quit smoking I might in the future.
 
 D: OK, and are you using any kind of puffers at all?
 
@@ -52,13 +52,13 @@ P: Yeah, we just tried it last night.
 
 D: OK, so nothing today right?
 
-P: No, nothing today. 
+P: No, nothing today.
 
 D: OK. Other than that, so you did have an admission before for this. And you have COPD. Do you have any other symptoms right now? Like runny nose, sore throat, any cold like symptoms?
 
 P: No, no, I I I don't.
 
-D: Did you have it before these symptoms started? 
+D: Did you have it before these symptoms started?
 
 P: Uhm no, I've been feeling, I've been feeling OK.
 
@@ -72,7 +72,7 @@ P: No, I don't, I don't think so.
 
 D: And is there, are you having any headache or nausea or vomiting?
 
-P: No, I haven't had anything like that. 
+P: No, I haven't had anything like that.
 
 D: OK. And besides the time you got hospitalized, have you had any exacerbations after that?
 
@@ -104,7 +104,7 @@ P: That's been that's been normal. Been eating well.
 
 D: OK. Any kind of confusion or any do you feel like yourself?
 
-P: Yeah, I do. 
+P: Yeah, I do.
 
 D: OK, any confusion at all that anyone's noticed?
 
@@ -120,15 +120,15 @@ P: About 10 years ago.
 
 D: OK, do you have any other medical conditions?
 
-P: I do, yeah. I have a high blood pressure, type two diabetes and like and there's something wrong with my, with my kidneys as well. I think my EGFR is low or something like that. 
+P: I do, yeah. I have a high blood pressure, type two diabetes and like and there's something wrong with my, with my kidneys as well. I think my EGFR is low or something like that.
 
-D: Oh, I see, OK. And do you take any medications besides your puffers? 
+D: Oh, I see, OK. And do you take any medications besides your puffers?
 
 P: Yeah, I I do. I I take on an ACE inhibitor, Metformin, SGLT2 inhibitor and I'm also taking a, uh, a water pill as well 'cause I, over these last couple of years I've had some more swelling in my in my feet.
 
 D: OK, I see. Do you have any swelling, increased swelling right now?
 
-P: No, I that's been about this. Been pretty constant. 
+P: No, I that's been about this. Been pretty constant.
 
 D: OK. And do you feel recently at all that you're short of breath when lying down, or do you have to wake up to take a deep breath? Anything like that?
 
@@ -146,7 +146,7 @@ D: OK. Yeah. And other than that, any previous surgeries in the past?
 
 P: Uhm, I, yeah I had a Uterine prolapse, so I had surgery for that. I have five kids.
 
-D: OK. Any, any complications after that surgery at all? 
+D: OK. Any, any complications after that surgery at all?
 
 P: No, it helped, it actually fixed the leaking at the time I was having, so was happy with that.
 
@@ -172,7 +172,7 @@ P: Oh, I started in my teens, so most of my life I've I've smoked. I grew up aro
 
 D: OK, uhm, and do you use any recreational drugs like marijuana?
 
-P: No, I don't. 
+P: No, I don't.
 
 D: OK. And do you drink alcohol at all?
 
@@ -192,6 +192,6 @@ P: OK, that sounds good. Thank you.
 
 D: Welcome. Take care.
 
-P: Bye 
+P: Bye
 
 D: Bye.

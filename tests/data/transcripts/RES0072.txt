@@ -44,7 +44,7 @@ P: Uh, I would say, uh, a 6, it's pretty painful.
 
 D: OK, um, have you noticed any kind of like swelling around your neck? Or any redness in your throat?
 
-P: Yeah, I felt my neck this morning in the front of it, it does feel swollen. 
+P: Yeah, I felt my neck this morning in the front of it, it does feel swollen.
 
 D: OK. And are you coughing at all?
 
@@ -56,13 +56,13 @@ P: No, nothing like that.
 
 D: OK, are you coughing up any blood at all?
 
-P: No. 
+P: No.
 
 D: Is there anything that makes it better or worse that you have tried?
 
-P: Just cold drinks. 
+P: Just cold drinks.
 
-D: OK. And, uh. So you've also had nausea and vomiting. Are you having any kind of diarrhea or Constipation? 
+D: OK. And, uh. So you've also had nausea and vomiting. Are you having any kind of diarrhea or Constipation?
 
 P: No, but I've had a sore stomach.
 
@@ -72,17 +72,17 @@ P: Yeah, it's just been, like, fairly generalized. Feels sore.
 
 D: OK, so not in any particular area, just kind of all over your stomach?
 
-P: Yeah, like, I mean, I guess sort of like in the center, more so, but I can't really put one finger on the spot. 
+P: Yeah, like, I mean, I guess sort of like in the center, more so, but I can't really put one finger on the spot.
 
 D: OK, and is it constant or does it come and go?
 
-P: It kind of comes and goes. 
+P: It kind of comes and goes.
 
 D: OK, and uh, is it associated with eating food at all, or does it get better when you defecate?
 
 P: I haven't noticed anything like that, maybe it's worse after vomiting, those few times.
 
-D: I see OK, yeah. So yeah, sometimes with the vomiting you can also get some some discomfort. So no diarrhea or Constipation though, right? 
+D: I see OK, yeah. So yeah, sometimes with the vomiting you can also get some some discomfort. So no diarrhea or Constipation though, right?
 
 P: No.
 
@@ -92,7 +92,7 @@ P: No, nothing like that. I've just had a headache as well, but it's pretty mild
 
 D: OK, have you tried any medications at all, over the counter?
 
-P: yeah, I took a Tylenol cause I started feeling a little bit hot as well, to help me sleep last night 
+P: yeah, I took a Tylenol cause I started feeling a little bit hot as well, to help me sleep last night
 
 D: OK, have you been having any fevers or chills?
 
@@ -112,7 +112,7 @@ P: I mean, not that I can think of.
 
 D: OK, uhm, so I'm just going to list a few symptoms just let me know if you have any of them. Do you, do you feel fatigued?
 
-P: No. 
+P: No.
 
 D: Do you feel that you have any kind of swelling in your extremities, or any rashes or skin changes?
 
@@ -120,11 +120,11 @@ P: No, I haven't noticed anything like that.
 
 D: OK, any changes in your urinary pattern?
 
-P: No. 
+P: No.
 
 D: OK, any changes in your sleep or appetite?
 
-P: No. 
+P: No.
 
 D: OK, any significant weight loss over the last month?
 
@@ -140,7 +140,7 @@ P: Uh, no.
 
 D: OK, so you're healthy?
 
-P: Yes. 
+P: Yes.
 
 D: OK, do you have any allergies?
 
@@ -148,11 +148,11 @@ P: No, I don't.
 
 D: OK, are you currently taking any medications regularly?
 
-P: No. 
+P: No.
 
 D: Any previous hospitalizations or surgeries?
 
-P: No. 
+P: No.
 
 D: Any family history of any lung conditions or heart conditions or any cancers?
 
@@ -160,15 +160,15 @@ P: No, nothing like that.
 
 D: OK, and currently do you work?
 
-P: No, I'm just going to school. 
+P: No, I'm just going to school.
 
-D: OK, and so, currently where do you live and Who do you live with? 
+D: OK, and so, currently where do you live and Who do you live with?
 
-P: Yeah, so we live in a house with my parents and younger brother and we've been both back at school now Part time and doing some of it at home online as well. 
+P: Yeah, so we live in a house with my parents and younger brother and we've been both back at school now Part time and doing some of it at home online as well.
 
 D: OK, so anyone at all that you notice at school that was sick around you?
 
-P: No, not that I am aware of. 
+P: No, not that I am aware of.
 
 D: OK. So yeah, this is just a question that we ask everyone. Do you drink alcohol or smoke cigarettes or use any recreational drugs?
 
@@ -176,7 +176,7 @@ P: Uh, no.
 
 D: Ok, so those are all the questions I had to ask you. Anything that I may have missed or anything you want to tell me?
 
-P: No, that's everything that's been happening over the last couple of days. 
+P: No, that's everything that's been happening over the last couple of days.
 
 D: OK. Alright, so yeah it seems that, from your age and some of your symptoms we will definitely do a testing for strep throat. It seems that you meet that criteria. And we also want to make sure that, since you're having other symptoms as well, just to do a covid test, just in case. We'll take your temperature as well, and we might give you some antibiotics as well to treat you and relieve some of those symptoms. So yeah, just hang tight, we'll get the swab done for you for the Covid test, as well as strep throat and then we'll go from there.
 

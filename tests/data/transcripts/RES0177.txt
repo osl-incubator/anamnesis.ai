@@ -6,7 +6,7 @@ D: OK, uhm, before the fever, did you notice any other symptoms, like a runny no
 
 P: No, nothing like that. Yeah, the fever kind of came on pretty, pretty suddenly it seemed like.
 
-D: OK, and did you take his temperature at home? 
+D: OK, and did you take his temperature at home?
 
 P: I did, yeah. It was like 38.7 and then like two days ago and then it was high again, like yesterday and today.
 
@@ -14,7 +14,7 @@ D: OK, and you mentioned the coughing started soon after the fever, correct?
 
 P: Yeah, yeah kind of like the day after e started having getting this cough.
 
-D: OK and is it a dry cough or is it a productive cough? 
+D: OK and is it a dry cough or is it a productive cough?
 
 P: It's, uh, yeah, he is bringing up a little bit of sputum, yeah he's doing it.
 
@@ -26,7 +26,7 @@ D: Greenish yellow, OK. Any blood in there?
 
 P: No, I haven't noticed any any blood.
 
-D: OK, and does he seem short of breath or wheezy? 
+D: OK, and does he seem short of breath or wheezy?
 
 P: No wheezing, but he does have some shortness of breath.
 
@@ -40,7 +40,7 @@ P: I'd say ah, even at rest now he's like breathing faster.
 
 D: OK, umm, and it does anything help with that? So does sitting up help? Or, uh, you know, getting fresh air or anything like that?
 
-P: No. But you'd say, like taking a smaller breaths helps because like if he if he takes a deep breath and he gets, he gets like chest pain. 
+P: No. But you'd say, like taking a smaller breaths helps because like if he if he takes a deep breath and he gets, he gets like chest pain.
 
 D: OK, OK, and how about when he's laying down?
 
@@ -56,7 +56,7 @@ P: Yeah, so yeah he's had some pain when he, when he just really takes that deep
 
 D: OK. Does he ever feel like his heart's racing?
 
-P: Uhm, no. 
+P: Uhm, no.
 
 D: No, OK. Uhm how about any dizziness or fainting spells?
 
@@ -88,7 +88,7 @@ P: No, he hasn't said anything like that.
 
 D: OK, muscle aches or joint aches?
 
-P: No. 
+P: No.
 
 D: OK. Confusion or memory loss?
 
@@ -96,7 +96,7 @@ P: No.
 
 D: Changes in his bowel movements?
 
-P: Nope, yeah, that's been been getting out, no diarrhea or anything like that. 
+P: Nope, yeah, that's been been getting out, no diarrhea or anything like that.
 
 D: OK. Changes in his voiding?
 
@@ -106,13 +106,13 @@ D: OK. And is he an otherwise healthy child? Umm, does he have any longstanding 
 
 P: No, he doesn't. That's uh, this was so surprising, he's been healthy.
 
-D: OK. Has he, so he's never had any hospitalizations or surgeries? 
+D: OK. Has he, so he's never had any hospitalizations or surgeries?
 
 P: No, he hasn't.
 
 D: OK. How about his mother's pregnancy with him? Were there any complications at that point?
 
-P: Nope, everything went went well. No complications and he was like a good birth weight and went home right away. 
+P: Nope, everything went went well. No complications and he was like a good birth weight and went home right away.
 
 D: OK. OK, and how about the delivery itself? Any complications during that, that point?
 
@@ -136,7 +136,7 @@ P: No allergies.
 
 D: Uhm, is he up to date with all his immunizations?
 
-P: He is, yeah. 
+P: He is, yeah.
 
 D: OK. Any family history of lung or heart conditions.
 
@@ -152,7 +152,7 @@ P: Yeah, maybe, he has a younger sister that goes to daycare and she was sick la
 
 D: OK. OK, and does she have a fever as well?
 
-P: She did, yeah, she got better. Right uh, last week we we had to take her to to see the doctor and she got antibiotics for that. Actually for, for a few days. 
+P: She did, yeah, she got better. Right uh, last week we we had to take her to to see the doctor and she got antibiotics for that. Actually for, for a few days.
 
 D: OK, OK. And have you traveled anywhere recently?
 
@@ -160,7 +160,7 @@ P: No, we've been at home.
 
 D: OK. Does anyone at home smoke?
 
-P: No. 
+P: No.
 
 D: No, OK. And who lives at home with him?
 
@@ -168,7 +168,7 @@ P: So it's me, his mom, and then his younger sister.
 
 D: OK. Any old carpets, mold, dust, asbestos, anything that could exacerbate his condition?
 
-P: No, I don't think so. It's a newer home. 
+P: No, I don't think so. It's a newer home.
 
 D: OK, good. Umm, so those are all the questions that I had for you. Did you have any questions of your own?
 

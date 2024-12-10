@@ -1,4 +1,4 @@
-D: What brings you in? 
+D: What brings you in?
 
 P: I've had a cough that started like 4 days ago, um and it's just been getting worse, so I I wanted to come in.
 
@@ -26,7 +26,7 @@ D: OK, and um has anything made it better? Have you tried anything for this coug
 
 P: Uh I tried um drinking some uh like tea and some other cough syrups and it didn't didn't help.
 
-D: OK, um how about, ah, OK. And if you were to describe the quality of this cough, would you say it's it's, it sounds barky, it sounds harsh, um how would you describe it? 
+D: OK, um how about, ah, OK. And if you were to describe the quality of this cough, would you say it's it's, it sounds barky, it sounds harsh, um how would you describe it?
 
 P: Uh harsh.
 
@@ -60,7 +60,7 @@ P: Yeah, yeah exertion. Um as well as like the cough itself, I'm finding that I'
 
 D: Yeah, for sure. Um OK, and any chest pain?
 
-P: No chest pain. 
+P: No chest pain.
 
 D: OK. Um How about feeling like your heart's racing?
 
@@ -68,11 +68,11 @@ P: No, nothing like that.
 
 D: No, any swelling in your legs or arms?
 
-P: No. 
+P: No.
 
 D: OK. Do you ever feel like you have uh pain in your calves after walking um a few blocks?
 
-P: No. 
+P: No.
 
 D: No, any fainting spells or dizziness?
 
@@ -80,7 +80,7 @@ P: Uh, no.
 
 D: No, um have you had a sore throat?
 
-P: No. 
+P: No.
 
 D: No, any changes in your vision or hearing?
 
@@ -88,17 +88,17 @@ P: No.
 
 D: Runny nose or stuffy nose?
 
-P: Not, no, but I've definitely, I feel like I've maybe noticed a change in my smell. 
+P: Not, no, but I've definitely, I feel like I've maybe noticed a change in my smell.
 
 D: OK, how so?
 
 P: I just uh, I feel like I haven't been able to smell as well.
 
-D: Um when did you notice that? 
+D: Um when did you notice that?
 
 P: The, really, these last like 2 days.
 
-D: OK, and any changes in your taste? 
+D: OK, and any changes in your taste?
 
 P: Uh I haven't really I, I thought, well, I wasn't really able to taste my food, but I thought that was because I couldn't, I wasn't smelling, um so I thought that was just going to go away, but the symptoms have gotten worse.
 
@@ -110,9 +110,9 @@ D: Did you take your temperature?
 
 P: I haven't checked it, but um like I've been feeling pretty sweaty from how hot I've been.
 
-D: OK um so we'll take your temperature today and we'll let you know. Um have you noticed any weight loss over the past few weeks? 
+D: OK um so we'll take your temperature today and we'll let you know. Um have you noticed any weight loss over the past few weeks?
 
-P: No. 
+P: No.
 
 D: No weight loss, how about fatigue or muscle aches?
 
@@ -128,11 +128,11 @@ P: Uh, no.
 
 D: No, any nausea or vomiting?
 
-P: Um, no, no. 
+P: Um, no, no.
 
 D: No, OK. Any abdominal pains?
 
-P: No. 
+P: No.
 
 D: Any changes to your urine?
 
@@ -154,21 +154,21 @@ D: OK, um, are you on any medications?
 
 P: Uh nope, just uh take a multivitamin and uh, and that's about it.
 
-D: OK, um, OK, um any allergies? 
+D: OK, um, OK, um any allergies?
 
-P: Uh yeah, I'm allergic to um cats. 
+P: Uh yeah, I'm allergic to um cats.
 
-D: Cats, OK. And have you been around any cats recently? 
+D: Cats, OK. And have you been around any cats recently?
 
 P: No.
 
-D: No, OK. How about immunizations? Are you up to date? 
+D: No, OK. How about immunizations? Are you up to date?
 
 P: Yeah I am.
 
 D: OK. Um any family history of lung conditions or heart conditions?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: How about cancers?
 
@@ -176,19 +176,19 @@ P: Nothing like that.
 
 D: OK, and do you smoke?
 
-P: No. 
+P: No.
 
 D: Um how about marijuana?
 
 P: Uh sometimes I'll have a joint with friends or something like that on the weekend, but um yeah, so maybe once a week.
 
-D: Once a week, OK. Um, how about alcohol, do you drink any alcohol? 
+D: Once a week, OK. Um, how about alcohol, do you drink any alcohol?
 
 P: Uh, no
 
 D: No, OK. Um and where do you live right now?
 
-P: I live in a house um with my wife and uh 3 kids. 
+P: I live in a house um with my wife and uh 3 kids.
 
 D: OK. Is anyone else sick at home?
 
@@ -202,9 +202,9 @@ D: Yeah, yeah for sure. Um, any travel recently?
 
 P: Uh no travel, all the meetings have been in the city.
 
-D: OK, OK good. So those were all the questions that I had for you today. Did you have any questions of your own or anything that you wanted to discuss today that I missed? 
+D: OK, OK good. So those were all the questions that I had for you today. Did you have any questions of your own or anything that you wanted to discuss today that I missed?
 
-P: Um no, that, I was just worried about uh Covid. 
+P: Um no, that, I was just worried about uh Covid.
 
 D: Yeah, so that's definitely top on the list right now for things that we have to rule you out for. Um so we'll take a swab today, we'll send it off um for those PCR results, you should hear back in 24 to 48 hours. Uh in the meantime, you should isolate for 14 days, and that includes from family members when possible, and public health will get in touch with you if those results are positive and so they can they can do some contact tracing. If it's not Covid, it could be another viral illness that's going around, and I guess the best therapy for that is staying hydrated, um getting good sleep, and eating nutritious foods. Uh but if your symptoms get worse, like you're running a really high fever, um you're having neurological symptoms like you know seizures or fainting spells, um or if you're having difficulty breathing, um you should come back to the ER. So how does that sound?
 

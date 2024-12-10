@@ -24,7 +24,7 @@ P: Uh, no. It's more of just the discomfort with the coughing.
 
 D: OK, and um have you had any changes to your breathing like like wheezing?
 
-P: Uh, no, nothing like that. 
+P: Uh, no, nothing like that.
 
 D: Alright. Um and have you had any infectious or viral type symptoms like itchy eyes, or runny runny nose, sore throat?
 
@@ -32,7 +32,7 @@ P: Uh no, nothing like that.
 
 D: OK, and um how has your energy been? Any any fatigue?
 
-P: Um it's kind of been a bit low over the last few weeks, just I feel more tired. Um yeah I had to miss a few days of work as well. 
+P: Um it's kind of been a bit low over the last few weeks, just I feel more tired. Um yeah I had to miss a few days of work as well.
 
 D: I see, alright. Um have you had any fevers or chills?
 
@@ -52,7 +52,7 @@ P: Yeah, I think I've lost maybe 10 pounds in the last couple months.
 
 D: OK, that sounds like some, uh, some weight lost significant weight loss, have you been trying to lose weight?
 
-P: No, not really. 
+P: No, not really.
 
 D: OK. Uhm and have you felt as though um like your heart's racing or beating really fast?
 
@@ -76,19 +76,19 @@ P: No.
 
 D: Any urinary problems like pain or or going often?
 
-P: Uh no, nothing like that. 
+P: Uh no, nothing like that.
 
 D: OK. Uh have you noticed any rashes anywhere?
 
-P: No, no rashes. 
+P: No, no rashes.
 
 D: Have you had any muscle aches or joint pains?
 
 P: Um no, nothing like that.
 
-D: OK, and um have you been diagnosed with any medical conditions in the past? 
+D: OK, and um have you been diagnosed with any medical conditions in the past?
 
-P: No. Um I've been fairly healthy. 
+P: No. Um I've been fairly healthy.
 
 D: OK, that's good, and have you had any surgeries or any reasons to be hospitalized before?
 
@@ -110,7 +110,7 @@ D: Alright, and currently um can you tell me a little bit about who you're livin
 
 P: Yeah, currently I'm living uh just in um it's kind of like a a home with just a, I don't really know the people too well, just kind of like a home where um a bunch of guys are just living and working separately. I just actually recently moved here from um The Philippines six months ago.
 
-D: I see, OK. Um do you interact with many of the people in the house and and has anybody else been sick? 
+D: I see, OK. Um do you interact with many of the people in the house and and has anybody else been sick?
 
 P: Uhm I don't know if anyone else has been sick, I haven't really noticed that. I don't really see them too much.
 
@@ -128,7 +128,7 @@ P: No, nothing like that.
 
 D: OK, and you use any recreational drugs?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: OK, um and are you currently sexually active?
 

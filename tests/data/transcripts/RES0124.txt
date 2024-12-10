@@ -22,15 +22,15 @@ D: I see. So this started a couple of months ago, has this ever happened to you 
 
 P: No, before that I've been fine.
 
-D: Okay, and so I'm going to ask you about a couple other symptoms. Let me know if you've experienced any of these in the past couple of months. Um, so have you had a headache that accompanies the cough? 
+D: Okay, and so I'm going to ask you about a couple other symptoms. Let me know if you've experienced any of these in the past couple of months. Um, so have you had a headache that accompanies the cough?
 
 P: Uh no.
 
 D: Um, any changes in your vision or your hearing?
 
-P: No. 
+P: No.
 
-D: Any confusion? 
+D: Any confusion?
 
 P: No.
 
@@ -38,23 +38,23 @@ D: Um any, um, runny nose or stuffy nose or sinus congestion?
 
 P: Uh no, not really.
 
-D: Okay, any sore throat? 
+D: Okay, any sore throat?
 
 P: Uh no.
 
 D: Any um, chest pain?
 
-P: Um, sometimes when I get like really bad coughing fits, like it sometimes starts hurting in my chest as well. 
+P: Um, sometimes when I get like really bad coughing fits, like it sometimes starts hurting in my chest as well.
 
 D: Yeah. Um, does it go away when you stop coughing?
 
-P: Yeah, it goes away after, I just take some rest. 
+P: Yeah, it goes away after, I just take some rest.
 
-D: Um, have you had any belly pain? 
+D: Um, have you had any belly pain?
 
 P: Uh no, not at all.
 
-D: Do you feel like your heart's racing? 
+D: Do you feel like your heart's racing?
 
 P: Uh, no.
 
@@ -64,15 +64,15 @@ P: No.
 
 D: Any changes in your bowel movements?
 
-P: No. 
+P: No.
 
 D: Any acid reflux?
 
-P: Uh, no. 
+P: Uh, no.
 
 D: Okay, um, and any certain muscle aches or joint pains?
 
-P: Um no, nothing like that. 
+P: Um no, nothing like that.
 
 D: Any numbness or tingling in your arms or legs?
 
@@ -94,25 +94,25 @@ D: Okay, alright. Um okay, and, uh, have you been vaccinated?
 
 P: Uh, yeah, all my immunizations are up to date.
 
-D: Okay, good good good. Um, does the cough sound like a barky cough or a muffled cough, or um, does it have a specific characteristic? Does it sound different than when you're sort of coughing to clear your throat, for instance? 
+D: Okay, good good good. Um, does the cough sound like a barky cough or a muffled cough, or um, does it have a specific characteristic? Does it sound different than when you're sort of coughing to clear your throat, for instance?
 
 P: Uh yeah, it's like pretty, it can get pretty harsh. I also noticed like uh, there's like this weird noise I started making like right after when I'm trying to take deep breaths in.
 
 D: Okay, okay. Okay, so you're wheezing. Okay, so you ever um, cough so much that you end up vomiting?
 
-P: No, no that hasn't happen yet. 
+P: No, no that hasn't happen yet.
 
 D: Um, and do you, so you mentioned that it's worse when you're in the cold or exercising, and smoking makes it worse? What about things like dust or pollen? Um, say when you're cleaning the house and there's also dust, does that make things worse, or is it worse in a specific time of the year when you're outdoors?
 
 P: Uh, now that you mention it, yeah, like if we're ever in the basement or anything like that, I, I do start getting like kind of irritation um, in my throat, and that kind of, sometimes I have also coughed at those times.
 
-D: Alright. Uh, can you tell me, okay so, can you tell me if you have any medical conditions that you've been diagnosed with? 
+D: Alright. Uh, can you tell me, okay so, can you tell me if you have any medical conditions that you've been diagnosed with?
 
-P: No, nothing else, I've been pretty healthy. 
+P: No, nothing else, I've been pretty healthy.
 
 D: Okay. Had, did, when you were a child, did you have any sort of rash? Did you have eczema?
 
-P: Oh I, yeah, so I did I, at one point I was using like this cream um, probably when I was ten. Just for some eczema on my hands. 
+P: Oh I, yeah, so I did I, at one point I was using like this cream um, probably when I was ten. Just for some eczema on my hands.
 
 D: Okay. And um, have you ever had allergic rhinitis, which is basically sort of having um, red or teary eyes, itchiness on the face, a runny nose at certain times of the year, or in um, areas with mold or dust, or termites and things like that? Have you had anything like that as a child or right now?
 
@@ -122,11 +122,11 @@ D: Okay. Alright, uh do you have any, um, I guess going back, were you a healthy
 
 P: Yeah, as far as I know, I, I didn't really have any concerns from like the school or home at all.
 
-D: Okay, that's great. Do you uh, did you ever have any hospitalizations? 
+D: Okay, that's great. Do you uh, did you ever have any hospitalizations?
 
 P: No.
 
-D: Any surgeries? 
+D: Any surgeries?
 
 P: No.
 
@@ -136,7 +136,7 @@ P: Uh, no medications.
 
 D: Are you still using the eczema cream?
 
-P: No, no. That kind of just went away on its own, or like right after I used the cream. Like it's good now. 
+P: No, no. That kind of just went away on its own, or like right after I used the cream. Like it's good now.
 
 D: Okay, good. Are you allergic to anything?
 
@@ -144,13 +144,13 @@ P: No, I don't think so. Maybe just like environmental allergies sometimes, in t
 
 D: What happens then?
 
-P: Um, just sometimes like uh, I don't know if it's like a pollen allergy like I, I do get some, I guess I do get like some nasal congestion and things like that. 
+P: Um, just sometimes like uh, I don't know if it's like a pollen allergy like I, I do get some, I guess I do get like some nasal congestion and things like that.
 
 D: Um, have you ever seen an allergist?
 
 P: No, I haven't.
 
-D: No. Uh, who prescribed the cream for the eczema? 
+D: No. Uh, who prescribed the cream for the eczema?
 
 P: Um, just a, it was like at a walk-in clinic.
 
@@ -168,7 +168,7 @@ P: Yeah, yeah, I feel completely safe.
 
 D: Any concerns about bullying at school?
 
-P: No, no, not at all. 
+P: No, no, not at all.
 
 D: Okay are you uh, are you taking any marijuana or any street drugs?
 
@@ -180,7 +180,7 @@ P: Uh, I'll come, I've, I haven't tried it um, yet, at all.
 
 D: Okay, okay. Just wanted to mention that the conversation that we're having right now is confidential between you and me. Um, unless you mentioned anything that harms you or harms anyone else so, so feel free to discuss whatever or talk openly about um, any issues that you have. Um, okay, and um, are you sexually active?
 
-P: No, no. 
+P: No, no.
 
 D: Alright, okay. So um, that's all the information I needed. Uh given that you've had these coughing fits for the past couple of months that are, that have certain triggers, uh, and also given that you've had a history of eczema, and your sister has asthma, so kind of, sort of runs in your family in a way. You might also have a diagnosis of asthma potentially. Um, and so, what I would recommend is that you get um, testing done and um, uh I guess before I sort of talk a little more about this, I just want to get a sense of how severe your asthma, if it's asthma at all, um if, does it, does it affect your ability to, you said school was going okay, does it affect your ability to do well at school at all?
 
@@ -194,7 +194,7 @@ D: Okay, okay. Um, and how often, I guess is, do these episodes occur? How many 
 
 P: Uh, so they just started like two months ago, and I've had like maybe four or five of them in total.
 
-D: Okay, okay. Uh, and they kind of get better on their own. Okay, so we can sort of talk about these, sorry, puffers that you might need to, to use as needed. Um, your sister might have some of those, so you might be familiar with what I'm talking about. 
+D: Okay, okay. Uh, and they kind of get better on their own. Okay, so we can sort of talk about these, sorry, puffers that you might need to, to use as needed. Um, your sister might have some of those, so you might be familiar with what I'm talking about.
 
 P: Yeah.
 
