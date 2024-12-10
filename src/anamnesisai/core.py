@@ -6,12 +6,18 @@ import warnings
 
 from typing import Type, cast
 
+from fhir.resources.allergyintolerance import AllergyIntolerance
+from fhir.resources.condition import Condition
+from fhir.resources.diagnosticreport import DiagnosticReport
 from fhir.resources.encounter import Encounter
+from fhir.resources.familymemberhistory import FamilyMemberHistory
+from fhir.resources.immunization import Immunization
+from fhir.resources.medicationstatement import MedicationStatement
 from fhir.resources.observation import Observation
 from fhir.resources.patient import Patient
 from fhir.resources.practitioner import Practitioner
+from fhir.resources.procedure import Procedure
 from fhir.resources.resource import Resource
-from pydantic import BaseModel
 from rago.generation import OpenAIGen
 from typeguard import typechecked
 
@@ -25,7 +31,7 @@ conversation. You must return only the columns if the value is present
 in the conversation. Extract and generate only the following FHIR
 resources from the conversations and exams:
 
-- {resource_detail}
+{resource_detail}
 
 Use clear and concise language for each resource. Maintain patient
 confidentiality and adhere to HIPAA regulations. Strive for accuracy
@@ -35,40 +41,47 @@ In the conversation, `D:` means it is from the Doctor, and `P:` means
 it is from the Patience.
 
 Conversation:
+
 ```
 {query}
 ```
 """
 
-RESOURCES_CLASSES = {
-    "patient": Patient,
-    "practitioner": Practitioner,
-    "encounter": Encounter,
-    "observation": Observation,
-}
+RESOURCES_CLASSES = (
+    Patient,
+    Condition,
+    Practitioner,
+    Encounter,
+    Observation,
+    FamilyMemberHistory,
+    AllergyIntolerance,
+    Immunization,
+    MedicationStatement,
+    Procedure,
+    DiagnosticReport,
+)
 
-RESOURCES_DETAILS = {
-    "patient": (
-        "capture the patient's demographics and medical history details."
-    ),
-    "practitioner": "identify the doctor involved in the encounter.",
-    "encounter": (
-        "describe the patient-doctor interaction, including the reason for "
-        "the visit."
-    ),
-    "observation": (
-        "record the patient's reported symptoms and the physical "
-        "exam findings."
-    ),
-}
+
+def get_resource_detail(resource_class: Type[Resource]) -> str:
+    """Get the resource detail from the resource class."""
+    # note: remove the first part because it is a just disclaimer about the
+    #       python object.
+    idx = 0
+    docstring = resource_class.__doc__ or ""
+    try:
+        idx = docstring.index("\n\n")
+    except ValueError:
+        pass
+    return " ".join(docstring[idx:].replace("\n", " ").strip().split())
 
 
 @typechecked
 def extract_fhir_openai(text: str, api_key: str) -> dict[str, Resource]:
     """Extract FHIR from the given text."""
     results: dict[str, Resource] = {}
-    for resource_name, resource_detail in RESOURCES_DETAILS.items():
-        fhir_class: Type[BaseModel] = RESOURCES_CLASSES[resource_name]
+    for fhir_class in RESOURCES_CLASSES:
+        resource_name = fhir_class.__name__
+        resource_detail = get_resource_detail(fhir_class)
 
         resource_prompt = (
             f"```Resource name: {resource_name}```\n"
@@ -83,7 +96,7 @@ def extract_fhir_openai(text: str, api_key: str) -> dict[str, Resource]:
                 prompt_template=prompt_template,
                 model_name="gpt-4o-mini",
                 api_key=api_key,
-                output_max_length=10384,
+                output_max_length=10384,  # note: calc this number
                 structured_output=fhir_class,
             )
             result = gen.generate(query=text, context=[])
