@@ -34,7 +34,6 @@ def check_possible_fhir_resources(
 ) -> FHIRResourceFoundModel:
     """Check possible FHIR resources from the given text."""
     try:
-
         gen = OpenAIGen(
             prompt_template=PROMPT_TEMPLATE_POSSIBLE_RESOURCES,
             model_name="gpt-4o-mini",
@@ -46,7 +45,6 @@ def check_possible_fhir_resources(
         result = gen.generate(query="", context=[text])
     except Exception as e:
         logging.debug(str(e))
-        breakpoint()
         return FHIRResourceFoundModel(
             **{cls.__name__: False for cls in RESOURCES_CLASSES}
         )
