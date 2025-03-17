@@ -45,7 +45,9 @@ def check_possible_fhir_resources(
         result = gen.generate(query="", context=[text])
     except Exception as e:
         logging.debug(str(e))
-        return FHIRResourceFoundModel()
+        return FHIRResourceFoundModel(
+            **{cls.__name__: False for cls in RESOURCES_CLASSES}
+        )
 
     return cast(FHIRResourceFoundModel, result)
 

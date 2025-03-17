@@ -40,8 +40,7 @@ jobs:
           # - "3.13"
         os:
           - "ubuntu"
-          # note: Unable to find installation candidates for torch (2.5.1+cpu)
-          # - "macos"
+          - "macos"
     runs-on: ${{ matrix.os }}-latest
     concurrency:
       group: ci-tests-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
@@ -60,7 +59,7 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v3
         with:
           miniconda-version: latest
-          environment-file: conda/dev.yaml
+          environment-file: conda/ci.yaml
           channels: conda-forge,nodefaults
           activate-environment: anamnesisai
           auto-update-conda: true
@@ -105,7 +104,7 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v3
         with:
           miniforge-version: latest
-          environment-file: conda/dev.yaml
+          environment-file: conda/ci.yaml
           channels: conda-forge,nodefaults
           activate-environment: anamnesisai
           auto-update-conda: true

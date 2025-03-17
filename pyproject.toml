@@ -1,9 +1,12 @@
-[tool.poetry]
+[project]
 name = "anamnesisai"
 version = "0.2.0"  # semantic-release
 description = "AI-driven anamnesis collection system in the healthcare domain."
 readme = "docs/index.md"
-authors = ["Ivan Ogasawara <ivan.ogasawara@gmail.com>", "Satarupa Deb <satarupa2212@gmail.com>"]
+authors = [
+    { name = "Ivan Ogasawara", email = "ivan.ogasawara@gmail.com>" },
+    { name = "Satarupa Deb", email = "satarupa2212@gmail.com" },
+]
 packages = [
   {include = "anamnesisai", from="src"},
 ]
@@ -12,22 +15,20 @@ exclude = [
   ".git/*",
   ".env*",
 ]
+requires-python = ">=3.9,<3.13"
 
-[tool.poetry.dependencies]
-python = ">=3.9,<4"
-openai = ">=1.52.2"
-fhir-resources = {version = ">7",  allow-prereleases = true }
-torch = [
-  {version = ">=2.5.0", source="pytorch-cpu"},
+dependencies = [
+    "openai>=1.52.2",
+    "fhir-resources>=8",
+    "torch>=2.5.0",
+    "rago>=0.13.0",
+    'eval_type_backport>=0.2; python_version < "3.10"',
+    "typeguard>=4",
+    "google-genai (>=1.5.0,<2.0.0)",
 ]
-torchvision = [
-  {version = ">=0.20.0", source="pytorch-cpu"},
-]
-rago = {version = ">=0.9.0", extras=["cpu"]}
-eval_type_backport = {version = ">=0.2", python = "<3.10"}
-typeguard = ">=4"
 
 [tool.poetry.group.dev.dependencies]
+python = ">=3.9,<3.13"
 pytest = ">=7.3.2"
 pytest-cov = ">=4.1.0"
 coverage = ">=7.2.7"
