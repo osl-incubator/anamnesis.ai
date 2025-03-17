@@ -19,11 +19,12 @@ requires-python = ">=3.9,<3.13"
 
 dependencies = [
     "openai>=1.52.2",
-    "fhir-resources>7",
+    "fhir-resources>=8",
     "torch>=2.5.0",
     "rago>=0.13.0",
     'eval_type_backport>=0.2; python_version < "3.10"',
     "typeguard>=4",
+    "google-genai (>=1.5.0,<2.0.0)",
 ]
 
 [tool.poetry.group.dev.dependencies]
