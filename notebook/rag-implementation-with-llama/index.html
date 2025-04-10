@@ -854,7 +854,13 @@ bitsandbytes==0.41.1 sentence_transformers==2.2.2 chromadb==0.4.12</div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting accelerate==0.22.0
   Downloading accelerate-0.22.0-py3-none-any.whl.metadata (17 kB)
-Collecting einops==0.6.1
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Collecting einops==0.6.1
   Downloading einops-0.6.1-py3-none-any.whl.metadata (12 kB)
 </pre>
 </div>
@@ -863,15 +869,21 @@ Collecting einops==0.6.1
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting langchain==0.0.300
-  Downloading langchain-0.0.300-py3-none-any.whl.metadata (15 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Collecting xformers==0.0.21
-  Downloading xformers-0.0.21-cp311-cp311-manylinux2014_x86_64.whl.metadata (1.0 kB)
+<pre>  Downloading langchain-0.0.300-py3-none-any.whl.metadata (15 kB)
+Collecting xformers==0.0.21
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>  Downloading xformers-0.0.21-cp311-cp311-manylinux2014_x86_64.whl.metadata (1.0 kB)
 Collecting bitsandbytes==0.41.1
   Downloading bitsandbytes-0.41.1-py3-none-any.whl.metadata (9.8 kB)
 </pre>
@@ -918,15 +930,15 @@ Requirement already satisfied: requests in /home/runner/miniconda3/envs/anamnesi
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting tokenizers!=0.11.3,&lt;0.14,&gt;=0.11.1 (from transformers==4.33.0)
   Downloading tokenizers-0.13.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.7 kB)
+Requirement already satisfied: safetensors&gt;=0.3.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from transformers==4.33.0) (0.5.3)
+Requirement already satisfied: tqdm&gt;=4.27 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from transformers==4.33.0) (4.67.1)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Requirement already satisfied: safetensors&gt;=0.3.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from transformers==4.33.0) (0.5.3)
-Requirement already satisfied: tqdm&gt;=4.27 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from transformers==4.33.0) (4.67.1)
-Requirement already satisfied: psutil in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from accelerate==0.22.0) (7.0.0)
+<pre>Requirement already satisfied: psutil in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from accelerate==0.22.0) (7.0.0)
 Requirement already satisfied: torch&gt;=1.10.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from accelerate==0.22.0) (2.5.1)
 Requirement already satisfied: SQLAlchemy&lt;3,&gt;=1.4 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from langchain==0.0.300) (2.0.39)
 Requirement already satisfied: aiohttp&lt;4.0.0,&gt;=3.8.3 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from langchain==0.0.300) (3.11.14)
@@ -985,15 +997,15 @@ Requirement already satisfied: pydantic&lt;3,&gt;=1 in /home/runner/miniconda3/e
   Downloading torchvision-0.21.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.1 kB)
 Requirement already satisfied: scikit-learn in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from sentence_transformers==2.2.2) (1.6.1)
 Requirement already satisfied: scipy in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from sentence_transformers==2.2.2) (1.15.2)
+Collecting nltk (from sentence_transformers==2.2.2)
+  Downloading nltk-3.9.1-py3-none-any.whl.metadata (2.9 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Collecting nltk (from sentence_transformers==2.2.2)
-  Downloading nltk-3.9.1-py3-none-any.whl.metadata (2.9 kB)
-Requirement already satisfied: sentencepiece in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from sentence_transformers==2.2.2) (0.2.0)
+<pre>Requirement already satisfied: sentencepiece in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from sentence_transformers==2.2.2) (0.2.0)
 </pre>
 </div>
 </div>
@@ -1001,24 +1013,30 @@ Requirement already satisfied: sentencepiece in /home/runner/miniconda3/envs/ana
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting pydantic&lt;3,&gt;=1 (from langchain==0.0.300)
-  Downloading pydantic-1.10.21-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (153 kB)
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>  Downloading pydantic-1.10.21-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (153 kB)
 Collecting chroma-hnswlib==0.7.3 (from chromadb==0.4.12)
+  Downloading chroma_hnswlib-0.7.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (252 bytes)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading chroma_hnswlib-0.7.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (252 bytes)
-Collecting fastapi&lt;0.100.0,&gt;=0.95.2 (from chromadb==0.4.12)
+<pre>Collecting fastapi&lt;0.100.0,&gt;=0.95.2 (from chromadb==0.4.12)
+  Downloading fastapi-0.99.1-py3-none-any.whl.metadata (23 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading fastapi-0.99.1-py3-none-any.whl.metadata (23 kB)
-Collecting uvicorn&gt;=0.18.3 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12)
+<pre>Collecting uvicorn&gt;=0.18.3 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12)
   Downloading uvicorn-0.34.0-py3-none-any.whl.metadata (6.5 kB)
 </pre>
 </div>
@@ -1027,7 +1045,7 @@ Collecting uvicorn&gt;=0.18.3 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting posthog&gt;=2.4.0 (from chromadb==0.4.12)
-  Downloading posthog-3.20.0-py2.py3-none-any.whl.metadata (2.9 kB)
+  Downloading posthog-3.24.0-py2.py3-none-any.whl.metadata (3.0 kB)
 Requirement already satisfied: typing-extensions&gt;=4.5.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from chromadb==0.4.12) (4.12.2)
 </pre>
 </div>
@@ -1045,14 +1063,14 @@ Requirement already satisfied: typing-extensions&gt;=4.5.0 in /home/runner/minic
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting onnxruntime&gt;=1.14.1 (from chromadb==0.4.12)
   Downloading onnxruntime-1.21.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl.metadata (4.5 kB)
-Collecting pypika&gt;=0.48.9 (from chromadb==0.4.12)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading PyPika-0.48.9.tar.gz (67 kB)
+<pre>Collecting pypika&gt;=0.48.9 (from chromadb==0.4.12)
+  Downloading PyPika-0.48.9.tar.gz (67 kB)
 </pre>
 </div>
 </div>
@@ -1084,7 +1102,13 @@ Collecting pypika&gt;=0.48.9 (from chromadb==0.4.12)
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Getting requirements to build wheel ... - done
+<pre>  Getting requirements to build wheel ... -</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre> done
 </pre>
 </div>
 </div>
@@ -1098,22 +1122,16 @@ Collecting pypika&gt;=0.48.9 (from chromadb==0.4.12)
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre> done
+Collecting overrides&gt;=7.3.1 (from chromadb==0.4.12)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Collecting overrides&gt;=7.3.1 (from chromadb==0.4.12)
-  Downloading overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
+<pre>  Downloading overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
 Requirement already satisfied: importlib-resources in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from chromadb==0.4.12) (6.5.2)
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Collecting bcrypt&gt;=4.0.1 (from chromadb==0.4.12)
+Collecting bcrypt&gt;=4.0.1 (from chromadb==0.4.12)
   Downloading bcrypt-4.3.0-cp39-abi3-manylinux_2_34_x86_64.whl.metadata (10 kB)
 Requirement already satisfied: typer&gt;=0.9.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from chromadb==0.4.12) (0.15.2)
 </pre>
@@ -1127,47 +1145,53 @@ Requirement already satisfied: networkx in /home/runner/miniconda3/envs/anamnesi
 Requirement already satisfied: jinja2 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from torch&gt;=1.10.0-&gt;accelerate==0.22.0) (3.1.6)
 Collecting nvidia-cuda-nvrtc-cu11==11.7.99 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
   Downloading nvidia_cuda_nvrtc_cu11-11.7.99-2-py3-none-manylinux1_x86_64.whl.metadata (1.5 kB)
-Collecting nvidia-cuda-runtime-cu11==11.7.99 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
-  Downloading nvidia_cuda_runtime_cu11-11.7.99-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Collecting nvidia-cuda-cupti-cu11==11.7.101 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+<pre>Collecting nvidia-cuda-runtime-cu11==11.7.99 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+  Downloading nvidia_cuda_runtime_cu11-11.7.99-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
+Collecting nvidia-cuda-cupti-cu11==11.7.101 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
   Downloading nvidia_cuda_cupti_cu11-11.7.101-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
-Collecting nvidia-cudnn-cu11==8.5.0.96 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Collecting nvidia-cudnn-cu11==8.5.0.96 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
   Downloading nvidia_cudnn_cu11-8.5.0.96-2-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
 Collecting nvidia-cublas-cu11==11.10.3.66 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading nvidia_cublas_cu11-11.10.3.66-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
+  Downloading nvidia_cublas_cu11-11.10.3.66-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
 Collecting nvidia-cufft-cu11==10.9.0.58 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
-  Downloading nvidia_cufft_cu11-10.9.0.58-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
-Collecting nvidia-curand-cu11==10.2.10.91 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading nvidia_curand_cu11-10.2.10.91-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
-Collecting nvidia-cusolver-cu11==11.4.0.1 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+<pre>  Downloading nvidia_cufft_cu11-10.9.0.58-py3-none-manylinux2014_x86_64.whl.metadata (1.5 kB)
+Collecting nvidia-curand-cu11==10.2.10.91 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+  Downloading nvidia_curand_cu11-10.2.10.91-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Collecting nvidia-cusolver-cu11==11.4.0.1 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
   Downloading nvidia_cusolver_cu11-11.4.0.1-2-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
 Collecting nvidia-cusparse-cu11==11.7.4.91 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+  Downloading nvidia_cusparse_cu11-11.7.4.91-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading nvidia_cusparse_cu11-11.7.4.91-py3-none-manylinux1_x86_64.whl.metadata (1.6 kB)
-Collecting nvidia-nccl-cu11==2.14.3 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+<pre>Collecting nvidia-nccl-cu11==2.14.3 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
   Downloading nvidia_nccl_cu11-2.14.3-py3-none-manylinux1_x86_64.whl.metadata (1.8 kB)
 Collecting nvidia-nvtx-cu11==11.7.91 (from torch&gt;=1.10.0-&gt;accelerate==0.22.0)
   Downloading nvidia_nvtx_cu11-11.7.91-py3-none-manylinux1_x86_64.whl.metadata (1.7 kB)
@@ -1188,16 +1212,16 @@ Requirement already satisfied: wheel in /home/runner/miniconda3/envs/anamnesisai
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting cmake (from triton==2.0.0-&gt;torch&gt;=1.10.0-&gt;accelerate==0.22.0)
-  Downloading cmake-3.31.6-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.3 kB)
+  Downloading cmake-4.0.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (6.3 kB)
 Collecting lit (from triton==2.0.0-&gt;torch&gt;=1.10.0-&gt;accelerate==0.22.0)
+  Downloading lit-18.1.8-py3-none-any.whl.metadata (2.5 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading lit-18.1.8-py3-none-any.whl.metadata (2.5 kB)
-Requirement already satisfied: aiohappyeyeballs&gt;=2.3.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from aiohttp&lt;4.0.0,&gt;=3.8.3-&gt;langchain==0.0.300) (2.6.1)
+<pre>Requirement already satisfied: aiohappyeyeballs&gt;=2.3.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from aiohttp&lt;4.0.0,&gt;=3.8.3-&gt;langchain==0.0.300) (2.6.1)
 Requirement already satisfied: aiosignal&gt;=1.1.2 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from aiohttp&lt;4.0.0,&gt;=3.8.3-&gt;langchain==0.0.300) (1.3.2)
 Requirement already satisfied: attrs&gt;=17.3.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from aiohttp&lt;4.0.0,&gt;=3.8.3-&gt;langchain==0.0.300) (25.3.0)
 Requirement already satisfied: frozenlist&gt;=1.1.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from aiohttp&lt;4.0.0,&gt;=3.8.3-&gt;langchain==0.0.300) (1.5.0)
@@ -1239,14 +1263,14 @@ Requirement already satisfied: protobuf in /home/runner/miniconda3/envs/anamnesi
 Collecting monotonic&gt;=1.5 (from posthog&gt;=2.4.0-&gt;chromadb==0.4.12)
   Downloading monotonic-1.6-py2.py3-none-any.whl.metadata (1.5 kB)
 Collecting backoff&gt;=1.10.0 (from posthog&gt;=2.4.0-&gt;chromadb==0.4.12)
-  Downloading backoff-2.2.1-py3-none-any.whl.metadata (14 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Requirement already satisfied: python-dateutil&gt;2.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from posthog&gt;=2.4.0-&gt;chromadb==0.4.12) (2.9.0.post0)
+<pre>  Downloading backoff-2.2.1-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: python-dateutil&gt;2.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from posthog&gt;=2.4.0-&gt;chromadb==0.4.12) (2.9.0.post0)
 Requirement already satisfied: distro&gt;=1.5.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from posthog&gt;=2.4.0-&gt;chromadb==0.4.12) (1.9.0)
 Requirement already satisfied: certifi in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from pulsar-client&gt;=3.1.0-&gt;chromadb==0.4.12) (2025.1.31)
 Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from requests-&gt;transformers==4.33.0) (3.4.1)
@@ -1265,14 +1289,14 @@ Requirement already satisfied: h11&gt;=0.8 in /home/runner/miniconda3/envs/anamn
 <pre>Collecting httptools&gt;=0.6.3 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12)
   Downloading httptools-0.6.4-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (3.6 kB)
 Requirement already satisfied: python-dotenv&gt;=0.13 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12) (1.0.1)
-Collecting uvloop!=0.15.0,!=0.15.1,&gt;=0.14.0 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading uvloop-0.21.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.9 kB)
+<pre>Collecting uvloop!=0.15.0,!=0.15.1,&gt;=0.14.0 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12)
+  Downloading uvloop-0.21.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.9 kB)
 </pre>
 </div>
 </div>
@@ -1280,40 +1304,46 @@ Collecting uvloop!=0.15.0,!=0.15.1,&gt;=0.14.0 (from uvicorn[standard]&gt;=0.18.
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Collecting watchfiles&gt;=0.13 (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12)
-  Downloading watchfiles-1.0.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.9 kB)
+  Downloading watchfiles-1.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (4.9 kB)
 Requirement already satisfied: websockets&gt;=10.4 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from uvicorn[standard]&gt;=0.18.3-&gt;chromadb==0.4.12) (14.2)
 Requirement already satisfied: joblib in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from nltk-&gt;sentence_transformers==2.2.2) (1.4.2)
-Requirement already satisfied: threadpoolctl&gt;=3.1.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from scikit-learn-&gt;sentence_transformers==2.2.2) (3.6.0)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>INFO: pip is looking at multiple versions of torchvision to determine which version is compatible with other requirements. This could take a while.
+<pre>Requirement already satisfied: threadpoolctl&gt;=3.1.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from scikit-learn-&gt;sentence_transformers==2.2.2) (3.6.0)
+INFO: pip is looking at multiple versions of torchvision to determine which version is compatible with other requirements. This could take a while.
 Collecting torchvision (from sentence_transformers==2.2.2)
-  Downloading torchvision-0.20.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.1 kB)
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>  Downloading torchvision-0.20.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.1 kB)
   Downloading torchvision-0.20.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.1 kB)
   Downloading torchvision-0.19.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.0 kB)
+  Downloading torchvision-0.19.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.0 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading torchvision-0.19.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.0 kB)
-  Downloading torchvision-0.18.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
+<pre>  Downloading torchvision-0.18.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
   Downloading torchvision-0.18.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
   Downloading torchvision-0.17.2-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
 INFO: pip is still looking at multiple versions of torchvision to determine which version is compatible with other requirements. This could take a while.
+  Downloading torchvision-0.17.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>  Downloading torchvision-0.17.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
-  Downloading torchvision-0.17.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
+<pre>  Downloading torchvision-0.17.0-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
   Downloading torchvision-0.16.2-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
   Downloading torchvision-0.16.1-cp311-cp311-manylinux1_x86_64.whl.metadata (6.6 kB)
 </pre>
@@ -1345,31 +1375,31 @@ Requirement already satisfied: mypy-extensions&gt;=0.3.0 in /home/runner/minicon
   Downloading humanfriendly-10.0-py2.py3-none-any.whl.metadata (9.2 kB)
 Requirement already satisfied: MarkupSafe&gt;=2.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from jinja2-&gt;torch&gt;=1.10.0-&gt;accelerate==0.22.0) (3.0.2)
 Requirement already satisfied: mpmath&lt;1.4,&gt;=1.1.0 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from sympy-&gt;torch&gt;=1.10.0-&gt;accelerate==0.22.0) (1.3.0)
-Requirement already satisfied: mdurl~=0.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from markdown-it-py&gt;=2.2.0-&gt;rich&gt;=10.11.0-&gt;typer&gt;=0.9.0-&gt;chromadb==0.4.12) (0.1.2)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading transformers-4.33.0-py3-none-any.whl (7.6 MB)
+<pre>Requirement already satisfied: mdurl~=0.1 in /home/runner/miniconda3/envs/anamnesisai/lib/python3.11/site-packages (from markdown-it-py&gt;=2.2.0-&gt;rich&gt;=10.11.0-&gt;typer&gt;=0.9.0-&gt;chromadb==0.4.12) (0.1.2)
+Downloading transformers-4.33.0-py3-none-any.whl (7.6 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/7.6 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">7.6/7.6 MB</span> <span class="ansi-red-fg">139.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">7.6/7.6 MB</span> <span class="ansi-red-fg">101.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading accelerate-0.22.0-py3-none-any.whl (251 kB)
+Downloading einops-0.6.1-py3-none-any.whl (42 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading einops-0.6.1-py3-none-any.whl (42 kB)
-Downloading langchain-0.0.300-py3-none-any.whl (1.7 MB)
-   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/1.7 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">1.7/1.7 MB</span> <span class="ansi-red-fg">147.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>Downloading langchain-0.0.300-py3-none-any.whl (1.7 MB)
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/1.7 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">1.7/1.7 MB</span> <span class="ansi-red-fg">138.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading xformers-0.0.21-cp311-cp311-manylinux2014_x86_64.whl (167.0 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/167.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1377,37 +1407,49 @@ Downloading xformers-0.0.21-cp311-cp311-manylinux2014_x86_64.whl (167.0 MB)
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">34.6/167.0 MB</span> <span class="ansi-red-fg">173.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">28.3/167.0 MB</span> <span class="ansi-red-fg">141.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">73.7/167.0 MB</span> <span class="ansi-red-fg">183.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">55.8/167.0 MB</span> <span class="ansi-red-fg">138.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━</span> <span class="ansi-green-fg">111.9/167.0 MB</span> <span class="ansi-red-fg">185.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">86.0/167.0 MB</span> <span class="ansi-red-fg">142.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━</span> <span class="ansi-green-fg">153.9/167.0 MB</span> <span class="ansi-red-fg">191.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━</span> <span class="ansi-green-fg">116.1/167.0 MB</span> <span class="ansi-red-fg">144.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">166.7/167.0 MB</span> <span class="ansi-red-fg">188.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━</span> <span class="ansi-green-fg">142.6/167.0 MB</span> <span class="ansi-red-fg">145.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">167.0/167.0 MB</span> <span class="ansi-red-fg">139.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━</span> <span class="ansi-green-fg">157.3/167.0 MB</span> <span class="ansi-red-fg">130.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">166.7/167.0 MB</span> <span class="ansi-red-fg">131.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">167.0/167.0 MB</span> <span class="ansi-red-fg">105.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading bitsandbytes-0.41.1-py3-none-any.whl (92.6 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/92.6 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1415,19 +1457,25 @@ Downloading bitsandbytes-0.41.1-py3-none-any.whl (92.6 MB)
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">47.2/92.6 MB</span> <span class="ansi-red-fg">236.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">35.7/92.6 MB</span> <span class="ansi-red-fg">180.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">92.5/92.6 MB</span> <span class="ansi-red-fg">247.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━</span> <span class="ansi-green-fg">71.0/92.6 MB</span> <span class="ansi-red-fg">176.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">92.6/92.6 MB</span> <span class="ansi-red-fg">167.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">92.5/92.6 MB</span> <span class="ansi-red-fg">176.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">92.6/92.6 MB</span> <span class="ansi-red-fg">133.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading chromadb-0.4.12-py3-none-any.whl (426 kB)
 </pre>
 </div>
@@ -1436,7 +1484,7 @@ Downloading chromadb-0.4.12-py3-none-any.whl (426 kB)
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Downloading chroma_hnswlib-0.7.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (2.4 MB)
-   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/2.4 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">2.4/2.4 MB</span> <span class="ansi-red-fg">167.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/2.4 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">2.4/2.4 MB</span> <span class="ansi-red-fg">150.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading torch-2.0.1-cp311-cp311-manylinux1_x86_64.whl (619.9 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/619.9 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1444,157 +1492,187 @@ Downloading torch-2.0.1-cp311-cp311-manylinux1_x86_64.whl (619.9 MB)
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">46.1/619.9 MB</span> <span class="ansi-red-fg">231.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">32.5/619.9 MB</span> <span class="ansi-red-fg">163.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:04</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">91.2/619.9 MB</span> <span class="ansi-red-fg">227.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">67.6/619.9 MB</span> <span class="ansi-red-fg">168.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:04</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">131.9/619.9 MB</span> <span class="ansi-red-fg">218.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">102.2/619.9 MB</span> <span class="ansi-red-fg">169.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:04</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">184.3/619.9 MB</span> <span class="ansi-red-fg">228.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">139.5/619.9 MB</span> <span class="ansi-red-fg">173.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">235.1/619.9 MB</span> <span class="ansi-red-fg">233.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">176.9/619.9 MB</span> <span class="ansi-red-fg">175.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">282.1/619.9 MB</span> <span class="ansi-red-fg">234.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">205.0/619.9 MB</span> <span class="ansi-red-fg">170.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">332.7/619.9 MB</span> <span class="ansi-red-fg">239.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">238.0/619.9 MB</span> <span class="ansi-red-fg">169.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">383.3/619.9 MB</span> <span class="ansi-red-fg">241.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">270.8/619.9 MB</span> <span class="ansi-red-fg">167.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━</span> <span class="ansi-green-fg">428.3/619.9 MB</span> <span class="ansi-red-fg">243.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">305.1/619.9 MB</span> <span class="ansi-red-fg">168.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━</span> <span class="ansi-green-fg">475.0/619.9 MB</span> <span class="ansi-red-fg">239.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">341.6/619.9 MB</span> <span class="ansi-red-fg">168.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━</span> <span class="ansi-green-fg">519.6/619.9 MB</span> <span class="ansi-red-fg">234.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">377.2/619.9 MB</span> <span class="ansi-red-fg">170.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━</span> <span class="ansi-green-fg">567.3/619.9 MB</span> <span class="ansi-red-fg">233.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━</span> <span class="ansi-green-fg">414.2/619.9 MB</span> <span class="ansi-red-fg">169.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">612.4/619.9 MB</span> <span class="ansi-red-fg">229.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━</span> <span class="ansi-green-fg">448.5/619.9 MB</span> <span class="ansi-red-fg">167.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━</span> <span class="ansi-green-fg">484.4/619.9 MB</span> <span class="ansi-red-fg">173.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━</span> <span class="ansi-green-fg">522.2/619.9 MB</span> <span class="ansi-red-fg">176.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━</span> <span class="ansi-green-fg">551.6/619.9 MB</span> <span class="ansi-red-fg">176.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━</span> <span class="ansi-green-fg">580.9/619.9 MB</span> <span class="ansi-red-fg">169.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">615.5/619.9 MB</span> <span class="ansi-red-fg">170.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">228.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">619.9/619.9 MB</span> <span class="ansi-red-fg">70.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">619.7/619.9 MB</span> <span class="ansi-red-fg">168.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">619.9/619.9 MB</span> <span class="ansi-red-fg">63.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading nvidia_cublas_cu11-11.10.3.66-py3-none-manylinux1_x86_64.whl (317.1 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/317.1 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1602,121 +1680,109 @@ Downloading nvidia_cublas_cu11-11.10.3.66-py3-none-manylinux1_x86_64.whl (317.1 
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">59.8/317.1 MB</span> <span class="ansi-red-fg">300.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">35.7/317.1 MB</span> <span class="ansi-red-fg">178.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">117.7/317.1 MB</span> <span class="ansi-red-fg">293.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">65.0/317.1 MB</span> <span class="ansi-red-fg">163.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">170.1/317.1 MB</span> <span class="ansi-red-fg">282.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">97.5/317.1 MB</span> <span class="ansi-red-fg">161.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━</span> <span class="ansi-green-fg">223.6/317.1 MB</span> <span class="ansi-red-fg">278.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">132.1/317.1 MB</span> <span class="ansi-red-fg">166.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━</span> <span class="ansi-green-fg">276.6/317.1 MB</span> <span class="ansi-red-fg">274.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">165.9/317.1 MB</span> <span class="ansi-red-fg">164.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">200.3/317.1 MB</span> <span class="ansi-red-fg">165.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━</span> <span class="ansi-green-fg">241.7/317.1 MB</span> <span class="ansi-red-fg">171.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━</span> <span class="ansi-green-fg">282.1/317.1 MB</span> <span class="ansi-red-fg">175.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">180.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">180.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">180.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">180.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">316.9/317.1 MB</span> <span class="ansi-red-fg">269.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">317.1/317.1 MB</span> <span class="ansi-red-fg">88.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading nvidia_cuda_cupti_cu11-11.7.101-py3-none-manylinux1_x86_64.whl (11.8 MB)
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">317.1/317.1 MB</span> <span class="ansi-red-fg">116.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+Downloading nvidia_cuda_cupti_cu11-11.7.101-py3-none-manylinux1_x86_64.whl (11.8 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/11.8 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">11.8/11.8 MB</span> <span class="ansi-red-fg">61.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">11.8/11.8 MB</span> <span class="ansi-red-fg">54.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-Downloading nvidia_cuda_nvrtc_cu11-11.7.99-2-py3-none-manylinux1_x86_64.whl (21.0 MB)
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">11.8/11.8 MB</span> <span class="ansi-red-fg">154.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Downloading nvidia_cuda_nvrtc_cu11-11.7.99-2-py3-none-manylinux1_x86_64.whl (21.0 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/21.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">21.0/21.0 MB</span> <span class="ansi-red-fg">149.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-Downloading nvidia_cuda_runtime_cu11-11.7.99-py3-none-manylinux1_x86_64.whl (849 kB)
-   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/849.3 kB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">849.3/849.3 kB</span> <span class="ansi-red-fg">109.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">21.0/21.0 MB</span> <span class="ansi-red-fg">154.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Downloading nvidia_cuda_runtime_cu11-11.7.99-py3-none-manylinux1_x86_64.whl (849 kB)
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/849.3 kB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">849.3/849.3 kB</span> <span class="ansi-red-fg">106.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading nvidia_cudnn_cu11-8.5.0.96-2-py3-none-manylinux1_x86_64.whl (557.1 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/557.1 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1724,211 +1790,259 @@ Downloading nvidia_cudnn_cu11-8.5.0.96-2-py3-none-manylinux1_x86_64.whl (557.1 M
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">56.6/557.1 MB</span> <span class="ansi-red-fg">283.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">46.7/557.1 MB</span> <span class="ansi-red-fg">232.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">99.4/557.1 MB</span> <span class="ansi-red-fg">247.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">95.2/557.1 MB</span> <span class="ansi-red-fg">236.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">147.3/557.1 MB</span> <span class="ansi-red-fg">244.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">152.6/557.1 MB</span> <span class="ansi-red-fg">252.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">209.5/557.1 MB</span> <span class="ansi-red-fg">260.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">196.1/557.1 MB</span> <span class="ansi-red-fg">243.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">268.2/557.1 MB</span> <span class="ansi-red-fg">268.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">225.4/557.1 MB</span> <span class="ansi-red-fg">224.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">331.6/557.1 MB</span> <span class="ansi-red-fg">273.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">257.2/557.1 MB</span> <span class="ansi-red-fg">212.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━</span> <span class="ansi-green-fg">396.4/557.1 MB</span> <span class="ansi-red-fg">305.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">296.0/557.1 MB</span> <span class="ansi-red-fg">207.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━</span> <span class="ansi-green-fg">462.2/557.1 MB</span> <span class="ansi-red-fg">313.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">333.4/557.1 MB</span> <span class="ansi-red-fg">203.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━</span> <span class="ansi-green-fg">524.6/557.1 MB</span> <span class="ansi-red-fg">316.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━</span> <span class="ansi-green-fg">365.7/557.1 MB</span> <span class="ansi-red-fg">189.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━</span> <span class="ansi-green-fg">395.1/557.1 MB</span> <span class="ansi-red-fg">176.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━</span> <span class="ansi-green-fg">432.0/557.1 MB</span> <span class="ansi-red-fg">170.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━</span> <span class="ansi-green-fg">468.7/557.1 MB</span> <span class="ansi-red-fg">169.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━</span> <span class="ansi-green-fg">506.5/557.1 MB</span> <span class="ansi-red-fg">175.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━</span> <span class="ansi-green-fg">537.9/557.1 MB</span> <span class="ansi-red-fg">172.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">317.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">88.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-</pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading nvidia_cufft_cu11-10.9.0.58-py3-none-manylinux2014_x86_64.whl (168.4 MB)
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">173.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">557.1/557.1 MB</span> <span class="ansi-red-fg">69.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+Downloading nvidia_cufft_cu11-10.9.0.58-py3-none-manylinux2014_x86_64.whl (168.4 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/168.4 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">53.5/168.4 MB</span> <span class="ansi-red-fg">267.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">10.7/168.4 MB</span> <span class="ansi-red-fg">52.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:03</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">101.7/168.4 MB</span> <span class="ansi-red-fg">253.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">40.4/168.4 MB</span> <span class="ansi-red-fg">100.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:02</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━</span> <span class="ansi-green-fg">147.3/168.4 MB</span> <span class="ansi-red-fg">244.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">64.0/168.4 MB</span> <span class="ansi-red-fg">105.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">168.3/168.4 MB</span> <span class="ansi-red-fg">241.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">86.2/168.4 MB</span> <span class="ansi-red-fg">109.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">168.4/168.4 MB</span> <span class="ansi-red-fg">167.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-</pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━</span> <span class="ansi-green-fg">116.4/168.4 MB</span> <span class="ansi-red-fg">116.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading nvidia_curand_cu11-10.2.10.91-py3-none-manylinux1_x86_64.whl (54.6 MB)
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━</span> <span class="ansi-green-fg">141.6/168.4 MB</span> <span class="ansi-red-fg">117.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">168.3/168.4 MB</span> <span class="ansi-red-fg">119.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">168.3/168.4 MB</span> <span class="ansi-red-fg">119.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">168.4/168.4 MB</span> <span class="ansi-red-fg">97.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+Downloading nvidia_curand_cu11-10.2.10.91-py3-none-manylinux1_x86_64.whl (54.6 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/54.6 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━</span> <span class="ansi-green-fg">48.2/54.6 MB</span> <span class="ansi-red-fg">242.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">28.3/54.6 MB</span> <span class="ansi-red-fg">141.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">54.6/54.6 MB</span> <span class="ansi-red-fg">164.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">54.5/54.6 MB</span> <span class="ansi-red-fg">158.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">54.6/54.6 MB</span> <span class="ansi-red-fg">121.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading nvidia_cusolver_cu11-11.4.0.1-2-py3-none-manylinux1_x86_64.whl (102.6 MB)
-</pre>
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/102.6 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/102.6 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">28.3/102.6 MB</span> <span class="ansi-red-fg">140.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">51.9/102.6 MB</span> <span class="ansi-red-fg">259.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">64.5/102.6 MB</span> <span class="ansi-red-fg">160.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━</span> <span class="ansi-green-fg">97.5/102.6 MB</span> <span class="ansi-red-fg">242.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━</span> <span class="ansi-green-fg">99.4/102.6 MB</span> <span class="ansi-red-fg">164.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">102.5/102.6 MB</span> <span class="ansi-red-fg">242.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">102.6/102.6 MB</span> <span class="ansi-red-fg">167.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">102.6/102.6 MB</span> <span class="ansi-red-fg">122.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading nvidia_cusparse_cu11-11.7.4.91-py3-none-manylinux1_x86_64.whl (173.2 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/173.2 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1936,31 +2050,79 @@ Downloading nvidia_cusparse_cu11-11.7.4.91-py3-none-manylinux1_x86_64.whl (173.2
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">52.2/173.2 MB</span> <span class="ansi-red-fg">260.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">31.5/173.2 MB</span> <span class="ansi-red-fg">158.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">101.2/173.2 MB</span> <span class="ansi-red-fg">251.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">67.1/173.2 MB</span> <span class="ansi-red-fg">168.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━</span> <span class="ansi-green-fg">149.9/173.2 MB</span> <span class="ansi-red-fg">248.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">96.7/173.2 MB</span> <span class="ansi-red-fg">160.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">244.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━</span> <span class="ansi-green-fg">117.4/173.2 MB</span> <span class="ansi-red-fg">145.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">244.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">173.2/173.2 MB</span> <span class="ansi-red-fg">169.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━</span> <span class="ansi-green-fg">148.9/173.2 MB</span> <span class="ansi-red-fg">147.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">173.0/173.2 MB</span> <span class="ansi-red-fg">149.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">173.2/173.2 MB</span> <span class="ansi-red-fg">70.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading nvidia_nccl_cu11-2.14.3-py3-none-manylinux1_x86_64.whl (177.1 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/177.1 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -1968,110 +2130,80 @@ Downloading nvidia_nccl_cu11-2.14.3-py3-none-manylinux1_x86_64.whl (177.1 MB)
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">45.1/177.1 MB</span> <span class="ansi-red-fg">225.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">32.5/177.1 MB</span> <span class="ansi-red-fg">163.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">88.1/177.1 MB</span> <span class="ansi-red-fg">219.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">61.9/177.1 MB</span> <span class="ansi-red-fg">155.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━</span> <span class="ansi-green-fg">134.0/177.1 MB</span> <span class="ansi-red-fg">222.0 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">92.3/177.1 MB</span> <span class="ansi-red-fg">152.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━</span> <span class="ansi-green-fg">114.3/177.1 MB</span> <span class="ansi-red-fg">142.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━</span> <span class="ansi-green-fg">144.7/177.1 MB</span> <span class="ansi-red-fg">143.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-black-intense-fg">╺</span><span class="ansi-black-intense-fg">━</span> <span class="ansi-green-fg">169.9/177.1 MB</span> <span class="ansi-red-fg">140.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">140.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">176.9/177.1 MB</span> <span class="ansi-red-fg">226.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">177.1/177.1 MB</span> <span class="ansi-red-fg">70.2 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">177.1/177.1 MB</span> <span class="ansi-red-fg">111.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading nvidia_nvtx_cu11-11.7.91-py3-none-manylinux1_x86_64.whl (98 kB)
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading triton-2.0.0-1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (63.3 MB)
+Downloading triton-2.0.0-1-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl (63.3 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/63.3 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━</span> <span class="ansi-green-fg">58.5/63.3 MB</span> <span class="ansi-red-fg">292.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span><span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">35.7/63.3 MB</span> <span class="ansi-red-fg">178.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">63.3/63.3 MB</span> <span class="ansi-red-fg">187.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-red-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span><span class="ansi-red-intense-fg">╸</span> <span class="ansi-green-fg">63.2/63.3 MB</span> <span class="ansi-red-fg">179.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:01</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">63.3/63.3 MB</span> <span class="ansi-red-fg">134.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading anyio-3.7.1-py3-none-any.whl (80 kB)
+Downloading bcrypt-4.3.0-cp39-abi3-manylinux_2_34_x86_64.whl (284 kB)
+Downloading fastapi-0.99.1-py3-none-any.whl (58 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading bcrypt-4.3.0-cp39-abi3-manylinux_2_34_x86_64.whl (284 kB)
-Downloading fastapi-0.99.1-py3-none-any.whl (58 kB)
-Downloading langsmith-0.0.92-py3-none-any.whl (56 kB)
+<pre>Downloading langsmith-0.0.92-py3-none-any.whl (56 kB)
 Downloading numexpr-2.10.2-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (398 kB)
 Downloading numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (18.3 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/18.3 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
@@ -2080,23 +2212,17 @@ Downloading numpy-1.26.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">18.3/18.3 MB</span> <span class="ansi-red-fg">177.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading onnxruntime-1.21.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.0 MB)
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">18.3/18.3 MB</span> <span class="ansi-red-fg">208.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+Downloading onnxruntime-1.21.0-cp311-cp311-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl (16.0 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/16.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">16.0/16.0 MB</span> <span class="ansi-red-fg">170.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">16.0/16.0 MB</span> <span class="ansi-red-fg">126.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading overrides-7.7.0-py3-none-any.whl (17 kB)
-Downloading posthog-3.20.0-py2.py3-none-any.whl (79 kB)
+Downloading posthog-3.24.0-py2.py3-none-any.whl (85 kB)
 Downloading pulsar_client-3.6.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (6.0 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/6.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -2104,7 +2230,7 @@ Downloading pulsar_client-3.6.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">6.0/6.0 MB</span> <span class="ansi-red-fg">152.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">6.0/6.0 MB</span> <span class="ansi-red-fg">141.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading pydantic-1.10.21-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.1 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/3.1 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
@@ -2112,7 +2238,7 @@ Downloading pydantic-1.10.21-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">3.1/3.1 MB</span> <span class="ansi-red-fg">102.8 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">3.1/3.1 MB</span> <span class="ansi-red-fg">131.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading tenacity-8.5.0-py3-none-any.whl (28 kB)
 Downloading tokenizers-0.13.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (7.8 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/7.8 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
@@ -2121,55 +2247,61 @@ Downloading tokenizers-0.13.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x8
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">7.8/7.8 MB</span> <span class="ansi-red-fg">130.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">7.8/7.8 MB</span> <span class="ansi-red-fg">125.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading uvicorn-0.34.0-py3-none-any.whl (62 kB)
 Downloading nltk-3.9.1-py3-none-any.whl (1.5 MB)
-   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/1.5 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">1.5/1.5 MB</span> <span class="ansi-red-fg">152.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-Downloading torchvision-0.15.2-cp311-cp311-manylinux1_x86_64.whl (6.0 MB)
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/1.5 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">1.5/1.5 MB</span> <span class="ansi-red-fg">115.7 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Downloading torchvision-0.15.2-cp311-cp311-manylinux1_x86_64.whl (6.0 MB)
    <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/6.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">6.0/6.0 MB</span> <span class="ansi-red-fg">122.4 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">6.0/6.0 MB</span> <span class="ansi-red-fg">126.3 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
 Downloading backoff-2.2.1-py3-none-any.whl (15 kB)
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading httptools-0.6.4-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (459 kB)
+Downloading httptools-0.6.4-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (459 kB)
 Downloading monotonic-1.6-py2.py3-none-any.whl (8.2 kB)
 Downloading starlette-0.27.0-py3-none-any.whl (66 kB)
-Downloading uvloop-0.21.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.0 MB)
-   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/4.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">4.0/4.0 MB</span> <span class="ansi-red-fg">136.5 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-Downloading watchfiles-1.0.4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (452 kB)
-Downloading coloredlogs-15.0.1-py2.py3-none-any.whl (46 kB)
-Downloading flatbuffers-25.2.10-py2.py3-none-any.whl (30 kB)
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>Downloading humanfriendly-10.0-py2.py3-none-any.whl (86 kB)
-Downloading cmake-3.31.6-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (27.8 MB)
-   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/27.8 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
+<pre>Downloading uvloop-0.21.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.0 MB)
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/4.0 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">4.0/4.0 MB</span> <span class="ansi-red-fg">111.9 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+</pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">27.8/27.8 MB</span> <span class="ansi-red-fg">221.6 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
-Downloading lit-18.1.8-py3-none-any.whl (96 kB)
+<pre>Downloading watchfiles-1.0.5-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (454 kB)
+Downloading coloredlogs-15.0.1-py2.py3-none-any.whl (46 kB)
+Downloading flatbuffers-25.2.10-py2.py3-none-any.whl (30 kB)
+Downloading humanfriendly-10.0-py2.py3-none-any.whl (86 kB)
+Downloading cmake-4.0.0-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (27.9 MB)
+   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">0.0/27.9 MB</span> <span class="ansi-red-fg">?</span> eta <span class="ansi-cyan-fg">-:--:--</span></pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>   <span class="ansi-black-intense-fg">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span> <span class="ansi-green-fg">27.9/27.9 MB</span> <span class="ansi-red-fg">140.1 MB/s</span> eta <span class="ansi-cyan-fg">0:00:00</span>
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Downloading lit-18.1.8-py3-none-any.whl (96 kB)
 </pre>
 </div>
 </div>
@@ -2202,7 +2334,7 @@ Downloading lit-18.1.8-py3-none-any.whl (96 kB)
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre> done
-  Created wheel for sentence_transformers: filename=sentence_transformers-2.2.2-py3-none-any.whl size=125993 sha256=9468c0b3f6e346650adaec651e9e8db2db7087e50cf43f3d7fc24df164fe016a
+  Created wheel for sentence_transformers: filename=sentence_transformers-2.2.2-py3-none-any.whl size=125993 sha256=15ccba775d8f184cc84aaef160a22558ddf8824e1ed2c189ac50690cb5982081
   Stored in directory: /home/runner/.cache/pip/wheels/ff/27/bf/ffba8b318b02d7f691a57084ee154e26ed24d012b0c7805881
 </pre>
 </div>
@@ -2217,9 +2349,15 @@ Downloading lit-18.1.8-py3-none-any.whl (96 kB)
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre> done
-  Created wheel for pypika: filename=pypika-0.48.9-py2.py3-none-any.whl size=53769 sha256=c33c6c2eb5a398b686c787c2db70141baa88cd6823a34197d7a43f82fcb91679
+  Created wheel for pypika: filename=pypika-0.48.9-py2.py3-none-any.whl size=53800 sha256=78fa96244ccad2128e73ac7f412c6a282ab6f847312086ed0a0971806360a0b2
   Stored in directory: /home/runner/.cache/pip/wheels/a3/01/bd/4c40ceb9d5354160cb186dcc153360f4ab7eb23e2b24daf96d
-Successfully built sentence_transformers pypika
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>Successfully built sentence_transformers pypika
 </pre>
 </div>
 </div>
@@ -2228,13 +2366,7 @@ Successfully built sentence_transformers pypika
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>Installing collected packages: tokenizers, pypika, monotonic, lit, flatbuffers, bitsandbytes, uvloop, uvicorn, tenacity, pydantic, pulsar-client, overrides, nvidia-nvtx-cu11, nvidia-nccl-cu11, nvidia-cusparse-cu11, nvidia-curand-cu11, nvidia-cufft-cu11, nvidia-cuda-runtime-cu11, nvidia-cuda-nvrtc-cu11, nvidia-cuda-cupti-cu11, nvidia-cublas-cu11, numpy, nltk, humanfriendly, httptools, einops, cmake, bcrypt, backoff, anyio, watchfiles, starlette, posthog, nvidia-cusolver-cu11, nvidia-cudnn-cu11, numexpr, langsmith, coloredlogs, chroma-hnswlib, transformers, onnxruntime, langchain, fastapi, chromadb, triton, torch, torchvision, xformers, sentence_transformers, accelerate
   Attempting uninstall: tokenizers
-</pre>
-</div>
-</div>
-<div class="jp-OutputArea-child">
-<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>    Found existing installation: tokenizers 0.21.1
+    Found existing installation: tokenizers 0.21.1
     Uninstalling tokenizers-0.21.1:
       Successfully uninstalled tokenizers-0.21.1
 </pre>
@@ -2264,14 +2396,14 @@ Successfully built sentence_transformers pypika
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>  Attempting uninstall: numpy
+    Found existing installation: numpy 2.2.0
 </pre>
 </div>
 </div>
 <div class="jp-OutputArea-child">
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
-<pre>    Found existing installation: numpy 2.2.0
-    Uninstalling numpy-2.2.0:
+<pre>    Uninstalling numpy-2.2.0:
       Successfully uninstalled numpy-2.2.0
 </pre>
 </div>
@@ -2308,7 +2440,13 @@ Successfully built sentence_transformers pypika
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>    Uninstalling transformers-4.49.0:
-      Successfully uninstalled transformers-4.49.0
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>      Successfully uninstalled transformers-4.49.0
 </pre>
 </div>
 </div>
@@ -2316,7 +2454,13 @@ Successfully built sentence_transformers pypika
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>  Attempting uninstall: langchain
-    Found existing installation: langchain 0.3.20
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>    Found existing installation: langchain 0.3.20
 </pre>
 </div>
 </div>
@@ -2350,7 +2494,13 @@ Successfully built sentence_transformers pypika
 <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
 <pre>    Uninstalling torch-2.5.1:
-      Successfully uninstalled torch-2.5.1
+</pre>
+</div>
+</div>
+<div class="jp-OutputArea-child">
+<div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+<div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain" tabindex="0">
+<pre>      Successfully uninstalled torch-2.5.1
 </pre>
 </div>
 </div>
@@ -2372,9 +2522,9 @@ cohere 5.14.0 requires tokenizers&lt;1,&gt;=0.15, but you have tokenizers 0.13.3
 pydantic-settings 2.8.1 requires pydantic&gt;=2.7.0, but you have pydantic 1.10.21 which is incompatible.
 google-genai 1.5.0 requires anyio&lt;5.0.0dev,&gt;=4.8.0, but you have anyio 3.7.1 which is incompatible.
 google-genai 1.5.0 requires pydantic&lt;3.0.0dev,&gt;=2.0.0, but you have pydantic 1.10.21 which is incompatible.
-anamnesisai 0.2.0 requires torch&gt;=2.5.0, but you have torch 2.0.1 which is incompatible.
 instructor 1.7.5 requires pydantic&lt;3.0.0,&gt;=2.8.0, but you have pydantic 1.10.21 which is incompatible.
 instructor 1.7.5 requires tenacity&lt;10.0.0,&gt;=9.0.0, but you have tenacity 8.5.0 which is incompatible.
+anamnesisai 0.2.1 requires torch&gt;=2.5.0, but you have torch 2.0.1 which is incompatible.
 rago 0.13.0 requires langchain&gt;=0.3.7, but you have langchain 0.0.300 which is incompatible.
 rago 0.13.0 requires numpy&lt;=2.2,&gt;=2; python_version &gt; "3.9", but you have numpy 1.26.4 which is incompatible.
 rago 0.13.0 requires pydantic&gt;=2, but you have pydantic 1.10.21 which is incompatible.
@@ -2384,7 +2534,7 @@ langchain-community 0.3.19 requires langsmith&lt;0.4,&gt;=0.1.125, but you have 
 langchain-core 0.3.45 requires langsmith&lt;0.4,&gt;=0.1.125, but you have langsmith 0.0.92 which is incompatible.
 langchain-core 0.3.45 requires pydantic&lt;3.0.0,&gt;=2.5.2; python_full_version &lt; "3.12.4", but you have pydantic 1.10.21 which is incompatible.
 fhir-core 1.0.0 requires pydantic&lt;3.0,&gt;=2.7.4, but you have pydantic 1.10.21 which is incompatible.</span><span class="ansi-red-fg">
-</span>Successfully installed accelerate-0.22.0 anyio-3.7.1 backoff-2.2.1 bcrypt-4.3.0 bitsandbytes-0.41.1 chroma-hnswlib-0.7.3 chromadb-0.4.12 cmake-3.31.6 coloredlogs-15.0.1 einops-0.6.1 fastapi-0.99.1 flatbuffers-25.2.10 httptools-0.6.4 humanfriendly-10.0 langchain-0.0.300 langsmith-0.0.92 lit-18.1.8 monotonic-1.6 nltk-3.9.1 numexpr-2.10.2 numpy-1.26.4 nvidia-cublas-cu11-11.10.3.66 nvidia-cuda-cupti-cu11-11.7.101 nvidia-cuda-nvrtc-cu11-11.7.99 nvidia-cuda-runtime-cu11-11.7.99 nvidia-cudnn-cu11-8.5.0.96 nvidia-cufft-cu11-10.9.0.58 nvidia-curand-cu11-10.2.10.91 nvidia-cusolver-cu11-11.4.0.1 nvidia-cusparse-cu11-11.7.4.91 nvidia-nccl-cu11-2.14.3 nvidia-nvtx-cu11-11.7.91 onnxruntime-1.21.0 overrides-7.7.0 posthog-3.20.0 pulsar-client-3.6.1 pydantic-1.10.21 pypika-0.48.9 sentence_transformers-2.2.2 starlette-0.27.0 tenacity-8.5.0 tokenizers-0.13.3 torch-2.0.1 torchvision-0.15.2 transformers-4.33.0 triton-2.0.0 uvicorn-0.34.0 uvloop-0.21.0 watchfiles-1.0.4 xformers-0.0.21
+</span>Successfully installed accelerate-0.22.0 anyio-3.7.1 backoff-2.2.1 bcrypt-4.3.0 bitsandbytes-0.41.1 chroma-hnswlib-0.7.3 chromadb-0.4.12 cmake-4.0.0 coloredlogs-15.0.1 einops-0.6.1 fastapi-0.99.1 flatbuffers-25.2.10 httptools-0.6.4 humanfriendly-10.0 langchain-0.0.300 langsmith-0.0.92 lit-18.1.8 monotonic-1.6 nltk-3.9.1 numexpr-2.10.2 numpy-1.26.4 nvidia-cublas-cu11-11.10.3.66 nvidia-cuda-cupti-cu11-11.7.101 nvidia-cuda-nvrtc-cu11-11.7.99 nvidia-cuda-runtime-cu11-11.7.99 nvidia-cudnn-cu11-8.5.0.96 nvidia-cufft-cu11-10.9.0.58 nvidia-curand-cu11-10.2.10.91 nvidia-cusolver-cu11-11.4.0.1 nvidia-cusparse-cu11-11.7.4.91 nvidia-nccl-cu11-2.14.3 nvidia-nvtx-cu11-11.7.91 onnxruntime-1.21.0 overrides-7.7.0 posthog-3.24.0 pulsar-client-3.6.1 pydantic-1.10.21 pypika-0.48.9 sentence_transformers-2.2.2 starlette-0.27.0 tenacity-8.5.0 tokenizers-0.13.3 torch-2.0.1 torchvision-0.15.2 transformers-4.33.0 triton-2.0.0 uvicorn-0.34.0 uvloop-0.21.0 watchfiles-1.0.5 xformers-0.0.21
 </pre>
 </div>
 </div>
@@ -2626,7 +2776,7 @@ print(f"Prepare model, tokenizer: {round(time_2-time_1, 3)} sec.")</div>
 During handling of the above exception, another exception occurred:
 
 <span class="ansi-red-fg">OSError</span>                                   Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/1311373251.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/1311373251.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      1</span> time_1 <span class="ansi-blue-fg">=</span> time<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
 <span class="ansi-green-fg">----&gt; 2</span><span class="ansi-red-fg"> model_config = transformers.AutoConfig.from_pretrained(
 </span><span class="ansi-green-intense-fg ansi-bold">      3</span>     model_id<span class="ansi-blue-fg">,</span>
@@ -2723,7 +2873,7 @@ print(f"Prepare pipeline: {round(time_2-time_1, 3)} sec.")</div>
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/199530327.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/199530327.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      2</span> query_pipeline = transformers.pipeline(
 <span class="ansi-green-intense-fg ansi-bold">      3</span>         <span class="ansi-blue-fg">"text-generation"</span><span class="ansi-blue-fg">,</span>
 <span class="ansi-green-fg">----&gt; 4</span><span class="ansi-red-fg">         </span>model<span class="ansi-blue-fg">=</span>model<span class="ansi-blue-fg">,</span>
@@ -2873,7 +3023,7 @@ test_model(tokenizer,
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/912279118.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/912279118.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      1</span> <span class="ansi-red-fg">#test1</span>
 <span class="ansi-green-fg">----&gt; 2</span><span class="ansi-red-fg"> test_model(tokenizer,
 </span><span class="ansi-green-intense-fg ansi-bold">      3</span>            query_pipeline<span class="ansi-blue-fg">,</span>
@@ -2947,7 +3097,7 @@ llm(prompt="Please explain what is cancer? Give just a definition. Keep it in 10
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/696206675.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/696206675.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>llm <span class="ansi-blue-fg">=</span> HuggingFacePipeline<span class="ansi-blue-fg">(</span>pipeline<span class="ansi-blue-fg">=</span>query_pipeline<span class="ansi-blue-fg">)</span>
 <span class="ansi-green-intense-fg ansi-bold">      2</span> <span class="ansi-red-fg"># test2</span>
 <span class="ansi-green-intense-fg ansi-bold">      3</span> llm<span class="ansi-blue-fg">(</span>prompt<span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">"Please explain what is cancer? Give just a definition. Keep it in 100 words."</span><span class="ansi-blue-fg">)</span>
@@ -3019,7 +3169,7 @@ documents = loader.load()</div>
 The above exception was the direct cause of the following exception:
 
 <span class="ansi-red-fg">RuntimeError</span>                              Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/3108852290.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/3108852290.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      1</span> loader = TextLoader("/kaggle/input/patient/Patient data.txt",
 <span class="ansi-green-intense-fg ansi-bold">      2</span>                     encoding="utf8")
 <span class="ansi-green-fg">----&gt; 3</span><span class="ansi-red-fg"> </span>documents <span class="ansi-blue-fg">=</span> loader<span class="ansi-blue-fg">.</span>load<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
@@ -3086,7 +3236,7 @@ all_splits = text_splitter.split_documents(documents)</div>
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/3945965064.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/3945965064.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      1</span> text_splitter <span class="ansi-blue-fg">=</span> RecursiveCharacterTextSplitter<span class="ansi-blue-fg">(</span>chunk_size<span class="ansi-blue-fg">=</span><span class="ansi-cyan-fg">1000</span><span class="ansi-blue-fg">,</span> chunk_overlap<span class="ansi-blue-fg">=</span><span class="ansi-cyan-fg">20</span><span class="ansi-blue-fg">)</span>
 <span class="ansi-green-fg">----&gt; 2</span><span class="ansi-red-fg"> </span>all_splits <span class="ansi-blue-fg">=</span> text_splitter<span class="ansi-blue-fg">.</span>split_documents<span class="ansi-blue-fg">(</span>documents<span class="ansi-blue-fg">)</span>
 
@@ -3190,7 +3340,7 @@ embeddings = HuggingFaceEmbeddings(model_name=model_name, model_kwargs=model_kwa
 The above exception was the direct cause of the following exception:
 
 <span class="ansi-red-fg">ImportError</span>                               Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/2257289084.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/2257289084.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      2</span> model_kwargs <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">{</span><span class="ansi-blue-fg">"device"</span><span class="ansi-blue-fg">:</span> <span class="ansi-blue-fg">"cuda"</span><span class="ansi-blue-fg">}</span>
 <span class="ansi-green-intense-fg ansi-bold">      3</span> 
 <span class="ansi-green-fg">----&gt; 4</span><span class="ansi-red-fg"> </span>embeddings <span class="ansi-blue-fg">=</span> HuggingFaceEmbeddings<span class="ansi-blue-fg">(</span>model_name<span class="ansi-blue-fg">=</span>model_name<span class="ansi-blue-fg">,</span> model_kwargs<span class="ansi-blue-fg">=</span>model_kwargs<span class="ansi-blue-fg">)</span>
@@ -3255,7 +3405,7 @@ The above exception was the direct cause of the following exception:
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/756801264.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/756801264.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>vectordb <span class="ansi-blue-fg">=</span> Chroma<span class="ansi-blue-fg">.</span>from_documents<span class="ansi-blue-fg">(</span>documents<span class="ansi-blue-fg">=</span>all_splits<span class="ansi-blue-fg">,</span> embedding<span class="ansi-blue-fg">=</span>embeddings<span class="ansi-blue-fg">,</span> persist_directory<span class="ansi-blue-fg">=</span><span class="ansi-blue-fg">"chroma_db"</span><span class="ansi-blue-fg">)</span>
 
 <span class="ansi-red-fg">NameError</span>: name 'all_splits' is not defined</pre>
@@ -3325,7 +3475,7 @@ qa = RetrievalQA.from_chain_type(
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/736933915.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/736933915.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>retriever <span class="ansi-blue-fg">=</span> vectordb<span class="ansi-blue-fg">.</span>as_retriever<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">)</span>
 <span class="ansi-green-intense-fg ansi-bold">      2</span> 
 <span class="ansi-green-intense-fg ansi-bold">      3</span> qa = RetrievalQA.from_chain_type(
@@ -3437,7 +3587,7 @@ test_rag(qa, query)</div>
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/2636698936.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/2636698936.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      1</span> query <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">"What were the main symptoms a patient with cough/cold was suffering from? Summarize. Keep it under 200 words."</span>
 <span class="ansi-green-fg">----&gt; 2</span><span class="ansi-red-fg"> </span>test_rag<span class="ansi-blue-fg">(</span>qa<span class="ansi-blue-fg">,</span> query<span class="ansi-blue-fg">)</span>
 
@@ -3485,7 +3635,7 @@ test_rag(qa, query)</div>
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/2581198963.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/2581198963.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-intense-fg ansi-bold">      1</span> query <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">"What is the cause of headache? Summarize. Keep it under 200 words."</span>
 <span class="ansi-green-fg">----&gt; 2</span><span class="ansi-red-fg"> </span>test_rag<span class="ansi-blue-fg">(</span>qa<span class="ansi-blue-fg">,</span> query<span class="ansi-blue-fg">)</span>
 
@@ -3554,7 +3704,7 @@ for doc in docs:
 <pre>
 <span class="ansi-red-fg">---------------------------------------------------------------------------</span>
 <span class="ansi-red-fg">NameError</span>                                 Traceback (most recent call last)
-<span class="ansi-green-fg">/tmp/ipykernel_2918/641566907.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">/tmp/ipykernel_2895/641566907.py</span> in <span class="ansi-cyan-fg">&lt;cell line: 0&gt;</span><span class="ansi-blue-fg">()</span>
 <span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span>docs <span class="ansi-blue-fg">=</span> vectordb<span class="ansi-blue-fg">.</span>similarity_search<span class="ansi-blue-fg">(</span>query<span class="ansi-blue-fg">)</span>
 <span class="ansi-green-intense-fg ansi-bold">      2</span> print<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">f"Query: {query}"</span><span class="ansi-blue-fg">)</span>
 <span class="ansi-green-intense-fg ansi-bold">      3</span> print<span class="ansi-blue-fg">(</span><span class="ansi-blue-fg">f"Retrieved documents: {len(docs)}"</span><span class="ansi-blue-fg">)</span>
