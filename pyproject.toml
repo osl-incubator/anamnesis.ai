@@ -1,6 +1,6 @@
 [project]
 name = "anamnesisai"
-version = "0.2.1"  # semantic-release
+version = "0.3.0"  # semantic-release
 description = "AI-driven anamnesis collection system in the healthcare domain."
 readme = "docs/index.md"
 authors = [
