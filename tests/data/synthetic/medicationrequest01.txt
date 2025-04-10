@@ -1,0 +1,107 @@
+D: Good morning, please come in and have a seat. How are you feeling today?
+
+P: Good morning, Doctor. I've been feeling a bit under the weather for the past few days. I have a persistent cough, a sore throat, and I've been quite congested.
+
+D: I see. Let's talk a bit more about that cough. Is it a dry cough, or are you bringing anything up?
+
+P: It's mostly a dry cough, but sometimes I do cough up a little bit of clear mucus.
+
+D: And how about your sore throat? Is it painful when you swallow?
+
+P: Yes, swallowing is quite uncomfortable, especially in the mornings. It feels scratchy and irritated.
+
+D: Have you taken your temperature recently? Do you know if you've had a fever?
+
+P: I did take my temperature last night, and it was 100.5 degrees Fahrenheit. I haven't checked it this morning yet.
+
+D: Alright. Considering your symptoms – cough, sore throat, congestion, and a mild fever – it sounds like you might have a viral upper respiratory infection.
+
+P: Oh, just a common cold then?
+
+D: It's likely a virus, yes. While most of these infections resolve on their own, we can certainly help manage your symptoms and make you more comfortable. I'm going to create a medication request for you.
+
+P: Medication? What kind of medication?
+
+D: I'm going to prescribe a cough suppressant to help ease your dry cough, especially at night so you can sleep better. It's called dextromethorphan.
+
+P: Dextromethorphan? I think I've heard of that.
+
+D: Yes, it's a common over-the-counter ingredient, but I'll give you a prescription for the specific dosage and instructions I want you to follow.
+
+P: Okay. How often should I take it?
+
+D: The usual dosage is one tablet every four to six hours as needed for cough, but do not exceed four doses in 24 hours. The specific instructions will be printed on the medication label.
+
+P: And what about my sore throat? Is there anything I can take for that?
+
+D: For your sore throat, I recommend using throat lozenges or a throat spray for temporary relief. These are generally available over the counter.
+
+P: Are there any specific brands you would recommend?
+
+D: There are many effective brands. Look for lozenges containing ingredients like benzocaine or dyclonine for numbing, or menthol for a cooling sensation. For sprays, similar ingredients are often used.
+
+P: Okay, I'll pick some up from the pharmacy.
+
+D: I'm also going to include a medication request for a nasal saline spray. This can help to moisten your nasal passages and relieve congestion.
+
+P: A nasal saline spray? How does that work?
+
+D: It's a simple solution of salt and water that you spray into your nostrils. It helps to thin the mucus and makes it easier to clear. You can use it several times a day as needed.
+
+P: That sounds helpful. Are there any side effects with the cough suppressant or the nasal spray?
+
+D: Dextromethorphan is generally well-tolerated, but some people may experience mild drowsiness or dizziness. The nasal saline spray has very few side effects, mainly occasional mild stinging or dryness in the nose.
+
+P: Should I continue taking any other medications I'm currently on?
+
+D: Yes, please continue taking all your regular medications as prescribed, unless I specifically tell you otherwise. This medication request is just for these new medications to manage your current symptoms.
+
+P: How long should I take these medications for?
+
+D: For the cough suppressant and nasal saline spray, use them as needed until your symptoms improve. If your cough persists for more than a week or worsens, or if your fever gets higher or you develop any new symptoms, please contact me again.
+
+P: What about antibiotics? Shouldn't I take antibiotics for this?
+
+D: In most cases of viral upper respiratory infections, antibiotics are not effective because they target bacteria, not viruses. Taking antibiotics unnecessarily can also contribute to antibiotic resistance. We'll only consider antibiotics if there's evidence of a secondary bacterial infection.
+
+P: That makes sense. So, the medication request will be for the cough suppressant and the nasal saline spray?
+
+D: Yes, that's correct. The prescription for the cough suppressant will be sent electronically to your preferred pharmacy. You can pick it up at your convenience. The nasal saline spray is over the counter, so you can purchase that without a prescription.
+
+P: My preferred pharmacy… let me just confirm that. It's [Patient states pharmacy name and location].
+
+D: Yes, that's what we have on file. I'll send the electronic prescription there now. You should be able to pick it up later today.
+
+P: Great, thank you. And just to be clear, the cough suppressant is for the dry cough, and the nasal spray is for the congestion?
+
+D: Exactly. The cough suppressant helps to reduce the urge to cough, and the nasal saline spray helps to clear your nasal passages.
+
+P: And the sore throat I'll manage with lozenges and spray I buy over the counter?
+
+D: Yes, that's the recommendation for now. If your sore throat becomes significantly worse or doesn't improve after a few days, let me know.
+
+P: Are there any other non-medication things I can do to help myself feel better?
+
+D: Yes, plenty of rest is crucial. Make sure you're getting adequate sleep. Drink plenty of fluids, like water, clear broths, and warm tea with honey. Avoid irritants like smoke. A humidifier might also help to soothe your throat and nasal passages.
+
+P: Warm tea with honey sounds good.
+
+D: It can be very soothing. And remember to cover your mouth and nose when you cough or sneeze to prevent spreading the virus. Wash your hands frequently with soap and water.
+
+P: Good reminders. So, the medication request is sent to [Pharmacy Name]?
+
+D: Yes, it should be there shortly. They'll be able to fill it for you.
+
+P: How long will this medication request be valid for?
+
+D: The prescription for the cough suppressant will typically be valid for one year from today, but as I mentioned, use it only as needed for your current symptoms.
+
+P: Okay. So, I pick up the cough medicine, buy the nasal spray and throat lozenges, get plenty of rest and fluids.
+
+D: That's the plan. And monitor your symptoms. If anything worsens or doesn't improve as expected, please don't hesitate to contact us.
+
+P: I will. Thank you for the medication request and the advice, Doctor.
+
+D: You're welcome. I hope you feel better soon. Take care.
+
+P: Thank you, you too.

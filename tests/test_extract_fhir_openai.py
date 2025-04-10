@@ -35,3 +35,19 @@ def test_transcript_1(transcript_1: str, api_key: str) -> None:
     assert fhir_data
     assert isinstance(fhir_data, dict)
     assert len(fhir_data)
+
+
+@pytest.mark.skip_on_ci
+def test_synthetic_files(
+    synthetic_files_content: dict[str, str], api_key: str
+) -> None:
+    """Test if each synthetic data file can be processed."""
+    assert len(synthetic_files_content) > 0
+    for filename, content in synthetic_files_content.items():
+        print(f"Testing synthetic file: {filename}")
+        fhir_data = extract_fhir(content, api_key)
+        assert fhir_data is not None
+        assert fhir_data
+        assert isinstance(fhir_data, dict)
+        assert len(fhir_data) >= 0
+        assert len(fhir_data)
