@@ -80,10 +80,6 @@ jobs:
           poetry config virtualenvs.create false
           poetry install
 
-      - name: Display test file content
-        run: cat tests/test_utils.py
-        shell: bash
-
       - name: Run unit tests
         run: makim tests.unit --params '-m "not skip_on_ci" -vvv'
 

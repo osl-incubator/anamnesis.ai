@@ -29,7 +29,6 @@ def resource() -> Type[Resource]:
 def test_get_resource_detail(resource: Type[Resource]) -> None:
     """Test get_resource_detail function."""
     expected = (
-        "MOCK RESOURCE FOR TESTING PURPOSES ONLY. "
         "This is a simulated DomainResource used to test "
         "resource handling functionality. It mimics the "
         "structure of a real FHIR resource but contains no "
