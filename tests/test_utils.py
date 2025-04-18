@@ -8,10 +8,9 @@ from anamnesisai.utils import get_resource_detail
 from fhir.resources.resource import Resource
 
 
+# ruff: noqa: D205
 class MockResource(Resource):  # type: ignore[misc]
-    """MOCK RESOURCE FOR TESTING PURPOSES ONLY.
-
-    Disclaimer: Any field name ends with ``__ext`` doesn't part of
+    """Disclaimer: Any field name ends with ``__ext`` doesn't part of
     Resource StructureDefinition, instead used to enable Extensibility feature
     for FHIR Primitive Data Types.
 
