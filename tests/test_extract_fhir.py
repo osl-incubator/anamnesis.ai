@@ -96,6 +96,7 @@ def _check_transcript_1(
     return True
 
 
+@pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_transcript_1(
     transcript_1: str, backend: Literal["openai", "ollama"]
