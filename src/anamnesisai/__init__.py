@@ -2,6 +2,8 @@
 
 from importlib import metadata as importlib_metadata
 
+from anamnesisai.core import AnamnesisAI
+
 
 def get_version() -> str:
     """Return the program version."""
@@ -16,3 +18,6 @@ version = get_version()
 __version__ = version
 __author__ = "Satarupa Deb, Ivan Ogasawara"
 __email__ = "satarupa2212@gmail.com, ivan.ogasawara@gmail.com"
+
+
+__all__ = ["AnamnesisAI"]

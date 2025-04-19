@@ -21,10 +21,11 @@ dependencies = [
     "openai>=1.52.2",
     "fhir-resources>=8",
     "torch>=2.5.0",
-    "rago>=0.13.0",
+    "rago (>=0.14.0)",
     'eval_type_backport>=0.2; python_version < "3.10"',
     "typeguard>=4",
     "google-genai (>=1.5.0,<2.0.0)",
+    "ollama (>=0.4)",
 ]
 
 [tool.poetry.group.dev.dependencies]
