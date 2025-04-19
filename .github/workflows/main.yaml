@@ -41,6 +41,10 @@ jobs:
         os:
           - "ubuntu"
           - "macos"
+          - "windows"
+      exclude:
+        - os: windows
+          python_version: "3.9"
     runs-on: ${{ matrix.os }}-latest
     concurrency:
       group: ci-tests-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
@@ -51,10 +55,20 @@ jobs:
         shell: bash -l {0}
 
     env:
-      OPENAI_API_KEY: "dummy-key"
+      OLLAMA_LLM_LIBRARY: cpu
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Cache ollama
+        uses: actions/cache@v4
+        with:
+          path: ~/.ollama
+          key: ${{ matrix.os }}-ollama
+
+      - name: Setup ollama macos
+        if: ${{ matrix.os == 'macos' }}
+        uses: ai-action/setup-ollama@v1
 
       - uses: conda-incubator/setup-miniconda@v3
         with:
@@ -80,8 +94,25 @@ jobs:
           poetry config virtualenvs.create false
           poetry install
 
-      - name: Run unit tests
-        run: makim tests.unit --params '-m "not skip_on_ci" -vvv'
+      - name: Setup ollama linux/windows
+        if: ${{ matrix.os != 'macos' }}
+        run: |
+          ollama serve &
+
+      - name: Download llama model
+        run: |
+          sleep 20
+          ollama pull llama3.2:1b
+
+      - name: Run unit tests (PR)
+        if: ${{ github.event_name == 'pull_request' }}
+        run: pytest -m "not skip_on_ci" -vvv
+
+      - name: Run unit tests (push)
+        if: ${{ github.event_name == 'push' }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: makim tests.unit
 
       - name: Test jupyter notebooks
         run: makim tests.notebooks

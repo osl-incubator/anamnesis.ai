@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import os
+
 from glob import glob
 from pathlib import Path
 from typing import Optional
@@ -17,6 +19,17 @@ def env() -> dict[str, Optional[str]]:
     dotenv_file = Path(__file__).parent / ".env"
     load_dotenv(dotenv_file)
     return dotenv_values(dotenv_file)
+
+
+@pytest.fixture
+def openai_api_key(env: dict[str, Optional[str]]) -> str:
+    """Fixture for OpenAI API key from environment."""
+    api_key = os.getenv("OPENAI_API_KEY", "")
+    if not api_key:
+        raise EnvironmentError(
+            "Please set the OPENAI_API_KEY environment variable."
+        )
+    return api_key
 
 
 @pytest.fixture

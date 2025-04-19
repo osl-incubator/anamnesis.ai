@@ -2,6 +2,24 @@
 
 from __future__ import annotations
 
+from anamnesisai.supported_fhir import RESOURCES_CLASSES
+
+_DISCLAIMER_TEXT = """
+Disclaimer: Any field name ends with ``__ext`` doesn't part of
+    Resource StructureDefinition, instead used to enable Extensibility feature
+    for FHIR Primitive Data Types.
+""".strip()
+
+FHIR_RESOURCES_NAMES = {
+    cls.__name__: " ".join(
+        cls.__doc__.replace(_DISCLAIMER_TEXT, "")
+        .replace("\n", " ")
+        .strip()
+        .split()
+    )
+    for cls in RESOURCES_CLASSES
+}
+
 # prompt template for getting the given FHIR resource from the given
 # conversation between m.d. and patient.
 PROMPT_TEMPLATE = """
@@ -40,13 +58,19 @@ context:
 {context}
 ```
 
-In the conversation, `D:` means it is from the Doctor, and `P:` means
-it is from the Patience.
+In the conversation, `D:` means Doctor, and `P:` means Patience.
 
 Question: what fhir resource/types could be extract from this conversation?
-note: I don't need the data just the name of the types/resources
-"""
+The answer should be a JSON with the name of the types/resources as a key and
+true or false as the value. `true` if the types/resource is present in the
+conversation or `false` otherwise. The current FHIR resources you should check
+are:
 
+{FHIR_RESOURCES}
+""".replace(
+    "{FHIR_RESOURCES}",
+    "/n* ".join([f"{k}" for k, v in FHIR_RESOURCES_NAMES.items()]),
+)
 
 __all__ = [
     "PROMPT_TEMPLATE",
