@@ -13,7 +13,7 @@ jobs:
   check-branch:
     if: ${{ github.event_name == 'pull_request' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 5
     concurrency:
       group: check-pr-${{ github.ref }}
       cancel-in-progress: true
@@ -30,7 +30,7 @@ jobs:
           pr_sha: ${{ github.event.pull_request.head.sha }}
 
   tests:
-    timeout-minutes: 10
+    timeout-minutes: 20
     strategy:
       fail-fast: false
       matrix:

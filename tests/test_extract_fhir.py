@@ -60,6 +60,7 @@ def _check_fhir_resources(
     return True
 
 
+@pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_check_fhir_resources_ci(
     transcript_1: str, backend: Literal["openai", "ollama"]
@@ -137,6 +138,7 @@ def _check_synthetic_files(
     return True
 
 
+@pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_synthetic_files_ci(
     synthetic_files_content: dict[str, str],
