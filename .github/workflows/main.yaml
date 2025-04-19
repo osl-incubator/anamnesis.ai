@@ -42,9 +42,9 @@ jobs:
           - "ubuntu"
           - "macos"
           - "windows"
-      exclude:
-        - os: windows
-          python_version: "3.9"
+        exclude:
+          - os: windows
+            python_version: "3.9"
     runs-on: ${{ matrix.os }}-latest
     concurrency:
       group: ci-tests-${{ matrix.os }}-${{ matrix.python_version }}-${{ github.ref }}
