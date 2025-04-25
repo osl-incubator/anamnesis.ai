@@ -8,6 +8,7 @@ from copy import copy
 from typing import Any, Literal, Type, cast
 
 from fhir.resources.resource import Resource
+from instructor.exceptions import InstructorRetryException
 from rago.generation.base import GenerationBase
 from typeguard import typechecked
 
@@ -121,9 +122,18 @@ class AnamnesisAI:
                 structured_output=fhir_class,
                 **self.api_params,
             )
-            # the query is already present in the prompt template
-            result = gen.generate(query="", context=[text])
 
-            fhir_obj = cast(Resource, result)
-            results[resource_name] = fhir_obj
+            try:
+                # the query is already present in the prompt template
+                result = gen.generate(query="", context=[text])
+
+                fhir_obj = cast(Resource, result)
+                results[resource_name] = fhir_obj
+                logging.debug(f"[SUCCESS] Parsed {resource_name} resource.")
+            except InstructorRetryException as e:
+                # raises by pydantic everytime the LLM can't
+                # comply to fhir.resources model
+                logging.debug(f"[ERROR] Failed to parse {resource_name}: {e}")
+                continue
+
         return results
