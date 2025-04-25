@@ -30,7 +30,7 @@ logging.basicConfig(
 
 DEFAULT_GEN_PARAMS = {
     "openai": {
-        "model_name": "gpt-o4-mini",
+        "model_name": "gpt-4o-mini",
         "output_max_length": 10384,  # note: calc this number
     },
     "ollama": {
