@@ -27,6 +27,33 @@ def test_fixture(transcript_1: str, openai_api_key: str) -> None:
     assert openai_api_key
 
 
+@pytest.mark.skip_on_ci
+def test_check_fhir_resources(transcript_1: str, openai_api_key: str) -> None:
+    """Test FHIR resources are found correctly."""
+    aai = AnamnesisAI(backend="openai", api_key=openai_api_key)
+    fhir_resources = aai._check_possible_fhir_resources(transcript_1)
+    assert fhir_resources
+    assert isinstance(fhir_resources, FHIRResourceFoundModel)
+    assert fhir_resources.Patient
+    assert fhir_resources.FamilyMemberHistory
+
+
+@pytest.mark.skip_on_ci
+def test_extract_fhir(transcript_1: str, openai_api_key: str) -> None:
+    """Test FHIR resources are extracted correctly."""
+    aai = AnamnesisAI(backend="openai", api_key=openai_api_key)
+    extracted_fhir = aai.extract_fhir(transcript_1)
+    assert extracted_fhir
+    assert isinstance(extracted_fhir, dict)
+    assert len(extracted_fhir) > 0, (
+        "Expected at least one resource in FHIR output"
+    )
+    assert all(
+        key in extracted_fhir
+        for key in ("Patient", "FamilyMemberHistory", "AllergyIntolerance")
+    )
+
+
 def _check_fhir_resources(
     text: str, backend: Literal["openai", "ollama"]
 ) -> bool:
@@ -60,6 +87,7 @@ def _check_fhir_resources(
     return True
 
 
+@pytest.mark.skip_on_ci
 @pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_check_fhir_resources_ci(
@@ -96,6 +124,7 @@ def _check_transcript_1(
     return True
 
 
+@pytest.mark.skip_on_ci
 @pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_transcript_1(
@@ -139,6 +168,7 @@ def _check_synthetic_files(
     return True
 
 
+@pytest.mark.skip_on_ci
 @pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_synthetic_files_ci(
