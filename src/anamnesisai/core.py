@@ -8,7 +8,6 @@ from copy import copy
 from typing import Any, Literal, Type, cast
 
 from fhir.resources.resource import Resource
-from instructor.exceptions import InstructorRetryException
 from rago.generation.base import GenerationBase
 from typeguard import typechecked
 
@@ -19,6 +18,7 @@ from anamnesisai.config import (
 from anamnesisai.supported_fhir import (
     RESOURCES_CLASSES,
     FHIRResourceFoundModel,
+    InvalidFHIRResource,
 )
 from anamnesisai.utils import get_resource_detail
 
@@ -31,7 +31,7 @@ logging.basicConfig(
 
 DEFAULT_GEN_PARAMS = {
     "openai": {
-        "model_name": "gpt-4o-mini",
+        "model_name": "o4-mini",
         "output_max_length": 10384,  # note: calc this number
     },
     "ollama": {
@@ -46,9 +46,9 @@ def get_generation_class(
 ) -> Type[GenerationBase]:
     """Get the generation class."""
     if backend == "openai":
-        from rago.generation import OpenAIGen
+        from anamnesisai.generation import OpenAI4MiniGen
 
-        return OpenAIGen
+        return OpenAI4MiniGen
 
     if backend == "ollama":
         from rago.generation import OllamaOpenAIGen
@@ -93,11 +93,13 @@ class AnamnesisAI:
         return cast(FHIRResourceFoundModel, result)
 
     @typechecked
-    def extract_fhir(self, text: str) -> dict[str, Resource]:
+    def extract_fhir(
+        self, text: str
+    ) -> tuple[list[Resource], list[InvalidFHIRResource]]:
         """Extract FHIR from the given text."""
         possible_fhir = self._check_possible_fhir_resources(text)
 
-        results: dict[str, Resource] = {}
+        results: tuple[list[Resource], list[InvalidFHIRResource]] = ([], [])
         for fhir_class in RESOURCES_CLASSES:
             resource_name = fhir_class.__name__
 
@@ -123,17 +125,13 @@ class AnamnesisAI:
                 **self.api_params,
             )
 
-            try:
-                # the query is already present in the prompt template
-                result = gen.generate(query="", context=[text])
+            # the query is already present in the prompt template
+            result = gen.generate(query="", context=[text])
+            fhir_obj = cast(Resource, result)
 
-                fhir_obj = cast(Resource, result)
-                results[resource_name] = fhir_obj
-                logging.debug(f"[SUCCESS] Parsed {resource_name} resource.")
-            except InstructorRetryException as e:
-                # raises by pydantic everytime the LLM can't
-                # comply to fhir.resources model
-                logging.debug(f"[ERROR] Failed to parse {resource_name}: {e}")
-                continue
+            if isinstance(fhir_obj, InvalidFHIRResource):
+                results[1].append(fhir_obj)
+            else:
+                results[0].append(fhir_obj)
 
         return results
