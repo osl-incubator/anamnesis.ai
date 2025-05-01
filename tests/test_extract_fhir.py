@@ -36,21 +36,27 @@ def test_check_fhir_resources(transcript_1: str, openai_api_key: str) -> None:
     assert isinstance(fhir_resources, FHIRResourceFoundModel)
     assert fhir_resources.Patient
     assert fhir_resources.FamilyMemberHistory
+    assert fhir_resources.AllergyIntolerance
+    assert fhir_resources.Encounter
 
 
 @pytest.mark.skip_on_ci
 def test_extract_fhir(transcript_1: str, openai_api_key: str) -> None:
     """Test FHIR resources are extracted correctly."""
     aai = AnamnesisAI(backend="openai", api_key=openai_api_key)
-    extracted_fhir = aai.extract_fhir(transcript_1)
-    assert extracted_fhir
-    assert isinstance(extracted_fhir, dict)
-    assert len(extracted_fhir) > 0, (
+    fhir_resources, invalid_fhir_resources = aai.extract_fhir(transcript_1)
+
+    assert len(fhir_resources) > 0, (
         "Expected at least one resource in FHIR output"
     )
-    assert all(
-        key in extracted_fhir
-        for key in ("Patient", "FamilyMemberHistory", "AllergyIntolerance")
+
+    # Check for specific resource types
+    found_types = {resource.__class__.__name__ for resource in fhir_resources}
+    required_types = {"Patient", "FamilyMemberHistory", "AllergyIntolerance"}
+
+    assert required_types.issubset(found_types), (
+        "Missing required resource types. Expected "
+        "{required_types}, found {found_types}"
     )
 
 
