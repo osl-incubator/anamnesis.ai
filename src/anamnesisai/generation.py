@@ -6,9 +6,6 @@ import logging
 
 from typing import cast
 
-import instructor
-import openai
-
 from instructor.exceptions import InstructorRetryException
 from pydantic import BaseModel
 from rago.generation import OpenAIGen
@@ -22,18 +19,6 @@ class OpenAI4MiniGen(OpenAIGen):
     """OpenAI generation model for text generation."""
 
     default_model_name = "o4-mini"
-
-    def _setup(self) -> None:
-        """Set up the object with the initial parameters."""
-        model = openai.OpenAI(api_key=self.api_key)
-
-        self.api_params = (
-            self.api_params if self.api_params else self.default_api_params
-        )
-
-        self.model = (
-            instructor.from_openai(model) if self.structured_output else model
-        )
 
     def generate(
         self,
