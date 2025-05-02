@@ -18,6 +18,7 @@ from anamnesisai.config import (
 from anamnesisai.supported_fhir import (
     RESOURCES_CLASSES,
     FHIRResourceFoundModel,
+    InvalidFHIRResource,
 )
 from anamnesisai.utils import get_resource_detail
 
@@ -30,7 +31,7 @@ logging.basicConfig(
 
 DEFAULT_GEN_PARAMS = {
     "openai": {
-        "model_name": "gpt-o4-mini",
+        "model_name": "o4-mini",
         "output_max_length": 10384,  # note: calc this number
     },
     "ollama": {
@@ -45,9 +46,9 @@ def get_generation_class(
 ) -> Type[GenerationBase]:
     """Get the generation class."""
     if backend == "openai":
-        from rago.generation import OpenAIGen
+        from anamnesisai.generation import OpenAI4MiniGen
 
-        return OpenAIGen
+        return OpenAI4MiniGen
 
     if backend == "ollama":
         from rago.generation import OllamaOpenAIGen
@@ -92,11 +93,13 @@ class AnamnesisAI:
         return cast(FHIRResourceFoundModel, result)
 
     @typechecked
-    def extract_fhir(self, text: str) -> dict[str, Resource]:
+    def extract_fhir(
+        self, text: str
+    ) -> tuple[list[Resource], list[InvalidFHIRResource]]:
         """Extract FHIR from the given text."""
         possible_fhir = self._check_possible_fhir_resources(text)
 
-        results: dict[str, Resource] = {}
+        results: tuple[list[Resource], list[InvalidFHIRResource]] = ([], [])
         for fhir_class in RESOURCES_CLASSES:
             resource_name = fhir_class.__name__
 
@@ -121,9 +124,14 @@ class AnamnesisAI:
                 structured_output=fhir_class,
                 **self.api_params,
             )
+
             # the query is already present in the prompt template
             result = gen.generate(query="", context=[text])
-
             fhir_obj = cast(Resource, result)
-            results[resource_name] = fhir_obj
+
+            if isinstance(fhir_obj, InvalidFHIRResource):
+                results[1].append(fhir_obj)
+            else:
+                results[0].append(fhir_obj)
+
         return results

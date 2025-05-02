@@ -16,7 +16,7 @@ from fhir.resources.patient import Patient
 from fhir.resources.practitioner import Practitioner
 from fhir.resources.procedure import Procedure
 from fhir.resources.servicerequest import ServiceRequest
-from pydantic import create_model
+from pydantic import BaseModel, create_model
 
 RESOURCES_CLASSES = (
     Patient,
@@ -41,7 +41,17 @@ FHIRResourceFoundModel = create_model(  # type: ignore[call-overload]
     **fields,
 )
 
+
+class InvalidFHIRResource(BaseModel):
+    """Resource the Model failed to parse."""
+
+    resource_type: str
+    error_message: str
+    raw_response: str
+
+
 __all__ = [
     "RESOURCES_CLASSES",
     "FHIRResourceFoundModel",
+    "InvalidFHIRResource",
 ]

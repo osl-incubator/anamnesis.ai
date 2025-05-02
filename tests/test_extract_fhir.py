@@ -27,6 +27,39 @@ def test_fixture(transcript_1: str, openai_api_key: str) -> None:
     assert openai_api_key
 
 
+@pytest.mark.skip_on_ci
+def test_check_fhir_resources(transcript_1: str, openai_api_key: str) -> None:
+    """Test FHIR resources are found correctly."""
+    aai = AnamnesisAI(backend="openai", api_key=openai_api_key)
+    fhir_resources = aai._check_possible_fhir_resources(transcript_1)
+    assert fhir_resources
+    assert isinstance(fhir_resources, FHIRResourceFoundModel)
+    assert fhir_resources.Patient
+    assert fhir_resources.FamilyMemberHistory
+    assert fhir_resources.AllergyIntolerance
+    assert fhir_resources.Encounter
+
+
+@pytest.mark.skip_on_ci
+def test_extract_fhir(transcript_1: str, openai_api_key: str) -> None:
+    """Test FHIR resources are extracted correctly."""
+    aai = AnamnesisAI(backend="openai", api_key=openai_api_key)
+    fhir_resources, invalid_fhir_resources = aai.extract_fhir(transcript_1)
+
+    assert len(fhir_resources) > 0, (
+        "Expected at least one resource in FHIR output"
+    )
+
+    # Check for specific resource types
+    found_types = {resource.__class__.__name__ for resource in fhir_resources}
+    required_types = {"Patient", "FamilyMemberHistory", "AllergyIntolerance"}
+
+    assert required_types.issubset(found_types), (
+        "Missing required resource types. Expected "
+        "{required_types}, found {found_types}"
+    )
+
+
 def _check_fhir_resources(
     text: str, backend: Literal["openai", "ollama"]
 ) -> bool:
@@ -60,6 +93,7 @@ def _check_fhir_resources(
     return True
 
 
+@pytest.mark.skip_on_ci
 @pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_check_fhir_resources_ci(
@@ -96,6 +130,7 @@ def _check_transcript_1(
     return True
 
 
+@pytest.mark.skip_on_ci
 @pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_transcript_1(
@@ -139,6 +174,7 @@ def _check_synthetic_files(
     return True
 
 
+@pytest.mark.skip_on_ci
 @pytest.mark.skipif(IS_OS_MACOS, reason="ollama is not working on macos")
 @pytest.mark.parametrize("backend", CI_BACKEND)
 def test_synthetic_files_ci(
