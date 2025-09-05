@@ -14,4 +14,4 @@ dependencies:
       - paginate
       # pip wheel --no-cache-dir --use-pep517 "srsly (==2.4.8)"
       # note: https://github.com/pypa/virtualenv/issues/2944
-      - virtualenv>20.33.1
+      - virtualenv>20.34.0
