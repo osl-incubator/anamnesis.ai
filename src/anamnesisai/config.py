@@ -12,7 +12,8 @@ Disclaimer: Any field name ends with ``__ext`` doesn't part of
 
 FHIR_RESOURCES_NAMES = {
     cls.__name__: " ".join(
-        cls.__doc__.replace(_DISCLAIMER_TEXT, "")
+        (cls.__doc__ or "")
+        .replace(_DISCLAIMER_TEXT, "")
         .replace("\n", " ")
         .strip()
         .split()
