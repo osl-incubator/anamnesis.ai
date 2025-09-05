@@ -1,6 +1,19 @@
 # Release Notes
 ---
 
+# [0.4.0](https://github.com/osl-incubator/anamnesis.ai/compare/0.3.0...0.4.0) (2025-09-05)
+
+
+### Bug Fixes
+
+* fix fhir resources not being returned ([#30](https://github.com/osl-incubator/anamnesis.ai/issues/30)) ([ad024b3](https://github.com/osl-incubator/anamnesis.ai/commit/ad024b37d83a677a4daf44b3c80613a13df6e6ba))
+* Fix packaging dependencies ([#32](https://github.com/osl-incubator/anamnesis.ai/issues/32)) ([1045beb](https://github.com/osl-incubator/anamnesis.ai/commit/1045bebfe25d17856ca51e8a52c89796b3a5c84c))
+
+
+### Features
+
+* Add support for ollama ([#29](https://github.com/osl-incubator/anamnesis.ai/issues/29)) ([1f43556](https://github.com/osl-incubator/anamnesis.ai/commit/1f435569a4fd477a6ad9d9fdcce3f74c56d9773b))
+
 # [0.3.0](https://github.com/osl-incubator/anamnesis.ai/compare/0.2.1...0.3.0) (2025-04-10)
 
 
